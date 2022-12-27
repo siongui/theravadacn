@@ -1,0 +1,27 @@
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <input type="checkbox" id="menu-toggle" class="is-hidden">
+  <div class="navbar-brand">
+    <a class="navbar-item" href="{{ SITEURL }}/">
+      {{ SITENAME }}
+    </a>
+
+    <label for="menu-toggle" class="navbar-burger burger">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </label>
+  </div>
+
+
+  <div id="theravadacnNavbarMenu" class="navbar-menu">
+    <div class="navbar-start">
+      {% if DISPLAY_PAGES_ON_MENU %}
+      {%- for p in pages -%}
+        <a class="navbar-item" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
+      {%- endfor -%}
+      {% endif %}
+      <a class="navbar-item" href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">{{ 'Archives'|gettext(DEFAULT_LANG) }}</a>
+    </div>
+
+  </div>
+</nav>

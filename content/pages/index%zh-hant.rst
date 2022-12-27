@@ -1,0 +1,44 @@
+覺醒之翼——上座部佛教文獻選譯集
+==============================
+
+:tags: 首頁
+:summary: 首頁
+:order: 1
+:status: hidden
+:slug: index
+:og_image: {filename}/extra/Dharma_wheel.png
+:orig_link: http://www.theravadacn.org/DhammaIndex2.htm
+
+
+最近譯文:
+
+- 坦尼沙羅尊者: 如何跌倒
+- 坦尼沙羅尊者: 挑戰極限——佛教修行道上的欲求與想象
+
+佛法入門:
+
+- 佛 巴利經典中的佛陀生平(全文)
+- 法 佛陀的次第說法
+- 僧 巴利經文中僧伽的定義
+
+專題選譯:
+
+- 上座部佛教的三部大經;
+- 泰系林居禪修傳統的教導;
+- 上座部佛教尊者與學者的文字選譯;
+- 歸依三寶;    佈施;    持戒;    禪定;
+- 福德;   面對病痛與死亡;
+- 經文選譯;
+- 問答選;
+
+巴利課誦與錄音(I); (II)
+
+網站連接
+
+.. https://stackoverflow.com/a/14387603
+.. image:: http://creativecommons.org/images/public/somerights20.png
+   :alt: Creative Commons License
+   :target: https://creativecommons.org/licenses/by-nc-sa/2.5/cn/
+
+| Creative Commons License   版權所有  © 2005-11  良稹  關於本站
+| 本站文字採用 `知識 共享署名-非商業性使用-相同方式共享 2.5 許可協議 <https://creativecommons.org/licenses/by-nc-sa/2.5/cn/>`_
