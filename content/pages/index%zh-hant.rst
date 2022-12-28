@@ -33,7 +33,7 @@
 
 巴利課誦與錄音(I); (II)
 
-網站連接
+`網站連接 <{filename}website-links%zh-hant.rst>`_
 
 .. https://stackoverflow.com/a/14387603
 .. image:: http://creativecommons.org/images/public/somerights20.png

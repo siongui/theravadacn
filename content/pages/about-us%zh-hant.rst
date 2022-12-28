@@ -4,7 +4,7 @@
 :modified: 2008-01-13
 :tags: 關於我們
 :summary: 關於我們
-:order: 1
+:order: 2
 :status: hidden
 :slug: about-us
 :og_image: {static}/extra/Dharma_wheel.png

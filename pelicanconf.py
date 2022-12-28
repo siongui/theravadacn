@@ -15,7 +15,7 @@ READERS = {'html': None}
 # mix articles and static files in the same place
 # @see https://github.com/getpelican/pelican/issues/1587
 ARTICLE_PATHS = ['articles']
-STATIC_PATHS = ['articles', 'extra', 'code']
+STATIC_PATHS = ['articles', 'extra']
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/manifest.json': {'path': 'manifest.json'},
                        'extra/sw.js': {'path': 'sw.js'},
