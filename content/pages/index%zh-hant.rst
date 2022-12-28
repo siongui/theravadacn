@@ -6,14 +6,14 @@
 :order: 1
 :status: hidden
 :slug: index
-:og_image: {filename}/extra/Dharma_wheel.png
+:og_image: {static}/extra/Dharma_wheel.png
 :orig_link: http://www.theravadacn.org/DhammaIndex2.htm
 
 
 最近譯文:
 
 - 坦尼沙羅尊者: 如何跌倒
-- 坦尼沙羅尊者: 挑戰極限——佛教修行道上的欲求與想象
+- 坦尼沙羅尊者: 挑戰極限——佛教修行道上的欲求與想像
 
 佛法入門:
 
@@ -40,5 +40,5 @@
    :alt: Creative Commons License
    :target: https://creativecommons.org/licenses/by-nc-sa/2.5/cn/
 
-| Creative Commons License   版權所有  © 2005-11  良稹  關於本站
+| Creative Commons License   版權所有  © 2005-11  良稹 `關於本站 <{filename}about-us%zh-hant.rst>`_
 | 本站文字採用 `知識 共享署名-非商業性使用-相同方式共享 2.5 許可協議 <https://creativecommons.org/licenses/by-nc-sa/2.5/cn/>`_

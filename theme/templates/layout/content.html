@@ -32,11 +32,11 @@
 {%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {% block content %}
-<main role="main" class="{{ content_css_class }}">
+<main role="main" class="{{ content_css_class }} container mt-2">
   <article>
     <header>
       {%- if content.slug != 'index' -%}
-      <h1>
+      <h1 class="title is-1">
         <a href="{{ SITEURL }}/{{ content.url }}"
            rel="bookmark"
            title="Permalink to {{ content.title|striptags }}">

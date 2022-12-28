@@ -1,4 +1,4 @@
-<nav class="navbar" role="navigation" aria-label="main navigation">
+<nav class="navbar is-warning" role="navigation" aria-label="main navigation">
   <input type="checkbox" id="menu-toggle" class="is-hidden">
   <div class="navbar-brand">
     <a class="navbar-item" href="{{ SITEURL }}/">
@@ -20,7 +20,9 @@
         <a class="navbar-item" href="{{ SITEURL }}/{{ p.url }}">{{ p.title }}</a>
       {%- endfor -%}
       {% endif %}
+      <!--
       <a class="navbar-item" href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">{{ 'Archives'|gettext(DEFAULT_LANG) }}</a>
+      -->
     </div>
 
   </div>
