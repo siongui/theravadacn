@@ -32,7 +32,7 @@
 {%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {% block content %}
-<main role="main" class="{{ content_css_class }} container mt-2">
+<main role="main" class="{{ content_css_class }} container mt-2 mx-2">
   <article>
     <header>
       {%- if content.slug != 'index' -%}
