@@ -57,7 +57,11 @@
 
     <div class="content">{{ content.content }}</div>
 
-    <footer>{% block article_metadata %}{% endblock %}</footer>
+    <footer>
+      <div class="content has-text-centered">
+	{% block article_metadata %}{% endblock %}
+      </div>
+    </footer>
   </article>
 </main>
 {% endblock %}
