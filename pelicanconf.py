@@ -14,8 +14,7 @@ READERS = {'html': None}
 
 # mix articles and static files in the same place
 # @see https://github.com/getpelican/pelican/issues/1587
-ARTICLE_PATHS = ['articles']
-STATIC_PATHS = ['articles', 'extra']
+STATIC_PATHS = ['extra']
 EXTRA_PATH_METADATA = {'extra/robots.txt': {'path': 'robots.txt'},
                        'extra/manifest.json': {'path': 'manifest.json'},
                        'extra/sw.js': {'path': 'sw.js'},
@@ -32,7 +31,7 @@ LOCALE = 'zh_TW.UTF-8'
 # @see https://stackoverflow.com/a/38959322
 #      zh-Hans Chinese in the simplified script
 #      zh-Hant Chinese in the traditional script
-PATH_METADATA = 'pages/(?P<slug>[-a-zA-Z0-9.]*)%(?P<lang>[_a-zA-Z]{2,7})\.rst'
+PATH_METADATA = '(?P<urlpath>[-a-zA-Z0-9/]*)/(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[-_a-zA-Z]{2,7})\.rst'
 
 # @see http://docs.getpelican.com/en/latest/settings.html#url-settings
 PAGE_URL = '{slug}/'

@@ -6,7 +6,6 @@
 :summary: 泰國林居傳統導師 開示選譯
 :order: 4
 :status: hidden
-:slug: thai-forest-tradition
 :og_image: {static}/extra/talk/ajaan mun.jpg
 :orig_link: http://www.theravadacn.org/Talk/ThaiForestindex2.htm
 :see_also: https://www.nku.edu/~kenneyr/Buddhism/lib/thai/index.html
