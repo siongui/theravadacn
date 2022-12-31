@@ -32,12 +32,16 @@
 
 巴利課誦與錄音(I); (II)
 
-`網站連接 <{filename}website-links%zh-hant.rst>`_
+.. https://docutils.sourceforge.io/docs/ref/rst/directives.html#container
+.. container:: container has-text-centered
+
+   `網站連接 <{filename}website-links%zh-hant.rst>`_
 
 .. https://stackoverflow.com/a/14387603
-.. image:: http://creativecommons.org/images/public/somerights20.png
+.. https://restructuredtext.documatt.com/element/inline-image.html
+.. |CCIcon| image:: http://creativecommons.org/images/public/somerights20.png
    :alt: Creative Commons License
    :target: https://creativecommons.org/licenses/by-nc-sa/2.5/cn/
 
-| Creative Commons License   版權所有  © 2005-11  良稹 `關於本站 <{filename}about-us%zh-hant.rst>`_
+| |CCIcon| Creative Commons License   版權所有  © 2005-11  良稹 `關於本站 <{filename}about-us%zh-hant.rst>`_
 | 本站文字採用 `知識 共享署名-非商業性使用-相同方式共享 2.5 許可協議 <https://creativecommons.org/licenses/by-nc-sa/2.5/cn/>`_
