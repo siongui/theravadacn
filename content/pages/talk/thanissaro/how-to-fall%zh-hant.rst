@@ -17,7 +17,7 @@
 
 .. raw:: html
 
-   <div class="container has-text-centered">
+   <div class="box has-text-centered">
      <p class="title is-2">如何跌倒</p>
      [作者]坦尼沙羅尊者
      <br>
@@ -34,6 +34,7 @@
 
    </div>
    <div class="column">
+   <div class="box">
 
 原文版權所有 ©  2003 坦尼沙羅比丘。免費發行。本文允許在任何媒體再版、重排、重印、印發。然而，作者希望任何再版與分發以對公衆免費與無限制的形式進行，譯文與轉載也要求表明作者原衷。
 
@@ -41,6 +42,7 @@
 
 .. raw:: html
 
+   </div>
    </div>
    </div>
 

@@ -32,8 +32,8 @@
 {%- if content.summary -%}{% set OG_DESCRIPTION = (content.summary|striptags) %}{%- endif -%}
 
 {% block content %}
-<main role="main" class="{{ content_css_class }} container mt-2 mx-2">
-  <article>
+<main role="main" class="{{ content_css_class }} section">
+  <article class="container is-max-widescreen">
     <header>
       {%- if content.slug != 'index' -%}
       <h1 class="title is-1">
@@ -47,10 +47,10 @@
     </header>
     {% block article_time %}{% endblock %}
     <aside class="is-clearfix">
-      <div class="button is-pulled-right"><a href="{{ content.orig_link }}">原文</a></div>
+      <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_link }}">原文</a></div>
       {{- translations_for(content, SITEURL) -}}
       {%- if content.github_url -%}
-        <div class="button is-pulled-right"><a href="{{ content.github_url }}">{{ 'Edit on Github'|gettext(DEFAULT_LANG) }}</a></div>
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.github_url }}">{{ 'Edit on Github'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}
     </aside>
     <hr>
