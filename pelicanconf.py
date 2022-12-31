@@ -31,11 +31,11 @@ LOCALE = 'zh_TW.UTF-8'
 # @see https://stackoverflow.com/a/38959322
 #      zh-Hans Chinese in the simplified script
 #      zh-Hant Chinese in the traditional script
-PATH_METADATA = '(?P<urlpath>[-a-zA-Z0-9/]*)/(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[-_a-zA-Z]{2,7})\.rst'
+PATH_METADATA = 'pages/(?P<urlpath>[-a-zA-Z0-9/]*/|)(?P<slug>[-a-zA-Z0-9]*)%(?P<lang>[-_a-zA-Z]{2,7})\.rst'
 
 # @see http://docs.getpelican.com/en/latest/settings.html#url-settings
-PAGE_URL = '{slug}/'
-PAGE_SAVE_AS = '{slug}/index.html'
+PAGE_URL = '{urlpath}{slug}/'
+PAGE_SAVE_AS = '{urlpath}{slug}/index.html'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
