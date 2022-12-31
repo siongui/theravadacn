@@ -38,7 +38,7 @@
 保障證果，但大方向是正確的。阿姜索心性平穩、靜谧、寡言，定力深厚，是一位真正的森
 林隱者，未留下教導的文字記錄。
 
-        阿姜普的回憶
+        `阿姜普的回憶 <{filename}ajaan-sao/a-reminiscence-of-phra-ajaan-sao-kantasilo%zh-hant.rst>`_
 
 .. raw:: html
 
