@@ -5,7 +5,6 @@
 :tags: 關於我們
 :summary: 關於我們
 :order: 2
-:status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_link: http://www.theravadacn.org/Us2.htm
 

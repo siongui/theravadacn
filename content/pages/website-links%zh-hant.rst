@@ -4,7 +4,6 @@
 :tags: 網站連接
 :summary: 網站連接
 :order: 3
-:status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_link: http://www.theravadacn.org/weblinks2.htm
 
