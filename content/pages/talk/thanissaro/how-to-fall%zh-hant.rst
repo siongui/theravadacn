@@ -13,11 +13,11 @@
 .. raw:: html
 
    <div class="columns">
-     <div class="column is-two-thirds">
+     <div class="column has-background-grey-lighter is-two-thirds">
 
 .. raw:: html
 
-   <div class="box has-text-centered">
+   <div class="container has-text-centered">
      <p class="title is-2">如何跌倒</p>
      [作者]坦尼沙羅尊者
      <br>
@@ -33,8 +33,7 @@
 .. raw:: html
 
    </div>
-   <div class="column">
-   <div class="box">
+   <div class="column has-background-light">
 
 原文版權所有 ©  2003 坦尼沙羅比丘。免費發行。本文允許在任何媒體再版、重排、重印、印發。然而，作者希望任何再版與分發以對公衆免費與無限制的形式進行，譯文與轉載也要求表明作者原衷。
 
@@ -44,7 +43,8 @@
 
    </div>
    </div>
-   </div>
+
+----
 
 常常有人問: 如何知道自己的禪定正在進步? 答案之一是: 當心滑脫它的業處[目標]時 ，你能把它越來越快地帶回來。注意，答案並非是心毫不滑脫，而是: 心滑脫[的情形]當然會發生，這在修練過程中是正常的，關鍵是你對正在發生的事件警覺性在提高，脫離氣之後，糾正該狀況的速度在加快。
 
