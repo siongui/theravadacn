@@ -19,7 +19,7 @@
 .. raw:: html
 
    <div class="container has-text-centered">
-     <p class="title is-2">阿姜索的教導<br><span class="title is-3">——阿姜普-譚尼育的回憶<span></p>
+     <p class="title is-2">阿姜索的教導<br><span class="title is-3">——阿姜普-譚尼育的回憶</span></p>
      [作者]坦尼沙羅尊者
      <br>
      [中譯]良稹
@@ -27,7 +27,7 @@
      <strong>
        Ajaan Sao's Teaching——A Reminiscence of Phra Ajaan Sao Kantasilo
        <br>
-       Translated by Ven. Thanissaro Bhikkhu
+       Translated by Ven. Ṭhānissaro Bhikkhu
      </strong>
    </div>
 
@@ -37,6 +37,8 @@
    <div class="column has-background-light">
 
 原文版權所有 ©  2003 美國慈林寺。本文允許在任何媒體再版、重排、重印、印發。然而，作者希望任何再版與分發以對公衆免費與無限制的形式進行，譯文與轉載也要求表明作者原衷。
+
+----
 
 中譯版權所有 ©  2005 良稹，http://www.theravadacn.org ， 流通條件如上。轉載時請包括本站連接，並登載本版權聲明。
 
