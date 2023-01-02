@@ -2,11 +2,11 @@
 ===============
 
 :modified: 2009-03-13
-:tags: 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
+:tags: Ajaan Fuang Jotiko, 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
 :summary: Seeing for Yourself———A monk recalls his teacher’s bootstrap method
           for navigating the jhanas
           by Ven. Ṭhānissaro Bhikkhu
-:order: 6
+:order: 7
 :status: hidden
 :og_image: {static}/extra/talk/AjaanFuangsm.jpg
 :orig_link: http://www.theravadacn.org/Talk/FuangOnJhana2.htm
