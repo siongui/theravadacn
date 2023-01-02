@@ -1,7 +1,7 @@
 阿姜索的教導
 ============
 
-:modified: 2008-02-12
+:modified: 2023-01-01
 :tags: 阿姜索
 :summary: Ajaan Sao's Teaching——A Reminiscence of Phra Ajaan Sao Kantasilo
           Translated by Ven. Ṭhānissaro Bhikkhu
@@ -91,6 +91,4 @@
 
 ----
 
-.. https://www.accesstoinsight.org/lib/thai/phut/sao.html
-
-http://www.accesstoinsight.org/lib/thai/other/sao.html
+https://www.accesstoinsight.org/lib/thai/phut/sao.html
