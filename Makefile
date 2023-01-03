@@ -105,6 +105,9 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/輪回/輪迴/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/借口/藉口/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/回向/迴向/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/稱贊/稱讚/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/征兆/徵兆/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/仿佛/彷彿/g' {} \;
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
