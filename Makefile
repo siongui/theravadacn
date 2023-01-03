@@ -97,6 +97,14 @@ s2t:
 	@# https://stackoverflow.com/a/21335519
 	@echo "\033[92mReplace Simplified Chinese terms with Traditional Chinese terms ...\033[0m"
 	@find $(INPUTDIR) -type f -exec sed -i 's/雜志/雜誌/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/准備/準備/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/盡管/儘管/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/摩诃/摩訶/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/答復/答覆/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/淩晨/凌晨/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/輪回/輪迴/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/借口/藉口/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/回向/迴向/g' {} \;
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
