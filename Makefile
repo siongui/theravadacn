@@ -110,6 +110,7 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/仿佛/彷彿/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/輕松/輕鬆/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/想象/想像/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/細致/細緻/g' {} \;
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
