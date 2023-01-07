@@ -117,6 +117,9 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/瞄准/瞄準/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/涅磐/涅槃/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/沖擊/衝擊/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/標簽/標籤/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/沖動/衝動/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/治愈/治癒/g' {} \;
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
