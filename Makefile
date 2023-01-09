@@ -120,6 +120,7 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/標簽/標籤/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/沖動/衝動/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/治愈/治癒/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/游方/遊方/g' {} \;
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
