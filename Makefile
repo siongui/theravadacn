@@ -121,6 +121,11 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/沖動/衝動/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/治愈/治癒/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/游方/遊方/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/反複/反覆/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/其余/其餘/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/注解/註解/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/真谛/真諦/g' {} \;
+	@find $(INPUTDIR) -type f -exec sed -i 's/烹饪/烹飪/g' {} \;
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss
