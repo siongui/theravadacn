@@ -8,6 +8,7 @@
 :status: hidden
 :og_image: {static}/extra/talk/Ajaan\ Geoff.jpeg
 :orig_link: http://www.theravadacn.org/Author/ThanissaroHowtoFall2.htm
+:orig_eng_link: https://www.accesstoinsight.org/lib/authors/thanissaro/meditations.html#fall
 
 
 .. raw:: html

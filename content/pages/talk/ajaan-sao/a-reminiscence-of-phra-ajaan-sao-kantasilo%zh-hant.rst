@@ -9,6 +9,7 @@
 :status: hidden
 :og_image: {static}/extra/talk/AjaanSao.jpg
 :orig_link: http://www.theravadacn.org/Talk/Sao2.htm
+:orig_eng_link: https://www.accesstoinsight.org/lib/thai/phut/sao.html
 
 
 .. raw:: html

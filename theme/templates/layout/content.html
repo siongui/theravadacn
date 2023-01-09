@@ -49,6 +49,9 @@
     <aside class="is-clearfix">
       <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_link }}">原文</a></div>
       {{- translations_for(content, SITEURL) -}}
+      {%- if content.orig_eng_link -%}
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_eng_link }}">英文原文</a></div>
+      {%- endif -%}
       {%- if content.github_url -%}
         <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.github_url }}">{{ 'Edit on Github'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}

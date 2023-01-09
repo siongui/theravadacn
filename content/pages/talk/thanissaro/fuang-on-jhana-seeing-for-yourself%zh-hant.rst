@@ -10,6 +10,7 @@
 :status: hidden
 :og_image: {static}/extra/talk/AjaanFuangsm.jpg
 :orig_link: http://www.theravadacn.org/Talk/FuangOnJhana2.htm
+:orig_eng_link: https://tricycle.org/magazine/seeing-yourself/
 
 
 .. raw:: html
