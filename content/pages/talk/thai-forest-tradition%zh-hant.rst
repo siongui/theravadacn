@@ -4,7 +4,6 @@
 :modified: 2023-01-01
 :tags: 泰國林居傳統導師, 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
 :summary: 泰國林居傳統導師 開示選譯
-:order: 4
 :status: hidden
 :og_image: {static}/extra/talk/ajaan mun.jpg
 :orig_link: http://www.theravadacn.org/Talk/ThaiForestindex2.htm

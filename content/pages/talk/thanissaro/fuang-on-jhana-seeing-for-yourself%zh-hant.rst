@@ -6,7 +6,6 @@
 :summary: Seeing for Yourself———A monk recalls his teacher’s bootstrap method
           for navigating the jhanas
           by Ven. Ṭhānissaro Bhikkhu
-:order: 7
 :status: hidden
 :og_image: {static}/extra/talk/AjaanFuangsm.jpg
 :orig_link: http://www.theravadacn.org/Talk/FuangOnJhana2.htm

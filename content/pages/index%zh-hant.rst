@@ -3,7 +3,6 @@
 
 :tags: 首頁
 :summary: 首頁
-:order: 1
 :status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_link: http://www.theravadacn.org/DhammaIndex2.htm

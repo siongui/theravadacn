@@ -4,7 +4,6 @@
 :modified: 2010-11-27
 :tags: 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
 :summary: How to Fall by Ven. Ṭhānissaro Bhikkhu
-:order: 5
 :status: hidden
 :og_image: {static}/extra/talk/Ajaan\ Geoff.jpeg
 :orig_link: http://www.theravadacn.org/Author/ThanissaroHowtoFall2.htm

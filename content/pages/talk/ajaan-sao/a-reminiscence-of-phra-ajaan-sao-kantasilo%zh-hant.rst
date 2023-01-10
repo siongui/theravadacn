@@ -5,7 +5,6 @@
 :tags: 阿姜索
 :summary: Ajaan Sao's Teaching——A Reminiscence of Phra Ajaan Sao Kantasilo
           Translated by Ven. Ṭhānissaro Bhikkhu
-:order: 6
 :status: hidden
 :og_image: {static}/extra/talk/AjaanSao.jpg
 :orig_link: http://www.theravadacn.org/Talk/Sao2.htm

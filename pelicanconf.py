@@ -87,7 +87,7 @@ I18N_UNTRANSLATED_ARTICLES = 'remove'
 #DIRECT_TEMPLATES = ['index']
 # use metadata attribute 'order' in page files for ordering
 # @see http://docs.getpelican.com/en/latest/settings.html#url-settings
-PAGE_ORDER_BY = 'order'
+#PAGE_ORDER_BY = 'order'
 
 # CONTENT_DIR_URL is the setting for edit_on_github plugin
 CONTENT_DIR_URL = u'https://github.com/siongui/theravadacn/tree/master/content'

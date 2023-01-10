@@ -6,7 +6,6 @@
 :summary: Keeping the Breath in Mind & Lessons in Samādhi
           by Ajaan Lee Dhammadharo (Phra Suddhidhammaraṅsī Gambhīramedhācariya)
           translated from the Thai by Ven. Ṭhānissaro Bhikkhu (Geoffrey DeGraff)
-:order: 9
 :status: hidden
 :og_image: {static}/extra/talk/AjaanLi_sm.jpg
 :orig_link: http://www.theravadacn.org/Talk/LeeKeepingBreath2.htm
@@ -57,7 +56,7 @@
 
 .. container:: container has-text-right
 
-   (\*\*如何索取本書)   (本書 `PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
+   (\*\* `如何索取本書 <{filename}/pages/wave-books%zh-hant.rst>`_)   (本書 `PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
 
 .. contents:: 目錄
 
