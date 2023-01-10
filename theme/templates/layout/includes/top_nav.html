@@ -23,6 +23,13 @@
       <!--
       <a class="navbar-item" href="{{ SITEURL }}/{{ ARCHIVES_URL | default('archives.html') }}">{{ 'Archives'|gettext(DEFAULT_LANG) }}</a>
       -->
+      {% if lang_siteurls %}
+        {% for lang, url in lang_siteurls.items() %}
+          {% if lang != DEFAULT_LANG %}
+          <a class="navbar-item" href="{{ url }}/">{{ lang_code2name(lang) }}</a>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
     </div>
 
   </div>

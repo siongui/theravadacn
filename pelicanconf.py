@@ -63,6 +63,15 @@ META_KEYWORDS = '覺醒之翼——上座部佛教文獻選譯集'
 META_DESCRIPTION = '覺醒之翼——上座部佛教文獻選譯集'
 
 # mapping: language_code -> settings_overrides_dict
+I18N_SUBSITES = {
+  'zh-hans': {
+    'SITENAME': '觉醒之翼——上座部佛教文献选译集',
+    'AUTHOR': '良稹',
+    'LOCALE': 'zh_CN.UTF-8',
+    'META_KEYWORDS': '觉醒之翼——上座部佛教文献选译集',
+    'META_DESCRIPTION': '觉醒之翼——上座部佛教文献选译集',
+  },
+}
 """
 I18N_SUBSITES = {
   'zh': {
@@ -114,7 +123,18 @@ def gettext(string, lang):
         elif string == "Tags": return "標籤"
         elif string == "Updated": return "更新"
         elif string == "Translation(s)": return "翻譯"
-        elif string == "Edit on Github": return "在Github上編輯"
+        elif string == "Edit on GitHub": return "在GitHub上編輯"
+        else: return string
+    elif lang == "zh-hans":
+        if string == "Archives": return "归档"
+        elif string == "Categories": return "分类"
+        elif string == "Category": return "分类"
+        elif string == "Authors": return "作者"
+        elif string == "Author": return "作者"
+        elif string == "Tags": return "标签"
+        elif string == "Updated": return "更新"
+        elif string == "Translation(s)": return "翻译"
+        elif string == "Edit on GitHub": return "在GitHub上编辑"
         else: return string
     elif lang == "th":
         if string == "Archives": return "สารบรรณ"
@@ -125,7 +145,7 @@ def gettext(string, lang):
         elif string == "Tags": return "แท็ก"
         elif string == "Updated": return "การปรับปรุง"
         elif string == "Translation(s)": return "การแปล"
-        elif string == "Edit on Github": return "แก้ไขที่ Github"
+        elif string == "Edit on GitHub": return "แก้ไขที่ GitHub"
         else: return string
     else:
         return string

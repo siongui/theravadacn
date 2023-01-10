@@ -3,3 +3,4 @@ output
 plugins/i18n_subsites
 *.pyc
 theme/static/css/style.css
+*%zh-hans.rst

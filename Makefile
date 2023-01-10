@@ -72,14 +72,14 @@ else
 endif
 
 
-devserver: scss
+devserver: scss hans
 ifdef PORT
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT)
 else
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 endif
 
-publish: scss
+publish: scss hans
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 scss:
@@ -127,5 +127,8 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/真谛/真諦/g' {} \;
 	@find $(INPUTDIR) -type f -exec sed -i 's/烹饪/烹飪/g' {} \;
 
+hans:
+	cd $(CURDIR)/hans; make
 
-.PHONY: html help clean regenerate serve serve-global devserver publish download scss
+
+.PHONY: html help clean regenerate serve serve-global devserver publish download scss hans

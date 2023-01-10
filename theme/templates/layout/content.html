@@ -52,8 +52,8 @@
       {%- if content.orig_eng_link -%}
         <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_eng_link }}">英文原文</a></div>
       {%- endif -%}
-      {%- if content.github_url -%}
-        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.github_url }}">{{ 'Edit on Github'|gettext(DEFAULT_LANG) }}</a></div>
+      {%- if content.github_url and DEFAULT_LANG == 'zh-hant' -%}
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.github_url }}">{{ 'Edit on GitHub'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}
     </aside>
     <hr>
