@@ -57,7 +57,7 @@
 
 .. container:: container has-text-right
 
-   (\*\*如何索取本書)   (本書 `PDF <{static}/extra/talk/pdf/LeeKeepingBreath2.pdf>`__)
+   (\*\*如何索取本書)   (本書 `PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
 
 .. contents:: 目錄
 

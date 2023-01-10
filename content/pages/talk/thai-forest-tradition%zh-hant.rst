@@ -221,7 +221,7 @@
      <div class="column">
 
 - `念住呼吸與15篇禪定開示 <{filename}ajaan-lee/keeping-the-breath-in-mind-lessons-in-samaadhi%zh-hant.rst>`_
-  (`PDF <{static}/extra/talk/pdf/LeeKeepingBreath2.pdf>`__)
+  (`PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
 - 從少做起——29篇開示
 - 成就戒德(來自修心的技能)
 - 解脱的技能
