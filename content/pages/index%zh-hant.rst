@@ -5,7 +5,8 @@
 :summary: 首頁
 :status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
-:orig_link: http://www.theravadacn.org/DhammaIndex2.htm
+:orig_hant_link: http://www.theravadacn.org/DhammaIndex2.htm
+:orig_hans_link: http://www.theravadacn.org/
 
 
 最近譯文:

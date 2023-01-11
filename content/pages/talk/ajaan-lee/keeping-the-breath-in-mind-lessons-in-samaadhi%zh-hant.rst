@@ -8,7 +8,8 @@
           translated from the Thai by Ven. Ṭhānissaro Bhikkhu (Geoffrey DeGraff)
 :status: hidden
 :og_image: {static}/extra/talk/AjaanLi_sm.jpg
-:orig_link: http://www.theravadacn.org/Talk/LeeKeepingBreath2.htm
+:orig_hant_link: http://www.theravadacn.org/Talk/LeeKeepingBreath2.htm
+:orig_hans_link: http://www.theravadacn.org/Talk/LeeKeepingBreath.htm
 :orig_eng_link: https://www.dhammatalks.org/books/KeepingTheBreath/Section0001.html
 
 

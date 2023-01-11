@@ -6,7 +6,8 @@
 :summary: How to Fall by Ven. Ṭhānissaro Bhikkhu
 :status: hidden
 :og_image: {static}/extra/talk/Ajaan\ Geoff.jpeg
-:orig_link: http://www.theravadacn.org/Author/ThanissaroHowtoFall2.htm
+:orig_hant_link: http://www.theravadacn.org/Author/ThanissaroHowtoFall2.htm
+:orig_hans_link: http://www.theravadacn.org/Author/ThanissaroHowtoFall.htm
 :orig_eng_link: https://www.accesstoinsight.org/lib/authors/thanissaro/meditations.html#fall
 
 

@@ -47,14 +47,26 @@
     </header>
     {% block article_time %}{% endblock %}
     <aside class="is-clearfix">
-      <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_link }}">原文</a></div>
+
+      <div class="tag is-link is-light is-pulled-right ml-1"><a href="
+        {%- if DEFAULT_LANG == 'zh-hant' and content.orig_hant_link -%}
+		      {{ content.orig_hant_link }}
+        {%- endif -%}
+        {%- if DEFAULT_LANG == 'zh-hans' and content.orig_hans_link -%}
+		      {{ content.orig_hans_link }}
+        {%- endif -%}
+      ">{{ 'Original Text'|gettext(DEFAULT_LANG) }}</a></div>
+
       {{- translations_for(content, SITEURL) -}}
+
       {%- if content.orig_eng_link -%}
-        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_eng_link }}">英文原文</a></div>
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.orig_eng_link }}">{{ 'English Original Text'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}
+
       {%- if content.github_url and DEFAULT_LANG == 'zh-hant' -%}
         <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ content.github_url }}">{{ 'Edit on GitHub'|gettext(DEFAULT_LANG) }}</a></div>
       {%- endif -%}
+
     </aside>
     <hr>
 

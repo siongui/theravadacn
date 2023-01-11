@@ -9,22 +9,14 @@
   {%- else -%}{{ code }}{%- endif -%}
 {%- endmacro %}
 
-{#
 {% macro translations_for(writing, SITEURL) -%}
   {%- if writing.translations -%}
-    <div class="available-translations">
-      <span>{{- 'Translation(s)'|gettext(writing.lang) -}}</span>:&nbsp;
-      {%- for translation in writing.translations -%}
-        <a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a>&nbsp;
-      {%- endfor -%}
-    </div>
-  {%- endif -%}
-{%- endmacro %}
-#}
-{% macro translations_for(writing, SITEURL) -%}
-  {%- if writing.translations -%}
-      {%- for translation in writing.translations -%}
+    {%- for translation in writing.translations -%}
+      {%- if translation.slug == 'index' -%}
+        <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ SITEURL }}/{{ translation.url | replace("index/", "") }}">{{ lang_code2name(translation.lang) }}</a></div>
+      {%- else -%}
         <div class="tag is-link is-light is-pulled-right ml-1"><a href="{{ SITEURL }}/{{ translation.url }}">{{ lang_code2name(translation.lang) }}</a></div>
-      {%- endfor -%}
+      {%- endif -%}
+    {%- endfor -%}
   {%- endif -%}
 {%- endmacro %}

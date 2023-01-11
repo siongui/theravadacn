@@ -128,7 +128,12 @@ s2t:
 	@find $(INPUTDIR) -type f -exec sed -i 's/烹饪/烹飪/g' {} \;
 
 hans:
+	@echo "\033[92mCreating Simplified Chinese sub-site from Traditional Chinese site ...\033[0m"
 	cd $(CURDIR)/hans; make
+
+rmhans:
+	@echo "\033[92mRemoving Simplified Chinese sub-site ...\033[0m"
+	find $(INPUTDIR) -type f -name \*%zh-hans.rst -delete
 
 
 .PHONY: html help clean regenerate serve serve-global devserver publish download scss hans

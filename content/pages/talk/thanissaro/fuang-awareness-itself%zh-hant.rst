@@ -7,7 +7,8 @@
           by Ven. Ṭhānissaro Bhikkhu
 :status: hidden
 :og_image: {static}/extra/talk/AjaanFuangsm.jpg
-:orig_link: http://www.theravadacn.org/Talk/FuangAwareness2.htm
+:orig_hant_link: http://www.theravadacn.org/Talk/FuangAwareness2.htm
+:orig_hans_link: http://www.theravadacn.org/Talk/FuangAwareness.htm
 :orig_eng_link: https://www.dhammatalks.org/books/AwarenessItself/Section0001.html
 
 

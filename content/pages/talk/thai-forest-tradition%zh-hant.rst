@@ -6,7 +6,8 @@
 :summary: 泰國林居傳統導師 開示選譯
 :status: hidden
 :og_image: {static}/extra/talk/ajaan mun.jpg
-:orig_link: http://www.theravadacn.org/Talk/ThaiForestindex2.htm
+:orig_hant_link: http://www.theravadacn.org/Talk/ThaiForestindex2.htm
+:orig_hans_link: http://www.theravadacn.org/Talk/ThaiForestindex.htm
 :see_also: https://www.nku.edu/~kenneyr/Buddhism/lib/thai/index.html
 
 

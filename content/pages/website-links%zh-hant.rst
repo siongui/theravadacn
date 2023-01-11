@@ -4,7 +4,8 @@
 :tags: 網站連接
 :summary: 網站連接
 :og_image: {static}/extra/Dharma_wheel.png
-:orig_link: http://www.theravadacn.org/weblinks2.htm
+:orig_hant_link: http://www.theravadacn.org/weblinks2.htm
+:orig_hans_link: http://www.theravadacn.org/weblinks.htm
 
 
 - `Abhayagiri Monastery <https://www.abhayagiri.org/>`_

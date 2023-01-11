@@ -124,6 +124,8 @@ def gettext(string, lang):
         elif string == "Updated": return "更新"
         elif string == "Translation(s)": return "翻譯"
         elif string == "Edit on GitHub": return "在GitHub上編輯"
+        elif string == "Original Text": return "原文"
+        elif string == "English Original Text": return "英文原文"
         else: return string
     elif lang == "zh-hans":
         if string == "Archives": return "归档"
@@ -135,6 +137,8 @@ def gettext(string, lang):
         elif string == "Updated": return "更新"
         elif string == "Translation(s)": return "翻译"
         elif string == "Edit on GitHub": return "在GitHub上编辑"
+        elif string == "Original Text": return "原文"
+        elif string == "English Original Text": return "英文原文"
         else: return string
     elif lang == "th":
         if string == "Archives": return "สารบรรณ"

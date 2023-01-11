@@ -6,7 +6,9 @@ WAVE贈書
 :summary: WAVE贈書
 :status: hidden
 :og_image: {static}/extra/Dharma_wheel.png
-:orig_link: http://www.theravadacn.org/WAVEbooks2.htm
+:orig_hant_link: http://www.theravadacn.org/WAVEbooks2.htm
+:orig_hans_link: http://www.theravadacn.org/WAVEbooks.htm
+
 
 阿姜李的《念住呼吸》本站中譯本已由馬來西亞W.A.V.E.出版，由法友捐資 ，免費發行。
 
