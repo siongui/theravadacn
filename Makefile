@@ -73,6 +73,7 @@ endif
 
 
 devserver: scss hans
+	@echo "\033[92mCreating sites and Run dev server ...\033[0m"
 ifdef PORT
 	$(PELICAN) -lr $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS) -p $(PORT)
 else
@@ -83,11 +84,13 @@ publish: scss hans
 	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 scss:
+	@echo "\033[92mCreating CSS ...\033[0m"
 	[ -d $(CSSDIR) ] || mkdir -p $(CSSDIR)
 	$(PY) -mscss < $(SCSSDIR)/style.scss -I $(SCSSDIR) -o $(CSSDIR)/style.css
 
 download:
 	# download pelican i18n_subsites plugin
+	@echo "\033[92mDownloading pelican i18n_subsites plugin ...\033[0m"
 	[ ! -d $(I18N_SUBSITES_DIR) ] || rm -rf $(I18N_SUBSITES_DIR)
 	mkdir -p $(I18N_SUBSITES_DIR)
 	wget -P $(I18N_SUBSITES_DIR) https://raw.githubusercontent.com/getpelican/pelican-plugins/master/i18n_subsites/__init__.py
