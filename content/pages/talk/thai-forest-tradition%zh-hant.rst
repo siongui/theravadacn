@@ -224,7 +224,7 @@
   (`PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
 - 從少做起——29篇開示
 - 成就戒德(來自修心的技能)
-- 解脱的技能
+- `解脫的技能 <{filename}ajaan-lee/the-skill-of-release%zh-hant.rst>`_
 - 給每個人的法
 - 慈心的力量
 - 善德的力量
