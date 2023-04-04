@@ -218,6 +218,79 @@
 
 現在全體持誦常規早課。你若不會，則保持安靜。全體誦完後，將一齊念請求授戒文。同樣，你若不會，也保持安靜。五戒求授方式如下:
 
+| *Mayaṁ bhante ti-saraṇena saha pañca sīlāni yācāma*
+| 尊者，我們請求歸依三寶並授五戒。
+| *Dutiyampi mayaṁ bhante ti-saraṇena saha pañca sīlāni yācāma*
+| 第二次，我們請求歸依三寶並授五戒。
+| *Tatiyampi mayaṁ bhante ti-saraṇena saha pañca sīlāni yācāma*
+| 第三次，我們請求歸依三寶並授五戒。
+|
+
+布薩八戒的求授方式如下:
+
+| *Mayaṁ bhante ti-saraṇena saha aṭṭhaṅga-samannāgataṁ uposathaṁ yācāma*
+| 尊者，我們請求歸依三寶並授布薩八戒。
+| *Dutiyampi mayaṁ bhante ti-saraṇena saha aṭṭhaṅga-samannāgataṁ uposathaṁ yācāma*
+| 第二次 ，我們請求歸依三寶並授布薩八戒。
+| *Tatiyampi mayaṁ bhante ti-saraṇena saha aṭṭhaṅga-samannāgataṁ uposathaṁ yācāma*
+| 第三次，我們請求歸依三寶並授布薩八戒。
+|
+
+接下來，重複禮敬佛陀的句子:
+
+| *Namo tassa bhagavato arahato sammā-sambuddhassa*
+| 禮敬薄伽梵、阿羅漢、正自覺者。 (三遍)
+|
+
+接下來，持誦三寶歸依文:
+
+| *Buddhaṁ saraṇaṁ gacchāmi*
+| 我歸依佛。
+| *Dhammaṁ saraṇaṁ gacchāmi*
+| 我歸依法。
+| *Saṅghaṁ saraṇaṁ gacchāmi*
+| 我歸依僧。
+| *Dutiyampi Buddhaṁ saraṇaṁ gacchami*
+| 第二遍，我歸依佛。
+| *Dutiyampi Dhammaṁ saraṇaṁ gacchāmi*
+| 第二遍，我歸依法。
+| *Dutiyampi Saṅghaṁ saraṇaṁ gacchāmi*
+| 第二遍，我歸依僧。
+| *Tatiyampi Buddhaṁ saraṇaṁ gacchāmi*
+| 第三遍，我歸依佛。
+| *Tatiyampi Dhammaṁ saraṇaṁ gacchāmi*
+| 第三遍，我歸依法。
+| *Tatiyampi Saṅghaṁ saraṇaṁ gacchāmi*
+| 第三遍，我歸依僧。
+|
+
+完畢後，主持儀式的比丘說: *Ti-saraṇa-gamanaṁ niṭṭhitaṁ* 三歸依儀式完畢。
+你答: *Āma, bhante* 是，尊者。
+
+現在，跟著他重複五戒:
+
+1. *Pāṇātipātā veramaṇī sikkhāpadaṁ samādiyāmi* 我接受訓誡，戒破壞生命。
+2. *Adinnādānā veramaṇī sikkhāpadaṁ samādiyāmi* 我接受訓誡，戒偷盜。
+3. *Kāmesu micchācārā veramaṇī sikkhāpadaṁ samādiyāmi* 我接受訓誡，戒不當性事。
+   (如果你受持八戒，則以此句代之:
+   *Abrahma-cariyā veramaṇī sikkhāpadaṁ samādiyāmi* 我接受訓誡，戒一切性事。)
+4. *Musāvādā veramaṇī sikkhāpadaṁ samādiyāmi* 我接受訓誡，戒妄語。
+5. *Surā-meraya-majja-pamādaṭṭhānā veramaṇī sikkhāpadaṁ samādiyāmi*
+   我接受訓誡，戒醉品。
+
+(如果你受持五戒，則在此停下。如果受持八戒，則繼續)
+
+6. *Vikāla-bhojanā veramaṇī sikkhāpadaṁ samādiyāmi*
+   我接受訓誡，戒午後至清晨之間進食。
+7. *Nacca-gīta-vādita-visūka-dassanā
+   mālā-gandha-vilepana-dharaṇa-maṇḍana-vibhūsanaṭṭhānā veramaṇī
+   sikkhāpadaṁ samādiyāmi*
+   我接受訓誡，戒觀聽歌舞、器樂等演藝，戒以花環、香料、化裝品、珠寶裝飾身體。
+8. *Uccāsayana-mahāsayanā veramaṇī sikkhāpadaṁ samādiyāmi*
+   我接受訓誡，戒高而奢侈的床與座。
+
+你若持布薩戒，比丘將宣說布薩期的長短。跟著他重複:
+
 ----
 
 (未完待續)
