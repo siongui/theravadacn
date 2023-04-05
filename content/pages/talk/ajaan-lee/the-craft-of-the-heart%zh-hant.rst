@@ -291,6 +291,56 @@
 
 你若持布薩戒，比丘將宣說布薩期的長短。跟著他重複:
 
+| *Imaṁ aṭṭhaṅga-samannāgataṁ*
+| *Buddha-paññattaṁ uposathaṁ*
+| *Imañca rattiṁ imañca divasam*
+| *Sammadeva abhirakkhituṁ samādiyāmi*
+| 我今日今夜圓滿、清淨地持守佛陀制定的布薩八戒。
+|
+
+比丘將提醒人們審慎持戒，並宣說持戒的果報:
+
+| *Imāni aṭṭha sikkhāpadāni accekaṁ rattin-divaṁ uposathasīla-vasena sādhukaṁ rakkhitabbāni*
+| 此八戒當在布薩期間日夜善持。
+|
+
+你說: *Āma bhante* 是，尊者。
+比丘接著說:
+
+| *Sīlena sugatiṁ yanti*
+| *sīlena bhoga-sampadā*
+| *sīlena nibbutiṁ yanti*
+| *tasmā sīlaṁ visodhaye*
+| 憑戒德重生天界，
+| 憑戒德獲得財富，
+| 憑戒德證得涅槃，
+| 因此我們都應淨化戒德。
+|
+
+授戒儀式至此完畢。
+
+.. container:: has-text-centered
+
+   \*\*\*
+
+戒律譯文如下:
+
+1. 我接受訓誡，戒破壞生命。
+2. 戒偷盜。
+3. 戒不當性事(此為受五戒者持守。 *Abrahma-cariyā…* 為受八戒者持守:
+   指戒一切性事。)
+4. 戒妄語。
+5. 戒醉品。
+6. 戒午後至清晨之間進食。
+7. 戒觀聽演藝(如歌舞、器樂等)，戒以花環、香料、化妝品、珠寶裝飾身體。
+8. 戒高而奢侈的床與座。
+   (奢侈意為有厚墊 、床墊。高床意為高於十寸。
+   不過扶手椅與扶手沙發，即便高於十寸，亦不受本戒約束。)
+
+.. container:: has-text-centered
+
+   \*\*\*
+
 ----
 
 (未完待續)
