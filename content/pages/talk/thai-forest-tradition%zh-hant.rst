@@ -226,7 +226,7 @@
 - `成就戒德(來自修心的技能) <{filename}ajaan-lee/the-craft-of-the-heart%zh-hant.rst>`_
 - `解脫的技能 <{filename}ajaan-lee/the-skill-of-release%zh-hant.rst>`_
 - `給每個人的法 <{filename}ajaan-lee/dhamma-for-everyone%zh-hant.rst>`_
-- 慈心的力量
+- `慈心的力量 <{filename}ajaan-lee/the-power-of-good-will%zh-hant.rst>`_
 - 善德的力量
 
 .. raw:: html
