@@ -235,7 +235,7 @@
      <div class="column">
 
 - `停止與思考 <{filename}ajaan-lee/stop-and-think%zh-hant.rst>`_
-- 庇護處
+- `庇護處 <{filename}ajaan-lee/shelter%zh-hant.rst>`_
 - 衛塞節禮佛
 - 滅苦手冊
 - 臨終說法一則
