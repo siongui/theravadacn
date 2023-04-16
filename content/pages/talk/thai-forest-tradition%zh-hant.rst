@@ -236,7 +236,7 @@
 
 - `停止與思考 <{filename}ajaan-lee/stop-and-think%zh-hant.rst>`_
 - `庇護處 <{filename}ajaan-lee/shelter%zh-hant.rst>`_
-- 衛塞節禮佛
+- `衛塞節禮佛 <{filename}ajaan-lee/visakha-puja%zh-hant.rst>`_
 - 滅苦手冊
 - 臨終說法一則
 - 意識
