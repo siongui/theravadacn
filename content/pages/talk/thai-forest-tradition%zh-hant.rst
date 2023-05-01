@@ -239,7 +239,7 @@
 - `衛塞節禮佛 <{filename}ajaan-lee/visakha-puja%zh-hant.rst>`_
 - `滅苦手冊 <{filename}ajaan-lee/handbook-for-the-relief-of-suffering-three-essays%zh-hant.rst>`_
 - `臨終說法一則 <{filename}ajaan-lee/the-last-sermon%zh-hant.rst>`_
-- 意識
+- `意識 <{filename}ajaan-lee/consciousnesses-inner-strength%zh-hant.rst>`_
 
 .. raw:: html
 
