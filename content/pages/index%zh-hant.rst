@@ -12,7 +12,7 @@
 最近譯文:
 
 - `坦尼沙羅尊者: 如何跌倒 <{filename}talk/thanissaro/how-to-fall%zh-hant.rst>`_
-- 坦尼沙羅尊者: 挑戰極限——佛教修行道上的欲求與想像
+- `坦尼沙羅尊者: 挑戰極限——佛教修行道上的欲求與想像 <{filename}talk/thanissaro/pushing-the-limits%zh-hant.rst>`_
 
 佛法入門:
 
