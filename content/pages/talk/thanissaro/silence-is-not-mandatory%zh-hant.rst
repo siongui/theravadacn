@@ -1,0 +1,72 @@
+靜音並非必要：禪那中的官感認知
+==============================
+
+:modified: 2023-08-04
+:tags: 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
+:summary: Silence Isn’t Mandatory
+          SENSORY PERCEPTION IN THE JHĀNAS
+          by Ven. Ṭhānissaro Bhikkhu (Geoffrey DeGraff)
+:status: hidden
+:og_image: {static}/extra/talk/Ajaan\ Geoff.jpeg
+:orig_hant_link: http://theravadacn.com/Author/ThanissaroSilenceIsntMandatory2.htm
+:orig_hans_link: http://theravadacn.com/Author/ThanissaroSilenceIsntMandatory.htm
+:orig_eng_link: https://www.dhammatalks.org/Archive/Writings/CrossIndexed/Uncollected/MiscEssays/SilenceIsn'tMandatory.pdf
+
+
+.. role:: small
+   :class: is-size-7
+
+
+.. raw:: html
+
+   <div class="columns">
+     <div class="column has-background-grey-lighter is-two-thirds">
+
+.. raw:: html
+
+   <div class="container has-text-centered">
+     <p class="title is-2">靜音並非必要：禪那中的官感認知</p>
+     [作者]坦尼沙羅尊者
+     <br>
+     [中譯]良稹
+     <br>
+     <strong>
+       Silence Isn’t Mandatory –––– Sensory Perception in the Jhānas
+       <br>
+       by Ven. Ṭhānissaro Bhikkhu (Geoffrey DeGraff)
+     </strong>
+   </div>
+
+.. raw:: html
+
+   </div>
+   <div class="column has-background-light">
+
+原文版權所有 © 2014 坦尼沙羅比丘。免費發行。本文允許在任何媒體再版、重排、重印、印發。然而，作者希望任何再版與分發以對公眾免費與無限制的形式進行，譯文與轉載也要求表明作者原衷。
+
+----
+
+中譯版權所有 © 2023 良稹，http://www.theravadacn.org ， 流通條件如上。轉載時請包括本站連接，並登載本版權聲明。
+
+.. raw:: html
+
+   </div>
+   </div>
+
+----
+
+佛陀在命終那一日下午，朝他的般涅槃之地——那座園林——走去，途中在路邊一株大樹腳下停歇。在那裡，佛陀的首位導師阿羅羅-迦羅摩的弟子摩勒人之子卜古色走近前來，徑自誇讚自家導師定力之高強：阿羅羅曾經入定而坐，具認知 :small:`[想]` [1]_，具清醒，附近路上五百輛大車經過，但他既未看到，也未聽到。僅在後來另一位路人問他是否看到或聽到大車經過時，阿羅羅方知此事。
+
+佛陀的應對是，告知卜古色，有一次自己在一個脫粒倉裡入定而坐，具認知 :small:`[想]` ，具清醒，大雨在下，閃電在閃，天雷劈死了附近的兩個人和四頭牛，但他既未看到，也未聽到。他也是僅在後來離開穀倉，問路人為何附近聚眾如此多時，方知此事。
+
+卜古色對此大感欽佩，自稱把對阿羅羅的淨信“在大風裡揚棄”，“在急流中沖去”。接著他皈依三寶，向佛陀供養兩件金色袈裟後離去。
+
+這個事件，為佛陀早先自述覺醒歷程提到的諸事之一，提供了意外的細節。佛陀離家後曾經師從阿羅羅，後者教會他達到一種叫做無所有維度的無色定，在那裡心聚焦於“什麼也沒有”的單一認知 :small:`[想]` 。然而，未來的佛陀在掌握該定境後，意識到它並未構成苦的終結。於是便離開阿羅羅，尋找更好的導師，最終獨自探索覺醒。這段敘述的用意是，為了獲得覺醒，佛陀需要的不單是成就一種定。他還需要把握四聖諦的諸種技能，才能對心的一切造作狀態，包括種種至深定態，發展出離欲。只有那時，他才能達到“不死”。
+
+相比之下，佛陀與卜古色的這場對話故事讀來不盡人意。卜古色的興趣不超過定，他對佛陀的淨信僅僅是基於佛陀擁有高強的定力。至於那個定力是否真的強過阿羅羅，我們不得而知，因後者未受到同等測試。
+
+(未完待續)
+
+.. [1] 本文及腳註引用的巴利文中譯，未標明譯者的均為筆者試譯，文義不明處主要參考坦尼沙羅尊者的英譯。腳註均為筆者所加。文中圓括號內引文為原文所有，方括號內容為筆者的補充。作為形容詞的過去被動分詞，與文中討論相關處，筆者按照英譯把被動意思也譯出。
+
+(未完待續)

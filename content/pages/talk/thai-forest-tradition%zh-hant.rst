@@ -441,7 +441,7 @@
 - 浴於氣中
 - 自戒的陶育
 - 自戒的技能
-- 靜音並非必要: 禪那中的官感認知
+- `靜音並非必要: 禪那中的官感認知 <{filename}thanissaro/silence-is-not-mandatory%zh-hant.rst>`_
 - 禪那與正定
 
 .. raw:: html
