@@ -103,6 +103,14 @@
 
   [9] “比丘完全超越非想非非想維度後，進入、住於想受滅 :small:`[想與受的止息]` 。” ——增支部9:32
 
+有些經文——如中部121和相應部40:9——提到另一個名為“心的無主題定” [5]_ 的定階，它也可以用作覺醒的基礎:
+
+  “比丘——不作意 :small:`[關注]` 無所有維度的認知 :small:`[想]` ，不作意非想非非想的認知——作意緣於‘無主題心定’的單一性。”——中部121
+
+由於這個“無主題心定”和“想受滅”一樣，都緊跟在“非想非非想”維度 :small:`[的敘述]` 之後，便有 “這兩階是否等同”的問題。中部44提示，答案是否定的，因為文中說， “無主題觸”乃是修煉者從“想受滅”出定後體驗到的首觸之一 [6]_ 。這就提示，“無主題定”位於“想受滅”的臨界，但不等同。
+
+需要指出的是，僅僅達到這些定階的任一，並不保證覺醒。如增支部4:178提到，修煉者有可能達到“寧靜的心解脫”，但他的心卻不躍向止息“有身見”或突破無明。中部113提到，一個人可以修到高達非想非非想維度，卻由於不正直，還會因為自己已達到該定，他人尚未達到，而貶人揚己。中部106 提到，在達到該定時，有可能會品味 :small:`[享受]` 並執取那裡細微的“捨” :small:`[無偏無倚]` 的體驗。在所有這些情形下，如果這些洞察與品格上的缺陷不予補救，修煉者在覺醒道路上將不再會有進步。
+
 
 (未完待續)
 
@@ -113,5 +121,13 @@
 .. [3] 中部140 [佛陀:] [進入第四禪後]“只餘下遍淨、明淨的捨，柔軟、可塑、光亮。比丘! 正如熟練的金匠或金匠學徒，會設起鍛爐;設起鍛爐後，會在爐口點火; 爐口點火後，會用鉗子夾住黃金，放入坩堝。他會時時用力吹，時時撒水，時時察看。那黃金被提煉、善提煉、徹底提煉，已去雜、已去渣滓，柔軟、可塑、光亮。舉凡他想到的飾品類，如腰帶、如耳環、如項圈、如金鍊，它都會按照那目的成型。比丘! 同樣地，只餘下遍淨、明淨的捨，柔軟、可塑、光亮。他如此辨知: '我若將如此遍淨、如此明淨的此捨，朝向空無邊維度，按照那個法發展心。如此，我的此捨，有此依靠，有此維持，會長時長久地住立。我若將如此遍淨、如此明淨的此捨，朝向識無邊維度，照那個法發展心。如此，我的此捨，有此依靠，有此維持，會長時長久地住立......無所有維度......非想非非想維度，按照那個法發展心。如此，我的此捨，有此依靠，有此維持，會長時長久地住立。'”
 
 .. [4] 定境，原文 attainment = 成就，達到。聖典中提到對某定的“進入”，所用巴利語動詞包括 *upasampajjati*, *sampajjati* ， *samāpajjati* ，名詞為 *samāpatti* ，直譯達到，成就; 漢譯包括等至、三摩缽底。在討論定的層次時，“定境”較適合漢語。但嚴格說，X *samāpatti* =  the attainment of X  =  X 定境 = X 的進入、達到、成就、踏足。後面增支部9:36的 *saññāsamāpatti*  = perception-attainment =“想”[認知、認出]的達到、成就。
+
+.. [5] 無主題心定， *animitta-cetosamādhi* ,  themeless concentration of awareness。 *Nimitta* 與 *lakkhaṇa* 往往同譯作“相”。按照作者對筆者的解釋，在聖典中的  *nimitta* 常用意思是 “訊號/徵兆”，例如在地上立樁傳遞“地界”的訊息，或者用面部表情或手勢表示自己對某事物的喜與不喜。它在修定上具特殊意義，即修定主題。這兩種含義都具有傳遞某種“動機/意向”訊息的意思(在定中，心不斷提醒自己與它的主題待在一起)。 *Lakkhaṇa* 很不同。它是指事物的特徵，與意向無關。另， *animitta* = 無主題，意為: 無修定對象。此時的比丘在深定之中，但他的定並無所緣的對象。 [Ven. Ṭhānissaro:] “ *Nimitta* in everyday canonical Pali means sign—as when you plant a post in the ground to indicate the boundaries of your land, or when you indicate your pleasure or displeasure about something with a facial expression or a gesture. In meditation, it has a special meaning: the theme of your meditation. In both cases, it carries a sense of intentional message being conveyed (in the case of meditation, the mind keeps reminding itself to stay with its theme). *Lakkhaṇa* is quite different. It's the distinguishing characteristic of something, regardless of intention. ”  “ *Animmita* means without an object. The monk in question is meditating, and is in deep concentration, but his concentration doesn't have an object. ”
+
+.. [6] 中部44: [毘舍卡:]“尊尼! 哪些觸，觸到出‘想受滅’定境時的比丘？”
+
+       [法施比丘尼:]“毘舍卡尊友! 三種觸，觸到出‘想受滅’定境時的比丘: 空觸、無主題觸、無意向觸。”
+
+       本文作者在該經英譯的附註中提到，空[*suññata*]、無主題[*animitta*]、無意向[*appaṇihita*]，是臨界解脫定態的三個名稱。三者不同處僅在於達到的方式。根據義注，它們影響修煉者對“解脫”的初次領悟: 專注無常主題的修煉者會把解脫先領悟為“無主題”；專注苦主題的修煉者會把解脫先領悟為“無意向”,專注“非我”主題的修煉者會把解脫先領悟為“空”。
 
 (未完待續)
