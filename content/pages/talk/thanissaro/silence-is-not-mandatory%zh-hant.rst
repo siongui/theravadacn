@@ -149,6 +149,28 @@
 
 經文中有三個段落似乎提供了清晰證據，說明這個主張是不正確的，因為這些段落描述的外在官感靜默的定境，並不包括初禪或其它 :small:`[色界]` 禪那。
 
+**A.1:**  第一段在增支部9:37，阿難尊者討論四個定階，修煉者在其中可以有認知 :small:`[想]` ，但對 :small:`[五種]` 官感毫無感受。其中，三個是無色定境的前三個，第四個是達到徹底覺醒後的那個定。然而，四禪那在該描述中絲毫未被提及。
+
+  阿難尊者說: “真驚奇，尊友! 真震驚，尊友! 為了眾生的淨化，為了悲嘆的超越，為了憂苦的消失，為了正方法的獲得，為了涅槃的實現，局限處的開口 [9]_ ，被那有知有見的薄伽梵、阿羅漢、正自覺者獲得、悟得。那眼、那些色將會在，然而他將不感受那個維度 :small:`[處]` ；那耳、那些聲將會在......那鼻、那些香將會在......那舌、那些味將會在......那身、那些觸將會在，然而他將不感受那個維度。”
+
+  如此被說時，優達因尊者對阿難尊者說:“阿難尊友! 當他不感受那個維度時，他是有認知 :small:`[想]` ，還是無認知？”
+
+  (阿難尊者:)“尊友! 當他不感受那個維度時，他有認知 :small:`[想]` ，非是無認知 :small:`[無想]` 。”
+
+  (優達因尊者:)“尊友! 當他不感受那個維度時，他對什麼有認知？”
+
+  (阿難尊者:)“有此情形，尊友! 隨著對色之認知 :small:`[色想]` 的完全超越，隨著對抵對之認知的消失，隨著對多樣性的不關注 :small:`[作意]` ，(認出:)'無邊的空間，'比丘進入、住於空無邊維度。尊友! 如此有認知時，他不感受那個維度(即五種官感的維度)。
+
+  “又，尊友! 比丘完全超越空無邊維度後，(認出:)‘無邊的識，’他進入、住於識無邊維度。尊友! 如此有認知時，他也不感受那個維度。
+
+  “又，尊友! 比丘完全超越識無邊維度後，(認出:)'什麼也沒有，'他進入、住於無所有維度。尊友! 如此有認知時 :small:`[有想]` ，他也不感受那個維度。
+
+  “尊友! 一次，我住在娑哥陀附近黑森林的鹿園，比丘尼闍提羅-婆及柯去我的住處，到達時頂禮，立於一邊。立於一邊時，她對我說:'阿難大德! 那種定，在其中——既不被下壓，也不被回推，也不隨著造作被持續抑制或阻礙——由解脫而靜止，由靜止而滿足，由滿足而不被激躁: 阿難大德! 薄伽梵說此定是什麼的果報？'
+
+  “如此被說時，我對闍提羅-婆及柯比丘尼說:'尊尼! 那種定，在其中——既不被下壓，也不被回推，也不隨著造作被持續抑制或阻礙——由解脫而靜止，由靜止而滿足，由滿足而不被激躁: 尊尼! 薄伽梵說此定是全智(指阿羅漢智)的果報。'如此有認知 :small:`[想]` 時，他也不感受那個維度。”——增支部9:37
+
+因為這個段落在描述外在官感歸於靜默但修煉者卻有認知 :small:`[想]` 的諸定境時，只提到前三個無色定境及阿羅漢的定，這似乎給“官感靜默無需在每個正定層次都發生”的主張提供了清晰的支持。一個人可以達到四禪那之任一，仍然可聽到聲音等等，並且如增支部9:36所稱，可利用該階的定達到徹底覺醒。
+
 (未完待續)
 
 .. [1] 本文及腳註引用的巴利文中譯，未標明譯者的均為筆者試譯，文義不明處主要參考坦尼沙羅尊者的英譯。腳註均為筆者所加。文中圓括號內引文為原文所有，方括號內容為筆者的補充。作為形容詞的過去被動分詞，與文中討論相關處，筆者按照英譯把被動意思也譯出。
@@ -170,5 +192,7 @@
 .. [7] 無想的，無想者 = *asaññī*: 這個詞有時被英譯成 unconscious，“失去意識的”。按照作者的解釋，把 *asaññī* 譯成“unconscious/失去意識的”會造成不必要的混亂；特別是，一些讀者可能會認為是“無識” [識= *viññāṇa* ，第五蘊，識得色聲香味觸法]。 “無想者”更恰當的理解是一個心理活動空白的人。無想[無認知/無標記]之下，仍可有“識”與“受”[樂,苦,不樂不苦]，但心對正在發生之事不能認出，等於這方面是空白的。至於“行[造作]”，此情形下，不存在心造作和語造作，但仍有身造作。 [Ven. Ṭhānissaro:] “......translating *asaññī* as "unconscious" creates needless confusion, especially as some readers might assume that the term would mean the absence of *viññāṇa*. An *asaññī* person might better be conceived as one in a mentally blank state.” “Without *saññā*, there can still be *viññāṇa* and *vedanā*, but the mind would be a blank as far as recognizing or even being able to label what is happening. As for *saṅkhāra*, there would be no mental or verbal fabrication in such a case, but there would still be bodily *saṅkhāra*.”
 
 .. [8] 增支部9:36: *“ Iti kho bhikkhave yāvatā saññāsamāpatti tāvatā aññāpaṭivedho. ”* [坦尼沙羅尊者英譯:] “ Thus, as far as the perception-attainments go, that is as far as gnosis-penetration goes.” 據作者對筆者的解釋，全智[阿羅漢智]只能在“想”能夠達到的七個定境之中證得，即從初禪直到無所有處。中部111明確指出，修煉者不能在另外兩個定境即非想非非想定和想受滅定中證得全智，而是需要離開那兩個定境之後思索才能證得。 [Ven. Ṭhānissaro:] “The sentence in question means that one can attain arahantship while in a particular concentration attainment only in those that are attained by *saññā*, or perception — i.e., the attainments up through the dimension of nothingness. As MN 111 makes clear, one cannot attain arahantship while in the remaining two attainments. One can attain it only after leaving those two attainments and then reflecting on them afterwards.”
+
+.. [9] “在局限處”: in a confining place, *sambādhe* ，據本文作者，它被義註解釋為五條感官之欲。見增支部9:42。
 
 (未完待續)
