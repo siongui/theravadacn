@@ -171,6 +171,20 @@
 
 因為這個段落在描述外在官感歸於靜默但修煉者卻有認知 :small:`[想]` 的諸定境時，只提到前三個無色定境及阿羅漢的定，這似乎給“官感靜默無需在每個正定層次都發生”的主張提供了清晰的支持。一個人可以達到四禪那之任一，仍然可聽到聲音等等，並且如增支部9:36所稱，可利用該階的定達到徹底覺醒。
 
+**A.2:** 仔細審視另一段經文——阿難尊者那組定境的首個，即空無邊維度的標準表述——可見為什麼他的這組定境在這 :small:`[表述]` 方面不同於四禪那。其中說，修煉者進入、住於此維度，乃是“隨著色想的完全超越，隨著有對想的消失，隨著對多樣性想的不關注”。如前所述，此處“想” :small:`[saññā]` 這個詞帶有心的標記或標籤的意思，即認出、確認某個心理對象的動作 [10]_ 。因此，從第四禪那移到空無邊維度，對抵對的心理認知必須消失，修煉者必須超越對色的心理認知，必須不予關注對多樣性的心理認知。
+
+**“抵對”** 和 **“多樣性”** 這兩個術語有必要解釋。
+
+“抵對” :small:`(paṭigha)[resistance]` 可以有兩種理解。長部15指出它是讓心的活動探察到色的那種觸 [11]_ 。意思似是，心的活動之所以能夠認出物理對象 :small:`[物質體]` 的存在，主要是因為物理對像對任何侵入其空間的其它對像有抵對 :small:`[抵觸,抵抗]` 作用。
+
+然而，覺音在《清淨道論》(10.16)裡，沿襲了阿毘達摩，把“抵對”定義為五種外在官感上的接觸 :small:`[撞擊]` [12]_ 。由於他並未給出參考經文支持這一解釋，此為兩者中較弱者。
+
+不過，中部137裡有一段經文定義“ *nānattā* , 多樣性”為五種官感對象: 色、聲、香、味、觸 [13]_ 。換句話說，這一段把覺音賦予“抵對”的意涵，賦予了“多樣性”。中部137接著把多樣性與“ *ekattā* , 單一性”作對比，而“單一性”被該經指為前四個無色定境 [14]_ 。
+
+因此，不管對官感輸入的認知被叫做“對抵對的認知”還是“對多樣性的認知”，實用結論是，進入、住於空無邊維度的修煉者，對認出或指認種種官感對象的任何心理標記，至少都必須不予關注。如果“抵對”意味著在五種官感 :small:`[機制]` 上的觸，則這種認知 :small:`[想]` 必須消失。
+
+這就引生一個問題: 按照從中部137得出的解釋，為什麼單單一個對官感對象的認知不予關注的動作，就會使修煉者不感受那些對象？答案在於，諸經對官感覺知步驟的描述中，認知 :small:`[想]` 在該過程的兩個步驟上起著作用。
+
 (未完待續)
 
 .. [1] 本文及腳註引用的巴利文中譯，未標明譯者的均為筆者試譯，文義不明處主要參考坦尼沙羅尊者的英譯。腳註均為筆者所加。文中圓括號內引文為原文所有，方括號內容為筆者的補充。作為形容詞的過去被動分詞，與文中討論相關處，筆者按照英譯把被動意思也譯出。
@@ -194,5 +208,31 @@
 .. [8] 增支部9:36: *“ Iti kho bhikkhave yāvatā saññāsamāpatti tāvatā aññāpaṭivedho. ”* [坦尼沙羅尊者英譯:] “ Thus, as far as the perception-attainments go, that is as far as gnosis-penetration goes.” 據作者對筆者的解釋，全智[阿羅漢智]只能在“想”能夠達到的七個定境之中證得，即從初禪直到無所有處。中部111明確指出，修煉者不能在另外兩個定境即非想非非想定和想受滅定中證得全智，而是需要離開那兩個定境之後思索才能證得。 [Ven. Ṭhānissaro:] “The sentence in question means that one can attain arahantship while in a particular concentration attainment only in those that are attained by *saññā*, or perception — i.e., the attainments up through the dimension of nothingness. As MN 111 makes clear, one cannot attain arahantship while in the remaining two attainments. One can attain it only after leaving those two attainments and then reflecting on them afterwards.”
 
 .. [9] “在局限處”: in a confining place, *sambādhe* ，據本文作者，它被義註解釋為五條感官之欲。見增支部9:42。
+
+.. [10] 巴英詞典中  *saññā* [想]的同源動詞 *sañjānāti* 有兩個意思 [1] to recognize 認出; [2] label 命名，標記。對 *saññā* 的理解，筆者曾請教坦尼沙羅尊者，深層次上兩個是否同一回事？尊者答: 兩者基本上是同一個動作。巴利經典中有兩類 *sañjānāti* 。初次遭遇某事物，[心]便造一個新的 *saññā* 去標記它。此後再次遭遇它或同類事物時，便施加之前所造的 *saññā* 。 [Ven. Ṭhānissaro:] “Yes, labeling and recognizing are essentially the same act. You have two types of *sañjānāti* in Pali: The first time you encounter something, you create a new *saññā* to label it. From that point on, when you encounter it again—or you encounter another instance of the same type of object—you apply the *saññā* that you created in the first instance.”
+
+        *Saññā* 的正式英譯之所以不用 recognition，而用 perception，主要因為英語的 recognition 一般指“正確認出”，而 perception 如同 *saññā* 可以是誤認。比丘因誤認對象而對之犯戒，處罰有分別。如比丘把人誤判為動物而將其擊殺，為波逸提罪，非波羅夷罪。 [Ven. Ṭhānissaro:] “Perception is better than recognition as a translation for *saññā* in that when we say we recognize something, it usually means that we label it correctly. However, *saññā* is used in Pali in cases both where the label is correct and where it's incorrect. This same holds for the English word perception. For example, in many of the rules in the *Paṭimokkha*, there are lesser offenses assigned for cases where the monk misperceives the object of his actions. For instance, he perceives a human being to be a common animal and kills the person. In this case, the penalty is not the *pārājika* for killing a human being. It's a *pācittiya*.”
+
+.. [11] 長部15，[佛陀:] “ ‘緣名色來觸。’  阿難!  此為我所說。當按此思路了知，如何緣名色來觸。”
+
+        [佛陀:]“阿難!  藉著種種排列、特質、主題、標識，有對名體[名的群體即心理活動]的辨述[辨呈、描述]。倘若種種排列、特質、主題、標識不存在，色體[色的群體即物質體]上的賦名觸可被辨知嗎？”
+
+        [阿難:]“大德!  不可。”
+
+        [佛陀:]“阿難!  藉著種種排列、特質、主題、標識，有對色體[物質體]的辨述。倘若種種排列、特質、主題、標識不存在，名體[名的群體,即心理活動]上的的抵對觸可被辨知嗎？”
+
+        [阿難:]“大德!  不可。”
+
+        [佛陀:]“阿難!  藉著種種排列、特質、主題、標識，有對色體和名體的辨述。倘若種種排列、特質、主題、標識不存在，賦名觸或抵對觸可被辨知嗎？” 
+
+        [阿難:]“大德!  不可。”
+
+        [佛陀:]“因此, 阿難!  對於觸，這是因，這是集[起源]，這是緣。這便是名色。”
+
+.. [12] 《清淨道論》 10.16，[覺音尊者:] “藉著眼等物與色等所緣的撞擊而升起的認知[想]乃為有對想[抵對之認知]。此為色想等的同義語，正如所謂: '在此，什麼是有對想？即，色想、聲想、香想、味想、觸想───這些被稱為有對想。'[引文來自阿毘達摩]”[Ven. Ñāṇamoli 英譯:] “Perceptions of resistance are perceptions arisen through the impact of the physical base consisting of the eye, etc., and the respective objects consisting of visible objects etc.” and this is a term for perception of visible objects (*rūpa*) and so on, according as it is said: "Here, what are perceptions of resistance? Perceptions of visible objects, perceptions of sounds, perceptions of odours, perceptions of flavours, perceptions of tangible objects — these are called 'perceptions of resistance'."
+
+.. [13] 中部137: “比丘們!  什麼是來自多樣性、依於多樣性的那些捨[無偏無倚]？比丘們!  有對色的捨，有對聲的捨，有對香的捨，有對味的捨，有對觸的捨。比丘們!  這就是來自多樣性、依於多樣性的捨。”
+
+.. [14] 中部137: “比丘們!  什麼是來自單一性、依於單一性的捨？比丘們!  有依於空無邊維度的捨，有依於識無邊維度的捨，有依於無所有維度的捨，有依於非想非非想維度的捨。比丘們!  這就是來自單一性、依於單一性的捨。”
 
 (未完待續)
