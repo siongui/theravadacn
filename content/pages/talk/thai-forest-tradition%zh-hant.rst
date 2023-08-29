@@ -373,7 +373,7 @@
 **論著**
 
 - `不可能的事 <{filename}thanissaro/impossible-things%zh-hant.rst>`_
-- 慈悲的教育
+- `慈悲的教育 <{filename}thanissaro/educating-compassion%zh-hant.rst>`_
 - 答佛教雜誌讀者問
 - 當你親證之時 ——巴利經文的真實性
 - 佛陀的“應該”
