@@ -374,7 +374,7 @@
 
 - `不可能的事 <{filename}thanissaro/impossible-things%zh-hant.rst>`_
 - `慈悲的教育 <{filename}thanissaro/educating-compassion%zh-hant.rst>`_
-- 答佛教雜誌讀者問
+- `答佛教雜誌讀者問 <{filename}thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst>`_
 - 當你親證之時 ——巴利經文的真實性
 - 佛陀的“應該”
 - 佛教浪漫主義之根蒂
