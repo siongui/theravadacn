@@ -376,7 +376,7 @@
 - `慈悲的教育 <{filename}thanissaro/educating-compassion%zh-hant.rst>`_
 - `答佛教雜誌讀者問 <{filename}thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst>`_
 - `當你親證之時 ——巴利經文的真實性 <{filename}thanissaro/when-you-know-for-yourselves%zh-hant.rst>`_
-- 佛陀的“應該”
+- `佛陀的“應該” <{filename}thanissaro/the-buddhas-shoulds%zh-hant.rst>`_
 - 佛教浪漫主義之根蒂
 - 佛教無常觀的語境
 - 歸依
