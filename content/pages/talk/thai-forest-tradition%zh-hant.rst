@@ -379,7 +379,7 @@
 - `佛陀的“應該” <{filename}thanissaro/the-buddhas-shoulds%zh-hant.rst>`_
 - `佛教浪漫主義之根蒂 <{filename}thanissaro/the-roots-of-buddhist-romanticism%zh-hant.rst>`_
 - `佛教無常觀的語境 <{filename}thanissaro/all-about-change%zh-hant.rst>`_
-- 歸依
+- `歸依 <{filename}thanissaro/going-for-refuge%zh-hant.rst>`_
 - 戒律的療愈力
 - 開啟佛法之門 ——禮敬在佛教思維與修證中的作用
 - 苦的形狀——緣起的研究 （緒論）
