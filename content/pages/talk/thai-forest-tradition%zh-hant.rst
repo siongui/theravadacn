@@ -384,7 +384,7 @@
 - `開啟佛法之門 ——禮敬在佛教思維與修證中的作用 <{filename}thanissaro/opening-the-door-to-the-dhamma%zh-hant.rst>`_
 - 苦的形狀——緣起的研究 （緒論）
 - `涅槃的意義 <{filename}thanissaro/nibbana%zh-hant.rst>`_
-- 社交焦慮
+- `社交焦慮 <{filename}thanissaro/social-anxiety%zh-hant.rst>`_
 - `挑戰極限 ——佛教修行道上的欲求與想像 <{filename}thanissaro/pushing-the-limits%zh-hant.rst>`_
 - 無我，還是非我?
 - 信仰與覺醒
