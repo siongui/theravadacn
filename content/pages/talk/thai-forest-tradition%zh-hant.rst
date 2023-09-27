@@ -387,7 +387,7 @@
 - `社交焦慮 <{filename}thanissaro/social-anxiety%zh-hant.rst>`_
 - `挑戰極限 ——佛教修行道上的欲求與想像 <{filename}thanissaro/pushing-the-limits%zh-hant.rst>`_
 - 無我，還是非我?
-- 信仰與覺醒
+- `信仰與覺醒 <{filename}thanissaro/faith-in-awakening%zh-hant.rst>`_
 - 業力
 - 業與輪迴
 - 一言蔽之論修持
