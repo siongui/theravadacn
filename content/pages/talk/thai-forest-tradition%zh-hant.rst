@@ -386,7 +386,7 @@
 - `涅槃的意義 <{filename}thanissaro/nibbana%zh-hant.rst>`_
 - `社交焦慮 <{filename}thanissaro/social-anxiety%zh-hant.rst>`_
 - `挑戰極限 ——佛教修行道上的欲求與想像 <{filename}thanissaro/pushing-the-limits%zh-hant.rst>`_
-- 無我，還是非我?
+- `無我，還是非我? <{filename}thanissaro/no-self-or-not-self%zh-hant.rst>`_
 - `信仰與覺醒 <{filename}thanissaro/faith-in-awakening%zh-hant.rst>`_
 - 業力
 - 業與輪迴
