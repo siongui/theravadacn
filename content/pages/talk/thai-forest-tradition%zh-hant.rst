@@ -388,7 +388,7 @@
 - `挑戰極限 ——佛教修行道上的欲求與想像 <{filename}thanissaro/pushing-the-limits%zh-hant.rst>`_
 - `無我，還是非我? <{filename}thanissaro/no-self-or-not-self%zh-hant.rst>`_
 - `信仰與覺醒 <{filename}thanissaro/faith-in-awakening%zh-hant.rst>`_
-- 業力
+- `業力 <{filename}thanissaro/karma%zh-hant.rst>`_
 - 業與輪迴
 - 一言蔽之論修持
 - 印證心靈真諦——佛教的“厭離” 與“淨信”
