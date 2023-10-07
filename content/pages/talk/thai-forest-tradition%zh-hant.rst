@@ -390,7 +390,7 @@
 - `信仰與覺醒 <{filename}thanissaro/faith-in-awakening%zh-hant.rst>`_
 - `業力 <{filename}thanissaro/karma%zh-hant.rst>`_
 - `業與輪迴 <{filename}thanissaro/kamma-and-rebirth%zh-hant.rst>`_
-- 一言蔽之論修持
+- `一言蔽之論修持 <{filename}thanissaro/the-practice-in-a-word%zh-hant.rst>`_
 - 印證心靈真諦——佛教的“厭離” 與“淨信”
 - 優婆夷清-那那容與上座部佛教修證的社會動態
 - 這條道有目標
