@@ -404,7 +404,7 @@
 **禪定**
 
 - `辨識 <{filename}thanissaro/perception%zh-hant.rst>`_
-- 佈施先行
+- `布施先行 <{filename}thanissaro/generosity-first%zh-hant.rst>`_
 - 拆解當下——正思的作用
 - 禪定在面對苦痛、 疾病與死亡時的作用
 - 定的三層次
