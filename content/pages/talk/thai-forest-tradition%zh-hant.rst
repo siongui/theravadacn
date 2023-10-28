@@ -408,7 +408,7 @@
 - `拆解當下——正思的作用 <{filename}thanissaro/untangling-the-present%zh-hant.rst>`_
 - `禪定在面對苦痛、疾病與死亡時的作用 <{filename}thanissaro/using-meditation-to-deal-with-pain-illness-death%zh-hant.rst>`_
 - `定的三層次 <{filename}thanissaro/three-levels-of-concentration%zh-hant.rst>`_
-- 定義念住
+- `定義念住 <{filename}thanissaro/mindfulness-defined%zh-hant.rst>`_
 - 佛教禪修: 如何與爲何
 - 觀察者
 - 觀身體
