@@ -410,7 +410,7 @@
 - `定的三層次 <{filename}thanissaro/three-levels-of-concentration%zh-hant.rst>`_
 - `定義念住 <{filename}thanissaro/mindfulness-defined%zh-hant.rst>`_
 - `佛教禪修: 如何與爲何 <{filename}thanissaro/the-how-and-the-why%zh-hant.rst>`_
-- 觀察者
+- `觀察者 <{filename}thanissaro/the-observer%zh-hant.rst>`_
 - 觀身體
 - 呼吸禪定導引
 - 呼吸禪定步驟
