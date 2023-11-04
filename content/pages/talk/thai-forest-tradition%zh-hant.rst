@@ -412,7 +412,7 @@
 - `佛教禪修: 如何與爲何 <{filename}thanissaro/the-how-and-the-why%zh-hant.rst>`_
 - `觀察者 <{filename}thanissaro/the-observer%zh-hant.rst>`_
 - `觀身體 <{filename}thanissaro/contemplation-of-the-body%zh-hant.rst>`_
-- 呼吸禪定導引
+- `呼吸禪定導引 <{filename}thanissaro/a-guided-meditation%zh-hant.rst>`_
 - 呼吸禪定步驟
 - 互動的當下
 - 護衛禪
