@@ -413,7 +413,7 @@
 - `觀察者 <{filename}thanissaro/the-observer%zh-hant.rst>`_
 - `觀身體 <{filename}thanissaro/contemplation-of-the-body%zh-hant.rst>`_
 - `呼吸禪定導引 <{filename}thanissaro/a-guided-meditation%zh-hant.rst>`_
-- 呼吸禪定步驟
+- `呼吸禪定步驟 <{filename}thanissaro/the-steps-of-breath-meditation%zh-hant.rst>`_
 - 互動的當下
 - 護衛禪
 - 解析辨識

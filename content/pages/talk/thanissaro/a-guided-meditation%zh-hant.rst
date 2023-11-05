@@ -105,9 +105,8 @@ https://www.accesstoinsight.org/lib/authors/thanissaro/guided.html
 ----
 
 | 相關連接:
-| `坦尼沙羅尊者: 呼吸禪定步驟 <http://www.theravadacn.org/Author/ThanissaroStepsofBreathMed.htm>`_
+| `坦尼沙羅尊者: 呼吸禪定步驟 <{filename}the-steps-of-breath-meditation%zh-hant.rst>`_
 | `坦尼沙羅尊者: 解析辨識 <http://www.theravadacn.org/Author/ThanissaroDeperception.htm>`_
 | `阿姜李: 念住呼吸與禪定開示 <{filename}/pages/talk/ajaan-lee/keeping-the-breath-in-mind-lessons-in-samaadhi%zh-hant.rst>`_
 
-.. TODO: replace 坦尼沙羅尊者: 呼吸禪定步驟 link
 .. TODO: replace 坦尼沙羅尊者: 解析辨識 link
