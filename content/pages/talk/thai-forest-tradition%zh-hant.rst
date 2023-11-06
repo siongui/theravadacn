@@ -416,7 +416,7 @@
 - `呼吸禪定步驟 <{filename}thanissaro/the-steps-of-breath-meditation%zh-hant.rst>`_
 - 互動的當下
 - 護衛禪
-- 解析辨識
+- `解析辨識 <{filename}thanissaro/de-perception%zh-hant.rst>`_
 - 精進之樂
 - 浸於身內
 - 空性的誠實
