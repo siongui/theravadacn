@@ -415,7 +415,7 @@
 - `呼吸禪定導引 <{filename}thanissaro/a-guided-meditation%zh-hant.rst>`_
 - `呼吸禪定步驟 <{filename}thanissaro/the-steps-of-breath-meditation%zh-hant.rst>`_
 - `互動的當下 <{filename}thanissaro/the-interactive-present%zh-hant.rst>`_
-- 護衛禪
+- `護衛禪 <{filename}thanissaro/guardian-meditations%zh-hant.rst>`_
 - `解析辨識 <{filename}thanissaro/de-perception%zh-hant.rst>`_
 - 精進之樂
 - 浸於身內
