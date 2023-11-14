@@ -417,7 +417,7 @@
 - `互動的當下 <{filename}thanissaro/the-interactive-present%zh-hant.rst>`_
 - `護衛禪 <{filename}thanissaro/guardian-meditations%zh-hant.rst>`_
 - `解析辨識 <{filename}thanissaro/de-perception%zh-hant.rst>`_
-- 精進之樂
+- `精進之樂 <{filename}thanissaro/the-joy-of-effort%zh-hant.rst>`_
 - 浸於身內
 - 空性的誠實
 - 禮敬定
