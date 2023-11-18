@@ -418,7 +418,7 @@
 - `護衛禪 <{filename}thanissaro/guardian-meditations%zh-hant.rst>`_
 - `解析辨識 <{filename}thanissaro/de-perception%zh-hant.rst>`_
 - `精進之樂 <{filename}thanissaro/the-joy-of-effort%zh-hant.rst>`_
-- 浸於身內
+- `浸於身內 <{filename}thanissaro/immersed-in-the-body%zh-hant.rst>`_
 - 空性的誠實
 - 禮敬定
 - 令心勝喜
