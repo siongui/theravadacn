@@ -419,7 +419,7 @@
 - `解析辨識 <{filename}thanissaro/de-perception%zh-hant.rst>`_
 - `精進之樂 <{filename}thanissaro/the-joy-of-effort%zh-hant.rst>`_
 - `浸於身內 <{filename}thanissaro/immersed-in-the-body%zh-hant.rst>`_
-- 空性的誠實
+- `空性的誠實 <{filename}thanissaro/the-integrity-of-emptiness%zh-hant.rst>`_
 - 禮敬定
 - 令心勝喜
 - 六元素
