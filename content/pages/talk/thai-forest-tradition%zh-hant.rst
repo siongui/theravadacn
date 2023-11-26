@@ -421,7 +421,7 @@
 - `浸於身內 <{filename}thanissaro/immersed-in-the-body%zh-hant.rst>`_
 - `空性的誠實 <{filename}thanissaro/the-integrity-of-emptiness%zh-hant.rst>`_
 - `禮敬定 <{filename}thanissaro/respect-for-concentration%zh-hant.rst>`_
-- 令心勝喜
+- `令心勝喜 <{filename}thanissaro/gladdening-the-mind%zh-hant.rst>`_
 - 六元素
 - 你內在的暴民
 - 凝視的平穩
