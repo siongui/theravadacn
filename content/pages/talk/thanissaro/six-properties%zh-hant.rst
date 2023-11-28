@@ -76,6 +76,34 @@
 
      - 不管我們對這些概念作為外在事件的描述方式有什麼想法，它們對觀察內在事件，觀察從內部體驗到的身感來說，是十分有用的。在古代，內元素被用來解釋病理。頭暈眼花是風偏重的徵象，是風元素被激發的徵象。發燒當然是火元素的激發。四肢無力或沈重，則是地元素偏勝的徵象。
 
+   * - These are things you can play with in your meditation. That’s where the teaching really becomes useful, because it allows you to see how the way you focus on the body has an impact on how you perceive the body, how you actually sense the body. We think of sensations as being primary, the raw material, the basic building blocks of experience, but there are conscious decisions being made that precede the sensations. Look at the teaching on dependent origination. Sankhara, or “fabrication” is way down there, prior to the sensations you feel in terms of form, feeling, and so forth.
+
+     - 這些東西是你在禪定中可以操作一番的。這套教說正是在此處真正顯其有用，因為它讓你看見，你怎樣專注身體，會直接影響你怎樣辨識身體，以及你怎樣實際地覺受到身體。我們以為覺受是原生的，是未加工的材料，是體驗的基本構件，然而，先於這些覺受，你已經在作種種有意識的決定了。看一看十二因緣的教導。 *Sankhāra*\ —— 造作，早早先於你在色、受等方面的覺知，已經在那裡了\ [3]_\ 。
+
+   * - So how are you going to fabricate the body? If there are feelings of tension in the body, sometimes that’s a sign of too much earth property, so you can think of the breath. This is one of the reasons we start with the breath. It’s the property that’s most easily manipulated—classicallyit’s called the kaya-sankhara, the factor that fashions the body. It’s also the property that most directly works through tension. Wherever there’s a sense of tension, focus on it and see if you can get a sense of gentle, healing motion going through it. The potential for motion is there, simply that the perception contributing to the tension has blocked it. So you can consciously decide that you’re going to perceive motion there. Give it a chance to happen, and the potential for motion, the potential for movement through that part of the nervous system, will get strengthened, will get aroused—which may be a better way of translating the word that I just translated as “provoked.” The breath-potential gets aroused. When your awareness of the breath is aroused or heightened, it can move through that sense of blockage.
+
+     - 因此，你打算怎樣造作身？如果身內有緊繃感，有時那是地元素偏勝的徵象，因此你可以觀想氣。這是我們禪修從觀氣\ :small:`［風，呼吸］`\ 出發的原因之一。它是最容易操縱的那個元素——經典上，它叫做 *kāya-sankhāra*\ ——身造作\ :small:`［身行］`\ ，塑造身體的因素\ [4]_\ 。它也是最直接地消解張力的元素。哪裡有緊繃感，你就定在那裡，看是否能夠使一種溫和的、修復性的動性\ :small:`［氣］`\ 穿過它。動性\ :small:`[氣］`\ 的潛勢是在那裡的，只不過促成緊繃感的那個辨識把它給堵住了。因此，你可以有意識地決定，你打算在那裡辨識動性\ :small:`［氣］`\ 。給它一個發生的機會，那麼動性\ :small:`［氣］`\ 的潛勢，穿過那部分經絡系統的移動的潛勢，將會被強化，將會被喚起\ :small:`[aroused]`\ ——比起我剛才用的“激發”\ :small:`[provoked]`\ ，這個譯法可能更好。氣的潛勢被喚起。當你對氣的覺知被喚起或者說提升時，它就可以穿透那股堵塞感。
+
+   * - When you’re feeling giddy or manic, you can think of the earth property to settle things down. If there’s just too much frenetic energy in the body, you can think of your bones being made of iron, of your hands and feet weighing a ton. Wherever you have a sense of solidity in the body, focus on that and try to magnify it. You find that your choice of the image you’re using, your purpose in choosing it, will really affect the way you start sensing that part of the body. Then you can take that sensation and spread it out, connecting it with other sensations of solidity in the body. The potential for solidity is always there.
+
+     - 當你感到暈眩或狂躁時，可以觀想地元素，使那些感覺平靜下來。如果體內有太多躁亂的能量，你可以觀想自己的骨骼由鐵質構成，你的手腳有千斤重。凡是體內有堅硬感的地方，要專注那裡，試著把它放大。你會發現，你所用的形象，你選擇那個形象的目的，真的影響你怎樣開始感受到那個部位。接著，你可以把那個感受，傳播開去，與體內其它地方的堅硬感連接起來。堅硬性的潛勢，一直是在那裡的。
+
+   * - When you’re feeling depressed and weighed down, think of lighter sensations, of the breath giving a lift to the different parts of the body. When you’re hot, think of the water property. Focus on whatever sensations in the body are cooler than the others. Really keep your focus right there, and think “water, water” or “cool, cool.” You’ll find that other cool sensations in the body will appear to your awareness. The potential for them was waiting, simply that they needed the element of present intention to highlight them.
+
+     - 當你感覺抑鬱、重壓時，可以觀想比較輕的覺受，可以觀想氣把身體各個部分提升一下。你感到熱的時候，可以觀想水元素。專注凡是體內比較清涼的地方。要把注意力真正定在那裡，一邊想“水，水”，或者“涼，涼”。你將發現體內的清涼感會對你的覺知顯現出來。它們的潛勢伺伏著，只是需要那個當下動機的成分把它們彰顯出來。
+
+   * - When you’re feeling cold, focus in on warmth. There will be some part of the body that’s warmer than the others, so focus in on it. Think of the warmth staying there and spreading to other parts of the body where other warm sensations will get aroused.
+
+     - 當你感覺寒冷時，就專注暖熱。身體一定有某個部位比其它部位更暖，因此就專注那裡。觀想那個熱性待在那裡，並且傳播到身體的其它部位，那裡的熱感將會給喚起。
+
+   * - You can do this at any stage in the concentration, although it’s most effective when the breath is still. At that point the body feels like a cloud of mist, little points of sensation, and each little sensation has the potential to be any one of these four properties. When your sense of the body is reduced to what the French would call pointillism, it’s a lot easier, simply with a thought, to emphasize either the heaviness or the lightness, the movement, the warmth or the coolness of those sensations, the sensation-potentials you’ve got there. This way you accomplish two things at once. On the one hand you balance out the body. Whenever one type of sensation feels too oppressive, you can think of the opposing sensation to balance it out. On the other, you start seeing the role of present intention in your awareness, in your experience of the present moment in a very visceral way.
+
+     - 你可以在定的任何階段這樣做，不過在氣寂止時最有效。那時候，身感像一團霧，一團細小的覺點，每個小覺知都有成為這四種元素之任一的潛勢。當你的身感還原到法語所說的 pointillism——“點彩”時\ [5]_\ ，要想只用一個意念，來強化諸身感之中的重性或者輕性，動性或者暖性、涼性，做起來就容易多了，那些覺受潛勢你那裡已經存在著。這樣你同時成就了兩件事。一方面，你平衡了身體。任何時候，你覺得某一種覺受過於壓抑，你可以觀想對立的那個覺受，使之平衡。另一方面，你在以一種極其切身的方式體驗當下的過程中，開始看見當下的動機在你的覺知中的作用。
+
+   * - When things grow very still and balanced in terms of these four properties, with this mist of potential sensations that can go in any direction（any kind of sensation?）, you can also focus on the space between the points. Realize that the space is boundless. It goes through the body and out in all directions. Just think that: “infinite space.” Stay with the sensation of infinite space that comes along with the perception. The potential for it is always there; it’s simply that the perception arouses it. It’s a very pleasant state to get in. Things seem a lot less solid, a lot less oppressive. You don’t feel so trapped in the body.
+
+     - 當這四元素達到極其寂止、平衡，存在這股可以朝任一\ :small:`[身感的，色的］`\ 方向轉化的覺受潛勢之霧時，你也可以專注那些點之間的空間。你要意識到，那個空間是無邊界的。它穿過身體，朝向各個方向。你就觀想： “無限空間。” 定在隨著那個辨識而來的無限空間感中。該潛勢是一直在那裡的；只不過那個辨識把它喚起了。進入這個狀態裡是極其愉悅的。那裡似乎堅硬感弱了許多，壓抑感弱了許多。被困在身內的感覺也不那麼強了。
+
 (未完待續)
 
 (根據2003年3月某日開示錄音整理，本文來自坦尼沙羅尊者開示集《禪定》)
