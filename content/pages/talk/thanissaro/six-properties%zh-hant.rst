@@ -104,7 +104,29 @@
 
      - 當這四元素達到極其寂止、平衡，存在這股可以朝任一\ :small:`[身感的，色的］`\ 方向轉化的覺受潛勢之霧時，你也可以專注那些點之間的空間。你要意識到，那個空間是無邊界的。它穿過身體，朝向各個方向。你就觀想： “無限空間。” 定在隨著那個辨識而來的無限空間感中。該潛勢是一直在那裡的；只不過那個辨識把它喚起了。進入這個狀態裡是極其愉悅的。那裡似乎堅硬感弱了許多，壓抑感弱了許多。被困在身內的感覺也不那麼強了。
 
-(未完待續)
+   * - Ajaan Fuang once had a student, an old woman, who started practicing meditation with him when he was getting ready to leave Wat Asokaram. After he left, she had to practice on her own for quite a while. One evening, when she was sitting in meditation with the group in the meditation hall, a voice came to her and said, “You’re going to die tonight.” She was a little taken aback, but then she reminded herself, “Well, if I’m going to die, the best way is to die meditating.” So she just sat there and watched to see what would happen as the body dies, to see what it would be like. There was an actual sensation of the body beginning to fall apart. “All of the various properties were going their separate ways,” she said, “like a house on fire. There was no place in the body where you could focus your awareness and have any sense of comfort at all.” So for a moment she felt lost, but then she remembered, “Well, there’s the space property.” So she focused in on the space property, and all that sense of the house on fire suddenly disappeared. There was a very strong sense of infinite space. There was always the potential to go back to the body. (This is something you’ll notice when you’re at this point in your meditation: There are the spots that could provide a potential for the form of the body but you chose not to focus on them. Instead you focus on the sense of space in between and all around. There’s a sense of boundlessness that goes with it.
+
+     - 阿姜放過去有個弟子，是一位老婦人，前來開始跟他學修禪定時，他正在準備離開阿育王寺。等他離開後，很長時間裡她不得不自己修練。有天晚上，她在禪堂與大家共修時，有一個聲音來對她說，“今晚你會死。” 她有點吃驚，不過，她接著提醒自己，“好吧，如果要死，最好是死在禪定當中。”於是她就坐在那裡，觀察身體死去時發生什麼。真有一種身體開始破散的感覺。“各種元素都各自分開，走自己的路，” 她說，“就像一座著火的房子。身內沒有一處可以讓覺知安定下來，得到舒適感。”於是，有一陣子，她不知所措，不過接著她想起來：“噢，還有空間元素。”於是她就定入了空間元素，所有那些房子著火的感覺突然消失了。有一股極其強烈的無限空間感。回到身體的可能性總是存在的。（你的禪定達到這個程度時將會注意到這一點：有些部位可以提供體形的潛勢，不過你選擇不專注那裡\ [6]_\ 。而是專注它們相互之間和四周的那個空間感。伴隨著它的是一股無邊無界之感。）
+
+   * - When she came out of meditation, of course, she hadn’t died. She was still alive. But she had learned an important lesson, that when things get really bad in the body you can always go to space. Even though it’s not Awakening, and it’s not the unconditioned, still it’s a lot better than being immersed in turmoil along with the properties in the body.
+
+     - 她出定時，當然沒有死去。她還活者。不過她學到了重要的一課，當身內的情形實在糟糕時，總是可以去空間。即使它不是覺醒，它不是非緣起，它仍然強過住於身元素，沈浸在混亂之中。
+
+   * - So the properties provide a useful way of looking at the potentials in the present moment. They also make it easier to get to that sense of awareness itself that you read about so much in the writings of the Thai Ajaas. Once you’re with infinite space, drop the perception of “space” and see what’s left. There will just be a perception of knowing, knowing, knowing, which takes its place. You don’t　have to ask, “Knowing what?” There’s just awareness, awareness, or knowing, knowing.
+
+     - 因此，諸元素提供了一個觀察潛勢的有用方式。它們還使我們更容易達到泰國導師們的文字當中如此頻繁提到的那個獨立的覺知。一旦你住於無限空間後，你可以放開“空間”的辨識，看看剩下什麼。那時只會有一種知，知，知的辨識。你不必問“知什麼？”只有覺，覺，或者說知，知。
+
+   * - Once you’ve got everything divided up into properties like this, you’ve got the raw materials for gaining insight. The terms of analysis may initially seem strange, but once you get a visceral sense of what they’re referring to, you’ll find them extremely useful. They not only give the mind a good place to settle down in the stillness of concentration, but they also help you gain insight into the way perception shapes your experience of the body, shapes your perception of what’s going on here in the present moment, seeing how fabricated it all is. You’ve got potentials coming in from past kamma, but you’ve also got the element of present choice, which becomes extremely clear when you analyze things in this way.
+
+     - 一旦你達到以這種方式把一切歸分為諸元素時，你就有了證得洞見的原材料。這些分析詞彙可能最初看起來怪異，不過，一旦你切身領會到它們指的是什麼，你將發現它們極其地有用。它們不僅給心一個定止下來的好地方，而且還幫助你洞見辨識如何塑造身感，如何塑造你對當下正在發生之事，使你懂得所有這些何以都是造作的。你有來自舊業的潛勢，但你也有當下選擇的成分，那種選擇在你用這個方式分析時，就極其明顯起來。
+
+   * - When I first went to stay with Ajaan Fuang, he had me memorize Ajaan Lee’s Divine Mantra: six passages dealing with the different properties. For a long time it seemed very foreign to me until one night I was chanting the passage on the property of consciousness and Irealized that it was referring to the awareness that’s right here. This awareness. Right here. When this realization hit, it was as if a huge iceberg in my heart suddenly melted. I wasn’t dealing with some outside, foreign frame of thinking; instead, it was something extremely direct, immediate, right here and now. That was when I began to get a sense of why Ajaan Fuang had asked me to memorize the chant, why he wanted all of his students to think about their present experience in terms of the properties.
+
+     - 我最初去跟阿姜放修習時，他要我把阿姜李的《神聖咒文》\ [7]_\ 背下來：那是關於各種元素的六個段落。有很長一段時間，它對我來說似乎毫不相關，直到有一個晚上，在持誦意識元素那一段時，我意識到它指的是就在此處的覺知。就是這個覺知。就在此處。意識到這點時，彷彿我心裡的一塊巨大的冰山突然融化了。我在持誦的不是什麼外在、無關的思維框架；反之，它是某種極其直接、緊接、就在此地此刻的東西。那時候，我才開始懂得為什麼阿姜放要我背誦這段誦文，為什麼他要他的所有弟子都從元素的角度思考他們的體驗。
+
+   * - So keep this mode of analysis in mind. Try to get some sense of it as you put it to use, and you’ll find that it’s extremely useful in the practice. As with all of the Buddha’s teachings, the importance of the teaching is what you do with it, and what it does for you in helping to gain insight into how stress and suffering are created in the present moment—and how you don’t have to create them, if you pay attention, if you work at these skills.
+
+     - 因此，把這個分析模式記在心裡。在應用它時，試著領悟它，你將發現它對修持極其有用。一如佛陀的全部教說，它的重要性在於你用它做什麼，它在獲得苦的洞見方面能幫助你做什麼——也就是怎樣幫助你看見，苦在當下是如何被造作起來的，你又如何不需要造作它，假若你用心觀察，假若你修練這些技能。
 
 (根據2003年3月某日開示錄音整理，本文來自坦尼沙羅尊者開示集《禪定》)
 
