@@ -423,7 +423,7 @@
 - `禮敬定 <{filename}thanissaro/respect-for-concentration%zh-hant.rst>`_
 - `令心勝喜 <{filename}thanissaro/gladdening-the-mind%zh-hant.rst>`_
 - `六元素 <{filename}thanissaro/six-properties%zh-hant.rst>`_
-- 你內在的暴民
+- `你內在的暴民 <{filename}thanissaro/your-inner-mob%zh-hant.rst>`_
 - 凝視的平穩
 - 去, 作禪那
 - `如何跌倒 <{filename}thanissaro/how-to-fall%zh-hant.rst>`_
