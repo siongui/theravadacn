@@ -428,7 +428,7 @@
 - `去, 作禪那 <{filename}thanissaro/go-do-jhana%zh-hant.rst>`_
 - `如何跌倒 <{filename}thanissaro/how-to-fall%zh-hant.rst>`_
 - `三辨識 <{filename}thanissaro/three-perceptions%zh-hant.rst>`_
-- 四梵住
+- `四梵住 <{filename}thanissaro/the-sublime-attitudes%zh-hant.rst>`_
 - 審視你正在作什麼
 - 說事的心
 - 調入氣中
