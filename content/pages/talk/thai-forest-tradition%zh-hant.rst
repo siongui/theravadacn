@@ -429,7 +429,7 @@
 - `如何跌倒 <{filename}thanissaro/how-to-fall%zh-hant.rst>`_
 - `三辨識 <{filename}thanissaro/three-perceptions%zh-hant.rst>`_
 - `四梵住 <{filename}thanissaro/the-sublime-attitudes%zh-hant.rst>`_
-- 審視你正在作什麼
+- `審視你正在作什麼 <{filename}thanissaro/watch-what-you-are-doing%zh-hant.rst>`_
 - 說事的心
 - 調入氣中
 - 退後一步看大局
