@@ -432,7 +432,7 @@
 - `審視你正在作什麼 <{filename}thanissaro/watch-what-you-are-doing%zh-hant.rst>`_
 - `說事的心 <{filename}thanissaro/the-story-telling-mind%zh-hant.rst>`_
 - `調入氣中 <{filename}thanissaro/tuning-in-to-the-breath%zh-hant.rst>`_
-- 退後一步看大局
+- `退後一步看大局 <{filename}thanissaro/stepping-back%zh-hant.rst>`_
 - 維持的工作
 - 想像
 - 行禪: 動中之止
