@@ -433,7 +433,7 @@
 - `說事的心 <{filename}thanissaro/the-story-telling-mind%zh-hant.rst>`_
 - `調入氣中 <{filename}thanissaro/tuning-in-to-the-breath%zh-hant.rst>`_
 - `退後一步看大局 <{filename}thanissaro/stepping-back%zh-hant.rst>`_
-- 維持的工作
+- `維持的工作 <{filename}thanissaro/maintenance-work%zh-hant.rst>`_
 - 想像
 - 行禪: 動中之止
 - 一點，兩點，多點
