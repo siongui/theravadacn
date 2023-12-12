@@ -435,7 +435,7 @@
 - `退後一步看大局 <{filename}thanissaro/stepping-back%zh-hant.rst>`_
 - `維持的工作 <{filename}thanissaro/maintenance-work%zh-hant.rst>`_
 - `想像 <{filename}thanissaro/imagine%zh-hant.rst>`_
-- 行禪: 動中之止
+- `行禪: 動中之止 <{filename}thanissaro/walking-meditation-stillness-in-motion%zh-hant.rst>`_
 - 一點，兩點，多點
 - 意向的堅持
 - 浴於氣中
