@@ -436,7 +436,7 @@
 - `維持的工作 <{filename}thanissaro/maintenance-work%zh-hant.rst>`_
 - `想像 <{filename}thanissaro/imagine%zh-hant.rst>`_
 - `行禪: 動中之止 <{filename}thanissaro/walking-meditation-stillness-in-motion%zh-hant.rst>`_
-- 一點，兩點，多點
+- `一點，兩點，多點 <{filename}thanissaro/one-point-two-points-many-points%zh-hant.rst>`_
 - 意向的堅持
 - 浴於氣中
 - 自戒的陶育
