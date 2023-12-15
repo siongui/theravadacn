@@ -437,7 +437,7 @@
 - `想像 <{filename}thanissaro/imagine%zh-hant.rst>`_
 - `行禪: 動中之止 <{filename}thanissaro/walking-meditation-stillness-in-motion%zh-hant.rst>`_
 - `一點，兩點，多點 <{filename}thanissaro/one-point-two-points-many-points%zh-hant.rst>`_
-- 意向的堅持
+- `意向的堅持 <{filename}thanissaro/sticking-with-an-intention%zh-hant.rst>`_
 - 浴於氣中
 - 自戒的陶育
 - 自戒的技能
