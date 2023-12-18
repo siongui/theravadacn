@@ -439,7 +439,7 @@
 - `一點，兩點，多點 <{filename}thanissaro/one-point-two-points-many-points%zh-hant.rst>`_
 - `意向的堅持 <{filename}thanissaro/sticking-with-an-intention%zh-hant.rst>`_
 - `浴於氣中 <{filename}thanissaro/bathed-in-the-breath%zh-hant.rst>`_
-- 自戒的陶育
+- `自戒的陶育 <{filename}thanissaro/culture-of-restraint%zh-hant.rst>`_
 - 自戒的技能
 - `靜音並非必要: 禪那中的官感認知 <{filename}thanissaro/silence-is-not-mandatory%zh-hant.rst>`_
 - 禪那與正定
