@@ -512,6 +512,4 @@
 ----
 
 相關連接:
-`禪那與正定 <http://theravadacn.com/Author/ThanissaroJhanaAndRightConcentration.htm>`_
-
-.. TODO: replace 禪那與正定 link
+`禪那與正定 <{filename}jhaana-and-right-concentration%zh-hant.rst>`_

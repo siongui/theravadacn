@@ -442,7 +442,7 @@
 - `自戒的陶育 <{filename}thanissaro/culture-of-restraint%zh-hant.rst>`_
 - `自戒的技能 <{filename}thanissaro/the-skill-of-restraint%zh-hant.rst>`_
 - `靜音並非必要: 禪那中的官感認知 <{filename}thanissaro/silence-is-not-mandatory%zh-hant.rst>`_
-- 禪那與正定
+- `禪那與正定 <{filename}thanissaro/jhaana-and-right-concentration%zh-hant.rst>`_
 
 .. raw:: html
 
