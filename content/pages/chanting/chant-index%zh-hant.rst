@@ -1,0 +1,109 @@
+巴利經誦錄音下載
+================
+
+:modified: 2022-05-11
+:tags: 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
+:summary: 巴利經誦錄音下載
+:status: hidden
+:og_image: {static}/extra/talk/Ajaan\ Geoff.jpeg
+:orig_hant_link: http://www.theravadacn.org/Chanting/ChantIndex2.htm
+:orig_hans_link: http://www.theravadacn.org/Chanting/ChantIndex.htm
+:orig_eng_link: https://www.dhammatalks.org/chant_index.html
+
+
+.. role:: small
+   :class: is-size-7
+
+
+.. raw:: html
+
+   <div class="columns">
+     <div class="column has-background-grey-lighter is-two-thirds">
+
+.. raw:: html
+
+   <div class="container has-text-centered">
+     <p class="title is-2">巴利經誦錄音下載</p>
+     美國慈林寺
+     <br>
+   </div>
+
+.. raw:: html
+
+   </div>
+   <div class="column has-background-light">
+
+原音像製品版權所有 © 2006 美國慈林寺，僅限於免費發行。
+
+.. raw:: html
+
+   </div>
+   </div>
+
+----
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - 下載 MP3
+     - 巴英中 文字對照
+
+   * - Veneration
+     - 崇敬
+
+   * - Morning Chanting
+     - 早課
+
+   * - Morning Reflection on the Requisites
+     - 晨省受用品
+
+   * - Evening Chanting
+     - 晚課
+
+   * - Evening Reflection on the Requisites
+     - 晚省受用品
+
+   * - Contemplation of the Body (*ayam kho me kayo*)
+     - 身隨念
+
+   * - Five Subjects (*Jara dhammomhi*)
+     - 五禪思主題
+
+   * - Verses on Friends
+     - 關於賢友
+
+   * - Verses on Respect
+     - 關於禮敬
+
+   * - Verses on the Noble Truths
+     - 關於聖諦
+
+   * - Four Dhamma Summaries
+     - 四法要義
+
+   * - Sublime Attitude (*Aham sukhito homi*)
+     - 四梵住/四無量心
+
+   * - *Mangala Sutta*
+     - 吉祥經
+
+   * - *Cha Ratana Paritta Gatha*
+     - 三寶護衛偈
+
+   * - *Karaniya Metta Sutta*
+     - 慈經
+
+   * - *Khanda Paritta*
+     - 蘊護衛偈
+
+   * - *Buddha-Jaya-Mangala Gatha*
+     - 佛勝吉祥偈
+
+   * - *Jaya Paritta*
+     - 勝利護衛偈
+
+   * - *Dhammacakkappavattana Sutta*
+     - 轉法輪經
+
+(未完待續)

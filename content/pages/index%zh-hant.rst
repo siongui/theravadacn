@@ -30,7 +30,7 @@
 - 經文選譯;
 - 問答選;
 
-巴利課誦與錄音(I); (II)
+`巴利課誦與錄音(I) <{filename}chanting/chant-index%zh-hant.rst>`_; (II)
 
 .. https://docutils.sourceforge.io/docs/ref/rst/directives.html#container
 .. container:: container has-text-centered
