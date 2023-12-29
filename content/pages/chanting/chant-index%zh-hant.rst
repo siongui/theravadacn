@@ -49,28 +49,28 @@
    * - 下載 MP3
      - 巴英中 文字對照
 
-   * - Veneration
+   * - `Veneration <{static}/extra/chanting/01\ Veneration\ (p\ 156).mp3>`_
      - 崇敬
 
-   * - Morning Chanting
+   * - `Morning Chanting <{static}/extra/chanting/02\ Morning\ Chanting\ (p\ 1).mp3>`_
      - 早課
 
-   * - Morning Reflection on the Requisites
+   * - `Morning Reflection on the Requisites <{static}/extra/chanting/03\ Morning\ Reflection\ on\ the\ Requisites\ (p\ 10).mp3>`_
      - 晨省受用品
 
-   * - Evening Chanting
+   * - `Evening Chanting <{static}/extra/chanting/04\ Evening\ Chanting\ (p\ 13).mp3>`_
      - 晚課
 
-   * - Evening Reflection on the Requisites
+   * - `Evening Reflection on the Requisites <{static}/extra/chanting/05\ Evening\ Reflection\ on\ the\ Requisites\ (p\ 22).mp3>`_
      - 晚省受用品
 
-   * - Contemplation of the Body (*ayam kho me kayo*)
+   * - `Contemplation of the Body (*ayam kho me kayo*) <{static}/extra/chanting/06\ Contemplation\ of\ the\ Body\ (p\ 25).mp3>`_
      - 身隨念
 
-   * - Five Subjects (*Jara dhammomhi*)
+   * - `Five Subjects (*Jara dhammomhi*) <{static}/extra/chanting/07\ Five\ Recollections\ (p\ 27).mp3>`_
      - 五禪思主題
 
-   * - Verses on Friends
+   * - `Verses on Friends <{static}/extra/chanting/08\ Verses\ on\ Friends\ (p\ 28).mp3>`_
      - 關於賢友
 
    * - Verses on Respect
