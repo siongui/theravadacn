@@ -73,37 +73,37 @@
    * - `Verses on Friends <{static}/extra/chanting/08\ Verses\ on\ Friends\ (p\ 28).mp3>`_
      - 關於賢友
 
-   * - Verses on Respect
+   * - `Verses on Respect <{static}/extra/chanting/09\ Verses\ on\ Respect\ (p\ 29).mp3>`_
      - 關於禮敬
 
-   * - Verses on the Noble Truths
+   * - `Verses on the Noble Truths <{static}/extra/chanting/10\ Verses\ on\ the\ Noble\ Truths\ (p\ 29).mp3>`_
      - 關於聖諦
 
-   * - Four Dhamma Summaries
+   * - `Four Dhamma Summaries <{static}/extra/chanting/11\ Four\ Dhamma\ Summaries\ (p\ 39).mp3>`_
      - 四法要義
 
-   * - Sublime Attitude (*Aham sukhito homi*)
+   * - `Sublime Attitude (*Aham sukhito homi*) <{static}/extra/chanting/12\ Sublime\ Attitudes\ (p\ 35).mp3>`_
      - 四梵住/四無量心
 
-   * - *Mangala Sutta*
+   * - `*Mangala Sutta* <{static}/extra/chanting/13\ Mangala\ Suttam\ (p\ 90).mp3>`_
      - 吉祥經
 
-   * - *Cha Ratana Paritta Gatha*
+   * - `*Cha Ratana Paritta Gatha* <{static}/extra/chanting/14\ Cha\ Ratana\ Paritta\ Gatha\ (p\ 92).mp3>`_
      - 三寶護衛偈
 
-   * - *Karaniya Metta Sutta*
+   * - `*Karaniya Metta Sutta* <{static}/extra/chanting/15\ Karaniya\ Metta\ Sutta\ (p\ 95).mp3>`_
      - 慈經
 
-   * - *Khanda Paritta*
+   * - `*Khanda Paritta* <{static}/extra/chanting/16\ Khanda\ Paritta\ (p\ 97).mp3>`_
      - 蘊護衛偈
 
-   * - *Buddha-Jaya-Mangala Gatha*
+   * - `*Buddha-Jaya-Mangala Gatha* <{static}/extra/chanting/17\ Buddha-jaya-mangala\ Gatha\ (p\ 105).mp3>`_
      - 佛勝吉祥偈
 
-   * - *Jaya Paritta*
+   * - `*Jaya Paritta* <{static}/extra/chanting/18\ Jaya\ Paritta\ (p\ 108).mp3>`_
      - 勝利護衛偈
 
-   * - *Dhammacakkappavattana Sutta*
+   * - `*Dhammacakkappavattana Sutta* <{static}/extra/chanting/23\ Dhamma-cakkappavattana\ Sutta.mp3>`_
      - 轉法輪經
 
 (未完待續)
