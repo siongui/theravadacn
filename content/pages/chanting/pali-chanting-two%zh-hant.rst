@@ -121,4 +121,63 @@
 
 ----
 
+三歸依 Refuge
++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | (LEADER):
+       | **Handa mayaṃ buddhassa bhagavato pubba-bhāga-nama-kāraṃ karoma se:**
+     - | Now let us chant the preliminary passage in homage to the Awakened One, the Blessed One:
+     - | （領誦）現在，讓我們持誦禮敬覺者、薄伽梵的初誦文。
+
+   * - | (ALL):
+       | **[Namo tassa] bhagavato arahato sammā-sambuddhassa.** (Three times.)
+     - | Homage to the Blessed One, the Worthy One, the Rightly Self-awakened One.
+     - | (全體) 禮敬薄伽梵、阿羅漢、正自覺者。(三遍)
+
+   * - | (LEADER):
+       | **Handa mayaṃ saraṇa-gamana-pāṭhaṃ bhaṇāma se:**
+     - | 
+     - | 現在讓我們持誦歸依文:
+
+   * - | (ALL):
+       | **Buddhaṃ saraṇaṃ gacchāmi.**
+     - | I go to the Buddha for refuge.
+     - | （全體）我歸依佛。
+
+   * - | **Dhammaṃ saraṇaṃ gacchāmi.**
+     - | I go to the Dhamma for refuge.
+     - | 我歸依法。
+
+   * - | **Saṅghaṃ saraṇaṃ gacchāmi.**
+     - | I go to the Sangha for refuge.
+     - | 我歸依僧。
+
+   * - | **Dutiyampi buddhaṃ saraṇaṃ gacchāmi.**
+     - | A second time, I go to the Buddha for refuge.
+     - | 第二遍，我歸依佛。
+
+   * - | **Dutiyampi dhammaṃ saraṇaṃ gacchāmi.**
+     - | A second time, I go to the Dhamma for refuge.
+     - | 第二遍，我歸依法。
+
+   * - | **Dutiyampi saṅghaṃ saraṇaṃ gacchāmi.**
+     - | A second time, I go to the Sangha for refuge.
+     - | 第二遍，我歸依僧。
+
+   * - | **Tatiyampi buddhaṃ saraṇaṃ gacchāmi.**
+     - | A third time, I go to the Buddha for refuge.
+     - | 第三遍，我歸依佛。
+
+   * - | **Tatiyampi dhammaṃ saraṇaṃ gacchāmi.**
+     - | A third time, I go to the Dhamma for refuge.
+     - | 第三遍，我歸依法。
+
+   * - | **Tatiyampi saṅghaṃ saraṇaṃ gacchāmi.**
+     - | A third time, I go to the Sangha for refuge.
+     - | 第三遍，我歸依僧。
+
 (未完待續)
