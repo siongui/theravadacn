@@ -180,4 +180,97 @@
      - | A third time, I go to the Sangha for refuge.
      - | 第三遍，我歸依僧。
 
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **N'atthi me saraṇaṃ aññaṃ**
+       | **Buddho me saraṇaṃ varaṃ**
+       | **Etena sacca-vajjena**
+       | **Sotthi me hotu sabbadā**
+     - | I have no other refuge,
+       | The Buddha is my foremost refuge.
+       | Through the speaking of this truth, may I be blessed always.
+     - | 我別無歸依，佛是我的至上歸依。
+       | 以此真語，願我常有福佑。
+
+   * - | **N'atthi me saraṇaṃ aññaṃ**
+       | **Dhammo me saraṇaṃ varaṃ**
+       | **Etena sacca-vajjena**
+       | **Sotthi me hotu sabbadā**
+     - | I have no other refuge,
+       | The Dhamma is my foremost refuge.
+       | Through the speaking of this truth, may I be blessed always.
+     - | 我別無歸依，法是我的至上歸依。
+       | 以此真語，願我常有福佑。
+
+   * - | **N'atthi me saraṇaṃ aññaṃ**
+       | **Saṅgho me saraṇaṃ varaṃ**
+       | **Etena sacca-vajjena**
+       | **Sotthi me hotu sabbadā**
+     - | I have no other refuge,
+       | The Sangha is my foremost refuge.
+       | Through the speaking of this truth, may I be blessed always.
+     - | 我別無歸依，僧是我的至上歸依。
+       | 以此真語，願我常有福佑。
+
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Mahā-kāruṇiko nātho**
+       | **Atthāya sabba-pāṇinaṃ**
+       | **Pūretvā pāramī sabbā**
+       | **Patto sambodhim-uttamaṃ.**
+       | **Etena sacca-vajjena**
+       | **Mā hontu sabbupaddavā.**
+     - | (The Buddha), our protector, with great compassion,
+       | For the welfare of all beings,
+       | Having fulfilled all the perfections,
+       | Attained the highest self-awakening.
+     - | 懷著大悲心的保護者(佛陀)，
+       | 為著一切眾生的福祉，
+       | 圓滿成就一切波羅密，
+       | 證得至高的正自覺醒。
+       | 以此真語，
+       | 願一切困難止息。
+
+   * - | **Mahā-kāruṇiko nātho**
+       | **Hitāya sabba-pāṇinaṃ**
+       | **Pūretvā pāramī sabbā**
+       | **Patto sambodhim-uttamaṃ.**
+       | **Etena sacca-vajjena**
+       | **Mā hontu sabbupaddavā.**
+     - | (The Buddha), our protector, with great compassion,
+       | For the benefit of all beings,
+       | Having fulfilled all the perfections,
+       | Attained the highest self-awakening.
+       | Through the power of this truth, may all troubles cease to be.
+     - | 懷著大悲心的保護者(佛陀)，
+       | 為著一切眾生的利益，
+       | 圓滿成就一切波羅密，
+       | 證得至高的正自覺醒。
+       | 以此真語，
+       | 願一切困難止息。
+
+   * - | **Mahā-kāruṇiko nātho**
+       | **Sukhāya sabba-pāṇinaṃ**
+       | **Pūretvā pāramī sabbā**
+       | **Patto sambodhim-uttamaṃ.**
+       | **Etena sacca-vajjena**
+       | **Mā hontu sabbupaddavā.**
+     - | (The Buddha), our protector, with great compassion,
+       | For the happiness of all beings,
+       | Having fulfilled all the perfections,
+       | Attained the highest self-awakening.
+       | Through the power of this truth, may all troubles cease to be.
+     - | 懷著大悲心的保護者(佛陀)，
+       | 為著一切眾生的喜樂，
+       | 圓滿成就一切波羅密，
+       | 證得至高的正自覺醒。
+       | 以此真語，
+       | 願一切困難止息。
+
 (未完待續)
