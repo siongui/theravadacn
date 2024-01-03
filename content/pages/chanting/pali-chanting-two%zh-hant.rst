@@ -273,4 +273,55 @@
        | 以此真語，
        | 願一切困難止息。
 
+----
+
+.. _dhamma-cak:
+
+轉法輪經 Dhamma-cakkappavattana Sutta Setting the Wheel of Dhamma in Motion
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **[Evam-me sutaṃ,] Ekaṃ samayaṃ Bhagavā,**
+       | **Bārāṇasiyaṃ viharati isipatane migadāye.**
+       | **Tatra kho Bhagavā pañca-vaggiye bhikkhū āmantesi.**
+     - | I have heard that on one occasion the Blessed One was staying at Varanasi
+       | in the Game Refuge at Isipatana. There he addressed the group of five monks:
+     - | [如是我聞]，一時薄伽梵住波羅那斯仙人墜的鹿野苑。在那裡，薄伽梵對五眾比丘說：
+
+   * - | **"Dveme bhikkhave antā pabbajitena na sevitabbā,**
+     - | "There are these two extremes that are not to be indulged in by one who has gone forth —
+     - | "比丘們，有此兩極端，隱者\ :small:`[出家者]`\ 不可耽於其中——
+
+   * - | **Yo cāyaṃ kāmesu kāma-sukhallikānuyogo,**
+       | **Hīno gammo pothujjaniko anariyo anattha-sañhito,**
+     - | That which is devoted to sensual pleasure in sensual objects: base, vulgar, common, ignoble, unprofitable;
+     - | 於感官對象，追求感官之樂：是低級、粗鄙、庸俗、非聖、無益的;
+
+   * - | **Yo cāyaṃ atta-kilamathānuyogo,**
+       | **Dukkho anariyo anattha-sañhito.**
+     - | and that which is devoted to self-affliction: painful, ignoble, unprofitable.
+     - | 追求自虐：是痛苦、非聖、無益的。
+
+   * - | **Ete te bhikkhave ubho ante anupagamma,**
+       | **Majjhimā paṭipadā tathāgatena abhisambuddhā,**
+       | **Cakkhu-karaṇī ñāṇa-karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.**
+     - | Avoiding both of these extremes, the middle way realized by the Tathagata — producing vision, producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding.
+     - | 比丘們，避此兩極端，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃\ :small:`[解縛]`\ 。
+
+   * - | **Katamā ca sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā,**
+       | **Cakkhu-karaṇī ñāṇa-karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.**
+     - | And what is the middle way realized by the Tathagata that — producing vision, producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding?
+     - | 比丘們，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃者——是什麼？
+
+   * - | **Ayam-eva ariyo aṭṭhaṅgiko maggo,**
+       | **Seyyathīdaṃ,**
+       | **Sammā-diṭṭhi sammā-saṅkappo,**
+       | **Sammā-vācā sammā-kammanto sammā-ājīvo,**
+       | **Sammā-vāyāmo sammā-sati sammā-samādhi.**
+     - | Precisely this Noble Eightfold Path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+     - | 正是此八聖道：正見、正志、正語、正業、正命、正精進、正念、正定。
+
 (未完待續)

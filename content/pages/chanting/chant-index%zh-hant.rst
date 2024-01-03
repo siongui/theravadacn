@@ -104,6 +104,6 @@
      - 勝利護衛偈
 
    * - `*Dhammacakkappavattana Sutta* <{static}/extra/chanting/23\ Dhamma-cakkappavattana\ Sutta.mp3>`_
-     - 轉法輪經
+     - `轉法輪經 <{filename}pali-chanting-two%zh-hant.rst#dhamma-cak>`_
 
 (未完待續)
