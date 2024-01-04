@@ -324,4 +324,59 @@
      - | Precisely this Noble Eightfold Path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
      - | 正是此八聖道：正見、正志、正語、正業、正命、正精進、正念、正定。
 
+   * - | **Ayaṃ kho sā bhikkhave majjhimā paṭipadā tathāgatena abhisambuddhā,**
+       | **Cakkhu-karaṇī ñāṇa-karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṃvattati.**
+     - | This is the middle way realized by the Tathagata that — producing vision,producing knowledge — leads to calm, to direct knowledge, to self-awakening, to Unbinding.
+     - | 比丘們，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃——即此:
+
+   * - | **Idaṃ kho pana bhikkhave dukkhaṃ ariya-saccaṃ,**
+     - | Now this, monks, is the noble truth of stress:
+     - | 比丘們，此為苦聖諦：
+
+   * - | **Jātipi dukkhā jarāpi dukkhā maraṇampi dukkhaṃ,**
+     - | Birth is stressful, aging is stressful, death is stressful,
+     - | 生苦、老苦、死苦，
+
+   * - | **Soka-parideva-dukkha-domanassupāyāsāpi dukkhā,**
+     - | Sorrow, lamentation, pain, distress, & despair are stressful,
+     - | 憂、哀、痛、悲、慘苦；
+
+   * - | **Appiyehi sampayogo dukkho piyehi vippayogo dukkho yamp'icchaṃ na labhati tampi dukkhaṃ,**
+     - | Association with things disliked is stressful, separation from things liked is stressful, not getting what one wants is stressful,
+     - | 與不愛者共處苦、與愛者離別苦、所求不得苦：
+
+   * - | **Saṅkhittena pañcupādānakkhandhā dukkhā.**
+     - | In short, the five clinging-aggregates are stressful.
+     - | 簡言之，五取蘊苦。
+
+   * - | **Idaṃ kho pana bhikkhave dukkha-samudayo ariya-saccaṃ,**
+     - | And this, monks, is the noble truth of the origination of stress:
+     - | 比丘們，此為苦因聖諦：
+
+   * - | **Yāyaṃ taṇhā ponobbhavikā nandi-rāga-sahagatā tatra tatrābhinandinī,**
+       | **Seyyathīdaṃ,**
+       | **Kāma-taṇhā bhava-taṇhā vibhava-taṇhā,**
+     - | the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for no-becoming.
+     - | [苦因是:]造作再生的渴求——帶著貪與喜、於處處耽享——正是: 對感官之欲的渴求、對有的渴求、對無有的渴求\ :small:`[欲愛,有愛,無有愛]`\ 。
+
+   * - | **Idaṃ kho pana bhikkhave dukkha-nirodho ariya-saccaṃ,**
+     - | And this, monks, is the noble truth of the cessation of stress:
+     - | 比丘們，此為苦的止息聖諦：
+
+   * - | **Yo tassā yeva taṇhāya asesa-virāga-nirodho cāgo paṭinissaggo mutti anālayo,**
+     - | the remainderless fading & cessation, renunciation, relinquishment, release,& letting go of that very craving.
+     - | 對該渴求的無餘離貪、止息、捨離、棄絕、解脫、放開。
+
+   * - | **Idaṃ kho pana bhikkhave dukkha-nirodha-gāminī-paṭipadā ariya-saccaṃ,**
+     - | And this, monks, is the noble truth of the way of practice leading to the cessation of stress:
+     - | 比丘們，此為趨向止息苦之道聖諦：
+
+   * - | **Ayam-eva ariyo aṭṭhaṅgiko maggo,**
+       | **Seyyathīdaṃ,**
+       | **Sammā-diṭṭhi sammā-saṅkappo,**
+       | **Sammā-vācā sammā-kammanto sammā-ājīvo,**
+       | **Sammā-vāyāmo sammā-sati sammā-samādhi.**
+     - | precisely this Noble Eightfold Path — right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+     - | 正是此八聖道——正見、正志、正語、正業、正命、正精進、正念、正定。
+
 (未完待續)
