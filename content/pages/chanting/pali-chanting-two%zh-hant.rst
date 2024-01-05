@@ -379,4 +379,76 @@
      - | precisely this Noble Eightfold Path — right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
      - | 正是此八聖道——正見、正志、正語、正業、正命、正精進、正念、正定。
 
+   * - | **Idaṃ dukkhaṃ ariya-saccanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illuminationarose within me with regard to things never heard before: 'This is the noble truth of stress.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明\ :small:`[眼生智生慧生明生光生]`\ ： ‘此為苦聖諦’。
+
+   * - | **Taṃ kho pan'idaṃ dukkhaṃ ariya-saccaṃ pariññeyyanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of stress is to be comprehended.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此苦聖諦需全知’。
+
+   * - | **Taṃ kho pan'idaṃ dukkhaṃ ariya-saccaṃ pariññātanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of stress has been comprehended.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此苦聖諦已全知’。
+
+   * - | **Idaṃ dukkha-samudayo ariya-saccanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of the origination of stress.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此為苦因聖諦’。
+
+   * - | **Taṃ kho pan'idaṃ dukkha-samudayo ariya-saccaṃ pahātabbanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the origination of stress is to be abandoned.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此苦因聖諦需斷離’。
+
+   * - | **Taṃ kho pan'idaṃ dukkha-samudayo ariya-saccaṃ pahīnanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the origination of stress has been abandoned.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此苦因聖諦已斷離’。
+
+   * - | **Idaṃ dukkha-nirodho ariya-saccanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of the cessation of stress.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此為苦止息聖諦’。
+
+   * - | **Taṃ kho pan'idaṃ dukkha-nirodho ariya-saccaṃ sacchikātabbanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the cessation of stress is to be directly experienced.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此苦止息聖諦需直證’。
+
+   * - | **Taṃ kho pan'idaṃ dukkha-nirodho ariya-saccaṃ sacchikatanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the cessation of stress has been directly experienced.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此苦止息聖諦已直證’。
+
+   * - | **Idaṃ dukkha-nirodha-gāminī-paṭipadā ariya-saccanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of the way of practice leading to the cessation of stress.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此為趨向苦止息道聖諦’。
+
+   * - | **Taṃ kho pan'idaṃ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṃ bhāvetabbanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the way of practice leading to the cessation of stress is to be developed.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此趨向苦止息道聖諦需修習’。
+
+   * - | **Taṃ kho pan'idaṃ dukkha-nirodha-gāminī-paṭipadā ariya-saccaṃ bhāvitanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṃ udapādi ñāṇaṃ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the way of practice leading to the cessation of stress has been developed.'
+     - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此趨向苦止息道聖諦已修成’。
+
 (未完待續)
