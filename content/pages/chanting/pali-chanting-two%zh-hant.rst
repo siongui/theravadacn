@@ -451,4 +451,76 @@
      - | Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This noble truth of the way of practice leading to the cessation of stress has been developed.'
      - | 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此趨向苦止息道聖諦已修成’。
 
+   * - | **Yāvakīvañca me bhikkhave imesu catūsu ariya-saccesu,**
+       | **Evan-ti-parivaṭṭaṃ dvādas'ākāraṃ yathābhūtaṃ ñāṇa-dassanaṃ na suvisuddhaṃ ahosi,**
+       | **Neva tāvāhaṃ bhikkhave sadevake loke samārake sabrahmake,**
+       | **Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya,**
+       | **Anuttaraṃ sammā-sambodhiṃ abhisambuddho paccaññāsiṃ.**
+     - | And, monks, as long as this knowledge & vision of mine — with its three rounds & twelve permutations concerning these four noble truths as they actually are — was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its deities, Maras, & Brahmas, with its contemplatives & priests, its royalty & common people.
+     - | 比丘們，只要我對此四聖諦之三轉十二相的如實知見尚不純淨，比丘們，我未在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。
+
+   * - | **Yato ca kho me bhikkhave imesu catūsu ariya-saccesu,**
+       | **Evan-ti-parivaṭṭaṃ dvādas'ākāraṃ yathābhūtaṃ ñāṇa-dassanaṃ suvisuddhaṃ ahosi,**
+       | **Athāhaṃ bhikkhave sadevake loke samārake sabrahmake,**
+       | **Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya,**
+       | **Anuttaraṃ sammā-sambodhiṃ abhisambuddho paccaññāsiṃ.**
+     - | But as soon as this knowledge & vision of mine — with its three rounds & twelve permutations concerning these four noble truths as they actually are — was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its deities, Maras, & Brahmas, with its contemplatives & priests, its royalty & commonfolk.
+     - | 然而，一旦我對此四聖諦之三轉十二相的如實知見真正純淨，比丘們，我即在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。
+
+   * - | **Ñāṇañca pana me dassanaṃ udapādi,**
+       | **Akuppā me vimutti,**
+       | **Ayam-antimā jāti,**
+       | **N'atthidāni punabbhavoti."**
+     - | The knowledge & vision arose in me: 'My release is unshakable. This is the last birth. There is now no further becoming.'"
+     - | 我內心升起此知見: ‘我的解脫不可動搖。此為最後一生。今不再有。’ ”
+
+   * - | **Idam-avoca Bhagavā,**
+       | **Attamanā pañca-vaggiyā bhikkhū Bhagavato bhāsitaṃ abhinanduṃ.**
+     - | That is what the Blessed One said. Gratified, the group of five monks delighted at his words.
+     - | 此為薄伽梵所說。五眾比丘對薄伽梵之說隨喜、心悅。
+
+   * - | **Imasmiñca pana veyyā-karaṇasmiṃ bhaññamāne,**
+       | **Āyasmato Koṇḍaññassa virajaṃ vītamalaṃ dhamma-cakkhuṃ udapādi,**
+     - | And while this explanation was being given, there arose to Ven. Kondañña the dustless, stainless Dhamma eye:
+     - | 在此解說期間，尊者憍陳如升起了無塵、無垢的法眼：
+
+   * - | **Yaṅkiñci samudaya-dhammaṃ sabban-taṃ nirodha-dhammanti.**
+     - | "Whatever is subject to origination is all subject to cessation."
+     - | “凡緣起者，皆趨止息。”\ :small:`[凡緣起或有因之法,皆為止息之法]`
+
+   * - | **Pavattite ca Bhagavatā dhamma-cakke,**
+       | **Bhummā devā saddamanussāvesuṃ,**
+     - | Now when the Blessed One had set the Wheel of Dhamma in motion, the earth deities cried out:
+     - | 薄伽梵轉法輪之際，地神們大呼:
+
+   * - | **"Etam-Bhagavatā Bārāṇasiyaṃ isipatane migadāye anuttaraṃ dhamma-cakkaṃ pavattitaṃ,**
+       | **Appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti."**
+     - | "At Varanasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by priest or contemplative, deity, Māra, Brahma, or anyone at all in the cosmos."
+     - | “在波羅那斯仙人墜的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神摩羅梵天、宇宙中任何者，皆不能阻止。”
+
+   * - | **Bhummānaṃ devānaṃ saddaṃ sutvā,**
+       | **Cātummahārājikā devā saddamanussāvesuṃ.**
+     - | On hearing the earth deities' cry, the deities of the Heaven of the Four Kings took up the cry.
+     - | 聞地神之呼聲，四大王天們大呼。
+
+   * - | **Cātummahārājikānaṃ devānaṃ saddaṃ sutvā,**
+       | **Tāvatiṃsā devā saddamanussāvesuṃ.**
+     - | On hearing the cry of the deities of the Heaven of the Four Kings, the deities of the Heaven of the Thirty-three took up the cry.
+     - | 聞四大王天之呼聲，三十三天們大呼。
+
+   * - | **Tāvatiṃsānaṃ devānaṃ saddaṃ sutvā,**
+       | **Yāmā devā saddamanussāvesuṃ.**
+     - | On hearing the cry of the deities of the Heaven of the Thirty-three, the Yama deities took up the cry.
+     - | 聞三十三天之呼聲，夜摩天們大呼。
+
+   * - | **Yāmānaṃ devānaṃ saddaṃ sutvā,**
+       | **Tusitā devā saddamanussāvesuṃ.**
+     - | On hearing the cry of the Yama deities, the Tusita deities took up the cry.
+     - | 聞夜摩天之呼聲，兜率天們大呼。
+
+   * - | **Tusitānaṃ devānaṃ saddaṃ sutvā,**
+       | **Nimmānaratī devā saddamanussāvesuṃ.**
+     - | On hearing the cry of the Tusita deities, the Nimmanarati deities took up the cry.
+     - | 聞兜率天之呼聲，化樂天們大呼。
+
 (未完待續)
