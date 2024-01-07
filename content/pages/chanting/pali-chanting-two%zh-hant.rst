@@ -638,4 +638,35 @@
      - | Whatever they do, for good or for evil, to that will they fall heir.
      - | 無論所作，為善為惡，他們自受業報。
 
-(未完待續)
+----
+
+福德迴向 Dedication of Merit
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Sabbe sattā sadā hontu**
+       | **Averā sukha-jīvino.**
+     - | May all beings live happily,
+       | always free from animosity.
+     - | 願一切眾生生活幸福，常離敵怨。
+       | (泰語略)
+
+   * - | **Kataṃ puñña-phalaṃ mayhaṃ**
+       | **Sabbe bhāgī bhavantu te.**
+     - |
+     - | 願一切眾生分享我善行的福果。
+       | (泰語略)
+
+----
+
+.. container:: columns is-flex is-centered
+
+  .. image:: {static}/extra/chedigoldsm.jpg
+     :alt: 支提（巴利語：चेतिय），又作支帝、枝提、支陀、支征、脂帝、制多、制底、制底耶，意譯積集、聚相，原意指佛滅度火化之後以土石﹑香柴積聚而成的紀念物，現常譯為「佛塔」。
+
+..
+   Center image in Bulma - Stack Overflow
+   https://stackoverflow.com/a/59447534
