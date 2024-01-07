@@ -523,4 +523,46 @@
      - | On hearing the cry of the Tusita deities, the Nimmanarati deities took up the cry.
      - | 聞兜率天之呼聲，化樂天們大呼。
 
+   * - | **Nimmānaratīnaṃ devānaṃ saddaṃ sutvā,**
+       | **Paranimmita-vasavattī devā saddamanussāvesuṃ.**
+     - | On hearing the cry of the Nimmanarati deities, the Paranimmita-vasavatti deities took up the cry.
+     - | 聞化樂天之呼聲，他化自在天們大呼。
+
+   * - | **Paranimmita-vasavattīnaṃ devānaṃ saddaṃ sutvā,**
+       | **Brahma-kāyikā devā saddamanussāvesuṃ,**
+     - | On hearing the cry of the Paranimmita-vasavatti deities, the deities of Brahma's retinue took up the cry:
+     - | 聞他化自在天之呼聲，梵眾天們大呼:
+
+   * - | **"Etam-Bhagavatā Bārāṇasiyaṃ isipatane migadāye**
+       | **anuttaraṃ dhamma-cakkaṃ pavattitaṃ,**
+       | **Appaṭivattiyaṃ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti."**
+     - | "At Varanasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by priest or contemplative, deity, Māra, Brahma, or anyone at all in the cosmos."
+     - | “在波羅那斯仙人墜的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神魔羅梵天、宇宙中任何者，皆不能阻止。”
+
+   * - | **Itiha tena khaṇena tena muhuttena,**
+       | **Yāva brahma-lokā saddo abbhuggacchi.**
+     - | So in that moment, that instant, the cry shot right up to the Brahma world.
+     - | 於是，那時刻、那瞬間，呼聲直達梵天界。
+
+   * - | **Ayañca dasa-sahassī loka-dhātu,**
+       | **Saṅkampi sampakampi sampavedhi,**
+     - | And this ten-thousandfold cosmos shivered & quivered & quaked,
+     - | 此十千宇宙在顫動、抖動、震動，
+
+   * - | **Appamāṇo ca oḷāro obhāso loke pāturahosi,**
+       | **Atikkammeva devānaṃ devānubhāvaṃ.**
+     - | while a great, measureless radiance appeared in the cosmos, surpassing the effulgence of the deities.
+     - | 一道大無量光出現在宇宙間，勝於天神的燦爛。
+
+   * - | **Atha kho Bhagavā udānaṃ udānesi,**
+       | **"Aññāsi vata bho Koṇḍañño,**
+       | **Aññāsi vata bho Koṇḍaññoti."**
+     - | Then the Blessed One exclaimed: "So you really know, Kondañña? So you really know?"
+     - | 其時，薄伽梵大聲道: “憍陳如真悟了? 憍陳如真悟了。”
+
+   * - | **Itihidaṃ āyasmato Koṇḍaññassa,**
+       | **Añña-koṇḍañño'tveva nāmaṃ, ahosīti.**
+     - | And that is how Ven. Kondañña acquired the name Añña-Kondañña — Kondañña who knows.
+     - | 故此，尊者憍陳如得名: 阿念-憍陳如\ :small:`[覺悟的憍陳如]`\ 。
+
 (未完待續)
