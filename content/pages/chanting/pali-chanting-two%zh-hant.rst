@@ -565,4 +565,77 @@
      - | And that is how Ven. Kondañña acquired the name Añña-Kondañña — Kondañña who knows.
      - | 故此，尊者憍陳如得名: 阿念-憍陳如\ :small:`[覺悟的憍陳如]`\ 。
 
+----
+
+四梵住 The Sublime Attitudes
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Ahaṃ sukhito homi**
+     - | May I be happy.
+     - | 願我得幸福。
+
+   * - | **Niddukkho homi**
+     - | May I be free from stress & pain.
+     - | 願我離苦痛。
+
+   * - | **Avero homi**
+     - | May I be free from animosity.
+     - | 願我離敵怨。
+
+   * - | **Abyāpajjho homi**
+     - | May I be free from oppression.
+     - | 願我離壓迫。
+
+   * - | **Anīgho homi**
+     - | May I be free from trouble.
+     - | 願我離困難。
+
+   * - | **Sukhī attānaṃ pariharāmi**
+     - | May I look after myself with ease.
+     - | 願我輕鬆照顧自己。
+
+   * - | (**METTĀ** — GOOD WILL)慈
+       | **Sabbe sattā sukhitā hontu.**
+     - | May all living beings be happy.
+     - | 願一切眾生得幸福。
+
+   * - | **Sabbe sattā averā hontu.**
+     - | May all living beings be free from animosity.
+     - | 願一切眾生離敵怨。
+
+   * - | **Sabbe sattā abyāpajjhā hontu.**
+     - | May all living beings be free from oppression.
+     - | 願一切眾生離壓迫。
+
+   * - | **Sabbe sattā anīghā hontu.**
+     - | May all living beings be free from trouble.
+     - | 願一切眾生離困難。
+
+   * - | **Sabbe sattā sukhī attānaṃ pariharantu.**
+     - | May all living beings look after themselves with ease.
+     - | 願一切眾生輕鬆照顧自己。
+
+   * - | (**KARUṆĀ** — COMPASSION)悲
+       | **Sabbe sattā sabba-dukkhā pamuccantu.**
+     - | May all living beings be freed from all stress & pain.
+     - | 願一切眾生離一切苦痛。
+
+   * - | (**MUDITĀ** — APPRECIATION)喜
+       | **Sabbe sattā laddha-sampattito mā vigacchantu.**
+     - | May all living beings not be deprived of the good fortune they have attained.
+     - | 願一切眾生不失所得的善運。
+
+   * - | (**UPEKKHĀ** — EQUANIMITY)捨
+       | **Sabbe sattā kammassakā kamma-dāyādā kamma-yonī kamma-bandhū kamma-paṭisaraṇā.**
+     - | All living beings are the owners of their actions, heir to their actions, born of their actions, related through their actions, and live dependent on their actions.
+     - | 一切眾生是自己業的擁有者、業的繼承者、緣業而生、因業得眷屬、依業而活。
+
+   * - | **Yaṃ kammaṃ karissanti kalyāṇaṃ vā pāpakaṃ vā tassa dāyādā bhavissanti.**
+     - | Whatever they do, for good or for evil, to that will they fall heir.
+     - | 無論所作，為善為惡，他們自受業報。
+
 (未完待續)
