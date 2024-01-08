@@ -50,7 +50,7 @@
      - 巴英中 文字對照
 
    * - `Veneration <{static}/extra/chanting/01\ Veneration\ (p\ 156).mp3>`_
-     - 崇敬
+     - `崇敬 <{filename}pali-chanting-verse%zh-hant.rst#veneration>`_
 
    * - `Morning Chanting <{static}/extra/chanting/02\ Morning\ Chanting\ (p\ 1).mp3>`_
      - 早課
