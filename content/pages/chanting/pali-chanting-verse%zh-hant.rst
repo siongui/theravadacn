@@ -103,6 +103,72 @@
 
 ----
 
+.. _morning-chanting:
+
+早課 Morning Chanting
++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Arahaṃ sammā -sambuddho bhagavā.**
+     - | The Blessed One is Worthy & Rightly Self-awakened.
+     - | 世尊\ :small:`[薄伽梵,吉祥者]`\ 是阿羅漢\ :small:`[應供,尊貴者]`\ 、正自覺醒者。
+
+   * - | **Buddhaṃ bhagavantaṃ abhivā demi.**
+     - | I bow down before the Awakened, Blessed One.
+     - | 我頂禮世尊、覺悟者。(一拜)
+
+   * - | **Svā kkhā to bhagavatā dhammo.**
+     - | The Dhamma is well-expounded by the Blessed One.
+     - | 法由世尊善說。
+
+   * - | **Dhammaṃ namassā mi.**
+     - | I pay homage to the Dhamma.
+     - | 我崇敬法。(一拜)
+
+   * - | **Supaṭipanno bhagavato sā vaka-saṅgho.**
+     - | The Sangha of the Blessed One's disciples has practiced well.
+     - | 世尊的聲聞僧伽弟子行道正善。
+
+   * - | **Saṅghaṃ namā mi.**
+     - | I pay respect to the Sangha.
+     - | 我禮敬僧伽。(一拜)
+
+   * - |
+     - | INVOCATION (by leader):
+     - | 起誦(領誦者):
+
+   * - | **Yam-amha kho mayaṃ bhagavantaṃ saraṇaṃ gatā,**
+     - | We have gone for refuge to the Blessed One,
+     - | 我們已歸依世尊,
+
+   * - | **(uddissa pabbajitā) yo no bhagavā satthā**
+     - | (have gone forth on account of) the Blessed One who is our Teacher
+     - | (已出家，以)世尊為導師,
+
+   * - | **yassa ca mayaṃ bhagavato dhammaṃ rocema.**
+     - | and in whose Dhamma we delight.
+     - | 樂住於世尊之法。
+
+   * - | **Imehi sakkā rehi taṃ bhagavantaṃ sasaddhammaṃ sasā vaka-saṅghaṃ abhipūjayā ma.**
+     - | With these offerings we worship most highly that Blessed One together with the True Dhamma & the Sangha of his disciples.
+     - | 以這些供奉，我們對世尊、真法、他的聲聞僧伽弟子，致以最高的禮敬。
+
+   * - | **Handa mayaṃ buddhassa bhagavato pubba-bhā ga-namakā raṃ karoma se:**
+     - | Now let us chant the preliminary passage in homage to the Awakened One, the Blessed One:
+     - | 現在，讓我們持誦禮敬覺者、世尊的初誦文:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+   * - | **[Namo tassa] bhagavato arahato sammā -sambuddhassa.** (Three times.)
+     - | Homage to the Blessed One, the Worthy One, the Rightly Self-awakened One.
+     - | 禮敬世尊、阿羅漢、正自覺者。(三遍)
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting

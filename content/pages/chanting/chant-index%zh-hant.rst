@@ -53,7 +53,7 @@
      - `崇敬 <{filename}pali-chanting-verse%zh-hant.rst#veneration>`_
 
    * - `Morning Chanting <{static}/extra/chanting/02\ Morning\ Chanting\ (p\ 1).mp3>`_
-     - 早課
+     - `早課 <{filename}pali-chanting-verse%zh-hant.rst#morning-chanting>`_
 
    * - `Morning Reflection on the Requisites <{static}/extra/chanting/03\ Morning\ Reflection\ on\ the\ Requisites\ (p\ 10).mp3>`_
      - 晨省受用品
