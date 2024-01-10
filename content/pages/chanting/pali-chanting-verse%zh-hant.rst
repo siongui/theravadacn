@@ -169,6 +169,60 @@
 
 ----
 
+讚頌佛 Praise for the Buddha
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+       | (ALL)"
+     - | (領誦者):
+
+   * - | **Handa mayaṃ buddhābhithutiṃ karoma se:**
+     - | Now let us give high praise to the Awakened One:
+     - | 現在讓我們讚頌佛陀:
+
+   * - |
+     - | (ALL):
+     - | (全體)
+
+   * - | **[Yo so tathā gato] arahaṃ sammā -sambuddho,**
+     - | He who has attained the Truth, the Worthy One, Rightly Self-awakened,
+     - | 如來\ :small:`[得悟真相者]`\ 、尊貴者、正自覺者，
+
+   * - | **Vijjā -caraṇa-sampanno sugato lokavidū,**
+     - | consummate in knowledge & conduct, one who has gone the good way, knower of the cosmos,
+     - | 明行足、善逝者、世間解，
+
+   * - | **Anuttaro purisa-damma-sā rathi satthā  deva-manussā naṃ buddho bhagavā ;**
+     - | unexcelled trainer of those who can be taught, teacher of human & divine beings; awakened; blessed;
+     - | 無上調禦者、天人師、佛、世尊;
+
+   * - | **Yo imaṃ lokaṃ sadevakaṃ samā rakaṃ sabrahmakaṃ,**
+       | **Sassamaṇa-brā hmaṇiṃ pajaṃ sadeva-manussaṃ sayaṃ abhiññā  sacchikatvā  pavedesi.**
+     - | who made known — having realized it through direct knowledge — this world with its devas, mā ras, & brahmas, its generations with their contemplatives & priests, their rulers & common people;
+     - | 他在親證了法之後，在這個有天神、魔羅、梵天、行者僧侶、王者平民的世界上宣講;
+
+   * - | **Yo dhammaṃ desesi ādi-kalyāṇaṃ majjhe-kalyāṇaṃ pariyosāna-kalyāṇaṃ;**
+     - | who explained the Dhamma fine in the beginning, fine in the middle, fine in the end;
+     - | 他解說的法義，始善、中善、後善;
+
+   * - | **Sātthaṃ sabyañjanaṃ kevala-paripuṇṇaṃ parisuddhaṃ bhagavantaṃ sirasā namāmi.**
+     - | who expounded the holy life both in its particulars & in its essence, entirely complete, surpassingly pure:
+     - | 他講述的梵行，在細節與要義上，圓滿具足、清淨非凡。
+
+   * - | **Tam-ahaṃ bhagavantaṃ abhipūjayāmi,**
+       | **Tam-ahaṃ bhagavantaṃ sirasā namāmi.**
+     - | I worship most highly that Blessed One,
+       | To that Blessed One I bow my head down.
+     - | 我向那位世尊致以最高的崇敬。
+       | 我俯首頂禮那位世尊。(一拜)
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
