@@ -223,6 +223,106 @@
 
 ----
 
+讚頌法 Praise for the Dhamma
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ dhammābhithutiṃ karoma se:**
+     - | Now let us give high praise to the Dhamma:
+     - | 現在讓我們讚頌法:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Yo so svākkhāto] bhagavatā dhammo,**
+     - | The Dhamma well-expounded by the Blessed One,
+     - | 法由世尊善說，
+
+   * - | **Sandiṭṭhiko akāliko ehipassiko,**
+     - | to be seen here & now, timeless, inviting all to come & see,
+     - | 即時即地可見、無時相、邀人親證，
+
+   * - | **Opanayiko paccattaṃ veditabbo viññūhi:**
+     - | leading inward, to be seen by the wise for themselves:
+     - | 向內觀照、由智者各自證知。
+
+   * - | **Tam-ahaṃ dhammaṃ abhipūjayāmi,**
+       | **Tam-ahaṃ dhammaṃ sirasā namāmi.**
+     - | I worship most highly that Dhamma,
+       | To that Dhamma I bow my head down.
+     - | 我向那\ :small:`[真]`\ 法致以最高的崇敬。
+       | 我俯首頂禮那\ :small:`[真]`\ 法。(一拜)
+
+----
+
+讚頌僧 Praise for the Sangha
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ saṅghābhithutiṃ karoma se:**
+     - | Now let us give high praise to the Sangha:
+     - | 現在讓我們讚頌僧伽:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | [Yo so supaṭipanno] bhagavato sāvaka-saṅgho,
+     - | The Sangha of the Blessed One's disciples who have practiced well,
+     - | 世尊的聲聞僧伽弟子行道正善，
+
+   * - | **Uju-paṭipanno bhagavato sāvaka-saṅgho,**
+     - | the Sangha of the Blessed One's disciples who have practiced straightforwardly,
+     - | 世尊的聲聞僧伽弟子行道正直，
+
+   * - | **Ñāya-paṭipanno bhagavato sāvaka-saṅgho,**
+     - | the Sangha of the Blessed One's disciples who have practiced methodically,
+     - | 世尊的聲聞僧伽弟子行道有方，
+
+   * - | **Sāmīci-paṭipanno bhagavato sāvaka-saṅgho,**
+     - | the Sangha of the Blessed One's disciples who have practiced masterfully,
+     - | 世尊的聲聞僧伽弟子行道卓越，
+
+   * - | **Yadidaṃ cattāri purisa-yugāni aṭṭha purisa-puggalā:**
+     - | i.e., the four pairs — the eight types — of Noble Ones:
+     - | 他們是四雙、八輩聖者:
+
+   * - | **Esa bhagavato sāvaka-saṅgho —**
+     - | That is the Sangha of the Blessed One's disciples —
+     - | 那便是世尊的聲聞僧伽弟子——
+
+   * - | **Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo,**
+     - | worthy of gifts, worthy of hospitality, worthy of offerings, worthy of respect,
+     - | 值得佈施、值得禮遇、值得供養、值得尊敬，
+
+   * - | **Anuttaraṃ puññakkhettaṃ lokassa:**
+     - | the incomparable field of merit for the world:
+     - | 是世界的無上福田:
+
+   * - | **Tam-ahaṃ saṅghaṃ abhipūjayāmi,**
+       | **Tam-ahaṃ saṅghaṃ sirasā namāmi.**
+     - | I worship most highly that Sangha,
+       | To that Sangha I bow my head down.
+     - | 我向那個僧伽致以最高的崇敬。
+       | 我俯首頂禮那個僧伽。(一拜)
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
