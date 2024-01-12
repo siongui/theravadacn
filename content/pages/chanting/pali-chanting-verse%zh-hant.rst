@@ -323,6 +323,235 @@
 
 ----
 
+禮敬三寶與警悟出離偈 Salutation to the Triple Gem & The Topics for Chastened Dispassion
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ ratanattayappaṇāma-gāthāyo ceva saṃvega-vatthu-paridīpaka-pāṭhañca bhaṇāma se:**
+     - | Now let us recite the stanzas in salutation to the Triple Gem together with the passage on the topics inspiring a sense of chastened dispassion:
+     - | 現在讓我們誦持禮敬三寶與警悟出離偈:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Buddho susuddho] karuṇā-mahaṇṇavo,**
+       | **Yoccanta-suddhabbara-ñāṇa-locano,**
+       | **Lokassa pāpūpakilesa-ghātako:**
+       | **Vandāmi buddhaṃ aham-ādarena taṃ.**
+     - | The Buddha, well-purified, with ocean-like compassion,
+       | Possessed of the eye of knowledge completely purified,
+       | Destroyer of the evils & corruptions of the world:
+       | I revere that Buddha with devotion.
+     - | 佛陀圓滿清淨，悲心似海，擁有具足清淨的智慧眼，
+       | 是世間邪惡與垢染的摧毀者，我虔誠地禮敬那位佛陀。
+
+   * - | **Dhammo padīpo viya tassa satthuno,**
+       | **Yo magga-pākāmata-bhedabhinnako,**
+       | **Lokuttaro yo ca tad-attha-dīpano:**
+       | **Vandāmi dhammaṃ aham-ādarena taṃ.**
+     - | The Teacher's Dhamma, like a lamp,
+       | divided into Path, Fruition, & the Deathless,
+       | both transcendent (itself) & showing the way to that goal:
+       | I revere that Dhamma with devotion.
+     - | 世尊之法，如一盞明燈，分爲道、果、涅槃，
+       | 既自超世、又指明超世之道，我虔誠地禮敬那樣的法。
+
+   * - | **Saṅgho sukhettābhyatikhetta-saññito,**
+       | **Yo diṭṭha-santo sugatānubodhako,**
+       | **Lolappahīno ariyo sumedhaso:**
+       | **Vandāmi saṅghaṃ aham-ādarena taṃ.**
+     - | The Sangha, called a field better than the best,
+       | who have seen peace, awakening after the one gone the good way,
+       | who have abandoned carelessness — the noble ones, the wise:
+       | I revere that Sangha with devotion.
+     - | 僧伽被稱爲無上福田，他們追隨善逝者證得寧靜、覺醒，
+       | 已斷除不慎——是聖者與智者:
+       | 我虔誠地禮敬那個僧伽。
+
+   * - | **Iccevam-ekant'abhipūjaneyyakaṃ,**
+       | **Vatthuttayaṃ vandayatābhisaṅkhataṃ,**
+       | **Puññaṃ mayā yaṃ mama sabbupaddavā,**
+       | **Mā hontu ve tassa pabhāva-siddhiyā.**
+     - | By the power of the merit I have made
+       | in giving reverence to the Triple Gem
+       | worthy of only the highest homage,
+       | may all my obstructions cease to be.
+     - | 三寶值得最高的禮敬，以此崇敬三寶的福德之力，願我的一切障礙止息。
+
+   * - | **Idha tathāgato loke uppanno arahaṃ sammā-sambuddho,**
+     - | Here, One attained to the Truth, Worthy & Rightly Self-awakened, has appeared in the world,
+     - | 在此，如來、阿羅漢、正自覺悟者，已現於世，
+
+   * - | **Dhammo ca desito niyyāniko upasamiko parinibbāniko sambodhagāmī sugatappavedito.**
+     - | And Dhamma is explained, leading out (of samsara), calming, tending toward total Nibbana, going to self-awakening, declared by one who has gone the good way.
+     - | 所講解的法，引導出離(輪迴)、得寧靜、趨向究竟涅槃、得自覺醒、由善逝者宣說。
+
+   * - | **Mayan-taṃ dhammaṃ sutvā evaṃ jānāma,**
+     - | Having heard the Dhamma, we know this:
+     - | 我們聞法而知:
+
+   * - | **Jātipi dukkhā jarāpi dukkhā maraṇampi dukkhaṃ,**
+     - | Birth is stressful, aging is stressful, death is stressful,
+     - | 生苦、老苦、 死苦，
+
+   * - | **Soka-parideva-dukkha-domanassupāyāsāpi dukkhā,**
+     - | Sorrow, lamentation, pain, distress, & despair are stressful,
+     - | 憂、哀、痛、悲、慘苦,
+
+   * - | **Appiyehi sampayogo dukkho piyehi vippayogo dukkho yamp'icchaṃ na labhati tampi dukkhaṃ,**
+     - | Association with things disliked is stressful, separation from things liked is stressful, not getting what one wants is stressful,
+     - | 與不愛者相處苦、與愛者離別苦、所求不得苦,
+
+   * - | **Saṅkhittena pañcupādānakkhandhā dukkhā,**
+     - | In short, the five clinging-aggregates are stressful,
+     - | 簡言之，五種執取之蘊苦，
+
+   * - | **Seyyathīdaṃ:**
+     - | Namely:
+     - | 即:
+
+   * - | **Rūpūpādānakkhandho,**
+     - | Form as a clinging-aggregate,
+     - | 色爲執蘊，
+
+   * - | **Vedanūpādānakkhandho,**
+     - | Feeling as a clinging-aggregate,
+     - | 受爲執蘊，
+
+   * - | **Saññūpādānakkhandho,**
+     - | Perception as a clinging-aggregate,
+     - | 想爲執蘊，
+
+   * - | **Saṅkhārūpādānakkhandho,**
+     - | Mental processes as a clinging-aggregate,
+     - | 行爲執蘊，
+
+   * - | **Viññāṇūpādānakkhandho.**
+     - | Consciousness as a clinging-aggregate.
+     - | 識爲執蘊，
+
+   * - | **Yesaṃ pariññāya,**
+       | **Dharamāno so bhagavā,**
+       | **Evaṃ bahulaṃ sāvake vineti,**
+     - | So that they might fully understand this, the Blessed One, while still alive, often instructed his listeners in this way;
+     - | 世尊住世時，爲使聽衆詳解這\ :small:`[五蘊]`\ ，常如是教誨弟子，
+
+   * - | **Evaṃ bhāgā ca panassa bhagavato sāvakesu anusāsanī,**
+       | **Bahulaṃ pavattati:**
+     - | Many times did he emphasize this part of his admonition:
+     - | 曾多次強調這段教誡:
+
+   * - | **"Rūpaṃ aniccaṃ,**
+     - | "Form is inconstant,
+     - | 色無常，
+
+   * - | **Vedanā aniccā,**
+     - | Feeling is inconstant,
+     - | 受無常，
+
+   * - | **Saññā aniccā,**
+     - | Perception is inconstant,
+     - | 想無常，
+
+   * - | **Saṅkhārā aniccā,**
+     - | Mental processes are inconstant,
+     - | 行無常，
+
+   * - | **Viññāṇaṃ aniccaṃ,**
+     - | Consciousness is inconstant,
+     - | 識無常，
+
+   * - | **Rūpaṃ anattā,**
+     - | Form is not-self,
+     - | 色非我，
+
+   * - | **Vedanā anattā,**
+     - | Feeling is not-self,
+     - | 受非我，
+
+   * - | **Saññā anattā,**
+     - | Perception is not-self,
+     - | 想非我，
+
+   * - | **Saṅkhārā anattā,**
+     - | Mental processes are not-self,
+     - | 行非我，
+
+   * - | **Viññāṇaṃ anattā,**
+     - | Consciousness is not-self,
+     - | 識非我，
+
+   * - | **Sabbe saṅkhārā aniccā,**
+     - | All processes are inconstant,
+     - | 諸行無常，
+
+   * - | **Sabbe dhammā anattāti."**
+     - | All phenomena are not-self."
+     - | 諸法非我，
+
+   * - | **Te** (WOMEN: **Tā**  女衆念: **Tā** )
+       | **mayaṃ,**
+       | **Otiṇṇāmha jātiyā jarā-maraṇena,**
+       | **Sokehi paridevehi dukkhehi domanassehi upāyāsehi,**
+       | **Dukkh'otiṇṇā dukkha-paretā,**
+     - | All of us, beset by birth, aging, & death, by sorrows, lamentations, pains, distresses, & despairs, beset by stress, overcome with stress, (consider),
+     - | 我們都爲生、老、死所困擾，爲憂、哀、痛、悲、慘所困擾，(這樣想:)
+
+   * - | **"Appeva nām'imassa kevalassa dukkhakkhandhassa antakiriyā paññāyethāti!"**
+     - | "O, that the end of this entire mass of suffering & stress might be known!"
+     - | "啊，這一整團憂苦怎樣才能止息!"
+
+   * - |
+     - | * (MONKS & NOVICES):
+     - | (比丘與沙彌誦):
+
+   * - | **Cira-parinibbutampi taṃ bhagavantaṃ uddissa arahantaṃ sammā-sambuddhaṃ,**
+       | **Saddhā agārasmā anagāriyaṃ pabbajitā.**
+     - | Though the total Liberation of the Blessed One, the Worthy One, the Rightly Self-awakened One, was long ago, we have gone forth in faith from home to homelessness in dedication to him.
+     - | 雖然世尊、阿羅漢、正自覺者入般涅槃爲時已久，我們信賴他、崇敬他而出家。
+
+   * - | **Tasmiṃ bhagavati brahma-cariyaṃ carāma,**
+     - | We practice that Blessed One's holy life,
+     - | 我們修習世尊教導的梵行，
+
+   * - | **(Bhikkhūnaṃ sikkhā-sājīva-samāpannā.**
+     - | Fully endowed with the bhikkhus' training & livelihood.)
+     - | (完整奉行比丘的訓練與生活。)
+
+   * - | **Taṃ no brahma-cariyaṃ,**
+       | **Imassa kevalassa dukkhakkhandhassa antakiriyāya saṃvattatu.**
+     - | May this holy life of ours bring about the end of this entire mass of suffering & stress.
+     - | 願我們的梵行之力，令這一整團憂苦止息。
+
+   * - |
+     - | * (OTHERS):
+     - | (其餘者誦:)
+
+   * - | **Cira-parinibbutampi taṃ bhagavantaṃ saraṇaṃ gatā,**
+       | **Dhammañca bhikkhu-saṅghañca,**
+     - | Though the total Liberation of the Blessed One, the Worthy One, the Rightly Self-awakened One, was long ago, we have gone for refuge in him, in the Dhamma, & in the Bhikkhu Sangha,
+     - | 儘管世尊、阿羅漢、正自覺者入般涅槃為時已久，我們歸依佛、法、比丘僧伽，
+
+   * - | **Tassa bhagavato sāsanaṃ yathā-sati yathā-balaṃ manasikaroma,**
+       | **Anupaṭipajjāma,**
+     - | We attend to the instruction of the Blessed One, as far as our mindfulness & strength will allow, and we practice accordingly.
+     - | 我們奉行世尊的教誨，盡自己的念與力，如法修行。
+
+   * - | **Sā sā no paṭipatti,**
+       | **Imassa kevalassa dukkhakkhandhassa antakiriyāya saṃvattatu.**
+     - | May this practice of ours bring about the end of this entire mass of suffering & stress.
+     - | 願我們的修行之力，令這一整團憂苦止息。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
