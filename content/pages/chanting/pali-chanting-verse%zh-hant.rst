@@ -552,6 +552,101 @@
 
 ----
 
+.. _morning-reflection-requisites:
+
+晨省受用品 Reflection at the Moment of Using the Requisites
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ taṅkhaṇika-paccavekkhaṇa-pāṭhaṃ bhaṇāma se:**
+     - | Now let us recite the passage for reflection at the moment (of using the requisites):
+     - | 現在讓我們持誦當下省思(受用品)偈:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Paṭisaṅkhā yoniso] cīvaraṃ paṭisevāmi,**
+     - | Considering it thoughtfully, I use the robe,
+     - | 仔細省思，我用衣袍，
+
+   * - | **Yāvadeva sītassa paṭighātāya,**
+     - | Simply to counteract the cold,
+     - | 只爲禦寒，
+
+   * - | **Uṇhassa paṭighātāya,**
+     - | To counteract the heat,
+     - | 蔽熱，
+
+   * - | **Ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ paṭighātāya,**
+     - | To counteract the touch of flies, mosquitoes, wind, sun, & reptiles;
+     - | 抵擋蚊蠅、風吹、日曬、爬蟲侵襲;
+
+   * - | **Yāvadeva hirikopina-paṭicchādan'atthaṃ.**
+     - | Simply for the purpose of covering the parts of the body that cause shame.
+     - | 只爲遮蔽私處。
+
+   * - | **Paṭisaṅkhā yoniso piṇḍapātaṃ paṭisevāmi,**
+     - | Considering it thoughtfully, I use alms food,
+     - | 仔細省思，我用缽食，
+
+   * - | **Neva davāya na madāya na maṇḍanāya na vibhūsanāya,**
+     - | Not playfully, nor for intoxication, nor for putting on bulk, nor for beautification,
+     - | 非爲玩樂、非爲縱情、非爲增重、非爲美化，
+
+   * - | **Yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsuparatiyā brahma-cariyānuggahāya,**
+     - | But simply for the survival & continuance of this body, for ending its afflictions, for the support of the holy life,
+     - | 只爲這個色身的生存與維持、爲止其傷痛、爲繼續梵行，
+
+   * - | **Iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmi,**
+     - | (Thinking,) Thus will I destroy old feelings (of hunger) and not create new feelings (from overeating).
+     - | (要這樣思索:) 因此我要消除舊的(饑餓)之感，不造新的(飽漲)之感。
+
+   * - | **Yātrā ca me bhavissati anavajjatā ca phāsu-vihāro cāti.**
+     - | I will maintain myself, be blameless, & live in comfort.
+     - | 我要自律、無咎、安住。
+
+   * - | **Paṭisaṅkhā yoniso senāsanaṃ paṭisevāmi,**
+     - | Considering it thoughtfully, I use the lodging,
+     - | 仔細省思，我用房舍，
+
+   * - | **Yāvadeva sītassa paṭighātāya,**
+     - | Simply to counteract the cold,
+     - | 只爲禦寒，
+
+   * - | **Uṇhassa paṭighātāya,**
+     - | To counteract the heat,
+     - | 蔽熱，
+
+   * - | **Ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ paṭighātāya,**
+     - | To counteract the touch of flies, mosquitoes, wind, sun, & reptiles;
+     - | 抵擋蚊蠅、風吹、日曬、爬蟲侵襲;
+
+   * - | **Yāvadeva utuparissaya-vinodanaṃ paṭisallānārām'atthaṃ.**
+     - | Simply for protection from the inclemencies of weather and for the enjoyment of seclusion.
+     - | 只爲抵擋不良氣候、利於獨居。
+
+   * - | **Paṭisaṅkhā yoniso gilāna-paccaya-bhesajja-parikkhāraṃ paṭisevāmi,**
+     - | Considering them thoughtfully, I use medicinal requisites for curing the sick,
+     - | 仔細省思，我用藥品治療疾病，
+
+   * - | **Yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya,**
+     - | Simply to counteract any pains of illness that have arisen,
+     - | 只爲抵擋已有的病痛，
+
+   * - | **Abyāpajjha-paramatāyāti.**
+     - | And for maximum freedom from disease.
+     - | 也爲盡量免染疾症。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
