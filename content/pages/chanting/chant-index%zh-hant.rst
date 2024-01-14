@@ -59,7 +59,7 @@
      - `晨省受用品 <{filename}pali-chanting-verse%zh-hant.rst#morning-reflection-requisites>`_
 
    * - `Evening Chanting <{static}/extra/chanting/04\ Evening\ Chanting\ (p\ 13).mp3>`_
-     - 晚課
+     - `晚課 <{filename}pali-chanting-verse%zh-hant.rst#evening-chanting>`_
 
    * - `Evening Reflection on the Requisites <{static}/extra/chanting/05\ Evening\ Reflection\ on\ the\ Requisites\ (p\ 22).mp3>`_
      - 晚省受用品
