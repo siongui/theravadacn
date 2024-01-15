@@ -714,6 +714,129 @@
 
 ----
 
+憶念佛 A Guide to the Recollection of the Buddha
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **[Taṃ kho pana bhagavantaṃ] evaṃ kalyāṇo kitti-saddo abbhuggato,**
+     - | This fine report of the Blessed One's reputation has spread far & wide:
+     - | 世尊的盛名廣傳:
+
+   * - | **Itipi so bhagavā arahaṃ sammā-sambuddho,**
+     - | He is a Blessed One, a Worthy One, a Rightly Self-awakened One,
+     - | 他是一位世尊、尊貴者、正自覺者、
+
+   * - | **Vijjā-caraṇa-sampanno sugato lokavidū,**
+     - | consummate in knowledge & conduct, one who has gone the good way, knower of the cosmos,
+     - | 明行足、善逝者、世間解、
+
+   * - | **Anuttaro purisa-damma-sārathi satthā deva-manussānaṃ buddho bhagavāti.**
+     - | unexcelled trainer of those who can be taught, teacher of human & divine beings; awakened; blessed.
+     - | 無上調禦者、人天之師、佛、世尊。
+
+----
+
+佛讚 Verses in Celebration of the Buddha
+++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ buddhābhigītiṃ karoma se:**
+     - | Now let us chant in celebration of the Buddha:
+     - | 現在讓我們讚頌佛陀:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Buddh'vārahanta]-varatādiguṇābhiyutto,**
+     - | The Buddha, endowed with such virtues as highest worthiness:
+     - | 佛陀擁有崇高的美德:
+
+   * - | **Suddhābhiñāṇa-karuṇāhi samāgatatto,**
+     - | In him, purity, supreme knowledge, & compassion converge.
+     - | 集清淨、無上智慧、慈悲於一身。
+
+   * - | **Bodhesi yo sujanataṃ kamalaṃ va sūro,**
+     - | He awakens good people like the sun does the lotus.
+     - | 他使善士覺醒，如日照使蓮花盛開。
+
+   * - | **Vandām'ahaṃ tam-araṇaṃ sirasā jinendaṃ.**
+     - | I revere with my head that Peaceful One, the Conqueror Supreme.
+     - | 我頂禮寧靜者、無上調禦者。
+
+   * - | **Buddho yo sabba-pāṇīnaṃ**
+       | **Saraṇaṃ khemam-uttamaṃ.**
+     - | The Buddha who for all beings is the secure, the highest refuge,
+     - | 佛陀是一切衆生安全、至高的歸依處，
+
+   * - | **Paṭhamānussatiṭṭhānaṃ**
+       | **Vandāmi taṃ sirenahaṃ,**
+     - | The first theme for recollection: I revere him with my head.
+     - | 第一次憶念，我俯首頂禮他。
+
+   * - | **Buddhassāhasmi dāso** (*WOMEN* 女衆念: **dāsī**) **va**
+       | **Buddho me sāmikissaro.**
+     - | I am the Buddha's servant, the Buddha is my sovereign master,
+     - | 我是佛的僕侍，佛陀是我的主導宗師，
+
+   * - | **Buddho dukkhassa ghātā ca**
+       | **Vidhātā ca hitassa me.**
+     - | The Buddha is a destroyer of suffering & a provider of welfare for me.
+     - | 佛陀爲我摧毀苦，給我幸福。
+
+   * - | **Buddhassāhaṃ niyyādemi**
+       | **Sarīrañjīvitañcidaṃ.**
+     - | To the Buddha I dedicate this body & this life of mine.
+     - | 我對佛陀奉獻此身此世。
+
+   * - | **Vandanto'haṃ (Vandantī'haṃ) carissāmi**
+       | **Buddhasseva subodhitaṃ.**
+     - | I will fare with reverence for the Buddha's genuine Awakening.
+     - | 我將奉行對佛陀真悟的崇敬。
+
+   * - | **N'atthi me saraṇaṃ aññaṃ,**
+       | **Buddho me saraṇaṃ varaṃ:**
+     - | I have no other refuge, the Buddha is my foremost refuge:
+     - | 我別無依止，佛陀是我的至高依止:
+
+   * - | **Etena sacca-vajjena,**
+       | **Vaḍḍheyyaṃ satthu-sāsane.**
+     - | By the speaking of this truth, may I grow in the Teacher's instruction.
+     - | 以此真語之力，願我在尊師的教誨中成長。
+
+   * - | **Buddhaṃ me vandamānena (vandamānāya)**
+       | **Yaṃ puññaṃ pasutaṃ idha,**
+       | **Sabbe pi antarāyā me,**
+       | **Māhesuṃ tassa tejasā.**
+     - | Through the power of the merit here produced by my reverence for the Buddha, may all my obstructions cease to be.
+     - | 以我在此禮敬佛陀的福德之力，願我的一切障礙止息。
+
+   * - |
+     - | (BOW DOWN AND SAY):
+     - | (俯首頂禮並誦):
+
+   * - | **Kāyena vācāya va cetasā vā, Buddhe kukammaṃ pakataṃ mayā yaṃ,**
+       | **Buddho paṭiggaṇhatu accayantaṃ,**
+       | **Kālantare saṃvarituṃ va buddhe.**
+     - | Whatever bad kamma I have done to the Buddha
+       | by body, by speech, or by mind,
+       | may the Buddha accept my admission of it,
+       | so that in the future I may show restraint toward the Buddha.
+     - | 凡是我對佛所作的任何惡業，無論身、語、意，
+       | 願佛陀接受我的認錯，未來我會對佛陀恭敬謹慎。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
