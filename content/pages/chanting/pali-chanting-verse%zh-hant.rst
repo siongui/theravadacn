@@ -837,6 +837,138 @@
 
 ----
 
+憶念法 A Guide to the Recollection of the Dhamma
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ dhammānussati-nayaṃ karoma se:**
+     - | Now let us recite the guide to the recollection of the Dhamma:
+     - | 現在讓我們誦持憶念法的偈句:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Svākkhāto] bhagavatā dhammo,**
+     - | The Dhamma is well-expounded by the Blessed One,
+     - | 法由世尊善爲解說，
+
+   * - | **Sandiṭṭhiko akāliko ehipassiko,**
+     - | to be seen here & now, timeless, inviting all to come & see,
+     - | 即時即地可見、無時相、邀人親證，
+
+   * - | **Opanayiko paccattaṃ veditabbo viññūhīti.**
+     - | leading inward, to be seen by the wise for themselves.
+     - | 向內觀照、由智者各自證知。
+
+----
+
+法讚 Verses in Celebration of the Dhamma
+++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ dhammābhigītiṃ karoma se:**
+     - | Now let us chant in celebration of the Dhamma:
+     - | 現在讓我們讚頌法:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Svākkhātatā]diguṇa-yogavasena seyyo,**
+     - | Superior, through having such virtues as being well-expounded,
+     - | 法義殊勝、有功德、已善爲解說，
+
+   * - | **Yo magga-pāka-pariyatti-vimokkha-bhedo,**
+     - | Divided into Path & Fruit, study & emancipation,
+     - | 可分爲道、果、學問與解脫，
+
+   * - | **Dhammo kuloka-patanā tadadhāri-dhārī.**
+     - | The Dhamma protects those who hold to it from falling into miserable worlds.
+     - | 持法者受法的保護，免墜惡道。
+
+   * - | **Vandām'ahaṃ tama-haraṃ vara-dhammam-etaṃ.**
+     - | I revere that foremost Dhamma, the destroyer of darkness.
+     - | 我崇敬那樣的卓越之法，驅除黑暗之法。
+
+   * - | **Dhammo yo sabba-pāṇīnaṃ**
+       | **Saraṇaṃ khemam-uttamaṃ.**
+     - | The Dhamma that for all beings is the secure, the highest refuge,
+     - | 法是一切衆生安全、至高的歸依處，
+
+   * - | **Dutiyānussatiṭṭhānaṃ**
+       | **Vandāmi taṃ sirenahaṃ,**
+     - | The second theme for recollection: I revere it with my head.
+     - | 第二次憶念，我俯首頂禮它。
+
+   * - | **Dhammassāhasmi dāso (dāsī) va**
+       | **Dhammo me sāmikissaro.**
+     - | I am the Dhamma's servant, the Dhamma is my sovereign master,
+     - | 我是法的僕侍，法是我的主導宗師，
+
+   * - | **Dhammo dukkhassa ghātā ca**
+       | **Vidhātā ca hitassa me.**
+     - | The Dhamma is a destroyer of suffering & a provider of welfare for me.
+     - | 法爲我摧毀苦，給我幸福。
+
+   * - | **Dhammassāhaṃ niyyādemi**
+       | **Sarīrañjīvitañcidaṃ.**
+     - | To the Dhamma I dedicate this body & this life of mine.
+     - | 我對法奉獻此身此世。
+
+   * - | **Vandanto'haṃ (Vandantī'haṃ) carissāmi**
+       | **Dhammasseva sudhammataṃ.**
+     - | I will fare with reverence for the Dhamma's genuine rightness.
+     - | 我將奉行對法義真理的崇敬。
+
+   * - | **N'atthi me saraṇaṃ aññaṃ,**
+       | **Dhammo me saraṇaṃ varaṃ:**
+     - | I have no other refuge, the Dhamma is my foremost refuge:
+     - | 我別無依止，法是我的至高依止:
+
+   * - | **Etena sacca-vajjena,**
+       | **Vaḍḍheyyaṃ satthu-sāsane.**
+     - | By the speaking of this truth, may I grow in the Teacher's instruction.
+     - | 以此真語之力，願我在導師的教誨中成長。
+
+   * - | **Dhammaṃ me vandamānena (vandamānāya)**
+       | **Yaṃ puññaṃ pasutaṃ idha,**
+       | **Sabbe pi antarāyā me,**
+       | **Māhesuṃ tassa tejasā.**
+     - | Through the power of the merit here produced by my reverence for the Dhamma, may all my obstructions cease to be.
+     - | 以我在此禮敬法的福德之力，願我的一切障礙止息。
+
+   * - |
+     - | (BOW DOWN AND SAY):
+     - | (俯首頂禮，並念誦):
+
+   * - | **Kāyena vācāya va cetasā vā,**
+       | **Dhamme kukammaṃ pakataṃ mayā yaṃ,**
+       | **Dhammo paṭiggaṇhatu accayantaṃ,**
+       | **Kālantare saṃvarituṃ va dhamme.**
+     - | Whatever bad kamma I have done to the Dhamma
+       | by body, by speech, or by mind,
+       | may the Dhamma accept my admission of it,
+       | so that in the future I may show restraint toward the Dhamma.
+     - | 凡是我對法所作的任何惡業，無論身、語、意，
+       | 願法接受我的認錯，未來我會對法恭敬謹慎。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
