@@ -969,6 +969,158 @@
 
 ----
 
+憶念僧 A Guide to the Recollection of the Saṅgha
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ saṅghānussati-nayaṃ karoma se:**
+     - | Now let us recite the guide to the recollection of the Saṅgha:
+     - | 現在讓我們誦持憶念僧伽的偈句:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Supaṭipanno] bhagavato sāvaka-saṅgho,**
+     - | The Saṅgha of the Blessed One's disciples who have practiced well,
+     - | 世尊的聲聞僧伽弟子行道正善，
+
+   * - | **Uju-paṭipanno bhagavato sāvaka-saṅgho,**
+     - | the Saṅgha of the Blessed One's disciples who have practiced straightforwardly,
+     - | 世尊的聲聞僧伽弟子行道正直，
+
+   * - | **Ñāya-paṭipanno bhagavato sāvaka-saṅgho,**
+     - | the Saṅgha of the Blessed One's disciples who have practiced methodically,
+     - | 世尊的聲聞僧伽弟子行道有方，
+
+   * - | **Sāmīci-paṭipanno bhagavato sāvaka-saṅgho,**
+     - | the Saṅgha of the Blessed One's disciples who have practiced masterfully,
+     - | 世尊的聲聞僧伽弟子行道卓越，
+
+   * - | **Yadidaṃ cattāri purisa-yugāni aṭṭha purisa-puggalā:**
+     - | i.e., the four pairs — the eight types — of Noble Ones:
+     - | 他們是四雙、八輩聖者:
+
+   * - | **Esa bhagavato sāvaka-saṅgho —**
+     - | That is the Saṅgha of the Blessed One's disciples —
+     - | 那便是世尊的聲聞僧伽弟子——
+
+   * - | **Āhuneyyo pāhuneyyo dakkhiṇeyyo añjali-karaṇīyo,**
+     - | worthy of gifts, worthy of hospitality, worthy of offerings, worthy of respect,
+     - | 值得佈施、值得禮遇、值得供養、值得尊敬，
+
+   * - | **Anuttaraṃ puññakkhettaṃ lokassāti.**
+     - | the incomparable field of merit for the world.
+     - | 是世界的無上福田:
+
+----
+
+僧讚 Verses in Celebration of the Saṅgha
+++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ saṅghābhigītiṃ karoma se:**
+     - | Now let us chant in celebration of the Saṅgha:
+     - | 現在讓我們讚頌僧伽:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Saddhammajo] supaṭipatti-guṇādiyutto,**
+     - | Born of the true Dhamma, endowed with such virtues as good practice,
+     - | 由真法而生，有這般善行修持的功德，
+
+   * - | **Yoṭṭhābbidho ariya-puggala-saṅgha-seṭṭho,**
+     - | The supreme Saṅgha formed of the eight types of Noble Ones,
+     - | 無上僧伽由八輩聖者組成，
+
+   * - | **Sīlādidhamma-pavarāsaya-kāya-citto:**
+     - | Guided in body & mind by such principles as morality:
+     - | 以戒德指導身與心:
+
+   * - | **Vandām'ahaṃ tam-ariyāna-gaṇaṃ susuddhaṃ.**
+     - | I revere that group of Noble Ones well-purified.
+     - | 我崇敬清淨的聖者僧團。
+
+   * - | **Saṅgho yo sabba-pāṇīnaṃ**
+       | **Saraṇaṃ khemam-uttamaṃ.**
+     - | The Saṅgha that for all beings is the secure, the highest refuge,
+     - | 僧伽是一切衆生安全、至高的歸依處，
+
+   * - | **Tatiyānussatiṭṭhānaṃ**
+       | **Vandāmi taṃ sirenahaṃ,**
+     - | The third theme for recollection: I revere it with my head.
+     - | 第三次憶念，我俯首頂禮它。
+
+   * - | **Saṅghassāhasmi dāso (dāsī) va**
+       | **Saṅgho me sāmikissaro.**
+     - | I am the Saṅgha's servant, the Saṅgha is my sovereign master,
+     - | 我是僧伽的僕侍，僧伽是我的主導宗師，
+
+   * - | **Saṅgho dukkhassa ghātā ca**
+       | **Vidhātā ca hitassa me.**
+     - | The Saṅgha is a destroyer of suffering & a provider of welfare for me.
+     - | 僧伽爲我摧毀苦，給我幸福。
+
+   * - | **Saṅghassāhaṃ niyyādemi**
+       | **Sarīrañjīvitañcidaṃ.**
+     - | To the Saṅgha I dedicate this body & this life of mine.
+     - | 我對僧伽奉獻此身此世。
+
+   * - | **Vandanto'haṃ (Vandantī'haṃ) carissāmi**
+       | **Saṅghassopaṭipannataṃ.**
+     - | I will fare with reverence for the Saṅgha's good practice.
+     - | 我將奉行對僧伽善修的崇敬。
+
+   * - | **N'atthi me saraṇaṃ aññaṃ,**
+       | **Saṅgho me saraṇaṃ varaṃ:**
+     - | I have no other refuge, the Saṅgha is my foremost refuge:
+     - | 我別無依止，僧伽是我的至高依止:
+
+   * - | **Etena sacca-vajjena,**
+       | **Vaḍḍheyyaṃ satthu-sāsane.**
+     - | By the speaking of this truth, may I grow in the Teacher's instruction.
+     - | 以此真語之力，願我在導師的教誨中成長。
+
+   * - | **Saṅghaṃ me vandamānena (vandamānāya)**
+       | **Yaṃ puññaṃ pasutaṃ idha,**
+       | **Sabbe pi antarāyā me,**
+       | **Māhesuṃ tassa tejasā.**
+     - | Through the power of the merit here produced by my reverence for the Saṅgha, may all my obstructions cease to be.
+     - | 以我在此禮敬僧伽的福德之力，願我的一切障礙止息。
+
+   * - |
+     - | (BOW DOWN AND SAY):
+     - | (俯首頂禮，並念誦):
+
+   * - | **Kāyena vācāya va cetasā vā,**
+       | **Saṅghe kukammaṃ pakataṃ mayā yaṃ,**
+       | **Saṅgho paṭiggaṇhatu accayantaṃ,**
+       | **Kālantare saṃvarituṃ va saṅghe.**
+     - | Whatever bad kamma I have done to the Saṅgha
+       | by body, by speech, or by mind,
+       | may the Saṅgha accept my admission of it,
+       | so that in the future I may show restraint toward the Saṅgha.
+     - | 凡是我對僧伽所作的任何惡業，無論身、語、意，
+       | 願僧伽接受我的認錯，未來我會對僧伽恭敬謹慎。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
