@@ -1121,6 +1121,101 @@
 
 ----
 
+.. _evening-reflection-requisites:
+
+晚省受用品 Reflection after Using the Requisites
+++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ atīta-paccavekkhaṇa-pāṭhaṃ bhaṇāma se:**
+     - | Now let us recite the passage for reflection on the past (use of the requisites):
+     - | 現在讓我們持誦過後省思(受用品)偈:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **[Ajja mayā] apaccavekkhitvā yaṃ cīvaraṃ paribhuttaṃ,**
+     - | Whatever robe I used today without consideration,
+     - | 凡是今日我未經省思而用的衣袍，
+
+   * - | **Taṃ yāvadeva sītassa paṭighātāya,**
+     - | Was simply to counteract the cold,
+     - | 只爲禦寒，
+
+   * - | **Uṇhassa paṭighātāya,**
+     - | To counteract the heat,
+     - | 蔽熱，
+
+   * - | **Ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ paṭighātāya,**
+     - | To counteract the touch of flies, mosquitoes, wind, sun, & reptiles;
+     - | 抵擋蚊蠅、風吹、日曬、爬蟲的侵襲;
+
+   * - | **Yāvadeva hirikopina-paṭicchādan'atthaṃ.**
+     - | Simply for the purpose of covering the parts of the body that cause shame.
+     - | 只爲遮蔽私處。
+
+   * - | **Ajja mayā apaccavekkhitvā yo piṇḍapatto paribhutto,**
+     - | Whatever alms food I used today without consideration,
+     - | 凡是今日我未經省思而用的缽食，
+
+   * - | **So neva davāya na madāya na maṇḍanāya na vibhūsanāya,**
+     - | Was not used playfully, nor for intoxication, nor for putting on bulk, nor for beautification,
+     - | 非爲玩樂、非爲縱情、非爲增重、非爲美化，
+
+   * - | **Yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṃsuparatiyā brahma-cariyānuggahāya,**
+     - | But simply for the survival & continuance of this body, for ending its afflictions, for the support of the holy life,
+     - | 只爲這個色身的生存與維持、爲止其傷痛、爲繼續梵行，
+
+   * - | **Iti purāṇañca vedanaṃ paṭihaṅkhāmi navañca vedanaṃ na uppādessāmi,**
+     - | (Thinking,) Thus will I destroy old feelings (of hunger) and not create new feelings (from overeating).
+     - | (要這樣思索:) 因此我要消除舊的(饑餓)之感，不造新的(飽漲)之感。
+
+   * - | **Yātrā ca me bhavissati anavajjatā ca phāsu-vihāro cāti.**
+     - | I will maintain myself, be blameless, & live in comfort.
+     - | 我要自律、無咎、安住。
+
+   * - | **Ajja mayā apaccavekkhitvā yaṃ senāsanaṃ paribhuttaṃ,**
+     - | Whatever lodging I used today without consideration,
+     - | 凡是今日我未經省思而用的房舍，
+
+   * - | **Taṃ yāvadeva sītassa paṭighātāya,**
+     - | Was simply to counteract the cold,
+     - | 只爲禦寒，
+
+   * - | **Uṇhassa paṭighātāya,**
+     - | To counteract the heat,
+     - | 蔽熱，
+
+   * - | **Ḍaṃsa-makasa-vātātapa-siriṃsapa-samphassānaṃ paṭighātāya,**
+     - | To counteract the touch of flies, mosquitoes, wind, sun, & reptiles;
+     - | 抵擋蚊蠅、風吹、日曬、爬蟲侵襲;
+
+   * - | **Yāvadeva utuparissaya-vinodanaṃ paṭisallānārām'atthaṃ.**
+     - | Simply for protection from the inclemencies of weather and for the enjoyment of seclusion.
+     - | 只爲抵擋不良氣候、利於獨居。
+
+   * - | **Ajja mayā apaccavekkhitvā yo gilāna-paccaya-bhesajja-parikkhāro paribhutto,**
+     - | Whatever medicinal requisite for curing the sick I used today without consideration,
+     - | 今日我未經省思而用的治病之藥，
+
+   * - | **So yāvadeva uppannānaṃ veyyābādhikānaṃ vedanānaṃ paṭighātāya,**
+     - | Was simply to counteract any pains of illness that had arisen,
+     - | 只爲抵擋已有的病痛，
+
+   * - | **Abyāpajjha-paramatāyāti.**
+     - | And for maximum freedom from disease.
+     - | 也爲盡量避染疾症。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
