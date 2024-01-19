@@ -1216,6 +1216,201 @@
 
 ----
 
+.. _body:
+
+身隨念 Contemplation of the Body
+++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ kāyagatā-sati-bhāvanā-pāṭhaṃ bhaṇāma se:**
+     - | Let us now recite the passage on mindfulness immersed in the body.
+     - | 讓我們誦持身隨念。
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **Ayaṃ kho me kāyo,**
+     - | This body of mine,
+     - | 我的這個色身，
+
+   * - | **Uddhaṃ pādatalā,**
+     - | from the soles of the feet on up,
+     - | 自足底而上，
+
+   * - | **Adho kesa-matthakā,**
+     - | from the crown of the head on down,
+     - | 自頭頂而下，
+
+   * - | **Taca-pariyanto,**
+     - | surrounded by skin,
+     - | 爲皮膚包裹，
+
+   * - | **Pūro nānappakārassa asucino,**
+     - | filled with all sorts of unclean things.
+     - | 盛滿了種種不淨之物。
+
+   * - | **Atthi imasmiṃ kāye:**
+     - | In this body there is:
+     - | 這個色身裡有:
+
+   * - | **Kesā**
+     - | Hair of the head,
+     - | 頭髮，
+
+   * - | **Lomā**
+     - | Hair of the body,
+     - | 體毛，
+
+   * - | **Nakhā**
+     - | Nails,
+     - | 指甲，
+
+   * - | **Dantā**
+     - | Teeth,
+     - | 牙齒，
+
+   * - | **Taco**
+     - | Skin,
+     - | 皮膚，
+
+   * - | **Maṃsaṃ**
+     - | Flesh,
+     - | 肉，
+
+   * - | **Nhārū**
+     - | Tendons,
+     - | 筋，
+
+   * - | **Aṭṭhī**
+     - | Bones,
+     - | 骨，
+
+   * - | **Aṭṭhimiñjaṃ**
+     - | Bone marrow,
+     - | 骨髓，
+
+   * - | **Vakkaṃ**
+     - | Spleen,
+     - | 脾，
+
+   * - | **Hadayaṃ**
+     - | Heart,
+     - | 心，
+
+   * - | **Yakanaṃ**
+     - | Liver,
+     - | 肝，
+
+   * - | **Kilomakaṃ**
+     - | Membranes,
+     - | 隔膜，
+
+   * - | **Pihakaṃ**
+     - | Kidneys,
+     - | 腎，
+
+   * - | **Papphāsaṃ**
+     - | Lungs,
+     - | 肺，
+
+   * - | **Antaṃ**
+     - | Large intestines,
+     - | 大腸，
+
+   * - | **Antaguṇaṃ**
+     - | Small intestines,
+     - | 小腸，
+
+   * - | **Udariyaṃ**
+     - | Gorge,
+     - | 胃中物，
+
+   * - | **Karīsaṃ**
+     - | Feces,
+     - | 屎，
+
+   * - | **Matthake matthaluṅgaṃ**
+     - | Brain,
+     - | 腦，
+
+   * - | **Pittaṃ**
+     - | Gall,
+     - | 膽汁，
+
+   * - | **Semhaṃ**
+     - | Phlegm,
+     - | 痰，
+
+   * - | **Pubbo**
+     - | Lymph,
+     - | 淋巴液，
+
+   * - | **Lohitaṃ**
+     - | Blood,
+     - | 血，
+
+   * - | **Sedo**
+     - | Sweat,
+     - | 汗，
+
+   * - | **Medo**
+     - | Fat,
+     - | 脂，
+
+   * - | **Assu**
+     - | Tears,
+     - | 淚，
+
+   * - | **Vasā**
+     - | Oil,
+     - | 油，
+
+   * - | **Kheḷo**
+     - | Saliva,
+     - | 唾液，
+
+   * - | **Siṅghāṇikā**
+     - | Mucus,
+     - | 黏液，
+
+   * - | **Lasikā**
+     - | Oil in the joints,
+     - | 關節潤滑液，
+
+   * - | **Muttaṃ**
+     - | Urine.
+     - | 尿。
+
+   * - | **Evam-ayaṃ me kāyo:**
+     - | Such is this body of mine:
+     - | 這便是我的色身:
+
+   * - | **Uddhaṃ pādatalā,**
+     - | from the soles of the feet on up,
+     - | 自足底而上，
+
+   * - | **Adho kesa-matthakā,**
+     - | from the crown of the head on down,
+     - | 自頭頂而下，
+
+   * - | **Taca-pariyanto,**
+     - | surrounded by skin,
+     - | 由皮膚包裹，
+
+   * - | **Pūro nānappakārassa asucino.**
+     - | filled with all sorts of unclean things.
+     - | 盛滿了種種不潔之物。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting

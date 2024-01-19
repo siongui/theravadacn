@@ -65,7 +65,7 @@
      - `晚省受用品 <{filename}pali-chanting-verse%zh-hant.rst#evening-reflection-requisites>`_
 
    * - `Contemplation of the Body (*ayam kho me kayo*) <{static}/extra/chanting/06\ Contemplation\ of\ the\ Body\ (p\ 25).mp3>`_
-     - 身隨念
+     - `身隨念 <{filename}pali-chanting-verse%zh-hant.rst#body>`_
 
    * - `Five Subjects (*Jara dhammomhi*) <{static}/extra/chanting/07\ Five\ Recollections\ (p\ 27).mp3>`_
      - 五禪思主題
