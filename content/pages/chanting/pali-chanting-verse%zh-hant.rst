@@ -1411,6 +1411,57 @@
 
 ----
 
+.. _five:
+
+五常念主題 Five Subjects for Frequent Recollection
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - |
+     - | (LEADER):
+     - | (領誦者):
+
+   * - | **Handa mayaṃ abhiṇha-paccavekkhaṇa-pāthaṃ bhaṇāma se:**
+     - | Let us now recite the passage for frequent recollection:
+     - | 現在讓我們誦持常念之偈:
+
+   * - |
+     - | (ALL):
+     - | (全體):
+
+   * - | **Jarā-dhammomhi jaraṃ anatīto.**
+     - | I am subject to aging. Aging is unavoidable.
+     - | 我會經歷衰老，衰老不可避免。
+
+   * - | **Byādhi-dhammomhi byādhiṃ anatīto.**
+     - | I am subject to illness. Illness is unavoidable.
+     - | 我會經歷疾病，疾病不可避免。
+
+   * - | **Maraṇa-dhammomhi maraṇaṃ anatīto.**
+     - | I am subject to death. Death is unavoidable.
+     - | 我會經歷死亡，死亡不可避免。
+
+   * - | **Sabbehi me piyehi manāpehi nānā-bhāvo vinā-bhāvo.**
+     - | I will grow different, separate from all that is dear & appealing to me.
+     - | 我會變得與過去不同，與一切可親可愛的人事分離。
+
+   * - | **Kammassakomhi kamma-dāyādo kamma-yoni kamma-bandhu kamma-paṭisaraṇo.**
+     - | I am the owner of my actions, heir to my actions, born of my actions, related through my actions, and live dependent on my actions.
+     - | 我是自己的業的主人、業的繼承人、因我的業而生、由我的業相聯、依我的業而活。
+
+   * - | **Yaṃ kammaṃ karissāmi kalyāṇaṃ vā pāpakaṃ vā tassa dāyādo bhavissāmi.**
+     - | Whatever I do, for good or for evil, to that will I fall heir.
+     - | 無論我做什麽，是善是惡，我自受業報。
+
+   * - | **Evaṃ amhehi abhiṇhaṃ paccavekkhitabbaṃ.**
+     - | We should often reflect on this.
+     - | 我們應當常作此念。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting

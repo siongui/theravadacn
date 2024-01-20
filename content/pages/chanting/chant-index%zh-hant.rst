@@ -68,7 +68,7 @@
      - `身隨念 <{filename}pali-chanting-verse%zh-hant.rst#body>`_
 
    * - `Five Subjects (*Jara dhammomhi*) <{static}/extra/chanting/07\ Five\ Recollections\ (p\ 27).mp3>`_
-     - 五禪思主題
+     - `五禪思主題 <{filename}pali-chanting-verse%zh-hant.rst#five>`_
 
    * - `Verses on Friends <{static}/extra/chanting/08\ Verses\ on\ Friends\ (p\ 28).mp3>`_
      - 關於賢友
