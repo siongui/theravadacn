@@ -1462,6 +1462,75 @@
 
 ----
 
+.. _friend:
+
+賢友偈 The Verses on Friends
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Aññadatthu haro mitto**
+     - | One who makes friends only to cheat them,
+     - | 交友只爲欺詐的人、
+
+   * - | **Yo ca mitto vacī-paramo,**
+     - | one who is good only in word,
+     - | 言而無信的人、
+
+   * - | **Anupiyañca yo āhu,**
+     - | one who flatters & cajoles,
+     - | 阿諛哄騙的人、
+
+   * - | **Apāyesu ca yo sakhā,**
+     - | and a companion in ruinous fun:
+     - | 追求有害娛樂的同伴:
+
+   * - | **Ete amitte cattāro**
+       | **Iti viññāya paṇḍito**
+     - | These four the wise know as non-friends.
+     - | 這四類，智者知其非友。
+
+   * - | **Ārakā parivajjeyya**
+     - | Avoid them from afar,
+     - | 遠離他們，
+
+   * - | **Maggaṃ paṭibhayaṃ yathā.**
+     - | like a dangerous road.
+     - | 如避險道。
+
+   * - | **Upakāro ca yo mitto,**
+     - | A friend who is helpful,
+     - | 樂助的友人、
+
+   * - | **Sukha-dukkho ca yo sakhā,**
+     - | one who shares in your sorrows & joys,
+     - | 與你分擔憂喜的人、
+
+   * - | **Atthakkhāyī ca yo mitto,**
+     - | one who points you to worthwhile things,
+     - | 指點你趨向善益的人、
+
+   * - | **Yo ca mittānukampako,**
+     - | one sympathetic to friends:
+     - | 同情友伴的人:
+
+   * - | **Etepi mitte cattāro**
+       | **Iti viññāya paṇḍito**
+     - | These four, the wise know as true friends.
+     - | 這四類，智者知其爲真友。
+
+   * - | **Sakkaccaṃ payirupāseyya**
+     - | Attend to them earnestly,
+     - | 殷切關心他們，
+
+   * - | **Mātā puttaṃ va orasaṃ.**
+     - | as a mother her child.
+     - | 如母親照顧孩子。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting

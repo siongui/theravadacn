@@ -71,7 +71,7 @@
      - `五禪思主題 <{filename}pali-chanting-verse%zh-hant.rst#five>`_
 
    * - `Verses on Friends <{static}/extra/chanting/08\ Verses\ on\ Friends\ (p\ 28).mp3>`_
-     - 關於賢友
+     - `關於賢友 <{filename}pali-chanting-verse%zh-hant.rst#friend>`_
 
    * - `Verses on Respect <{static}/extra/chanting/09\ Verses\ on\ Respect\ (p\ 29).mp3>`_
      - 關於禮敬
