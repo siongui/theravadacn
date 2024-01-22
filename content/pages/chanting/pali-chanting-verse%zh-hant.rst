@@ -1531,6 +1531,49 @@
 
 ----
 
+.. _respect:
+
+禮敬偈 The Verses on Respect
+++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Satthu-garu dhamma-garu**
+     - | One with respect for the Buddha & Dhamma,
+     - | 禮敬佛與法者、
+
+   * - | **Saṅghe ca tibba-gāravo,**
+     - | and strong respect for the Saṅgha,
+     - | 禮敬僧伽者、
+
+   * - | **Samādhi-garu ātāpī,**
+     - | one who is ardent, with respect for concentration,
+     - | 禮敬奢摩他並精勤修習者、
+
+   * - | **Sikkhāya tibba-gāravo,**
+     - | and strong respect for the Training,
+     - | 禮敬訓練者、
+
+   * - | **Appamāda-garu bhikkhu,**
+     - | one who sees danger and respects being heedful,
+     - | 見危而禮敬慎行者、
+
+   * - | **Paṭisanthāra-gāravo:**
+     - | and shows respect in welcoming guests:
+     - | 禮敬賓客者:
+
+   * - | **Abhabbo parihānāya,**
+     - | A person like this cannot decline,
+     - | 這樣的人，不會退墮，
+
+   * - | **Nibbānasseva santike,**
+     - | stands right in the presence of Nibbana.
+     - | 與涅槃同存。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting

@@ -74,7 +74,7 @@
      - `關於賢友 <{filename}pali-chanting-verse%zh-hant.rst#friend>`_
 
    * - `Verses on Respect <{static}/extra/chanting/09\ Verses\ on\ Respect\ (p\ 29).mp3>`_
-     - 關於禮敬
+     - `關於禮敬 <{filename}pali-chanting-verse%zh-hant.rst#respect>`_
 
    * - `Verses on the Noble Truths <{static}/extra/chanting/10\ Verses\ on\ the\ Noble\ Truths\ (p\ 29).mp3>`_
      - 關於聖諦
