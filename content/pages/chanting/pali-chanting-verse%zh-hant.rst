@@ -1574,6 +1574,91 @@
 
 ----
 
+.. _truths:
+
+四聖諦偈 The Verses on the Noble Truths
++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Ye dukkhaṃ nappajānanti**
+     - | Those who don't discern suffering,
+     - | 不能辨識苦、
+
+   * - | **Atho dukkhassa sambhavaṃ**
+     - | suffering's cause,
+     - | 苦因、
+
+   * - | **Yattha ca sabbaso dukkhaṃ**
+       | **Asesaṃ uparujjhati,**
+     - | and where it totally stops, without trace,
+     - | 何處徹底終止苦、
+
+   * - | **Tañca maggaṃ na jānanti,**
+     - | who don't understand the path,
+     - | 不了解正道、
+
+   * - | **Dukkhūpasama-gāminaṃ**
+     - | the way to the stilling of suffering:
+     - | 滅苦之道者:
+
+   * - | **Ceto-vimutti-hīnā te**
+     - | They are far from awareness-release,
+     - | 他們遠離心解脫，
+
+   * - | **Atho paññā-vimuttiyā,**
+     - | and discernment-release.
+     - | 與慧解脫。
+
+   * - | **Abhabbā te anta-kiriyāya**
+     - | Incapable of making an end,
+     - | 不能終止，
+
+   * - | **Te ve jāti-jarūpagā.**
+     - | they'll return to birth & aging again.
+     - | 他們會一次次重生與衰老。
+
+   * - | **Ye ca dukkhaṃ pajānanti**
+     - | While those who do discern suffering,
+     - | 而那些辨識苦、
+
+   * - | **Atho dukkhassa sambhavaṃ,**
+     - | suffering's cause,
+     - | 苦因、
+
+   * - | **Yattha ca sabbaso dukkhaṃ**
+       | **Asesaṃ uparujjhati,**
+     - | and where it totally stops, without trace,
+     - | 何處徹底終止苦、
+
+   * - | **Tañca maggaṃ pajānanti,**
+     - | who understand the path,
+     - | 理解正道、
+
+   * - | **Dukkhūpasama-gāminaṃ:**
+     - | the way to the stilling of suffering:
+     - | 滅苦之道者:
+
+   * - | **Ceto-vimutti-sampannā**
+     - | They are consummate in awareness-release,
+     - | 他們具足心解脫、
+
+   * - | **Atho paññā-vimuttiyā,**
+     - | and in discernment-release.
+     - | 慧解脫。
+
+   * - | **Bhabbā te anta-kiriyāya**
+     - | Capable of making an end,
+     - | 會有終止，
+
+   * - | **Na te jāti-jarūpagāti.**
+     - | they won't return to birth & aging ever again.
+     - | 他們不再重生與衰老。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting

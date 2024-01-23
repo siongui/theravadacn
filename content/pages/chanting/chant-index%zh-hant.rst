@@ -77,7 +77,7 @@
      - `關於禮敬 <{filename}pali-chanting-verse%zh-hant.rst#respect>`_
 
    * - `Verses on the Noble Truths <{static}/extra/chanting/10\ Verses\ on\ the\ Noble\ Truths\ (p\ 29).mp3>`_
-     - 關於聖諦
+     - `關於聖諦 <{filename}pali-chanting-verse%zh-hant.rst#truths>`_
 
    * - `Four Dhamma Summaries <{static}/extra/chanting/11\ Four\ Dhamma\ Summaries\ (p\ 39).mp3>`_
      - 四法要義
