@@ -80,7 +80,7 @@
      - `關於聖諦 <{filename}pali-chanting-verse%zh-hant.rst#truths>`_
 
    * - `Four Dhamma Summaries <{static}/extra/chanting/11\ Four\ Dhamma\ Summaries\ (p\ 39).mp3>`_
-     - 四法要義
+     - `四法要義 <{filename}pali-chanting-verse%zh-hant.rst#summaries>`_
 
    * - `Sublime Attitude (*Aham sukhito homi*) <{static}/extra/chanting/12\ Sublime\ Attitudes\ (p\ 35).mp3>`_
      - 四梵住/四無量心

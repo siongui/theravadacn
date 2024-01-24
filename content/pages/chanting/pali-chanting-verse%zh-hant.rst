@@ -1659,6 +1659,55 @@
 
 ----
 
+.. _summaries:
+
+四法要義 The Four Dhamma Summaries
+++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **1. Upanīyati loko,**
+     - | The world is swept away.
+     - | 世界沖卷而去，
+
+   * - | **Addhuvo.**
+     - | It does not endure.
+     - | 它不持久。
+
+   * - | **2. Atāṇo loko,**
+     - | The world offers no shelter.
+     - | 世界無安居處，
+
+   * - | **Anabhissaro.**
+     - | There is no one in charge.
+     - | 無人掌管。
+
+   * - | **3. Assako loko,**
+     - | The world has nothing of its own.
+     - | 世界空無所有，
+
+   * - | **Sabbaṃ pahāya gamanīyaṃ.**
+     - | One has to pass on, leaving everything behind.
+     - | 人必須把一切留在身後。
+
+   * - | **4. Ūno loko,**
+     - | The world is insufficient,
+     - | 世界不滿意，
+
+   * - | **Atitto,**
+     - | insatiable,
+     - | 無饜足，
+
+   * - | **Taṇhā dāso.**
+     - | a slave to craving.
+     - | 受渴求的奴役。
+
+.. https://www.dhammatalks.org/books/ChantingGuide/Section0013.html
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
