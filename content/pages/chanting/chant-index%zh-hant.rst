@@ -83,7 +83,7 @@
      - `四法要義 <{filename}pali-chanting-verse%zh-hant.rst#summaries>`_
 
    * - `Sublime Attitude (*Aham sukhito homi*) <{static}/extra/chanting/12\ Sublime\ Attitudes\ (p\ 35).mp3>`_
-     - 四梵住/四無量心
+     - `四梵住/四無量心 <{filename}pali-chanting-verse%zh-hant.rst#sublime>`_
 
    * - `*Mangala Sutta* <{static}/extra/chanting/13\ Mangala\ Suttam\ (p\ 90).mp3>`_
      - 吉祥經

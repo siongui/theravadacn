@@ -1708,6 +1708,163 @@
 
 ----
 
+.. _sublime:
+
+四梵住/四無量心 The Sublime Attitudes
++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Ahaṃ sukhito homi**
+     - | May I be happy.
+     - | 願我得喜樂。
+
+   * - | **Niddukkho homi**
+     - | May I be free from stress & pain.
+     - | 願我離憂苦。
+
+   * - | **Avero homi**
+     - | May I be free from animosity.
+     - | 願我不受敵意。
+
+   * - | **Abyāpajjho homi**
+     - | May I be free from oppression.
+     - | 願我不受壓迫。
+
+   * - | **Anīgho homi**
+     - | May I be free from trouble.
+     - | 願我免遭困難。
+
+   * - | **Sukhī attānaṃ pariharāmi**
+     - | May I look after myself with ease.
+     - | 願我輕鬆照顧自己。
+
+   * - |
+     - | (*METTĀ* — GOOD WILL)
+     - | **慈**
+
+   * - | **Sabbe sattā sukhitā hontu.**
+     - | May all living beings be happy.
+     - | 願一切衆生得喜樂。
+
+   * - | **Sabbe sattā averā hontu.**
+     - | May all living beings be free from animosity.
+     - | 願一切衆生不受敵意\ :small:`[無怨]`\ 。
+
+   * - | **Sabbe sattā abyāpajjhā hontu.**
+     - | May all living beings be free from oppression.
+     - | 願一切衆生不受壓迫\ :small:`[無瞋]`\ 。
+
+   * - | **Sabbe sattā anīghā hontu.**
+     - | May all living beings be free from trouble.
+     - | 願一切衆生免遭困難\ :small:`[無憂]`\ 。
+
+   * - | **Sabbe sattā sukhī attānaṃ pariharantu.**
+     - | May all living beings look after themselves with ease.
+     - | 願一切衆生輕鬆照顧他們自己\ :small:`[善守各自的安樂]`\ 。
+
+   * - |
+     - | (*KARUṇĀ* — COMPASSION)
+     - | **悲**
+
+   * - | **Sabbe sattā sabba-dukkhā pamuccantu.**
+     - | May all living beings be freed from all stress & pain.
+     - | 願一切衆生脫離憂苦。
+
+   * - |
+     - | (*MUDITĀ* — APPRECIATION)
+     - | **喜**
+
+   * - | **Sabbe sattā laddha-sampattito mā vigacchantu.**
+     - | May all living beings not be deprived of the good fortune they have attained.
+     - | 願一切衆生不失所得的善運。
+
+   * - |
+     - | (*UPEKKHĀ* — EQUANIMITY)
+     - | **捨**
+
+   * - | **Sabbe sattā kammassakā kamma-dāyādā kamma-yonī kamma-bandhū kamma-paṭisaraṇā.**
+     - | All living beings are the owners of their actions, heir to their actions, born of their actions, related through their actions, and live dependent on their actions.
+     - | 一切衆生是自己業的主人、業的繼承人、由業而生、因業相聯、依業而活。
+
+   * - | **Yaṃ kammaṃ karissanti kalyāṇaṃ vā pāpakaṃ vā tassa dāyādā bhavissanti.**
+     - | Whatever they do, for good or for evil, to that will they fall heir.
+     - | 無論所作，爲善爲惡，他們必自承擔。
+
+.. https://www.dhammatalks.org/books/ChantingGuide/Section0015.html
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Sabbe sattā sadā hontu**
+       | **Averā sukha-jīvino.**
+     - | May all beings live happily,
+       | always free from animosity.
+     - | 願一切衆生生活幸福，永遠不受敵意。
+
+   * - | **Kataṃ puñña-phalaṃ mayhaṃ**
+       | **Sabbe bhāgī bhavantu te.**
+     - | May all share in the blessings
+       | springing from the good I have done.
+     - | 願一切衆生分享我行善的福德。
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Hotu sabbaṃ sumaṅgalaṃ**
+     - | May there be every good blessing.
+     - | 願你有一切善佑。
+
+   * - | **Rakkhantu sabba-devatā**
+     - | May the devas protect you.
+     - | 願天神護佑你。
+
+   * - | **Sabba-buddhānubhāvena**
+     - | Through the power of all the Buddhas,
+     - | 以諸佛之力，
+
+   * - | **Sotthī hontu nirantaraṃ**
+     - | May you forever be well.
+     - | 願你永遠安康。
+
+   * - | **Hotu sabbaṃ sumaṅgalaṃ**
+     - | May there be every good blessing.
+     - | 願你有一切善佑。
+
+   * - | **Rakkhantu sabba-devatā**
+     - | May the devas protect you.
+     - | 願天神護佑你。
+
+   * - | **Sabba-dhammānubhāvena**
+     - | Through the power of all the Dhamma,
+     - | 以諸法之力，
+
+   * - | **Sotthī hontu nirantaraṃ**
+     - | May you forever be well.
+     - | 願你永遠安康。
+
+   * - | **Hotu sabbaṃ sumaṅgalaṃ**
+     - | May there be every good blessing.
+     - | 願你有一切善佑。
+
+   * - | **Rakkhantu sabba-devatā**
+     - | May the devas protect you.
+     - | 願天神護佑你。
+
+   * - | **Sabba-saṅghānubhāvena**
+     - | Through the power of all the Sangha,
+     - | 以諸僧伽之力，
+
+   * - | **Sotthī hontu nirantaraṃ**
+     - | May you forever be well.
+     - | 願你永遠安康。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
