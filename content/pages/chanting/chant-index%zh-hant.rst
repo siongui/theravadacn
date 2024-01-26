@@ -86,7 +86,7 @@
      - `四梵住/四無量心 <{filename}pali-chanting-verse%zh-hant.rst#sublime>`_
 
    * - `*Mangala Sutta* <{static}/extra/chanting/13\ Mangala\ Suttam\ (p\ 90).mp3>`_
-     - 吉祥經
+     - `吉祥經 <{filename}pali-chanting-verse%zh-hant.rst#mangala>`_
 
    * - `*Cha Ratana Paritta Gatha* <{static}/extra/chanting/14\ Cha\ Ratana\ Paritta\ Gatha\ (p\ 92).mp3>`_
      - 三寶護衛偈

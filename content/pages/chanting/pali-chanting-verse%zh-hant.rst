@@ -1865,6 +1865,152 @@
 
 ----
 
+.. _mangala:
+
+吉祥經 Maṅgala Suttaṃ The Discourse on Good Fortune
++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **[Evam-me sutaṃ,] Ekaṃ samayaṃ Bhagavā, Sāvatthiyaṃ viharati, Jetavane Anāthapiṇḍikassa, ārāme.**
+     - | I have heard that at one time the Blessed One was staying in Savatthi at Jeta's Grove, Anathapindika's monastery.
+     - | 我聽說，有一次世尊住在舍衛城祇樹給孤獨精舍。
+
+   * - | **Atha kho aññatarā devatā, abhikkantāya rattiyā abhikkanta-vaṇṇā kevala-kappaṃ Jetavanaṃ obhāsetvā,**
+     - | yena Bhagavā ten'upasaṅkami. Then a certain devata, in the far extreme of the night, her extreme radiance lighting up the entirety of Jeta's Grove, approached the Blessed One.
+     - | 有一位天神，在深夜時分，身放強光、遍照祇樹，走近世尊。
+
+   * - | **Upasaṅkamitvā Bhagavantaṃ abhivādetvā ekamantaṃ aṭṭhāsi.**
+     - | On approaching, having bowed down to the Blessed One, she stood to one side.
+     - | 走近跟前，向世尊頂禮後，她立於一旁。
+
+   * - | **Ekam-antaṃ ṭhitā kho sā devatā Bhagavantaṃ gāthāya ajjhabhāsi.**
+     - | As she was standing there, she addressed a verse to the Blessed One.
+     - | 立於一旁後，她對世尊說了一段偈:
+
+   * - | **"Bahū devā manussā ca**
+       | **maṅgalāni acintayuṃ**
+       | **Ākaṅkhamānā sotthānaṃ**
+       | **brūhi maṅgalam-uttamaṃ.**
+     - | "Many devas & humans beings give thought to good fortune,
+       | Desiring well-being. Tell, then, the highest good fortune."
+     - | "諸天與世人，想望吉祥、希求安寧，
+       | 以此，請宣說至高的吉祥。"
+
+   * - | **"Asevanā ca bālānaṃ**
+       | **paṇḍitānañca sevanā**
+       | **Pūjā ca pūjanīyānaṃ**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | not consorting with fools, consorting with the wise,
+       | Paying homage to those who deserve homage:
+       | This is the highest good fortune.
+     - | "遠離愚人、親近智者、禮敬值得禮敬者:
+       | 這是至高的吉祥。
+
+   * - | **Paṭirūpa-desa-vāso ca**
+       | **pubbe ca kata-puññatā**
+       | **Atta-sammā-paṇidhi ca**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Living in a civilized country, having made merit in the past,
+       | Directing oneself rightly:
+       | This is the highest good fortune.
+     - | 依往昔所修福德、生活於文明國土、志向端正:
+       | 這是至高的吉祥。
+
+   * - | **Bāhu-saccañca sippañca**
+       | **vinayo ca susikkhito**
+       | **Subhāsitā ca yā vācā**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Broad knowledge, skill, discipline well-mastered,
+       | Words well-spoken:
+       | This is the highest good fortune.
+     - | 博學、廣能、精通律議、言語善宜:
+       | 這是至高的吉祥。
+
+   * - | **Mātā-pitu-upaṭṭhānaṃ**
+       | **putta-dārassa saṅgaho**
+       | **Anākulā ca kammantā**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Support for one's parents, assistance to one's wife & children,
+       | Jobs that are not left unfinished:
+       | This is the highest good fortune.
+     - | 奉養父母、照顧妻兒、行事周全:
+       | 這是至高的吉祥。
+
+   * - | **Dānañca dhamma-cariyā ca**
+       | **ñātakānañca saṅgaho**
+       | **Anavajjāni kammāni**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Generosity, living by the Dhamma, assistance to one's relatives,
+       | Deeds that are blameless:
+       | This is the highest good fortune.
+     - | 佈施、奉法、濟助親友、諸事無咎:
+       | 這是至高的吉祥。
+
+   * - | **Āratī viratī pāpā**
+       | **majja-pānā ca saññamo**
+       | **Appamādo ca dhammesu**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Avoiding, abstaining from evil; refraining from intoxicants,
+       | Being heedful with regard to qualities of the mind:
+       | This is the highest good fortune.
+     - | 戒諸惡業、避諸醉品、心智警醒:
+       | 這是至高的吉祥。
+
+   * - | **Gāravo ca nivāto ca**
+       | **santuṭṭhī ca kataññutā**
+       | **Kālena dhammassavanaṃ**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Respect, humility, contentment, gratitude,
+       | Hearing the Dhamma on timely occasions:
+       | This is the highest good fortune.
+     - | 恭敬、謙卑、知足、感恩、適時聞法:
+       | 這是至高的吉祥。
+
+   * - | **Khantī ca sovacassatā**
+       | **samaṇānañca dassanaṃ**
+       | **Kālena dhamma-sākacchā**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Patience, compliance, seeing contemplatives,
+       | Discussing the Dhamma on timely occasions:
+       | This is the highest good fortune.
+     - | 忍耐、受教、親見沙門、適時論法:
+       | 這是至高的吉祥。
+
+   * - | **Tapo ca brahma-cariyañca**
+       | **ariya-saccāna-dassanaṃ**
+       | **Nibbāna-sacchi-kiriyā ca**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | Austerity, celibacy, seeing the Noble Truths,
+       | Realizing Liberation:
+       | This is the highest good fortune.
+     - | 儉樸、獨身、親見聖諦、實證涅槃:
+       | 這是至高的吉祥。
+
+   * - | **Phuṭṭhassa loka-dhammehi**
+       | **cittaṃ yassa na kampati**
+       | **Asokaṃ virajaṃ khemaṃ**
+       | **etam-maṅgalam-uttamaṃ.**
+     - | A mind that, when touched by the ways of the world,
+       | Is unshaken, sorrowless, dustless, secure:
+       | This is the highest good fortune.
+     - | 心觸世法，不動、不哀，無染、安住:
+       | 這是至高的吉祥。
+
+   * - | **Etādisāni katvāna**
+       | **sabbattham-aparājitā**
+       | **Sabbattha sotthiṃ gacchanti**
+       | **tan-tesaṃ maṅgalam-uttamanti."**
+     - | Everywhere undefeated when doing these things,
+       | People go everywhere in well-being:
+       | This is their highest good fortune."
+     - | 如此行持，無往不勝、隨處安寧:
+       | 這是至高的吉祥。"
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
