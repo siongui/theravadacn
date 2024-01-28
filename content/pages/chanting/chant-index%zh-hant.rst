@@ -89,7 +89,7 @@
      - `吉祥經 <{filename}pali-chanting-verse%zh-hant.rst#mangala>`_
 
    * - `*Cha Ratana Paritta Gatha* <{static}/extra/chanting/14\ Cha\ Ratana\ Paritta\ Gatha\ (p\ 92).mp3>`_
-     - 三寶護衛偈
+     - `三寶護衛偈 <{filename}pali-chanting-verse%zh-hant.rst#ratana>`_
 
    * - `*Karaniya Metta Sutta* <{static}/extra/chanting/15\ Karaniya\ Metta\ Sutta\ (p\ 95).mp3>`_
      - 慈經

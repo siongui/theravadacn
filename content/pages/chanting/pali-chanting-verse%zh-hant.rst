@@ -2011,6 +2011,121 @@
 
 ----
 
+.. _ratana:
+
+三寶護衛偈 Cha Ratana Paritta Gāthā The Six Protective Verses from the Discourse on Treasures
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Yaṅkiñci vittaṃ idha vā huraṃ vā**
+       | **Saggesu vā yaṃ ratanaṃ paṇītaṃ**
+       | **Na no samaṃ atthi tathāgatena.**
+     - | Whatever wealth in this world or the next,
+       | Whatever exquisite treasure in the heavens,
+       | Is not, for us, equal to the Tathagata.
+     - | 此界他界的一切財富，天界的一切精妙珍寶，
+       | 對我們來說，無一可比如來之寶。
+
+   * - | **Idam-pi buddhe ratanaṃ paṇītaṃ**
+       | **Etena saccena suvatthi hotu.**
+     - | This, too, is an exquisite treasure in the Buddha.
+       | By this truth may there be well-being.
+     - | 這也是佛陀的精妙寶藏。
+       | 以此真言，願你有安寧。
+
+   * - | **Khayaṃ virāgaṃ amataṃ paṇītaṃ**
+       | **Yad-ajjhagā sakyamunī samāhito**
+       | **Na tena dhammena sam'atthi kiñci.**
+     - | The exquisite Deathless — dispassion, ending —
+       | Discovered by the Sakyan Sage while in concentration:
+       | There is nothing equal to that Dhamma.
+     - | 精妙的涅槃——離欲、止息——由釋迦聖人定中得證:
+       | 那樣的真法無與匹比。
+
+   * - | **Idam-pi dhamme ratanaṃ paṇītaṃ**
+       | **Etena saccena suvatthi hotu.**
+     - | This, too, is an exquisite treasure in the Dhamma.
+       | By this truth may there be well-being.
+     - | 這也是法的精妙寶藏。
+       | 以此真言，願你有安寧。
+
+   * - | **Yam-buddha-seṭṭho parivaṇṇayī suciṃ**
+       | **Samādhim-ānantarik'aññam-āhu**
+       | **Samādhinā tena samo na vijjati.**
+     - | What the excellent Awakened One extolled as pure
+       | And called the concentration of unmediated knowing:
+       | No equal to that concentration can be found.
+     - | 至尊之佛，讚歎定力的清淨，稱它爲無間之智:
+       | 那樣的正定無以匹比。
+
+   * - | **Idam-pi dhamme ratanaṃ paṇītaṃ**
+       | **Etena saccena suvatthi hotu.**
+     - | This, too, is an exquisite treasure in the Dhamma.
+       | By this truth may there be well-being.
+     - | 這也是法的精妙寶藏。
+       | 以此真言，願你有安寧。
+
+   * - | **Ye puggalā aṭṭha sataṃ pasatthā**
+       | **Cattāri etāni yugāni honti**
+       | **Te dakkhiṇeyyā sugatassa sāvakā**
+       | **Etesu dinnāni mahapphalāni.**
+     - | The eight persons — the four pairs —
+       | praised by those at peace:
+       | They, disciples of the One Well-Gone, deserve offerings.
+       | What is given to them bears great fruit.
+     - | 八輩與四雙，得寧靜者的讚揚:
+       | 他們——善逝者的聲聞弟子——值得供養。佈施他們必有大果報。
+
+   * - | **Idam-pi saṅghe ratanaṃ paṇītaṃ**
+       | **Etena saccena suvatthi hotu.**
+     - | This, too, is an exquisite treasure in the Sangha.
+       | By this truth may there be well-being.
+     - | 這也是僧伽的精妙寶藏。
+       | 以此真言，願你有安寧。
+
+   * - | **Ye suppayuttā manasā daḷhena**
+       | **Nikkāmino gotama-sāsanamhi**
+       | **Te pattipattā amataṃ vigayha**
+       | **Laddhā mudhā nibbutiṃ bhuñjamānā.**
+     - | Those who, devoted, firm-minded,
+       | Apply themselves to Gotama's message,
+       | On attaining their goal, plunge into the Deathless,
+       | Freely enjoying the Liberation they've gained.
+     - | 虔誠、堅心的人們，奉行喬達摩的教誨，
+       | 證得目標、進入涅槃，安享解脫之樂。
+
+   * - | **Idam-pi saṅghe ratanaṃ paṇītaṃ**
+       | **Etena saccena suvatthi hotu.**
+     - | This, too, is an exquisite treasure in the Sangha.
+       | By this truth may there be well-being.
+     - | 這也是僧伽的精妙寶藏。
+       | 以此真言，願你有安寧。
+
+   * - | **Khīṇaṃ purāṇaṃ navaṃ n'atthi sambhavaṃ**
+       | **Viratta-cittāyatike bhavasmiṃ**
+       | **Te khīṇa-bījā aviruḷhi-chandā**
+       | **Nibbanti dhīrā yathā'yam-padīpo.**
+     - | Ended the old, there is no new taking birth.
+       | Dispassioned their minds toward further becoming,
+       | They, with no seed, no desire for growth,
+       | The wise, they go out like this flame.
+     - | 舊業已盡，不再重生。心有離欲，不再緣起。
+       | 無再生之種，無成長之欲，智者入滅，譬如這火焰的止息。
+
+   * - | **Idam-pi saṅghe ratanaṃ paṇītaṃ**
+       | **Etena saccena suvatthi hotu.**
+     - | This, too, is an exquisite treasure in the Sangha.
+       | By this truth may there be well-being.
+     - | 這也是僧伽的精妙寶藏。
+       | 以此真言，願你有安寧。
+
+.. https://www.dhammatalks.org/books/ChantingGuide/Section0052.html
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
