@@ -92,7 +92,7 @@
      - `三寶護衛偈 <{filename}pali-chanting-verse%zh-hant.rst#ratana>`_
 
    * - `*Karaniya Metta Sutta* <{static}/extra/chanting/15\ Karaniya\ Metta\ Sutta\ (p\ 95).mp3>`_
-     - 慈經
+     - `慈經 <{filename}pali-chanting-verse%zh-hant.rst#metta>`_
 
    * - `*Khanda Paritta* <{static}/extra/chanting/16\ Khanda\ Paritta\ (p\ 97).mp3>`_
      - 蘊護衛偈

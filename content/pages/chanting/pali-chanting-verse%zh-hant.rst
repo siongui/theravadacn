@@ -2126,6 +2126,123 @@
 
 ----
 
+.. _metta:
+
+慈經 Karaṇīya Mettā Sutta The Discourse on Loving-kindness
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Karaṇīyam-attha-kusalena**
+       | **yantaṃ santaṃ padaṃ abhisamecca,**
+     - | This is to be done by one skilled in aims
+       | Who wants to break through to the state of peace:
+     - | 爲了解脫、獲得寧靜，善達目標者應當這樣做:
+
+   * - | **Sakko ujū ca suhujū ca**
+       | **suvaco cassa mudu anatimānī,**
+     - | Be capable, upright, & straightforward,
+       | Easy to instruct, gentle, & not conceited,
+     - | 能幹、端正、直接、易教、溫和、不自滿，
+
+   * - | **Santussako ca subharo ca**
+       | **appakicco ca sallahuka-vutti,**
+     - | Content & easy to support, with few duties, living lightly,
+     - | 知足、易養、少管事、生活簡樸,
+
+   * - | **Santindriyo ca nipako ca**
+       | **appagabbho kulesu ananugiddho.**
+     - | With peaceful faculties, masterful, modest, & no greed for supporters.
+     - | 諸根寂靜、技能完善、謙虛、對供養者不貪。
+
+   * - | **Na ca khuddaṃ samācare kiñci**
+       | **yena viññū pare upavadeyyuṃ.**
+     - | Do not do the slightest thing that the wise would later censure.
+     - | 不做任何事後受智者指責之事。
+
+   * - | **Sukhino vā khemino hontu**
+       | **sabbe sattā bhavantu sukhitattā.**
+     - | Think: Happy & secure, may all beings be happy at heart.
+     - | 這樣想: 喜樂、平安，願一切衆生心有喜樂。
+
+   * - | **Ye keci pāṇa-bhūtatthi**
+       | **tasā vā thāvarā vā anavasesā,**
+     - | Whatever beings there may be, weak or strong, without exception,
+     - | 一切衆生，無論軟弱、强大、
+
+   * - | **Dīghā vā ye mahantā vā**
+       | **majjhimā rassakā aṇuka-thūlā,**
+     - | Long, large, middling, short, subtle, blatant,
+     - | 長、大、中等、短小、精細、粗顯、
+
+   * - | **Diṭṭhā vā ye ca adiṭṭhā**
+       | **ye ca dūre vasanti avidūre,**
+     - | Seen or unseen, near or far,
+     - | 可見、不可見、遠、近、
+
+   * - | **Bhūtā vā sambhavesī vā**
+       | **sabbe sattā bhavantu sukhitattā.**
+     - | Born or seeking birth: May all beings be happy at heart.
+     - | 已出生的、將投生的: 願一切衆生心有喜樂。
+
+   * - | **Na paro paraṃ nikubbetha**
+       | **nātimaññetha katthaci naṃ kiñci,**
+     - | Let no one deceive another or despise anyone anywhere,
+     - | 願人們不相互欺騙、不鄙視任何地方的任何人，
+
+   * - | **Byārosanā paṭīgha-saññā**
+       | **nāññam-aññassa dukkham-iccheyya.**
+     - | Or through anger or resistance wish for another to suffer.
+     - | 不以怒意、敵意，願他人受苦。
+
+   * - | **Mātā yathā niyaṃ puttaṃ**
+       | **āyusā eka-puttam-anurakkhe,**
+     - | As a mother would risk her life to protect her child, her only child,
+     - | 如一位母親捨命保護親子、獨子,
+
+   * - | **Evam-pi sabba-bhūtesu**
+       | **māna-sambhāvaye aparimāṇaṃ.**
+     - | Even so should one cultivate a limitless heart with regard to all beings.
+     - | 他更應當對一切衆生，長養無量慈心。
+
+   * - | **Mettañca sabba-lokasmiṃ**
+       | **māna-sambhāvaye aparimāṇaṃ,**
+     - | With good will for the entire cosmos, cultivate a limitless heart:
+     - | 以對全宇宙的善意，長養無量之心:
+
+   * - | **Uddhaṃ adho ca tiriyañca**
+       | **asambādhaṃ averaṃ asapattaṃ.**
+     - | Above, below, & all around, unobstructed, without enmity or hate.
+     - | 自上、自下、周遭，無障礙、無敵意與恨意。
+
+   * - | **Tiṭṭhañ'caraṃ nisinno vā**
+       | **sayāno vā yāvatassa vigatam-iddho,**
+     - | Whether standing, walking, sitting, or lying down,
+       | as long as one is alert,
+     - | 無論站、行、坐、臥，凡清醒時，
+
+   * - | **Etaṃ satiṃ adhiṭṭheyya**
+       | **brahmam-etaṃ vihāraṃ idham-āhu.**
+     - | One should be resolved on this mindfulness.
+       | This is called a sublime abiding here & now.
+     - | 他應當確立此念。
+       | 這便稱爲即時即地的梵住之心。
+
+   * - | **Diṭṭhiñca anupagamma**
+       | **sīlavā dassanena sampanno,**
+     - | Not taken with views, but virtuous & consummate in vision,
+     - | 不受觀念左右，而有戒德與具足見，
+
+   * - | **Kāmesu vineyya gedhaṃ,**
+       | **Na hi jātu gabbha-seyyaṃ punaretīti.**
+     - | Having subdued desire for sensual pleasures,
+       | One never again will lie in the womb.
+     - | 斷除了感官貪欲，他不再投胎。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
