@@ -95,7 +95,7 @@
      - `慈經 <{filename}pali-chanting-verse%zh-hant.rst#metta>`_
 
    * - `*Khanda Paritta* <{static}/extra/chanting/16\ Khanda\ Paritta\ (p\ 97).mp3>`_
-     - 蘊護衛偈
+     - `蘊護衛偈 <{filename}pali-chanting-verse%zh-hant.rst#khanda>`_
 
    * - `*Buddha-Jaya-Mangala Gatha* <{static}/extra/chanting/17\ Buddha-jaya-mangala\ Gatha\ (p\ 105).mp3>`_
      - 佛勝吉祥偈

@@ -2243,6 +2243,76 @@
 
 ----
 
+.. _khanda:
+
+蘊護衛偈 Khandha Paritta The Group Protection
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Virūpakkhehi me mettaṃ**
+       | **Mettaṃ Erāpathehi me**
+       | **Chabyā-puttehi me mettaṃ**
+       | **Mettaṃ Kaṇhā-Gotamakehi ca**
+     - | I have good will for the Virupakkhas, the Erapathas, the Chabya descendants, & the Black Gotamakas.
+     - | 我對毗樓帕卡有慈心，
+       | 我對伊羅缽多有慈心，
+       | 我對舍婆後代有慈心，
+       | 我對黑瞿曇有慈心。\ :small:`[註:四詞均爲蛇王族名]`
+
+   * - | **Apādakehi me mettaṃ**
+       | **Mettaṃ di-pādakehi me**
+       | **Catuppadehi me mettaṃ**
+       | **Mettaṃ bahuppadehi me**
+     - | I have good will for footless beings, two-footed, four-footed, & many-footed beings.
+     - | 我對無足衆生有慈心，
+       | 我對雙足衆生有慈心，
+       | 我對四足衆生有慈心，
+       | 我對多足衆生有慈心。
+
+   * - | **Mā maṃ apādako hiṃsi**
+       | **Mā maṃ hiṃsi di-pādako**
+       | **Mā maṃ catuppado hiṃsi**
+       | **Mā maṃ hiṃsi bahuppado**
+     - | May footless beings, two-footed beings, four-footed beings, & many-footed beings do me no harm.
+     - | 願無足衆生不傷害我，
+       | 願雙足衆生不傷害我，
+       | 願四足衆生不傷害我，
+       | 願多足衆生不傷害我。
+
+   * - | **Sabbe sattā sabbe pāṇā**
+       | **Sabbe bhūtā ca kevalā**
+       | **Sabbe bhadrāni passantu**
+       | **Mā kiñci pāpam'āgamā**
+     - | May all creatures, all breathing things, all beings — each & every one — meet with good fortune. May none of them come to any evil.
+     - | 願一切生物、一切有呼吸之物、一切衆生，它們中的每一個，見到吉祥，
+       | 願它們無一遭至險惡。
+
+   * - | **Appamāṇo Buddho,**
+       | **Appamāṇo Dhammo,**
+       | **Appamāṇo Saṅgho,**
+     - | The Buddha, Dhamma, & Sangha are limitless.
+     - | 佛無量、法無量、僧無量。
+
+   * - | **Pamāṇa-vantāni siriṃ-sapāni,**
+       | **Ahi vicchikā sata-padī uṇṇānābhī sarabū mūsikā,**
+     - | There is a limit to creeping things — snakes, scorpions, centipedes, spiders, lizards, & rats.
+     - | 爬行衆生——蛇、蠍、百足、蜘蛛、蜥蜴、鼠——有限量。
+
+   * - | **Katā me rakkhā, Katā me parittā,**
+       | **Paṭikkamantu bhūtāni.**
+     - | I have made this protection, I have made this spell. May the beings depart.
+     - | 我作此護衛、我作此咒語。願它們離去。
+
+   * - | **So'haṃ namo Bhagavato,**
+       | **Namo sattannaṃ Sammā-sambuddhānaṃ.**
+     - | I pay homage to the Blessed One, homage to the seven Rightly Self-awakened Ones.
+     - | 我禮敬世尊，禮敬七位正自覺者。
+
+----
+
 (未完待續)
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
