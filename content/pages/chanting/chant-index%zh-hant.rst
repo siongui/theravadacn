@@ -98,7 +98,7 @@
      - `蘊護衛偈 <{filename}pali-chanting-verse%zh-hant.rst#khanda>`_
 
    * - `*Buddha-Jaya-Mangala Gatha* <{static}/extra/chanting/17\ Buddha-jaya-mangala\ Gatha\ (p\ 105).mp3>`_
-     - 佛勝吉祥偈
+     - `佛勝吉祥偈 <{filename}pali-chanting-verse%zh-hant.rst#buddha-jaya>`_
 
    * - `*Jaya Paritta* <{static}/extra/chanting/18\ Jaya\ Paritta\ (p\ 108).mp3>`_
      - 勝利護衛偈

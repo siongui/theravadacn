@@ -2246,7 +2246,7 @@
 .. _khanda:
 
 蘊護衛偈 Khandha Paritta The Group Protection
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++
 
 .. list-table::
    :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
@@ -2310,6 +2310,120 @@
        | **Namo sattannaṃ Sammā-sambuddhānaṃ.**
      - | I pay homage to the Blessed One, homage to the seven Rightly Self-awakened Ones.
      - | 我禮敬世尊，禮敬七位正自覺者。
+
+----
+
+.. _buddha-jaya:
+
+佛勝吉祥偈 Buddha-jaya-maṅgala Gāthā The Verses of the Buddha's Auspicious Victories
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Bāhuṃ sahassam-abhinimmita-sāvudhantaṃ**
+       | **Grīmekhalaṃ udita-ghora-sasena-māraṃ**
+       | **Dānādi-dhamma-vidhinā jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni**
+       | **[Tan-tejasā bhavatu te jaya-maṅgal'aggaṃ].**
+     - | Creating a form with 1,000 arms, each equipped with a weapon,
+       | Mara, on the elephant Girimekhala,
+       | uttered a frightening roar together with his troops.
+       | The Lord of Sages defeated him by means of such qualities as generosity:
+       | By the power of this, may you have victory blessings.
+       | [By the power of this, may you have the highest victory blessing.]
+     - | 以千手執兵器之相，魔羅身騎基裏米卡拉大象，怒吼一聲，率軍前來，
+       | 聖者之君以佈施的品質調服了他: 以此威力，願你得勝吉祥。
+
+   * - | **Mārātirekam-abhiyujjhita-sabba-rattiṃ**
+       | **Ghorampan'āḷavaka-makkham-athaddha-yakkhaṃ**
+       | **Khantī-sudanta-vidhinā jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | Even more frightful than Mara making war all night
+       | Was Āḷavaka, the arrogant unstable ogre.
+       | The Lord of Sages defeated him by means of well-trained endurance:
+       | By the power of this, may you have victory blessings.
+     - | 威力勝於魔羅的，是阿羅迦夜叉，急躁傲慢、連夜索戰，
+       | 聖者之君以善修的忍耐調服了他: 以此威力，願你得勝吉祥。
+
+   * - | **Nāḷāgiriṃ gaja-varaṃ atimattabhūtaṃ**
+       | **Dāvaggi-cakkam-asanīva sudāruṇantaṃ**
+       | **Mett'ambuseka-vidhinā jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | Nāḷāgiri, the excellent elephant, when maddened,
+       | Was very horrific, like a forest fire, a flaming discus, a lightning bolt.
+       | The Lord of Sages defeated him by sprinkling the water of good will:
+       | By the power of this, may you have victory blessings.
+     - | 良象那羅及力發怒時其態可怖，如森林之火、如火輪、又如閃電，
+       | 聖者之君灑下慈心之水調伏了它: 以此威力，願你得勝吉祥。
+
+   * - | **Ukkhitta-khaggam-atihattha sudāruṇantaṃ**
+       | **Dhāvan-ti-yojana-path'aṅguli-mālavantaṃ**
+       | **Iddhībhisaṅkhata-mano jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | Very horrific, with a sword upraised in his expert hand,
+       | Garlanded-with-Fingers ran three leagues along the path.
+       | The Lord of Sages defeated him with mind-fashioned marvels:
+       | By the power of this, may you have victory blessings.
+     - | 可怕的盎掘摩羅以人指爲飾，手舉利劍、狂追三旬之路，
+       | 聖者之君以神通調服了他: 以此威力，願你得勝吉祥。
+
+   * - | **Katvāna kaṭṭham-udaraṃ iva gabbhinīyā**
+       | **Ciñcāya duṭṭha-vacanaṃ jana-kāya-majjhe**
+       | **Santena soma-vidhinā jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | Having made a wooden belly to appear pregnant,
+       | Ciñca made a lewd accusation in the midst of the gathering.
+       | The Lord of Sages defeated her with peaceful, gracious means:
+       | By the power of this, may you have victory blessings.
+     - | 以木制腹部僞裝身孕，旃遮當衆毀謗佛陀，
+       | 聖者之君以沈默的大度調服了她: 以此威力，願你得勝吉祥。
+
+   * - | **Saccaṃ vihāya mati-saccaka-vāda-ketuṃ**
+       | **Vādābhiropita-manaṃ ati-andhabhūtaṃ**
+       | **Paññā-padīpa-jalito jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | Saccaka, whose provocative views had abandoned the truth,
+       | Delighting in argument, had become thoroughly blind.
+       | The Lord of Sages defeated him with the light of discernment:
+       | By the power of this, may you have victory blessings.
+     - | 薩遮迦觀點偏激、遠離真理，好諍辯、執迷不悟，
+       | 聖者之君以明辨之光調服了他: 以此威力，願你得勝吉祥。
+
+   * - | **Nandopananda-bhujagaṃ vibudhaṃ mahiddhiṃ**
+       | **Puttena thera-bhujagena damāpayanto**
+       | **Iddhūpadesa-vidhinā jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | Nandopananda was a serpent with great power but wrong views.
+       | The Lord of Sages defeated him by means of a display of marvels,
+       | sending his son (Moggallana), the serpent-elder, to tame him:
+       | By the power of this, may you have victory blessings.
+     - | 蛇王南陀優巴難陀神通廣大，卻持妄見，聖者之君遣弟子(目犍連)化爲蛇相，
+       | 顯現神通調服了他: 以此威力，願你得勝吉祥。
+
+   * - | **Duggāha-diṭṭhi-bhujagena sudaṭṭha-hatthaṃ**
+       | **Brahmaṃ visuddhi-jutim-iddhi-bakābhidhānaṃ**
+       | **Ñāṇāgadena vidhinā jitavā munindo**
+       | **Tan-tejasā bhavatu te jaya-maṅgalāni.**
+     - | His hands bound tight by the serpent of wrongly held views,
+       | Baka, the Brahma, thought himself pure in his radiance & power.
+       | The Lord of Sages defeated him by means of his words of knowledge:
+       | By the power of this, may you have victory blessings.
+     - | 梵天拔迦明亮有力，自以爲清淨，他的雙手受妄見之蛇的緊縛
+       | 聖者之君以智慧之言調服了他: 以此威力，願你得勝吉祥。
+
+   * - | **Etāpi buddha-jaya-maṅgala-aṭṭha-gāthā**
+       | **Yo vācano dinadine sarate matandī**
+       | **Hitvān'aneka-vividhāni c'upaddavāni**
+       | **Mokkhaṃ sukhaṃ adhigameyya naro sapañño.**
+     - | These eight verses of the Buddha's victory blessings:
+       | Whatever person of discernment
+       | Recites or recalls them day after day without lapsing,
+       | Destroying all kinds of obstacles,
+       | Will attain emancipation & happiness.
+     - | 這八首佛勝吉祥偈: 凡有明辨者，日日持頌、憶念不息，
+       | 摧毀一切障礙，將得解脫與安寧。
 
 ----
 
