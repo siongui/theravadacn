@@ -2427,6 +2427,77 @@
 
 ----
 
-(未完待續)
+.. _jaya:
+
+勝利護衛偈 Jaya Gāthā The Victory Protection
+++++++++++++++++++++++++++++++++++++++++++++
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+
+   * - | **Mahā-kāruṇiko nātho**
+       | **Hitāya sabba-pāṇinaṃ**
+       | **Pūretvā pāramī sabbā**
+       | **Patto sambodhim-uttamaṃ**
+       | **Etena sacca-vajjena**
+       | **Hotu te jaya-maṅgalaṃ**
+     - | (The Buddha), our protector, with great compassion,
+       | For the welfare of all beings,
+       | Having fulfilled all the perfections,
+       | Attained the highest self-awakening.
+       | Through the speaking of this truth,
+       | may you have a victory blessing.
+     - | 佛有大悲之心，是我們的護佑，
+       | 他爲衆生福祉，圓滿一切波羅蜜，自證無上覺醒。
+       | 以此真語之力，願你得勝吉祥。
+
+   * - | **Jayanto bodhiyā mūle**
+       | **Sakyānaṃ nandi-vaḍḍhano**
+       | **Evaṃ tvam vijayo hohi**
+       | **Jayassu jaya-maṅgale**
+     - | Victorious at the foot of the Bodhi tree,
+       | Was he who increased the Sakyans' delight.
+       | May you have the same sort of victory,
+       | May you win victory blessings.
+     - | 菩提樹下得勝，他爲釋迦族帶來歡欣。
+       | 願你同樣獲勝，願你得勝吉祥。
+
+   * - | **Aparājita-pallaṅke**
+       | **Sīse paṭhavi-pokkhare**
+       | **Abhiseke sabba-buddhānaṃ**
+       | **Aggappatto pamodati**
+     - | At the head of the lotus leaf of the world
+       | On the undefeated seat
+       | Consecrated by all the Buddhas,
+       | He rejoiced in the utmost attainment.
+     - | 在世間蓮葉之頂，於諸佛加持的常勝寶座之上，
+       | 他爲證得至高成就而歡喜。
+
+   * - | **Sunakkhattaṃ sumaṅgalaṃ**
+       | **Supabhātaṃ suhuṭṭhitaṃ**
+       | **Sukhaṇo sumuhutto ca**
+       | **Suyiṭṭhaṃ brahmacārisu**
+       | **Padakkhiṇaṃ kāya-kammaṃ**
+       | **Vācā-kammaṃ padakkhiṇaṃ**
+       | **Padakkhiṇaṃ mano-kammaṃ**
+       | **Paṇidhī te padakkhiṇā**
+       | **Padakkhiṇāni katvāna**
+       | **Labhantatthe, padakkhiṇe**
+     - | A lucky star it is, a lucky blessing,
+       | a lucky dawn, a lucky sacrifice,
+       | a lucky instant, a lucky moment,
+       | a lucky offering: i.e., a rightful bodily act
+       | a rightful verbal act, a rightful mental act,
+       | your rightful intentions
+       | with regard to those who lead the chaste life.
+       | Doing these rightful things,
+       | your rightful aims are achieved.
+     - | 吉祥的星辰、吉祥的祝福、吉祥的曙光、吉祥的奉獻，
+       | 吉祥之時、吉祥之刻，
+       | 吉祥的供養: 即，正當的身業、語業、意業，對生活清淨者心意正當。
+       | 行此正當之事，你的正當目標必得成就。
+
+----
 
 https://www.accesstoinsight.org/lib/authors/dhammayut/index.html#chanting
