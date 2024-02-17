@@ -582,4 +582,75 @@
 
 **[八聖道]**
 
+『比丘們，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃者——是什麽？正是此\ `八聖道`_\ ：\ `正見`_\ 、\ `正志`_\ 、\ `正語`_\ 、\ `正業`_\ 、\ `正命`_\ 、\ `正精進`_\ 、\ `正念`_\ 、\ `正定`_\ 。比丘們，此爲如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃。
+
+.. _八聖道: http://theravadacn.com/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 八聖道 link
+.. _正見: http://theravadacn.com/Refuge/samma%20ditthi2.htm
+.. TODO: replace 正見 link
+.. _正志: http://theravadacn.com/Refuge/samma%20sankappo2.htm
+.. TODO: replace 正志 link
+.. _正語: http://theravadacn.com/Refuge/samma%20vaca2.htm
+.. TODO: replace 正語 link
+.. _正業: http://theravadacn.com/Refuge/samma%20kammanto2.htm
+.. TODO: replace 正業 link
+.. _正命: http://theravadacn.com/Refuge/samma%20ajivo2.htm
+.. TODO: replace 正命 link
+.. _正精進: http://theravadacn.com/Refuge/samma%20vayamo2.htm
+.. TODO: replace 正精進 link
+.. _正念: http://theravadacn.com/Refuge/samma%20sati2.htm
+.. TODO: replace 正念 link
+.. _正定: http://theravadacn.com/Refuge/samma%20samadhi2.htm
+.. TODO: replace 正定 link
+
+**[四聖諦]**
+
+『比丘們，此爲\ `苦聖諦`_\ ：生苦、老苦、死苦；憂、哀、痛、悲、慘苦；與不愛者共處苦、與愛者離別苦、所求不得苦：簡言之，五取蘊苦。
+
+『比丘們, 此爲\ `苦集[苦因]聖諦`_\ ：\ :small:`[苦因是:]`\ 造作再生的渴求——帶著貪與喜、於處處耽享——正是: 對感官之欲的渴求、對有生的渴求、對無生的渴求。
+
+『比丘們，此爲\ `苦的止息聖諦`_\ ：對該渴求的無餘離貪、止息、捨離、棄絕、解脫、放開。
+
+『比丘們，此爲\ `苦的止息之道聖諦`_\ ：正是此八聖道——正見、正志、正語、正業、正命、正精進、正念、正定。
+
+.. _苦聖諦: http://theravadacn.com/Refuge/Sacca1_dukkha2.htm
+.. TODO: replace 苦聖諦 link
+.. _苦集[苦因]聖諦: http://theravadacn.com/Refuge/Sacca2_dukkha%20samudaya2.htm
+.. TODO: replace 苦集[苦因]聖諦 link
+.. _苦的止息聖諦: http://theravadacn.com/Refuge/Sacca3_dukkha%20nirodho2.htm
+.. TODO: replace 苦的止息聖諦 link
+.. _苦的止息之道聖諦: http://theravadacn.com/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 苦的止息之道聖諦 link
+
+**[對於四聖諦的責任]**
+
+『我對前所未聞之法，起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明\ :small:`[眼生智生慧生明生光生]`\ ：「此爲苦聖諦」……「此苦聖諦需深解」……「此苦聖諦已深解」。
+
+『我對前所未聞之法，起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明：「此爲苦因聖諦」……「此苦因聖諦需斷棄」……「此苦因聖諦已斷棄」。
+
+『我對前所未聞之法，起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明：「此爲苦的止息聖諦」……「此苦的止息聖諦需直證」……「此苦的止息聖諦已直證」。
+
+『我對前所未聞之法，起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明：「此爲苦的止息之道聖諦」……「此苦的止息之道聖諦需直證」……「此苦的止息之道聖諦已直證」。
+
+**[十二輻法輪]**
+
+『比丘們，只要我對此四聖諦之三轉十二相的如實知見尚不純淨，比丘們，我未在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。然而，一旦我對此四聖諦之三轉十二相的如實知見真正純淨，比丘們，我即在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。我內心昇起此知見: ‘我的解脫不可動搖。此爲最後一生。今不再有生。’”
+
+**[聖僧伽的誕生]**
+
+此爲薄伽梵所說。五衆比丘對薄伽梵之說隨喜、心悅。在此解說期間，尊者喬陳如昇起了無塵、無垢的法眼：『凡緣起者，皆趨止息。』\ :small:`[凡緣起法,皆爲止息法]`
+
+**[法輪轉起]**
+
+薄伽梵轉法輪之際，地神們大呼: 『 在波羅那斯仙人墜的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神摩羅梵天、宇宙中任何者，皆不能阻止。』聞地神之呼聲，四大王天們大呼……三十三天的天神……夜摩天的天神……兜率天的天神……化樂天的天神……他化自在天的天神……梵衆天們大呼:『 在波羅那斯仙人墜的的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神魔羅梵天、宇宙中任何者，皆不能阻止。』
+
+於是，那時刻、那瞬間，呼聲直達梵天界。此十千宇宙在抖動、顫動、震動，一道大無量光出現在宇宙間，勝於天神的燦爛。
+
+其時，薄伽梵大聲道: “喬陳如真悟了? 喬陳如真悟了。”　故此，尊者喬陳如得名: 阿念-喬陳如\ :small:`[覺悟的喬陳如]`\ 。
+
+.. container:: has-text-right
+
+   ——SN56.11(相應部)
+
+
 (未完待續)
