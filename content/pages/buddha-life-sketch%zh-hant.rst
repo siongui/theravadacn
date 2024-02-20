@@ -737,4 +737,46 @@
    ——Iti4(如是語)
 
 
+……講授佈施的價值
+################
+
+『何爲\ `佈施`_\ 的寶藏? 有此情形，一位聖者的弟子，覺知已洗清了慳吝之染，居於家中、慷慨、廣施、樂於寬宏大度、有求必應、樂於供養缽食。此謂佈施的寶藏。』
+
+.. _佈施: http://theravadacn.com/Refuge/dana_caga2.htm
+.. TODO: replace 佈施 link
+
+.. container:: has-text-right
+
+   ——AN7.6 (增支部)
+
+
+……講授戒德的價值
+################
+
+『何爲\ `戒德`_\ 的寶藏? 有此情形，一位聖者的弟子，戒殺生、戒偷盜、戒不當性事、戒謊言、戒趨向失慎的醉品。比丘們，此謂戒德的的寶藏。』
+
+.. _戒德: http://theravadacn.com/Refuge/sila2.htm
+.. TODO: replace 戒德 link
+
+.. container:: has-text-right
+
+   ——AN7.6 (增支部)
+
+
+……道德操行的果報
+################
+
+| 隨著心意端正、言語端正、身業端正，
+| 此地一位多聞者、行福德者，
+| 此生如此短暫，
+| 身壞命終時有明辨，往\ `天界`_\ 重生。
+
+.. _天界: http://theravadacn.com/Refuge/sagga2.htm
+.. TODO: replace 天界 link
+
+.. container:: has-text-right
+
+   ——AN7.6 (增支部)
+
+
 (未完待續)
