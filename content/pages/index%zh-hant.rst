@@ -17,7 +17,7 @@
 佛法入門:
 
 - 佛 `巴利經典中的佛陀生平 <{filename}buddha-life-sketch%zh-hant.rst>`_ (全文)
-- 法 佛陀的次第說法
+- 法 `佛陀的次第說法 <{filename}dhamma-gradual%zh-hant.rst>`_
 - 僧 巴利經文中僧伽的定義
 
 專題選譯:
