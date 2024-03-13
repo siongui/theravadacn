@@ -100,6 +100,33 @@
 .. _四聖諦: http://theravadacn.com/Refuge/cattari%20ariya%20saccani2.htm
 .. TODO: replace 四聖諦 link
 
+不少西方人是在密集禪修班裡初次接觸佛陀教導的，這樣的禪修班通常一開始便傳授\ `正念`_\ 與\ `正定`_\ 的培養技能。值得注意的是，這些素質固然重要，佛陀把它們置於次第修練的後期步驟。其中之意是很清楚的：爲了從禪定中獲得最大善益，爲了使覺醒所必須的一切素質皆盡成熟，基本功不能忽視。這個過程無捷徑可走。
+
+.. _正念: http://theravadacn.com/Refuge/samma%20sati2.htm
+.. TODO: replace 正念 link
+.. _正定: http://theravadacn.com/Refuge/samma%20samadhi2.htm
+.. TODO: replace 正定 link
+
+以下對佛陀的六步次第修練作較爲詳細的解說:
+
+1. `佈施`_ [*dana*]
+2. `戒德`_ [*sila*]
+
+   - `五戒`_
+   - `八戒`_
+   - `十戒`_
+   - `持守布薩日`_ [*Uposatha*]
+
+3. `天界`_
+
+   - `三十一个生存域`_
+
+.. _五戒: http://theravadacn.com/Refuge/Sila_panca2.htm
+.. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
+.. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
+.. _持守布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
+.. _三十一个生存域: http://www.theravadacn.org/Refuge/31Planes2.htm
+
 (未完待續)
 
 .. [1] “覺醒是頓悟還是漸悟?” 多少世紀以來無數學子投入了時間精力爭執這個問題。此處的段落及巴利經典中的其它段落相當清楚地表明了佛陀自己對該問題的觀點: 心逐漸地發展成熟，完成覺醒的頓然一躍。
