@@ -121,11 +121,40 @@
 
    - `三十一个生存域`_
 
+4. `過患`_ [*adinava*]
+5. `出離`_ [*nekkhamma*]
+6. `四聖諦`_ [*cattari ariya saccani*]
+
+   i. `苦聖諦`_ [*dukkha ariya sacca*]
+
+      - `苦`_ [*dukkha*]
+      - `輪迴`_ [*samsara*]
+
+   ii. `苦集[苦因]聖諦`_ [*dukkha samudayo ariya sacca*]
+
+       - `渴求`_ [*tanha*]
+       - `無明`_ [*avijja*]
+
+   iii. `苦的止息聖諦`_ [*dukkha nirodho ariya sacca*]
+
+        - `涅槃`_ [*nibbana*]
+
+   iv. `苦的止息之道聖諦`_ [*dukkha nirodha gamini patipada ariya sacca*] — `八聖道`_
+
 .. _五戒: http://theravadacn.com/Refuge/Sila_panca2.htm
 .. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
 .. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
 .. _持守布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
 .. _三十一个生存域: http://www.theravadacn.org/Refuge/31Planes2.htm
+.. _苦聖諦: http://www.theravadacn.org/Refuge/Sacca1_dukkha2.htm
+.. _苦: http://theravadacn.com/Refuge/dukkha2.htm
+.. _輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
+.. _苦集[苦因]聖諦: http://www.theravadacn.org/Refuge/Sacca2_dukkha%20samudaya2.htm
+.. _渴求: http://www.theravadacn.org/Refuge/tanha2.htm
+.. _無明: http://www.theravadacn.org/Refuge/avijja2.htm
+.. _苦的止息聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
+.. _苦的止息之道聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
 
 (未完待續)
 
