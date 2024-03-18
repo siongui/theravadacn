@@ -142,19 +142,56 @@
    iv. `苦的止息之道聖諦`_ [*dukkha nirodha gamini patipada ariya sacca*] — `八聖道`_
 
 .. _五戒: http://theravadacn.com/Refuge/Sila_panca2.htm
+.. TODO: replace 五戒 link
 .. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
+.. TODO: replace 八戒 link
 .. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
+.. TODO: replace 十戒 link
 .. _持守布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
+.. TODO: replace 持守布薩日 link
 .. _三十一个生存域: http://www.theravadacn.org/Refuge/31Planes2.htm
+.. TODO: replace 三十一个生存域 link
 .. _苦聖諦: http://www.theravadacn.org/Refuge/Sacca1_dukkha2.htm
+.. TODO: replace 苦聖諦 link
 .. _苦: http://theravadacn.com/Refuge/dukkha2.htm
+.. TODO: replace 苦 link
 .. _輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
+.. TODO: replace 輪迴 link
 .. _苦集[苦因]聖諦: http://www.theravadacn.org/Refuge/Sacca2_dukkha%20samudaya2.htm
+.. TODO: replace 苦集[苦因]聖諦 link
 .. _渴求: http://www.theravadacn.org/Refuge/tanha2.htm
+.. TODO: replace 渴求 link
 .. _無明: http://www.theravadacn.org/Refuge/avijja2.htm
+.. TODO: replace 無明 link
 .. _苦的止息聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
+.. TODO: replace 苦的止息聖諦 link
 .. _苦的止息之道聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 苦的止息之道聖諦 link
 .. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 八聖道 link
+
+.. list-table::
+   :class: table is-bordered is-striped is-narrow stack-th-td-on-mobile
+   :widths: auto
+   :header-rows: 1
+
+   * - 分部
+     - 聖道八道支
+
+   * - **明辨** :small:`[慧]`
+     - 1. `正見`_ [*samma-dithhi*]
+
+          - `業`_ [*kamma*]
+          - `可敬的友誼`_ [*kalyanamittata*]
+
+       2. `正志`_ [*samma-sankappo*]
+
+.. _業: http://www.theravadacn.org/Refuge/kamma2.htm
+.. TODO: replace 業 link
+.. _可敬的友誼: http://www.theravadacn.org/Refuge/kalyanamittata2.htm
+.. TODO: replace 可敬的友誼 link
+.. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo2.htm
+.. TODO: replace 正志 link
 
 (未完待續)
 
