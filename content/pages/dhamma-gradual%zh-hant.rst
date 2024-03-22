@@ -186,12 +186,34 @@
 
        2. `正志`_ [*samma-sankappo*]
 
+   * - `戒德`_ :small:`[戒]`
+     - 3. `正語`_ [*samma-vaca*]
+       4. `正業`_ [*samma-kammanto*]
+       5. `正命`_ [*sammma-ajivo*]
+
+   * - **奢摩他** :small:`[定]`
+     - 6. `正精進`_ [*samma-vayamo*]
+       7. `正念`_ [*samma-sati*]
+       8. `正定`_ [*samma-samadhi*]
+
+          - `禪那`_ [jhana]
+
 .. _業: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 業 link
 .. _可敬的友誼: http://www.theravadacn.org/Refuge/kalyanamittata2.htm
 .. TODO: replace 可敬的友誼 link
 .. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo2.htm
 .. TODO: replace 正志 link
+.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
+.. TODO: replace 正語 link
+.. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto2.htm
+.. TODO: replace 正業 link
+.. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo2.htm
+.. TODO: replace 正命 link
+.. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo2.htm
+.. TODO: replace 正精進 link
+.. _禪那: http://www.theravadacn.org/Refuge/jhana2.htm
+.. TODO: replace 禪那 link
 
 (未完待續)
 
