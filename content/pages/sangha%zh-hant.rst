@@ -134,10 +134,56 @@
 
       ——AN VIII 13(增支部)
 
+.. container:: notification
+
+   “比丘們，這個團體避免閑談、不作閑談，已在純淨的心材上確立起來: 這群比丘正是這樣，這個僧團正是這樣。這樣的團體值得佈施、值得禮遇、值得供養、值得尊敬，是世界的無上福田: 這群比丘正是這樣，這個僧團正是這樣。向這樣的團體\ `贈一件小禮`_\，可成爲一件大禮，贈一件大禮，可成爲更大的禮: 這群比丘正是這樣，這個僧團正是這樣。這樣的團體世上少見: 這群比丘正是這樣，這個僧團正是這樣。這樣的團體，是值得帶著資糧、長途旅行前去拜訪的。”
+
+   .. container:: has-text-right
+
+      ——MN118(中部)
+
+.. _贈一件小禮: http://www.theravadacn.org/Refuge/Dana_caga2.htm
+.. TODO: replace 贈一件小禮 link
+
 ----
 
-(未完待續)
+至上僧團
+
+.. container:: notification
+
+   “如來的弟子僧伽在任何團體、集體之中被視爲至上——他們是: 四雙聖弟子、八輩聖弟子。對僧伽有信念者，乃是對至上(品質)有信念，對至上(品質)有信念者，將得至上果報。”
+
+   .. container:: has-text-right
+
+      ——Iti90(如是語)
 
 ----
 
+憶念僧伽
+
+.. container:: notification
+
+   “任何時候，聖者的弟子憶念僧伽時，他的心不爲貪所制，爲瞋所制，爲癡所制。有僧伽爲根基，他的心朝向正直。心向正直，這位聖者的弟子便有了\ `目標感`_\，解\ `法`_\義，有法樂。有樂，則有喜。有喜，色身寧靜。色身寧靜時，他有自在。有自在，心\ `入定`_\。”
+
+   .. container:: has-text-right
+
+      ——ANXI.12(增支部)
+
+.. _目標感: http://www.theravadacn.org/Refuge/nibbana2.htm
+.. TODO: replace 目標感 link
+.. _法: {filename}dhamma-gradual%zh-hant.rst
+.. _入定: http://www.theravadacn.org/Refuge/samma%20samadhi2.htm
+.. TODO: replace 入定 link
+
+.. container:: notification
+
+   “比丘們，當你憶念僧伽時，任何畏懼、恐懼、驚懼因之棄去。”
+
+   .. container:: has-text-right
+
+      ——SNXI.3(相应部)
+
+----
+
+相關連接:
 https://accesstoinsight.org/ptf/sangha.html
