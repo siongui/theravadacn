@@ -22,7 +22,7 @@
 
 專題選譯:
 
-- 上座部佛教的三部大經;
+- `上座部佛教的三部大經 <{filename}sutta/three-cardinal-sutta%zh-hant.rst>`_;
 - `泰系林居禪修傳統的教導 <{filename}talk/thai-forest-tradition%zh-hant.rst>`_;
 - 上座部佛教尊者與學者的文字選譯;
 - 歸依三寶;    佈施;    持戒;    禪定;
