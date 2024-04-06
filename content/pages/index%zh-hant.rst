@@ -25,7 +25,8 @@
 - `上座部佛教的三部大經 <{filename}sutta/three-cardinal-sutta%zh-hant.rst>`_;
 - `泰系林居禪修傳統的教導 <{filename}talk/thai-forest-tradition%zh-hant.rst>`_;
 - `上座部佛教尊者與學者的文字選譯 <{filename}author/author-index%zh-hant.rst>`_;
-- `歸依三寶 <{filename}refuge-index%zh-hant.rst>`_;    佈施;    持戒;    禪定;
+- `歸依三寶 <{filename}refuge-index%zh-hant.rst>`_;
+  `佈施 <{filename}dana-index%zh-hant.rst>`_;    持戒;    禪定;
 - 福德;   面對病痛與死亡;
 - 經文選譯;
 - 問答選;
