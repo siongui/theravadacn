@@ -107,4 +107,4 @@
 ----
 
 相關連接:
-`布施文選 <http://www.theravadacn.org/DanaIndex.htm>`_
+`布施文選 <{filename}/pages/dana-index%zh-hant.rst>`_

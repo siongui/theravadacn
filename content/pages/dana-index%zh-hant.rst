@@ -43,6 +43,8 @@
 - `佈施導言`_ ... 菩提尊者 撰
 - `佈施(專題經文選編，來自《佛法入門》)`_ ... 約翰-布列特 編
 - `佈施(專題經文選譯，來自《福德》)`_ ... 坦尼沙羅尊者 編譯
+- `福德——增支部經文選讀`_ ... 向智尊者 譯
+- `佈施先行`_ ... 坦尼沙羅尊者 撰
 
 .. _佈施導言: http://www.theravadacn.org/DanaIndex2.htm#introduction
 .. TODO: replace 佈施導言 link
@@ -50,5 +52,8 @@
 .. TODO: replace 佈施(專題經文選編，來自《佛法入門》) link
 .. _佈施(專題經文選譯，來自《福德》): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm
 .. TODO: replace 佈施(專題經文選譯，來自《福德》) link
+.. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm
+.. TODO: replace 福德——增支部經文選讀 link
+.. _佈施先行: {filename}talk/thanissaro/generosity-first%zh-hant.rst
 
 (未完待續)
