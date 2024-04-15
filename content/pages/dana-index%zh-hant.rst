@@ -45,8 +45,11 @@
 - `佈施(專題經文選譯，來自《福德》)`_ ... 坦尼沙羅尊者 編譯
 - `福德——增支部經文選讀`_ ... 向智尊者 譯
 - `佈施先行`_ ... 坦尼沙羅尊者 撰
+- `巴利經典中的佈施`_ ... 莉莉-德西爾瓦 撰
+- `發自內心的佈施`_ ... 莫里斯-沃石 撰
+- `佈施與募款有什麽關係`_ ... 約翰-布列特 撰
 
-.. _佈施導言: http://www.theravadacn.org/DanaIndex2.htm#introduction
+.. _佈施導言: #introduction
 .. TODO: replace 佈施導言 link
 .. _佈施(專題經文選編，來自《佛法入門》): http://www.theravadacn.org/Refuge/dana_caga2.htm
 .. TODO: replace 佈施(專題經文選編，來自《佛法入門》) link
@@ -55,5 +58,18 @@
 .. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm
 .. TODO: replace 福德——增支部經文選讀 link
 .. _佈施先行: {filename}talk/thanissaro/generosity-first%zh-hant.rst
+.. _巴利經典中的佈施: http://www.theravadacn.org/Author/LilyDana2.htm
+.. TODO: replace 巴利經典中的佈施 link
+.. _發自內心的佈施: http://www.theravadacn.org/Author/WalsheDana2.htm
+.. TODO: replace 發自內心的佈施 link
+.. _佈施與募款有什麽關係: http://www.theravadacn.org/Beginner/dana2.htm
+.. TODO: replace 佈施與募款有什麽關係 link
+
+----
+
+.. _introduction:
+
+菩提尊者: 佈施導言
+++++++++++++++++++
 
 (未完待續)
