@@ -41,9 +41,22 @@
 ----
 
 - 《\ `作思經`_\ 》 ... 巴利經文中譯
+- `五戒`_\、\ `八戒`_\、\ `十戒`_ ... 約翰-布列特 編
+- `戒德(專題經文選編，來自《佛法入門》)`_ ... 約翰-布列特 編
+- `持戒(專題經文選譯，來自《福德》)`_ ... 坦尼沙羅尊者 编譯
 
 .. _作思經: http://www.theravadacn.org/SilaIndex2.htm#cetana
 .. TODO: replace 作思經 link
+.. _五戒: http://www.theravadacn.org/Refuge/Sila_panca2.htm
+.. TODO: replace 五戒 link
+.. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
+.. TODO: replace 八戒 link
+.. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
+.. TODO: replace 十戒 link
+.. _戒德(專題經文選編，來自《佛法入門》): http://www.theravadacn.org/Refuge/sila2.htm
+.. TODO: replace 戒德(專題經文選編，來自《佛法入門》) link
+.. _持戒(專題經文選譯，來自《福德》): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm#sila
+.. TODO: replace 持戒(專題經文選譯，來自《福德》) link
 
 ----
 
