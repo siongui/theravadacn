@@ -44,6 +44,8 @@
 - `五戒`_\、\ `八戒`_\、\ `十戒`_ ... 約翰-布列特 編
 - `戒德(專題經文選編，來自《佛法入門》)`_ ... 約翰-布列特 編
 - `持戒(專題經文選譯，來自《福德》)`_ ... 坦尼沙羅尊者 编譯
+- `布薩日`_ ... 約翰-布列特編
+- 《\ `教誡毗沙卡布薩經`_\》《\ `教誡婆西塔布薩經`_\》 ... 巴利經文中譯
 
 .. _作思經: http://www.theravadacn.org/SilaIndex2.htm#cetana
 .. TODO: replace 作思經 link
@@ -57,6 +59,12 @@
 .. TODO: replace 戒德(專題經文選編，來自《佛法入門》) link
 .. _持戒(專題經文選譯，來自《福德》): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm#sila
 .. TODO: replace 持戒(專題經文選譯，來自《福德》) link
+.. _布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
+.. TODO: replace 布薩日 link
+.. _教誡毗沙卡布薩經: http://www.theravadacn.org/Sutta/passages2.htm#uposatha
+.. TODO: replace 教誡毗沙卡布薩經 link
+.. _教誡婆西塔布薩經: http://www.theravadacn.org/Sutta/passages2.htm#vasettha
+.. TODO: replace 教誡婆西塔布薩經 link
 
 ----
 
