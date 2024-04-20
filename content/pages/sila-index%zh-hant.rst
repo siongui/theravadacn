@@ -46,6 +46,11 @@
 - `持戒(專題經文選譯，來自《福德》)`_ ... 坦尼沙羅尊者 编譯
 - `布薩日`_ ... 約翰-布列特編
 - 《\ `教誡毗沙卡布薩經`_\》《\ `教誡婆西塔布薩經`_\》 ... 巴利經文中譯
+- 《\ `釋迦經`_\》《\ `布薩根本經`_\》 ... 巴利經文中英對照
+- `滋養根柢`_ ... 菩提尊者 撰
+- `受戒`_ ... 菩提尊者 撰
+- `戒律的療癒力`_ ... 坦尼沙羅尊者 撰
+- `成就戒德(來自《修心之技能》)`_ ... 阿姜李-達摩達羅 撰
 
 .. _作思經: http://www.theravadacn.org/SilaIndex2.htm#cetana
 .. TODO: replace 作思經 link
@@ -65,6 +70,16 @@
 .. TODO: replace 教誡毗沙卡布薩經 link
 .. _教誡婆西塔布薩經: http://www.theravadacn.org/Sutta/passages2.htm#vasettha
 .. TODO: replace 教誡婆西塔布薩經 link
+.. _釋迦經: http://www.theravadacn.org/Sutta/Sakka2.htm
+.. TODO: replace 釋迦經 link
+.. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
+.. TODO: replace 布薩根本經 link
+.. _滋養根柢: http://www.theravadacn.org/Author/BodhiRoots.htm
+.. TODO: replace 滋養根柢 link
+.. _受戒: http://www.theravadacn.org/Author/BodhiTakingPrecepts2.htm
+.. TODO: replace 受戒 link
+.. _戒律的療癒力: {filename}talk/thanissaro/the-healing-power-of-the-precepts%zh-hant.rst
+.. _成就戒德(來自《修心之技能》): {filename}talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst
 
 ----
 
