@@ -27,7 +27,8 @@
 - `上座部佛教尊者與學者的文字選譯 <{filename}author/author-index%zh-hant.rst>`_;
 - `歸依三寶 <{filename}refuge-index%zh-hant.rst>`_;
   `佈施 <{filename}dana-index%zh-hant.rst>`_;
-  `持戒 <{filename}sila-index%zh-hant.rst>`_;    禪定;
+  `持戒 <{filename}sila-index%zh-hant.rst>`_;
+  `禪定 <{filename}meditation-index%zh-hant.rst>`_;
 - 福德;   面對病痛與死亡;
 - 經文選譯;
 - 問答選;
