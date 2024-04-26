@@ -40,8 +40,31 @@
 
 ----
 
-- `阿姜李: 念住呼吸 <{filename}talk/ajaan-lee/keeping-the-breath-in-mind-lessons-in-samaadhi%zh-hant.rst>`_
-  (`PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
-- 阿姜李: 從少做起
+- 阿姜李:
+
+  * `念住呼吸 <{filename}talk/ajaan-lee/keeping-the-breath-in-mind-lessons-in-samaadhi%zh-hant.rst>`_
+    (`PDF <{static}/extra/talk/pdf/LeeKeepingBreath-zh-hant.pdf>`__)
+  * 從少做起
+  * `解脫的技能 <{filename}talk/ajaan-lee/the-skill-of-release%zh-hant.rst>`_
+  * `慈心的力量 <{filename}talk/ajaan-lee/the-power-of-good-will%zh-hant.rst>`_
+  * `庇護處 <{filename}talk/ajaan-lee/shelter%zh-hant.rst>`_
+  * `善德的力量 <{filename}talk/ajaan-lee/the-power-of-goodness%zh-hant.rst>`_
+
+- `阿姜康地: 使佛法成爲你自己的 <{filename}talk/ajaan-khamdee/make-the-dhamma-your-own%zh-hant.rst>`_
+- `阿姜帖: 正道修行 <{filename}talk/ajaan-thate/steps-along-the-path%zh-hant.rst>`_
+
+- 坦尼沙羅尊者:
+
+  * `呼吸禪定引導 <{filename}talk/thanissaro/a-guided-meditation%zh-hant.rst>`_
+  * `呼吸禪定步驟 <{filename}talk/thanissaro/the-steps-of-breath-meditation%zh-hant.rst>`_
+  * `解析辨識 <{filename}talk/thanissaro/de-perception%zh-hant.rst>`_
+  * `坦尼沙羅尊者回憶阿姜放: 關於判斷禪那境界 <{filename}talk/thanissaro/fuang-on-jhana-seeing-for-yourself%zh-hant.rst>`_
+  * `定義念住 <{filename}talk/thanissaro/mindfulness-defined%zh-hant.rst>`_
+  * `行禪: 動中之止 <{filename}talk/thanissaro/walking-meditation-stillness-in-motion%zh-hant.rst>`_
+  * `調入氣中 <{filename}talk/thanissaro/tuning-in-to-the-breath%zh-hant.rst>`_
+  * `浴於氣中 <{filename}talk/thanissaro/bathed-in-the-breath%zh-hant.rst>`_
+  * `佛教禪修: 如何與爲何 <{filename}talk/thanissaro/the-how-and-the-why%zh-hant.rst>`_
+  * `審視你正在作什麼 <{filename}talk/thanissaro/watch-what-you-are-doing%zh-hant.rst>`_
+  * `觀察者 <{filename}talk/thanissaro/the-observer%zh-hant.rst>`_
 
 (未完待續)
