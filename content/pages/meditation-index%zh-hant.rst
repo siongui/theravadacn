@@ -66,5 +66,12 @@
   * `佛教禪修: 如何與爲何 <{filename}talk/thanissaro/the-how-and-the-why%zh-hant.rst>`_
   * `審視你正在作什麼 <{filename}talk/thanissaro/watch-what-you-are-doing%zh-hant.rst>`_
   * `觀察者 <{filename}talk/thanissaro/the-observer%zh-hant.rst>`_
+  * `六元素 <{filename}talk/thanissaro/six-properties%zh-hant.rst>`_
+  * `凝視的平穩 <{filename}talk/thanissaro/the-steadiness-of-your-gaze%zh-hant.rst>`_
+  * `去，作禪那 <{filename}talk/thanissaro/go-do-jhana%zh-hant.rst>`_
+  * `定的三層次 <{filename}talk/thanissaro/three-levels-of-concentration%zh-hant.rst>`_
+  * `觀身體 <{filename}talk/thanissaro/contemplation-of-the-body%zh-hant.rst>`_
+  * `浸於身內 <{filename}talk/thanissaro/immersed-in-the-body%zh-hant.rst>`_
+  * `護衛禪 <{filename}talk/thanissaro/guardian-meditations%zh-hant.rst>`_
 
 (未完待續)
