@@ -73,5 +73,13 @@
   * `觀身體 <{filename}talk/thanissaro/contemplation-of-the-body%zh-hant.rst>`_
   * `浸於身內 <{filename}talk/thanissaro/immersed-in-the-body%zh-hant.rst>`_
   * `護衛禪 <{filename}talk/thanissaro/guardian-meditations%zh-hant.rst>`_
+  * `意向的堅持 <{filename}talk/thanissaro/sticking-with-an-intention%zh-hant.rst>`_
+  * `一點，兩點，多點 <{filename}talk/thanissaro/one-point-two-points-many-points%zh-hant.rst>`_
+  * `想像 <{filename}talk/thanissaro/imagine%zh-hant.rst>`_
+  * `互動的當下 <{filename}talk/thanissaro/the-interactive-present%zh-hant.rst>`_
+  * `說事的心 <{filename}talk/thanissaro/the-story-telling-mind%zh-hant.rst>`_
+  * `維持的工作 <{filename}talk/thanissaro/maintenance-work%zh-hant.rst>`_
+  * `禮敬定 <{filename}talk/thanissaro/respect-for-concentration%zh-hant.rst>`_
+  * `自戒的技能 <{filename}talk/thanissaro/the-skill-of-restraint%zh-hant.rst>`_
 
 (未完待續)
