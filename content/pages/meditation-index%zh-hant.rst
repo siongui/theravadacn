@@ -81,5 +81,15 @@
   * `維持的工作 <{filename}talk/thanissaro/maintenance-work%zh-hant.rst>`_
   * `禮敬定 <{filename}talk/thanissaro/respect-for-concentration%zh-hant.rst>`_
   * `自戒的技能 <{filename}talk/thanissaro/the-skill-of-restraint%zh-hant.rst>`_
+  * `你內在的暴民 <{filename}talk/thanissaro/your-inner-mob%zh-hant.rst>`_
+  * `社交焦慮 <{filename}talk/thanissaro/social-anxiety%zh-hant.rst>`_
+  * `自戒的陶育 <{filename}talk/thanissaro/culture-of-restraint%zh-hant.rst>`_
+  * `退後一步看大局 <{filename}talk/thanissaro/stepping-back%zh-hant.rst>`_
+  * `辨識 <{filename}talk/thanissaro/perception%zh-hant.rst>`_
+  * `精進之樂 <{filename}talk/thanissaro/the-joy-of-effort%zh-hant.rst>`_
+  * `如何跌倒 <{filename}talk/thanissaro/how-to-fall%zh-hant.rst>`_
 
-(未完待續)
+----
+
+相關連接:
+`坦尼沙羅尊者: 優婆夷清-那那容與上座部佛教修證的社會動態 <{filename}talk/thanissaro/upasika-kee-nanayon-and-the-social-dynamic-of-theravadin-buddhist-practice%zh-hant.rst>`_
