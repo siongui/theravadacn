@@ -42,10 +42,22 @@
 
 - `何謂福德`_? ... 巴利經文中譯
 - `福德——巴利經文選讀`_ ... 坦尼沙羅尊者 編譯
+- `福德——增支部經文選讀`_ ... 向智尊者 譯
+- `福德與靈性成長`_ ... 菩提尊者 撰
+- `福德的精髓`_ ... 阿姜李 講述
+- `何處找福德`_ ... 阿姜查 講述
 
 .. _何謂福德: http://www.theravadacn.org/PunnaIndex2.htm#whatis
 .. TODO: replace 何謂福德 link
 .. _福德——巴利經文選讀: http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm
 .. TODO: replace 福德——巴利經文選讀 link
+.. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm
+.. TODO: replace 福德——增支部經文選讀 link
+.. _福德與靈性成長: http://www.theravadacn.org/Author/BodhiMerit2.htm
+.. TODO: replace 福德與靈性成長 link
+.. _福德的精髓: http://www.theravadacn.org/PunnaIndex2.htm#essence
+.. TODO: replace 福德的精髓 link
+.. _何處找福德: http://www.theravadacn.org/PunnaIndex2.htm#lookfor
+.. TODO: replace 何處找福德 link
 
 (未完待續)
