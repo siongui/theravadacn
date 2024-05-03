@@ -46,6 +46,10 @@
 - `福德與靈性成長`_ ... 菩提尊者 撰
 - `福德的精髓`_ ... 阿姜李 講述
 - `何處找福德`_ ... 阿姜查 講述
+- `阿姜放說福德`_ ... 坦尼沙羅尊者 撰
+- `行者當憶念福德`_ ... 年那達摩尊者 撰
+- `福德可以轉移嗎`_? ... 坦尼沙羅尊者答問
+- `福德迴向誦文`_ ... 巴利課誦本
 
 .. _何謂福德: http://www.theravadacn.org/PunnaIndex2.htm#whatis
 .. TODO: replace 何謂福德 link
@@ -59,5 +63,12 @@
 .. TODO: replace 福德的精髓 link
 .. _何處找福德: http://www.theravadacn.org/PunnaIndex2.htm#lookfor
 .. TODO: replace 何處找福德 link
+.. _阿姜放說福德: {filename}talk/thanissaro/fuang-awareness-itself%zh-hant.rst#merit
+.. _行者當憶念福德: http://www.theravadacn.org/PunnaIndex2.htm#recollect
+.. TODO: replace 行者當憶念福德 link
+.. _福德可以轉移嗎: http://www.theravadacn.org/PunnaIndex2.htm#transfer
+.. TODO: replace 福德可以轉移嗎 link
+.. _福德迴向誦文: http://www.theravadacn.org/PunnaIndex2.htm#dedication
+.. TODO: replace 福德迴向誦文 link
 
 (未完待續)
