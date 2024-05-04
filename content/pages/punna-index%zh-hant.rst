@@ -51,8 +51,7 @@
 - `福德可以轉移嗎`_? ... 坦尼沙羅尊者答問
 - `福德迴向誦文`_ ... 巴利課誦本
 
-.. _何謂福德: http://www.theravadacn.org/PunnaIndex2.htm#whatis
-.. TODO: replace 何謂福德 link
+.. _何謂福德: #whatis
 .. _福德——巴利經文選讀: http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm
 .. TODO: replace 福德——巴利經文選讀 link
 .. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm
@@ -70,5 +69,41 @@
 .. TODO: replace 福德可以轉移嗎 link
 .. _福德迴向誦文: http://www.theravadacn.org/PunnaIndex2.htm#dedication
 .. TODO: replace 福德迴向誦文 link
+
+----
+
+.. _whatis:
+
+何謂福德?
++++++++++
+
+.. container::
+
+   **佛陀:** 這是幸福、如意、喜樂、可親、愉悅的別語——福德業\ :small:`[行事,行爲]`\。
+
+   .. container:: has-text-right
+
+      ——Iti22(如是語)
+
+.. container::
+
+   **法護阿闍梨**\（六世紀巴利注疏者）: 洗滌與淨化心流者。
+
+   .. container:: has-text-right
+
+      ——Vv.A19(天宮事注疏)
+
+.. container::
+
+   **阿姜李**: 作爲善行果報的喜樂與安寧。
+
+.. container:: has-text-centered
+
+   \*\*\*
+
+
+| *sukho puññassa uccayo*: 福德的積累，帶來安寧。
+| *puññam sukham jivita-sankhamhi*: 福德在命終時帶來安寧。
+| *puññani para-lokasmim patittha honti paninam*: 是福德決定衆生的來世。
 
 (未完待續)
