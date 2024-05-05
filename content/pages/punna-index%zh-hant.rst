@@ -102,8 +102,43 @@
    \*\*\*
 
 
+|
 | *sukho puññassa uccayo*: 福德的積累，帶來安寧。
 | *puññam sukham jivita-sankhamhi*: 福德在命終時帶來安寧。
 | *puññani para-lokasmim patittha honti paninam*: 是福德決定衆生的來世。
+|
+
+福德這個詞在這裡的意思是，作爲善行果報的幸福與安寧。我們的善行有許多形式，不過簡單講有兩類:
+
+(1) 作爲因的福德，也就是我們得做的善行;
+(2) 作爲果的福德，也就是來自我們善行的福報。
+
+作爲因的福德有三種: 佈施的福德[*danamaya*]、 守戒的福德[*silamaya*]、修心的福德[*bhavanamaya*]。
+
+在阿毗達摩中，這三種福德又細分爲十類。
+
+佈施擴展爲還包括了把福德迴向他人的福德[*pattidanamaya*] 與隨喜他人福德的福德[*pattanumodanamaya*]。這三類歸在一起，因爲它們都與嫉妒和慳吝相克。
+
+持戒的福德擴展爲還包括了對值得尊敬者表示尊敬的福德[*apacayanamaya*]，比如對長老、對該感恩的人的尊敬; 還有助人行善巧之事，分享你的力量、財富與智慧的福德[*veyyavaccamaya*]。這三類歸在一起，因爲它們都與人際之間的美德有關。
+
+禪修的福德擴展爲還包括了諦聽佛法的福德[*dhammassavanamaya*]; 傳法的福德[*dhamma-desanamaya*]; 與正見的福德[*ditth'ujukamma*]: 這四類歸在一起，因爲它們都是明辨的來源。
+
+這些福德，只有當它們根植於非貪、非嗔、非癡的心態之下才能産生。如巴利經中所說，\ *alobho dana-hetu*\，非貪是佈施的基礎; *adoso sila-hetu*\，非嗔是戒德的基礎; *amoho bhavana-hetu*\，非癡是禪定的基礎。
+
+你做的福德會給身心帶來自在。無論何時，想到自己做過的善事，總會使你喜樂。它是一件跟著你的尊貴寶藏，就好比你的影子始終跟著你一樣。即使死時，你的福德也會跟著你，給你安排一個重生的好地方。這就稱爲福行 [*puññabhisankhara*\， :small:`福德造作`]。
+
+
+.. container:: has-text-centered
+
+   \*\*\*
+
+
+.. container::
+
+   心清淨，是世上最高的福德。
+
+   .. container:: has-text-right
+
+      ——《從少做起》
 
 (未完待續)
