@@ -61,8 +61,7 @@
 .. _福德的精髓: #essence
 .. _何處找福德: #lookfor
 .. _阿姜放說福德: {filename}talk/thanissaro/fuang-awareness-itself%zh-hant.rst#merit
-.. _行者當憶念福德: http://www.theravadacn.org/PunnaIndex2.htm#recollect
-.. TODO: replace 行者當憶念福德 link
+.. _行者當憶念福德: #recollect
 .. _福德可以轉移嗎: http://www.theravadacn.org/PunnaIndex2.htm#transfer
 .. TODO: replace 福德可以轉移嗎 link
 .. _福德迴向誦文: http://www.theravadacn.org/PunnaIndex2.htm#dedication
@@ -263,6 +262,25 @@
 .. [1] 原注: "找福德"爲常用泰語。指泰國佛教徒拜訪寺院、頂禮高僧、佈施供養的習俗。
 
 https://www.accesstoinsight.org/lib/thai/chah/living.html
+
+----
+
+.. _recollect:
+
+行者當憶念福德
+++++++++++++++
+
+**年那達摩尊者**:(1955年出生，原籍澳大利亞，1979年隨阿姜查受具足戒，後遊方隱修多年，受教於多位林居導師。曾任澳大利亞菩提亞那寺副住持，現任泰國國際森林寺住持。)
+
+佛陀不斷地強調佈施與戒德的重要性。在行禪道上，應當培育對自己的戒德與佈施的憶念。來回經行時自問:“今天，我做了什麽福德事?”
+
+我曾經就學的一位禪定導師阿姜剛訶，曾經常常評論說，禪修者不能入定的一個原因，是他們白天未做足夠的福德。福德是止的坐墊，是寧靜的基礎。假如我們那天行過善——說過一句善語、做過一件善事、佈施、慈悲——那麽心就會體驗喜樂。那些善行與由此自然而來的喜樂，成爲定力與寧靜的因緣。善德與佈施的力量趨向喜樂，正是那種善巧的喜樂，構成了定力與明辨的基礎。
+
+.. container:: has-text-right
+
+   ——《泰國林居傳統的行禪》
+
+http://www.bswa.org/modules/icontent/index.php?page=67
 
 ----
 
