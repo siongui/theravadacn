@@ -62,8 +62,7 @@
 .. _何處找福德: #lookfor
 .. _阿姜放說福德: {filename}talk/thanissaro/fuang-awareness-itself%zh-hant.rst#merit
 .. _行者當憶念福德: #recollect
-.. _福德可以轉移嗎: http://www.theravadacn.org/PunnaIndex2.htm#transfer
-.. TODO: replace 福德可以轉移嗎 link
+.. _福德可以轉移嗎: #transfer
 .. _福德迴向誦文: http://www.theravadacn.org/PunnaIndex2.htm#dedication
 .. TODO: replace 福德迴向誦文 link
 
@@ -281,6 +280,15 @@ https://www.accesstoinsight.org/lib/thai/chah/living.html
    ——《泰國林居傳統的行禪》
 
 http://www.bswa.org/modules/icontent/index.php?page=67
+
+----
+
+.. _transfer:
+
+福德可以轉移嗎?
++++++++++++++++
+
+**Wondering問: 我想把我的行爲或思維的福德，轉送給另一個人，是否有可能? 如果有可能，我怎麽做? 謝謝。**
 
 ----
 
