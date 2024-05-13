@@ -63,8 +63,7 @@
 .. _阿姜放說福德: {filename}talk/thanissaro/fuang-awareness-itself%zh-hant.rst#merit
 .. _行者當憶念福德: #recollect
 .. _福德可以轉移嗎: #transfer
-.. _福德迴向誦文: http://www.theravadacn.org/PunnaIndex2.htm#dedication
-.. TODO: replace 福德迴向誦文 link
+.. _福德迴向誦文: #dedication
 
 ----
 
@@ -290,6 +289,47 @@ http://www.bswa.org/modules/icontent/index.php?page=67
 
 **Wondering問: 我想把我的行爲或思維的福德，轉送給另一個人，是否有可能? 如果有可能，我怎麽做? 謝謝。**
 
+**坦尼沙羅尊者答:** 一般來說，福德的轉移要求:
+
+(1)行福德者把一件善業的福德迴向給另一人。
+
+(2)而另一人，在得知前者的善行時，有贊同之意。
+
+如果另一人不知道、或者不贊同，該福德就沒有得到轉移。不過，你可以祝福他人，不論他們知道與否，都能夠利益他們。如果你與另一人的關係，可以讓你不帶尴尬或難堪地告訴他(她): “我昨天禪修了，”或者“我上星期爲慈善事業捐了一筆款，把福德迴向給了你，”那麽盡管告訴他。如果關係不是那樣，你或者可以建議那個人同你一起行福德事，或者對那人傳佈慈心。
+
+只有一種情形，不需要當面轉告，受者自動知道該福德的轉移: 那就是當後者已死亡並往生餓鬼界的情形。迴向給餓鬼的福德，如果他們贊同，據說可以自動收到。這是他們那個境界的食物。\ `該教導來自一部經(增支部10:177)`_\。其中有一位婆羅門來見佛陀，說自己一直在把福德迴向給死去的親戚，他想知道那些福德是否真的送到了他們那裡。佛陀回答說，如果他們是餓鬼，那麽就收到了。至於被供奉的親戚投生於其它域界的情形，他迴向的善意本身，導致他自己的福德的增進。那位婆羅門於是問: 如果我的親戚當中沒有餓鬼呢? 佛陀答: 每一個活人都有餓鬼親戚。因此，要注意把你所有善業的福德迴向給你已故的親朋。
+
+.. container:: has-text-right
+
+   ——《答佛教雜志讀者問》
+
+.. _該教導來自一部經(增支部10\:177): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm#offer
+.. TODO: replace 該教導來自一部經(增支部10:177) link
+
 ----
 
-(未完待續)
+.. _dedication:
+
+福德迴向誦文
+++++++++++++
+
+.. container:: has-text-centered
+
+   | *sabbe satta sada hontu*
+   | *avera sukha-jivino*
+   | *katam punna-phalam mayham*
+   | *sabbe bhagi bhavantu te*
+   |
+   | 願一切衆生安樂活命，常離敵怨。
+   | 願一切衆生分享我善行的福果。
+   |
+   |
+
+.. container:: columns is-flex is-centered
+
+  .. image:: {static}/extra/merit\ flower.jpeg
+     :alt: 功德花
+
+..
+   Center image in Bulma - Stack Overflow
+   https://stackoverflow.com/a/59447534
