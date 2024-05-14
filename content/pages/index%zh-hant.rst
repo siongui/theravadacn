@@ -29,7 +29,8 @@
   `佈施 <{filename}dana-index%zh-hant.rst>`_;
   `持戒 <{filename}sila-index%zh-hant.rst>`_;
   `禪定 <{filename}meditation-index%zh-hant.rst>`_;
-- `福德 <{filename}punna-index%zh-hant.rst>`_;   面對病痛與死亡;
+- `福德 <{filename}punna-index%zh-hant.rst>`_;
+  `面對病痛與死亡 <{filename}gilana-index%zh-hant.rst>`_;
 - 經文選譯;
 - 問答選;
 
