@@ -31,7 +31,7 @@
   `禪定 <{filename}meditation-index%zh-hant.rst>`_;
 - `福德 <{filename}punna-index%zh-hant.rst>`_;
   `面對病痛與死亡 <{filename}gilana-index%zh-hant.rst>`_;
-- 經文選譯;
+- `經文選譯 <{filename}sutta-index%zh-hant.rst>`_;
 - 問答選;
 
 `巴利課誦與錄音(I) <{filename}chanting/chant-index%zh-hant.rst>`_;
