@@ -1,7 +1,6 @@
 禪定
 ====
 
-:modified: 2007-11-13
 :tags: 良稹, 編譯
 :summary: 禪定
 :status: hidden

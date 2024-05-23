@@ -32,7 +32,7 @@
 - `福德 <{filename}punna-index%zh-hant.rst>`_;
   `面對病痛與死亡 <{filename}gilana-index%zh-hant.rst>`_;
 - `經文選譯 <{filename}sutta-index%zh-hant.rst>`_;
-- 問答選;
+- `問答選 <{filename}beginner-index%zh-hant.rst>`_;
 
 `巴利課誦與錄音(I) <{filename}chanting/chant-index%zh-hant.rst>`_;
 `(II) <{filename}chanting/pali-chanting-two%zh-hant.rst>`_
