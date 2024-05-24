@@ -11,8 +11,9 @@
 
 最近譯文:
 
-- `坦尼沙羅尊者: 如何跌倒 <{filename}talk/thanissaro/how-to-fall%zh-hant.rst>`_
-- `坦尼沙羅尊者: 挑戰極限——佛教修行道上的欲求與想像 <{filename}talk/thanissaro/pushing-the-limits%zh-hant.rst>`_
+- `坦尼沙羅尊者: 認知(2) <{filename}talk/thanissaro/perception-2%zh-hant.rst>`_
+- 坦尼沙羅尊者: 開放佛法
+- 坦尼沙羅尊者: 趣味遊戲
 
 佛法入門:
 

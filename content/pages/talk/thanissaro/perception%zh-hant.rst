@@ -1,7 +1,7 @@
-辨識
-====
+認知(1)
+=======
 
-:modified: 2010-02-28
+:modified: 2024-05-02
 :tags: 坦尼沙羅尊者(Ṭhānissaro Bhikkhu)
 :summary: 辨識
           Perception,
@@ -9,8 +9,8 @@
           by Ven. Ṭhānissaro Bhikkhu (Geoffrey DeGraff)
 :status: hidden
 :og_image: {static}/extra/talk/Ajaan\ Geoff.jpeg
-:orig_hant_link: http://www.theravadacn.org/Author/ThanissaroPerception2.htm
-:orig_hans_link: http://www.theravadacn.org/Author/ThanissaroPerception.htm
+:orig_hant_link: http://www.theravadacn.org/Author/ThanissaroPerception1-2.htm
+:orig_hans_link: http://www.theravadacn.org/Author/ThanissaroPerception1-1.htm
 :orig_eng_link: https://www.dhammatalks.org/books/Meditations3/Section0047.html
 
 
@@ -26,7 +26,7 @@
 .. raw:: html
 
    <div class="container has-text-centered">
-     <p class="title is-2">辨識</p>
+     <p class="title is-2">認知(1)</p>
      [作者]坦尼沙羅尊者
      <br>
      [中譯]良稹
@@ -103,3 +103,7 @@
 因此，如果你想懂得辨識，首先需要做的，就是學會如何有意識地去做它。你越有意識地堅持某個特定的辨識——例如“氣”或“空間”——你越能夠懂得心是如何塑形種種辨識的。你開始探測到，看哪裡才能看見那些不容易意識到的辨識，那些導致苦痛的辨識。你看見它們的現行，就可以把它們放下，代之以其它更善巧的辨識——直到最後，達到再也不需要它們的地步。
 
 (根據2005年8月19日開示錄音整理，本文來自坦尼沙羅尊者開示集《禪定——第三集》)
+
+----
+
+相關連接: `認知(2) <{filename}perception-2%zh-hant.rst>`_

@@ -395,6 +395,7 @@
 - `優婆夷清-那那容與上座部佛教修證的社會動態 <{filename}thanissaro/upasika-kee-nanayon-and-the-social-dynamic-of-theravadin-buddhist-practice%zh-hant.rst>`_
 - `這條道有目標 <{filename}thanissaro/the-path-has-a-goal%zh-hant.rst>`_
 - `正見(節譯自《以善巧業爲依止》) <{filename}thanissaro/the-teaching-of-right-view%zh-hant.rst>`_
+- 開放佛法
 
 .. raw:: html
 
@@ -403,7 +404,8 @@
 
 **禪定**
 
-- `辨識 <{filename}thanissaro/perception%zh-hant.rst>`_
+- `認知 <{filename}thanissaro/perception%zh-hant.rst>`_
+- `認知(2) <{filename}thanissaro/perception-2%zh-hant.rst>`_
 - `布施先行 <{filename}thanissaro/generosity-first%zh-hant.rst>`_
 - `拆解當下——正思的作用 <{filename}thanissaro/untangling-the-present%zh-hant.rst>`_
 - `禪定在面對苦痛、疾病與死亡時的作用 <{filename}thanissaro/using-meditation-to-deal-with-pain-illness-death%zh-hant.rst>`_
@@ -443,6 +445,7 @@
 - `自戒的技能 <{filename}thanissaro/the-skill-of-restraint%zh-hant.rst>`_
 - `靜音並非必要: 禪那中的官感認知 <{filename}thanissaro/silence-is-not-mandatory%zh-hant.rst>`_
 - `禪那與正定 <{filename}thanissaro/jhaana-and-right-concentration%zh-hant.rst>`_
+- 趣味遊戲
 
 .. raw:: html
 
