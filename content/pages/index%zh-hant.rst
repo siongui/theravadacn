@@ -13,7 +13,7 @@
 
 - `坦尼沙羅尊者: 認知(2) <{filename}talk/thanissaro/perception-2%zh-hant.rst>`_
 - `坦尼沙羅尊者: 開放佛法 <{filename}talk/thanissaro/free-the-dhamma%zh-hant.rst>`_
-- 坦尼沙羅尊者: 趣味遊戲
+- `坦尼沙羅尊者: 趣味遊戲 <{filename}talk/thanissaro/fun-and-games%zh-hant.rst>`_
 
 佛法入門:
 
