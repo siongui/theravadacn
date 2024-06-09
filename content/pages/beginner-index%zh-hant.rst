@@ -42,8 +42,22 @@
 .. TODO: replace 販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性? link
 
 
-**坦尼沙羅尊者答佛教雜志讀者問:** [`全部38問`_]
+**坦尼沙羅尊者答佛教雜誌讀者問:** [`全部38問`_]
 
 .. _全部38問: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst
+
+- `從佛教角度看，如何克服抑鬱症?`_
+- `佛教如何幫助戒除酒精與尼古丁的癮習?`_
+- `佛教如何培養良好的新習慣，放棄舊時的壞習慣?`_
+- `佛教如何幫助我徹底戒除大麻，不再犯癮?`_
+- `如何在日常世界中培養耐心?`_
+- `怖畏的本質是什麽? 是否有明智的怖畏?`_
+
+.. _從佛教角度看，如何克服抑鬱症?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#depression
+.. _佛教如何幫助戒除酒精與尼古丁的癮習?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#etoh
+.. _佛教如何培養良好的新習慣，放棄舊時的壞習慣?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#habit
+.. _佛教如何幫助我徹底戒除大麻，不再犯癮?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#marijuana
+.. _如何在日常世界中培養耐心?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#patience
+.. _怖畏的本質是什麽? 是否有明智的怖畏?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#fear
 
 (未完待續)
