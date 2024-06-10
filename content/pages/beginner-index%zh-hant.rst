@@ -60,4 +60,14 @@
 .. _如何在日常世界中培養耐心?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#patience
 .. _怖畏的本質是什麽? 是否有明智的怖畏?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#fear
 
+|
+
+- `佛教中有神嗎?`_
+- `佛教有禱告嗎?`_
+- `福德可以轉移嗎?`_
+
+.. _佛教中有神嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#god
+.. _佛教有禱告嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#pray
+.. _福德可以轉移嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#merit
+
 (未完待續)
