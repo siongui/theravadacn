@@ -60,8 +60,6 @@
 .. _如何在日常世界中培養耐心?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#patience
 .. _怖畏的本質是什麽? 是否有明智的怖畏?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#fear
 
-|
-
 - `佛教中有神嗎?`_
 - `佛教有禱告嗎?`_
 - `福德可以轉移嗎?`_
@@ -69,5 +67,15 @@
 .. _佛教中有神嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#god
 .. _佛教有禱告嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#pray
 .. _福德可以轉移嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#merit
+
+- `如何看待囚犯,大惡之人,和死刑?`_
+- `如何把業力的教導應用於疾病的苦痛?`_
+- `佛教中是否有"公平"的概念(指類似於"一報還一報"、"各人受其應得之回報"意義上的公平)?`_
+- `如果對輪迴重生持懷疑態度，是否仍可以視自己爲佛教徒?`_
+
+.. _如何看待囚犯,大惡之人,和死刑?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#prisoner
+.. _如何把業力的教導應用於疾病的苦痛?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#cancer
+.. _佛教中是否有"公平"的概念(指類似於"一報還一報"、"各人受其應得之回報"意義上的公平)?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#justice
+.. _如果對輪迴重生持懷疑態度，是否仍可以視自己爲佛教徒?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#rebirth
 
 (未完待續)
