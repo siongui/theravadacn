@@ -78,4 +78,16 @@
 .. _佛教中是否有"公平"的概念(指類似於"一報還一報"、"各人受其應得之回報"意義上的公平)?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#justice
 .. _如果對輪迴重生持懷疑態度，是否仍可以視自己爲佛教徒?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#rebirth
 
+- `雖然我似乎懂得了緣起和空無內在實質性的概念[緣起性空]，我卻不喜歡empty[空性]這個詞。您能建議別的詞嗎?`_
+- `您對印度教的“不二”之道[Advaita path]有什麼想法? 其精髓:“我就是那”。且不論它是哪個教，它與您所代表的修行道之間，本質上是否存在調和性?`_
+- `經常看見awakening [覺醒]、enlightenment[開悟]、nirvana[涅槃]，這幾個詞被替換使用。它們是否真的可以互換嗎? 如果不是，它們之間有什麼區別?`_
+- `佛教的目標之一是以平和心面對一切境遇，無情緒反應嗎? 還是說，能夠感受全部的情緒，但不執取它們?`_
+- `既然物質存在與在其中的行動是不可忽略的事實，那麼對於在現實的虛幻之中確立意志奉行法，佛教徒又怎麼解釋?`_
+
+.. _雖然我似乎懂得了緣起和空無內在實質性的概念[緣起性空]，我卻不喜歡empty[空性]這個詞。您能建議別的詞嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#emptiness
+.. _您對印度教的“不二”之道[Advaita path]有什麼想法? 其精髓\:“我就是那”。且不論它是哪個教，它與您所代表的修行道之間，本質上是否存在調和性?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#nondual
+.. _經常看見awakening [覺醒]、enlightenment[開悟]、nirvana[涅槃]，這幾個詞被替換使用。它們是否真的可以互換嗎? 如果不是，它們之間有什麼區別?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#words
+.. _佛教的目標之一是以平和心面對一切境遇，無情緒反應嗎? 還是說，能夠感受全部的情緒，但不執取它們?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#goal
+.. _既然物質存在與在其中的行動是不可忽略的事實，那麼對於在現實的虛幻之中確立意志奉行法，佛教徒又怎麼解釋?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#illusion
+
 (未完待續)
