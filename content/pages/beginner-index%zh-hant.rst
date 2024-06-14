@@ -90,4 +90,18 @@
 .. _佛教的目標之一是以平和心面對一切境遇，無情緒反應嗎? 還是說，能夠感受全部的情緒，但不執取它們?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#goal
 .. _既然物質存在與在其中的行動是不可忽略的事實，那麼對於在現實的虛幻之中確立意志奉行法，佛教徒又怎麼解釋?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#illusion
 
+- `西方式的佛法(指更多懷疑論成分、以禪修為中心、較少側重儀軌與導師)，是否有可能?`_
+- `如何促進西方人接受上座部佛教? 對《破碎的佛陀》中，達彌卡法師的看法，您是否有共見?`_
+- `在上座部佛教裡，我常有這種感覺: 作為在家修行者，就像是二等公民......為什麼我會有這種感覺?`_
+- `我可以信任一個收費教授佛教“課程”的組織嗎? 還是佛教應當免費傳授?`_
+- `如何與一位導師確立師生關係?`_
+- `為什麼很難找到像某某這樣的導師? 他與聽眾的溝通方式很有特色，讓你不覺得自己是一位正欲入門的外人......`_
+
+.. _西方式的佛法(指更多懷疑論成分、以禪修為中心、較少側重儀軌與導師)，是否有可能?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#western
+.. _如何促進西方人接受上座部佛教? 對《破碎的佛陀》中，達彌卡法師的看法，您是否有共見?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#broken
+.. _在上座部佛教裡，我常有這種感覺\: 作為在家修行者，就像是二等公民......為什麼我會有這種感覺?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#lay
+.. _我可以信任一個收費教授佛教“課程”的組織嗎? 還是佛教應當免費傳授?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#fee
+.. _如何與一位導師確立師生關係?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#teacher
+.. _為什麼很難找到像某某這樣的導師? 他與聽眾的溝通方式很有特色，讓你不覺得自己是一位正欲入門的外人......: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#find
+
 (未完待續)
