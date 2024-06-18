@@ -104,4 +104,29 @@
 .. _如何與一位導師確立師生關係?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#teacher
 .. _為什麼很難找到像某某這樣的導師? 他與聽眾的溝通方式很有特色，讓你不覺得自己是一位正欲入門的外人......: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#find
 
-(未完待續)
+- `禪修會使我成爲更好的人嗎?`_
+- `當今這個時代，徹底覺醒是否可能? 現在那些高年資導師們，多數人老老實實地說，他們仍然走在修行道上。現有的教導和對經典的詮解，難道不因此值得嚴肅質疑嗎?`_
+- `佛教在禪修時觀想身體的可厭，骯髒。爲什麼?`_
+- `是否存在一些生理或心理上的徵兆，引導你進入更佳的禪境，或者讓你知道你走對了路子?`_
+- `坐禪時間增加後我開始做一些栩栩如生的夢, 是否不正常?`_
+- `假定你發現禪定使生活的其餘部分更糟 (例如更不耐煩、發怒)，怎麼辦?`_
+- `我剛從內觀密集禪修班回來。平時那個寬容的我不見了......我這是怎麼了?`_
+- `我修的是“無選擇的覺知” [choiceless awareness]......我怎樣才能與寧靜合一，不再有“我”?`_
+- `我喜歡做白日夢......卻似乎不怎麼有念住。您對於念住與想像在靈修道上的價值，有什麼看法?`_
+
+.. _禪修會使我成爲更好的人嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#better
+.. _當今這個時代，徹底覺醒是否可能? 現在那些高年資導師們，多數人老老實實地說，他們仍然走在修行道上。現有的教導和對經典的詮解，難道不因此值得嚴肅質疑嗎?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#awaken
+.. _佛教在禪修時觀想身體的可厭，骯髒。爲什麼?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#body
+.. _是否存在一些生理或心理上的徵兆，引導你進入更佳的禪境，或者讓你知道你走對了路子?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#sign
+.. _坐禪時間增加後我開始做一些栩栩如生的夢, 是否不正常?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#dream
+.. _假定你發現禪定使生活的其餘部分更糟 (例如更不耐煩、發怒)，怎麼辦?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#worse
+.. _我剛從內觀密集禪修班回來。平時那個寬容的我不見了......我這是怎麼了?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#nontolerant
+.. _我修的是“無選擇的覺知” [choiceless awareness]......我怎樣才能與寧靜合一，不再有“我”?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#choiceless
+.. _我喜歡做白日夢......卻似乎不怎麼有念住。您對於念住與想像在靈修道上的價值，有什麼看法?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#imagination
+
+
+- `我的妹妹對我既嫉妒又競爭, 她的孩子們需要我時, 我都幫過忙,但......`_
+- `作一位小說家，因爲言語不真，是否是妄業? 根據想像構思故事，是否等於說謊?`_
+
+.. _我的妹妹對我既嫉妒又競爭, 她的孩子們需要我時, 我都幫過忙,但......: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#sister
+.. _作一位小說家，因爲言語不真，是否是妄業? 根據想像構思故事，是否等於說謊?: {filename}talk/thanissaro/answer-to-questions-of-magazine-reader%zh-hant.rst#fiction
