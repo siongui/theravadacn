@@ -58,8 +58,7 @@
    | 《\ `麻瘋病者`_\》
    | 《\ `釋迦經`_\》(關於布薩)
 
-.. _轉法輪經: http://www.theravadacn.org/Sutta/Dhammacakkappavattana2.htm
-.. TODO: replace 轉法輪經 link
+.. _轉法輪經: {filename}sutta/dhammacakkappavattana%zh-hant.rst
 .. _非我相經: http://www.theravadacn.org/Sutta/Anatta_lakkhana2.htm
 .. TODO: replace 非我相經 link
 .. _火燃經: http://www.theravadacn.org/Sutta/Adittapariyaya2.htm
