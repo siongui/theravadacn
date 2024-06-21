@@ -72,7 +72,29 @@
 
        比丘們，此爲苦聖諦：生苦、老苦、死苦；憂、哀、痛、悲、慘苦；與不愛者共處苦、與愛者離別苦、所求不得苦：簡言之，五取蘊苦。
 
-.. _responsibility:
+   * - "And this, monks, is the noble truth of the origination of stress: the craving that makes for further becoming — accompanied by passion & delight, relishing now here & now there — i.e., craving for sensual pleasure, craving for becoming, craving for non-becoming.
+
+     - 比丘們, 此爲苦因聖諦：\ :small:`[苦因是:]`\ 造作再生的渴求——帶著貪與喜、於處處耽享——正是: 對感官之欲的渴求、對有生的渴求、對無生的渴求。
+
+   * - "And this, monks, is the noble truth of the cessation of stress: the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving.
+
+     - 比丘們，此爲苦的止息聖諦：對該渴求的無餘離貪、止息、捨離、棄絕、解脫、放開。
+
+   * - "And this, monks, is the noble truth of the way of practice leading to the cessation of stress: precisely this Noble Eightfold Path — right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+
+     - 比丘們，此爲趨向止息苦之道聖諦：正是此八聖道——正見、正志、正語、正業、正命、正精進、正念、正定。
+
+   * - **[One's duties with regard to the Four Noble Truths]**
+
+       "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of stress'... 'This noble truth of stress is to be comprehended'... 'This noble truth of stress has been comprehended.'
+
+     - .. _responsibility:
+
+       [對於四聖諦的責任]
+
+       比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明\ :small:`[眼生智生慧生明生光生]`\ ：‘此爲苦聖諦’。……‘此苦聖諦需全知’……‘此苦聖諦已全知’。
+
+(未完待續)
 
 .. _下載《轉法輪經》巴利經誦錄音(mp3): {filename}/pages/chanting/chant-index%zh-hant.rst
 .. _巴利,英文,中文全文對照: http://www.theravadacn.org/Chanting/SettingDhammaWheelChant2.htm
