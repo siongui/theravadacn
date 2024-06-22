@@ -94,7 +94,49 @@
 
        比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明\ :small:`[眼生智生慧生明生光生]`\ ：‘此爲苦聖諦’。……‘此苦聖諦需全知’……‘此苦聖諦已全知’。
 
-(未完待續)
+   * - "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of the origination of stress'... 'This noble truth of the origination of stress is to be abandoned' ... 'This noble truth of the origination of stress has been abandoned.'
+
+     - 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此爲苦因聖諦’。……‘此苦因聖諦需斷棄’……‘此苦因聖諦已斷棄’。
+
+   * - "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of the cessation of stress'... 'This noble truth of the cessation of stress is to be directly experienced'... 'This noble truth of the cessation of stress has been directly experienced.'
+
+     - 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此爲苦的止息聖諦’……‘此苦的止息聖諦需直證’……‘此苦的止息聖諦已直證’。
+
+   * - "Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: 'This is the noble truth of the way of practice leading to the cessation of stress'... 'This noble truth of the way of practice leading to the cessation of stress is to be developed'... 'This noble truth of the way of practice leading to the cessation of stress has been developed.'
+
+     - 比丘們，我對前所未聞之法，升起視眼、升起洞見、升起明辨、升起知識、升起光明：‘此爲趨向苦止息之道聖諦’……‘此趨向苦止息之道聖諦需修習’……‘此趨向苦止息之道聖諦已修成’。
+
+   * - **[Wheel of Dhamma]**
+
+       "And, monks, as long as this knowledge & vision of mine — with its three rounds & twelve permutations concerning these four noble truths as they actually are present — was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Maras, & Brahmas, with its contemplatives & priests, its royalty & commonfolk. But as soon as this knowledge & vision of mine — with its three rounds & twelve permutations concerning these four noble truths as they actually are present — was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Maras & Brahmas, with its contemplatives & priests, its royalty & commonfolk. Knowledge & vision arose in me: 'Unprovoked is my release. This is the last birth. There is now no further becoming.'"
+
+     - [法輪]
+
+       比丘們，只要我對此四聖諦之三轉十二相的如實知見尚不純淨，比丘們，我未在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。然而，一旦我對此四聖諦之三轉十二相的如實知見真正純淨，比丘們，我即在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。我內心升起此知見: ‘我的解脫不可動搖。此爲最後一生。今不再有生。’ ”
+
+   * - **[The Noble Sangha is born]**
+
+       That is what the Blessed One said. Gratified, the group of five monks delighted at his words. And while this explanation was being given, there arose to Ven. Kondañña the dustless, stainless Dhamma eye: Whatever is subject to origination is all subject to cessation.
+
+     - [聖僧伽的誕生]
+
+       此爲薄伽梵所說。五衆比丘對薄伽梵之說隨喜、心悅。在此解說期間，尊者喬陳如升起了無塵、無垢的法眼：“凡緣起者，皆趨止息。”[凡緣起之法,皆爲止息之法]
+
+   * - **[The Wheel of the Dhamma begins to turn]**
+
+       And when the Blessed One had set the Wheel of Dhamma in motion, the earth devas cried out: "At Varanasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by priest or contemplative, deva, Mara or God or anyone in the cosmos." On hearing the earth devas' cry, the devas of the Four Kings' Heaven took up the cry... the devas of the Thirty-three... the Yama devas... the Tusita devas... the Nimmanarati devas... the Paranimmita-vasavatti devas... the devas of Brahma's retinue took up the cry: "At Varanasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by priest or contemplative, deva, Mara, or God or anyone at all in the cosmos."
+
+     - [法輪轉起]
+
+       薄伽梵轉法輪之際，地神們大呼: “在波羅那斯仙人墜的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神摩羅梵天、宇宙中任何者，皆不能阻止。”　聞地神之呼聲，四大王天們大呼……三十三天……夜摩天……兜率天……化樂天……他化自在天……梵衆天們大呼:“在波羅那斯仙人墜的的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神魔羅梵天、宇宙中任何者，皆不能阻止。”
+
+   * - So in that moment, that instant, the cry shot right up to the Brahma worlds. And this ten-thousand fold cosmos shivered & quivered & quaked, while a great, measureless radiance appeared in the cosmos, surpassing the effulgence of the devas.
+
+     - 於是，那時刻、那瞬間，呼聲直達梵天界。此十千宇宙在抖動、顫動、震動，一道大無量光出現在宇宙間，勝於天神的燦爛。
+
+   * - Then the Blessed One exclaimed: "So you really know, Kondañña? So you really know?" And that is how Ven. Kondañña acquired the name Añña-Kondañña — Kondañña who knows.
+
+     - 其時，薄伽梵大聲道: “喬陳如真悟了? 喬陳如真悟了。”　故此，尊者喬陳如得名: 阿念-喬陳如\ :small:`[覺悟的喬陳如]`\。
 
 .. _下載《轉法輪經》巴利經誦錄音(mp3): {filename}/pages/chanting/chant-index%zh-hant.rst
 .. _巴利,英文,中文全文對照: http://www.theravadacn.org/Chanting/SettingDhammaWheelChant2.htm
