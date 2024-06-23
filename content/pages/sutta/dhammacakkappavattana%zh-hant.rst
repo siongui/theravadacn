@@ -139,5 +139,5 @@
      - 其時，薄伽梵大聲道: “喬陳如真悟了? 喬陳如真悟了。”　故此，尊者喬陳如得名: 阿念-喬陳如\ :small:`[覺悟的喬陳如]`\。
 
 .. _下載《轉法輪經》巴利經誦錄音(mp3): {filename}/pages/chanting/chant-index%zh-hant.rst
-.. _巴利,英文,中文全文對照: http://www.theravadacn.org/Chanting/SettingDhammaWheelChant2.htm
+.. _巴利,英文,中文全文對照: {filename}/pages/chanting/setting-dhamma-wheel-chant%zh-hant.rst
 .. TODO: replace 巴利,英文,中文全文對照 link
