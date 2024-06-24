@@ -85,4 +85,47 @@
      - and that which is devoted to self-affliction: painful, ignoble, unprofitable.
      - 追求自虐：是痛苦、非聖、無益的。
 
+   * - | **Ete te bhikkhave ubho ante anupagamma,**
+       | **Majjhimā paṭipadā Tathāgatena abhisambuddhā,**
+       | **Cakkhu-karaṇī ñāṇa-karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.**
+     - Avoiding both of these extremes, the middle way realized by the Tathāgata—producing vision, producing knowledge—leads to calm, to direct knowledge, to self-awakening, to unbinding.
+     - 比丘們，避此兩極端，如來實現的中道——引生見、引生知——趨向寧靜、直覺智、自覺醒、涅槃。
+
+   * - | **Katamā ca sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā,**
+       | **Cakkhu-karaṇī ñāṇa-karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.**
+     - And what is the middle way realized by the Tathāgata that—producing vision, producing knowledge—leads to calm, to direct knowledge, to self-awakening, to unbinding?
+     - 比丘們，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃者——是什麼？
+
+   * - | **Ayam-eva ariyo aṭṭhaṅgiko maggo,**
+       | **Seyyathīdaṁ, Sammā-diṭṭhi sammā-saṅkappo,**
+       | **Sammā-vācā sammā-kammanto sammā-ājīvo,**
+       | **Sammā-vāyāmo sammā-sati sammā-samādhi.**
+     - Precisely this noble eightfold path: right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+     - [八聖道] 正是此八聖道：正見、正志、正語、正業、正命、正精進、正念、正定。
+
+   * - | **Ayaṁ kho sā bhikkhave majjhimā paṭipadā Tathāgatena abhisambuddhā,**
+       | **Cakkhu-karaṇī ñāṇa-karaṇī upasamāya abhiññāya sambodhāya nibbānāya saṁvattati.**
+     - This is the middle way realized by the Tathāgata that—producing vision, producing knowledge—leads to calm, to direct knowledge, to self-awakening, to unbinding.
+     - [四聖諦] 比丘們，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃——即此:
+
+   * - **Idaṁ kho pana bhikkhave dukkhaṁ ariya-saccaṁ:**
+     - Now this, monks, is the noble truth of stress:
+     - 比丘們，此爲苦聖諦：
+
+   * - **Jāti-pi dukkhā jarā-pi dukkhā maraṇam-pi dukkhaṁ,**
+     - Birth is stressful, aging is stressful, death is stressful,
+     - 生苦、老苦、死苦，
+
+   * - **Soka-parideva-dukkha-domanass’upāyāsāpi dukkhā,**
+     - sorrow, lamentation, pain, distress, & despair are stressful,
+     - 憂、哀、痛、悲、慘苦；
+
+   * - **Appiyehi sampayogo dukkho piyehi vippayogo dukkho yam-p’icchaṁ na labhati tam-pi dukkhaṁ,**
+     - association with what is unbeloved is stressful, separation from what is beloved is stressful, not getting what one wants is stressful,
+     - 與不愛者共處苦、與愛者離別苦、所求不得苦：
+
+   * - **Saṅkhittena pañc’upādānakkhandhā dukkhā.**
+     - In short, the five clinging-aggregates are stressful.
+     - 簡言之，五取蘊苦。
+
 (未完待續)
