@@ -128,4 +128,51 @@
      - In short, the five clinging-aggregates are stressful.
      - 簡言之，五取蘊苦。
 
+   * - **Idaṁ kho pana bhikkhave dukkha-samudayo ariya-saccaṁ:**
+     - And this, monks, is the noble truth of the origination of stress:
+     - 比丘們, 此爲苦因聖諦：
+
+   * - | **Yāyaṁ taṇhā ponobbhavikā nandi-rāga-sahagatā tatra tatrābhinandinī,**
+       | **Seyyathīdaṁ,**
+       | **Kāma-taṇhā bhava-taṇhā vibhava-taṇhā,**
+     - in other words, the craving that makes for further becoming—accompanied by passion & delight, relishing now here & now there—i.e., craving for sensuality, craving for becoming, craving for non-becoming.
+     - [苦因是:] 造作再生的渴求——帶著貪與喜、於處處耽享——正是: 對感官之欲的渴求、對有生的渴求、對無生的渴求。
+
+   * - **Idaṁ kho pana bhikkhave dukkha-nirodho ariya-saccaṁ:**
+     - And this, monks, is the noble truth of the cessation of stress:
+     - 比丘們，此爲苦的止息聖諦：
+
+   * - **Yo tassā yeva taṇhāya asesa-virāga-nirodho cāgo paṭinissaggo mutti anālayo,**
+     - the remainderless fading & cessation, renunciation, relinquishment, release, & letting go of that very craving.
+     - 對該渴求的無餘離貪、止息、捨離、棄絕、解脫、放開。
+
+   * - **Idaṁ kho pana bhikkhave dukkha-nirodha-gāminī-paṭipadā ariya-saccaṁ:**
+     - And this, monks, is the noble truth of the way of practice leading to the cessation of stress:
+     - 比丘們，此爲趨向止息苦之道聖諦：
+
+   * - | **Ayam-eva ariyo aṭṭhaṅgiko maggo,**
+       | **Seyyathīdaṁ, Sammā-diṭṭhi sammā-saṅkappo,**
+       | **Sammā-vācā sammā-kammanto sammā-ājīvo,**
+       | **Sammā-vāyāmo sammā-sati sammā-samādhi.**
+     - precisely this noble eightfold path—right view, right resolve, right speech, right action, right livelihood, right effort, right mindfulness, right concentration.
+     - 正是此八聖道——正見、正志、正語、正業、正命、正精進、正念、正定。
+
+   * - | **Idaṁ dukkhaṁ ariya-saccanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This is the noble truth of stress.’
+     - [對於四聖諦的責任] 比丘們，我對前所未聞之法，昇起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明\ :small:`[眼生智生慧生明生光生]`\：‘此爲苦聖諦’。
+
+   * - | **Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññeyyanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This noble truth of stress is to be comprehended.’
+     - 比丘們，我對前所未聞之法，昇起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明：‘此苦聖諦需全知’。
+
+   * - | **Taṁ kho pan’idaṁ dukkhaṁ ariya-saccaṁ pariññātanti me bhikkhave,**
+       | **Pubbe ananussutesu dhammesu,**
+       | **Cakkhuṁ udapādi ñāṇaṁ udapādi paññā udapādi vijjā udapādi āloko udapādi.**
+     - Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This noble truth of stress has been comprehended.’
+     - 比丘們，我對前所未聞之法，昇起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明：‘此苦聖諦已全知’。
+
 (未完待續)
