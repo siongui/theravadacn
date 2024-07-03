@@ -229,4 +229,26 @@
      - Vision arose, insight arose, discernment arose, knowledge arose, illumination arose within me with regard to things never heard before: ‘This noble truth of the way of practice leading to the cessation of stress has been developed.’
      - 比丘們，我對前所未聞之法，昇起視眼、昇起洞見、昇起明辨、昇起知識、昇起光明：‘此趨向苦止息之道聖諦已修成’。
 
+   * - | **Yāvakīvañ-ca me bhikkhave imesu catūsu ariya-saccesu,**
+       | **Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathābhūtaṁ ñāṇa-dassanaṁ na suvisuddhaṁ ahosi,**
+       | **N’eva tāvāhaṁ bhikkhave sadevake loke samārake sabrahmake,**
+       | **Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya,**
+       | **Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ.**
+     - And, monks, as long as this—my three-round, twelve-permutation knowledge & vision concerning these four noble truths as they have come to be—was not pure, I did not claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Māras, & Brahmās, with its contemplatives & brāhmans, its royalty & common people.
+     - [法輪] 比丘們，只要我對此四聖諦之三轉十二相的如實知見尚不純淨，比丘們，我未在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。
+
+   * - | **Yato ca kho me bhikkhave imesu catūsu ariya-saccesu,**
+       | **Evan-ti-parivaṭṭaṁ dvādas’ākāraṁ yathābhūtaṁ ñāṇa-dassanaṁ suvisuddhaṁ ahosi,**
+       | **Athāhaṁ bhikkhave sadevake loke samārake sabrahmake,**
+       | **Sassamaṇa-brāhmaṇiyā pajāya sadeva-manussāya,**
+       | **Anuttaraṁ sammā-sambodhiṁ abhisambuddho paccaññāsiṁ.**
+     - But as soon this—my three-round, twelve-permutation knowledge & vision concerning these four noble truths as they have come to be—was truly pure, then I did claim to have directly awakened to the right self-awakening unexcelled in the cosmos with its devas, Māras, & Brahmās, with its contemplatives & brāhmans, its royalty & commonfolk.
+     - 然而，一旦我對此四聖諦之三轉十二相的如實知見真正純淨，比丘們，我即在有天神摩羅梵天、沙門婆羅門、貴族平民的宇宙間宣稱己直覺此無上正自覺醒。
+
+   * - | **Ñāṇañ-ca pana me dassanaṁ udapādi,**
+       | **‘Akuppā me vimutti, Ayam-antimā jāti,**
+       | **N’atthidāni punabbhavoti.’”**
+     - The knowledge & vision arose in me: ‘Unprovoked is my release. This is the last birth. There is now no further becoming.’”
+     - 我內心昇起此知見: ‘我的解脫不可動搖。此爲最後一生。今不再有生。’ ”
+
 (未完待續)
