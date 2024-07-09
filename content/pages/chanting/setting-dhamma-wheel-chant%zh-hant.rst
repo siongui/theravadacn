@@ -251,4 +251,33 @@
      - The knowledge & vision arose in me: ‘Unprovoked is my release. This is the last birth. There is now no further becoming.’”
      - 我內心昇起此知見: ‘我的解脫不可動搖。此爲最後一生。今不再有生。’ ”
 
+   * - | **Idam-avoca Bhagavā.**
+       | **Attamanā pañca-vaggiyā bhikkhū Bhagavato bhāsitaṁ abhinanduṁ.**
+     - That is what the Blessed One said. Gratified, the group of five monks delighted in the Blessed One’s words.
+     - [聖僧伽的誕生] 此爲薄伽梵所說。五眾比丘對薄伽梵之說隨喜、心悅。
+
+   * - | **Imasmiñ-ca pana veyyā-karaṇasmiṁ bhaññamāne,**
+       | **Āyasmato Koṇḍaññassa virajaṁ vītamalaṁ dhamma-cakkhuṁ udapādi,**
+     - And while this explanation was being given, there arose to Ven. Koṇḍañña the dustless, stainless Dhamma eye:
+     - 在此解說期間，尊者喬陳如昇起了無塵、無垢的法眼：
+
+   * - **Yaṅ-kiñci samudaya-dhammaṁ sabban-taṁ nirodha-dhammanti.**
+     - “Whatever is subject to origination is all subject to cessation.”
+     - “凡緣起者，皆趨止息。”\ :small:`[凡緣起之法,皆爲止息之法]`
+
+   * - | **Pavattite ca Bhagavatā dhamma-cakke,**
+       | **Bhummā devā saddamanussāvesuṁ,**
+     - Now when the Blessed One had set the Wheel of Dhamma in motion, the earth devas cried out:
+     - [法輪轉起] 薄伽梵轉法輪之際，地神們大呼:
+
+   * - | **“Etam-Bhagavatā Bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhamma-cakkaṁ pavattitaṁ,**
+       | **Appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti.”**
+     - “At Vārāṇasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by brāhman or contemplative, deva, Māra, Brahmā, or anyone at all in the cosmos.”
+     - “在波羅那斯仙人墜的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神摩羅梵天、宇宙中任何者，皆不能阻止。”
+
+   * - | **Bhummānaṁ devānaṁ saddaṁ sutvā,**
+       | **Cātummahārājikā devā saddamanussāvesuṁ.**
+     - On hearing the earth devas’ cry, the devas of the Heaven of the Four Kings took up the cry.
+     - 聞地神之呼聲，四大王天們大呼。
+
 (未完待續)
