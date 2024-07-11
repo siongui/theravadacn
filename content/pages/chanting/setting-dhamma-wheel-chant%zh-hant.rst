@@ -280,4 +280,63 @@
      - On hearing the earth devas’ cry, the devas of the Heaven of the Four Kings took up the cry.
      - 聞地神之呼聲，四大王天們大呼。
 
-(未完待續)
+   * - | **Cātummahārājikānaṁ devānaṁ saddaṁ sutvā,**
+       | **Tāvatiṁsā devā saddamanussāvesuṁ.**
+     - On hearing the cry of the devas of the Heaven of the Four Kings, the devas of the Heaven of the Thirty-three took up the cry.
+     - 聞四大王天之呼聲，三十三天們大呼。
+
+   * - | **Tāvatiṁsānaṁ devānaṁ saddaṁ sutvā,**
+       | **Yāmā devā saddamanussāvesuṁ.**
+     - On hearing the cry of the devas of the Heaven of the Thirty-three, the Yama devas took up the cry.
+     - 聞三十三天之呼聲，夜摩天們大呼。
+
+   * - | **Yāmānaṁ devānaṁ saddaṁ sutvā,**
+       | **Tusitā devā saddamanussāvesuṁ.**
+     - On hearing the cry of the Yama devas, the Tusita devas took up the cry.
+     - 聞夜摩天之呼聲，兜率天們大呼。
+
+   * - | **Tusitānaṁ devānaṁ saddaṁ sutvā,**
+       | **Nimmānaratī devā saddamanussāvesuṁ.**
+     - On hearing the cry of the Tusita devas, the Nimmanarati devas took up the cry.
+     - 聞兜率天之呼聲，化樂天們大呼。
+
+   * - | **Nimmānaratīnaṁ devānaṁ saddaṁ sutvā,**
+       | **Paranimmita-vasavattī devā saddamanussāvesuṁ.**
+     - On hearing the cry of the Nimmanarati devas, the Paranimmita-vasavatti devas took up the cry.
+     - 聞化樂天之呼聲，他化自在天們大呼。
+
+   * - | **Paranimmita-vasavattīnaṁ devānaṁ saddaṁ sutvā,**
+       | **Brahma-kāyikā devā saddamanussāvesuṁ,**
+     - On hearing the cry of the Paranimmita-vasavatti devas, the devas of Brahmā’s retinue took up the cry:
+     - 聞他化自在天之呼聲，梵眾天們大呼:
+
+   * - | **“Etam-Bhagavatā Bārāṇasiyaṁ isipatane migadāye anuttaraṁ dhamma-cakkaṁ pavattitaṁ,**
+       | **Appaṭivattiyaṁ samaṇena vā brāhmaṇena vā devena vā mārena vā brahmunā vā kenaci vā lokasminti.”**
+     - “At Vārāṇasi, in the Game Refuge at Isipatana, the Blessed One has set in motion the unexcelled Wheel of Dhamma that cannot be stopped by brāhman or contemplative, deva, Māra, Brahmā, or anyone at all in the cosmos.”
+     - “在波羅那斯仙人墜的的鹿野苑，薄伽梵轉起無上法輪，沙門婆羅門、天神魔羅梵天、宇宙中任何者，皆不能阻止。”
+
+   * - | **Itiha tena khaṇena tena muhuttena,**
+       | **Yāva brahma-lokā saddo abbhuggacchi.**
+     - So in that moment, that instant, the cry shot right up to the Brahmā world.
+     - 於是，那時刻、那瞬間，呼聲直達梵天界。
+
+   * - | **Ayañ-ca dasa-sahassī loka-dhātu,**
+       | **Saṅkampi sampakampi sampavedhi,**
+     - And this ten-thousandfold cosmos shivered & quivered & quaked,
+     - 此十千宇宙在顫動、抖動、震動，
+
+   * - | **Appamāṇo ca oḷāro obhāso loke pāturahosi,**
+       | **Atikkammeva devānaṁ devānubhāvaṁ.**
+     - while a great, measureless radiance appeared in the cosmos, surpassing the effulgence of the devas.
+     - 一道大無量光出現在宇宙間，勝於天神的燦爛。
+
+   * - | **Atha kho Bhagavā udānaṁ udānesi,**
+       | **“Aññāsi vata bho Koṇḍañño,**
+       | **Aññāsi vata bho Koṇḍaññoti.”**
+     - Then the Blessed One exclaimed: “So you really know, Koṇḍañña? So you really know?”
+     - 其時，薄伽梵大聲道: “喬陳如真悟了? 喬陳如真悟了。”
+
+   * - | **Iti h’idaṁ āyasmato Koṇḍaññassa,**
+       | **Añña-koṇḍañño’tveva nāmaṁ, ahosīti.**
+     - And that is how Ven. Kondañña acquired the name Añña-Koṇḍañña —Koṇḍañña who knows.
+     - 故此，尊者喬陳如得名: 阿念-喬陳如\ :small:`[覺悟的喬陳如]`。
