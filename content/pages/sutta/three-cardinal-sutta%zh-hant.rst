@@ -45,8 +45,7 @@
 - `《火燃經》`_ (SN XXXV.28)
 
 .. _《轉法輪經》: {filename}dhammacakkappavattana%zh-hant.rst
-.. _《非我相經》: http://www.theravadacn.org/Sutta/Anatta_lakkhana2.htm
-.. TODO: replace 《非我相經》 link
+.. _《非我相經》: {filename}anatta-lakkhana%zh-hant.rst
 .. _《火燃經》: http://www.theravadacn.org/Sutta/Adittapariyaya2.htm
 .. TODO: replace 《火燃經》 link
 

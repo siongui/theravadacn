@@ -140,4 +140,3 @@
 
 .. _下載《轉法輪經》巴利經誦錄音(mp3): {filename}/pages/chanting/chant-index%zh-hant.rst
 .. _巴利,英文,中文全文對照: {filename}/pages/chanting/setting-dhamma-wheel-chant%zh-hant.rst
-.. TODO: replace 巴利,英文,中文全文對照 link
