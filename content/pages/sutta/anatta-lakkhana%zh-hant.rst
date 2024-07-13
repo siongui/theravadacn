@@ -45,4 +45,69 @@
    * - I have heard that on one occasion the Blessed One was staying at Varanasi in the Game Refuge at Isipatana. There he addressed the group of five monks:
      - 如是我聞，一時薄伽梵住波羅那斯仙人墜的鹿野苑。在那裡，他對五比丘說:
 
+   * - "Form, monks, is not self. If form were the self, this form would not lend itself to dis-ease. It would be possible [to say] with regard to form, 'Let this form be thus. Let this form not be thus.' But precisely because form is not self, form lends itself to dis-ease. And it is not possible [to say] with regard to form, 'Let this form be thus. Let this form not be thus.'
+
+     - “比丘們，色身(色)非我(不是我)。假若色身是我，這個色身不會讓它自己有不適。對於色身可以[說]，‘讓這色身這樣。讓這色身不這樣。’ 然而，正因爲色身非我，色身自己遭受不適。並且對於色身不能[說] ‘讓這色身這樣。讓這色身不這樣。’
+
+   * - "Feeling is not self...
+     - “感受\ :small:`(受)`\非我……
+
+   * - "Perception is not self...
+     - “辨識\ :small:`(想)`\非我……
+
+   * - "[Mental] fabrications are not self...
+     - “[心理]造作\ :small:`(行)`\非我……
+
+   * - "Consciousness is not self. If consciousness were the self, this consciousness would not lend itself to dis-ease. It would be possible [to say] with regard to consciousness, 'Let my consciousness be thus. Let my consciousness not be thus.' But precisely because consciousness is not self, consciousness lends itself to dis-ease. And it is not possible [to say] with regard to consciousness, 'Let my consciousness be thus. Let my consciousness not be thus.'
+
+     - “意識(識)非我。假若意識是我。這個意識不會讓自己有不適。對於意識可以[說]，‘讓我的意識這樣。讓我的意識不這樣。’ 然而，正因爲意識非我，意識自己遭受不適。並且對於意識不能[說]:‘讓我的意識這樣。讓我的意識不這樣。’
+
+   * - "What do you think, monks — Is form constant or inconstant?"
+
+       "Inconstant, lord."
+
+       "And is that which is inconstant easeful or stressful?"
+
+       "Stressful, lord."
+
+       "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?"
+
+       "No, lord."
+
+     - “比丘們，你們覺得如何─—色身恒常還是無常?”
+
+       “無常，世尊。”
+
+       “那麽，無常\ :small:`(的事物)`\是輕鬆還是苦?”
+
+       “是苦，世尊。”
+
+       “那麽，把無常、苦、易變\ :small:`(的事物)`\看成‘這是我。這是我自己。這是我的存在特點\ :small:`(定義我的特徵)`\’適合嗎?”
+
+       “不適合，世尊。”
+
+   * - "...Is feeling constant or inconstant?"
+
+       "Inconstant, lord."...
+
+     - “……感受恒常還是無常?”
+
+       “無常，世尊。”……
+
+   * - "...Is perception constant or inconstant?"
+
+       "Inconstant, lord."...
+
+     - “……辨識恒常還是無常?”
+
+       “無常，世尊。”……
+
+   * - "...Are fabrications constant or inconstant?"
+
+       "Inconstant, lord."...
+
+     - “……造作恒常還是無常?”
+
+       “無常，世尊。”……
+
 (未完待續)
