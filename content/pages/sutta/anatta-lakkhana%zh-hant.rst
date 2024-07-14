@@ -8,6 +8,7 @@
 :og_image: {static}/extra/Dharma_wheel.png
 :orig_hant_link: http://www.theravadacn.org/Sutta/Anatta_lakkhana2.htm
 :orig_hans_link: http://www.theravadacn.org/Sutta/Anatta_lakkhana.htm
+:orig_eng_link: https://www.dhammatalks.org/books/ChantingGuide/Section0021.html
 
 
 .. role:: small
@@ -110,4 +111,59 @@
 
        “無常，世尊。”……
 
-(未完待續)
+   * - "What do you think, monks — Is consciousness constant or inconstant?"
+
+       "Inconstant, lord."
+
+       "And is that which is inconstant easeful or stressful?"
+
+       "Stressful, lord."
+
+       "And is it fitting to regard what is inconstant, stressful, subject to change as: 'This is mine. This is my self. This is what I am'?"
+
+       "No, lord."
+
+     - “……意識恒常還是無常?”
+
+       “無常，世尊。”
+
+       “那麽，無常\ :small:`(的事物)`\輕鬆還是苦?”
+
+       “是苦，世尊。”
+
+       “那麽，把無常、苦、易變\ :small:`(的事物)`\看成‘這是我。這是我自己。這是我的存在特點\ :small:`(定義我的特徵)`’適合嗎?”
+
+       “不適合，世尊。”
+
+   * - "Thus, monks, any body whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every body is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'
+
+     - “因此，比丘們，凡是色身，無論屬於過去、未來、當下; 內在、外在; 粗糙、細微; 平凡、崇高; 遠、近: 必須以正確的明辨把每一個色身如實看成: ‘這不是我的。這不是我自己。這不是我的存在特點\ :small:`(定義我的特徵)`’
+
+   * - "Any feeling whatsoever...
+     - “凡是感受……
+
+   * - "Any perception whatsoever...
+     - “凡是辨識……
+
+   * - "Any fabrications whatsoever...
+     - “凡是造作……
+
+   * - "Any consciousness whatsoever that is past, future, or present; internal or external; blatant or subtle; common or sublime; far or near: every consciousness is to be seen as it actually is with right discernment as: 'This is not mine. This is not my self. This is not what I am.'
+
+     - “凡是意識，無論屬於過去、未來、當下; 內在、外在; 粗糙、細微; 平凡、崇高; 遠、近: 必須以正確的明辨把每一種意識如實看成:‘這不是我的。這不是我自己。這不是我的存在特點\ :small:`(定義我的特徵)`\。’
+
+   * - "Seeing thus, the well-instructed disciple of the noble ones grows disenchanted with the body, disenchanted with feeling, disenchanted with perception, disenchanted with fabrications, disenchanted with consciousness. Disenchanted, he becomes dispassionate. Through dispassion, he is fully released. With full release, there is the knowledge, 'Fully released.' He discerns that 'Birth is ended, the holy life fulfilled, the task done. There is nothing further for this world.'"
+
+     - “如此看待時，聖者的多聞弟子便疏離\ :small:`(厭離,不再熱衷於)`\色身、疏離感受、疏離辨識、疏離造作、疏離意識。疏離了，他達到無欲。藉著無欲，他徹底解脫。隨著徹底解脫，有智識:‘徹底解脫了。’他辨知: ‘輪迴已終止。梵行已圓滿。任務已完成。不再有爲於世。\ :small:`(不再有可修持的內容)`\。’”
+
+   * - That is what the Blessed One said. Gratified, the group of five monks delighted at his words. And while this explanation was being given, the hearts of the group of five monks, through not clinging (not being sustained), were fully released from fermentation/effluents.
+
+     - 那就是薄伽梵之言。比丘們對他所言隨喜、心悅。並且在這段講解進行期間，五比丘的心智，亦由不再執取[不再被維持]，徹底解脫於漏。
+
+       :small:`[中譯者評: 本經中的關鍵詞 anatta, 坦尼沙羅尊者譯作not-self; 年那摩利尊者亦譯作not-self; 菩提尊者則譯作 nonself, 皆爲『非我』，『不是我』之意。『無我』之英譯爲no-self。有些詞的反意,前綴譯成"非"或者"無"意思差別不大,例如"無常",但有的不然。巴利文atta爲『我』,從語源上看,其反義anatta解作『非我』更合適,從經中上下文看『非我』也更合適。]`
+
+| 相關連接:
+| `坦尼沙羅尊者: 無我，還是非我? <{filename}/pages/talk/thanissaro/no-self-or-not-self%zh-hant.rst>`_
+| `佛陀對有我無我之問的應對 <http://www.theravadacn.org/Sutta/passages2.htm#self>`_
+
+.. TODO: replace 佛陀對有我無我之問的應對 link
