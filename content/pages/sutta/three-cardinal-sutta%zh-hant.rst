@@ -46,8 +46,7 @@
 
 .. _《轉法輪經》: {filename}dhammacakkappavattana%zh-hant.rst
 .. _《非我相經》: {filename}anatta-lakkhana%zh-hant.rst
-.. _《火燃經》: http://www.theravadacn.org/Sutta/Adittapariyaya2.htm
-.. TODO: replace 《火燃經》 link
+.. _《火燃經》: {filename}adittapariyaya%zh-hant.rst
 
 **年那摩利尊者:**
 

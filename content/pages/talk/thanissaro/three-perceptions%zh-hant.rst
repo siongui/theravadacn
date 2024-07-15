@@ -115,5 +115,5 @@
 相關連接:
 《\ `非我相經`_\ 》
 
-.. _非我相經: http://www.theravadacn.org/Sutta/Adittapariyaya.htm
-.. TODO: replace 非我相經 link
+.. _非我相經: {filename}/pages/sutta/adittapariyaya%zh-hant.rst
+.. TODO: 連結錯誤？ FIXME
