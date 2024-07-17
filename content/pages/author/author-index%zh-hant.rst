@@ -43,8 +43,7 @@
 - `諸行無常`_
 - `寬容與多元`_
 
-.. _佛法可以不提輪迴嗎?: http://www.theravadacn.org/Author/BodhiRebirth2.htm
-.. TODO: replace 佛法可以不提輪迴嗎? link
+.. _佛法可以不提輪迴嗎?: {filename}bhikkhu-bodhi/rebirth%zh-hant.rst
 .. _佛法的兩面性: http://www.theravadacn.org/Author/BodhiTwoFacesDhamma2.htm
 .. TODO: replace 佛法的兩面性 link
 .. _佛陀與他的啓示——在聯合國首次衛塞節慶祝典禮上的發言: http://www.theravadacn.org/Author/BodhiVesak2.htm
