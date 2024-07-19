@@ -44,8 +44,7 @@
 - `寬容與多元`_
 
 .. _佛法可以不提輪迴嗎?: {filename}bhikkhu-bodhi/rebirth%zh-hant.rst
-.. _佛法的兩面性: http://www.theravadacn.org/Author/BodhiTwoFacesDhamma2.htm
-.. TODO: replace 佛法的兩面性 link
+.. _佛法的兩面性: {filename}bhikkhu-bodhi/two-faces-of-the-dhamma%zh-hant.rst
 .. _佛陀與他的啓示——在聯合國首次衛塞節慶祝典禮上的發言: http://www.theravadacn.org/Author/BodhiVesak2.htm
 .. TODO: replace 佛陀與他的啓示——在聯合國首次衛塞節慶祝典禮上的發言 link
 .. _親近智者: http://www.theravadacn.org/Author/BodhiAssociation2.htm
