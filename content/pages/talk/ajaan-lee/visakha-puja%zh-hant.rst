@@ -129,8 +129,7 @@
 ----
 
 | 相關連接:
-| `菩提比丘在聯合國首次衛塞節典禮上的發言 <http://www.theravadacn.org/Author/BodhiVesak.htm>`_
+| `菩提比丘在聯合國首次衛塞節典禮上的發言 <{filename}/pages/author/bhikkhu-bodhi/the-buddha-and-his-message%zh-hant.rst>`_
 | `布薩日 <http://www.theravadacn.org/Refuge/Uposatha.htm>`_
 
-.. TODO: replace 菩提比丘在聯合國首次衛塞節典禮上的發言 link
 .. TODO: replace 布薩日 link
