@@ -73,8 +73,7 @@
 .. TODO: replace 釋迦經 link
 .. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
 .. TODO: replace 布薩根本經 link
-.. _滋養根柢: http://www.theravadacn.org/Author/BodhiRoots.htm
-.. TODO: replace 滋養根柢 link
+.. _滋養根柢: {filename}author/bhikkhu-bodhi/nourishing-the-roots%zh-hant.rst
 .. _受戒: http://www.theravadacn.org/Author/BodhiTakingPrecepts2.htm
 .. TODO: replace 受戒 link
 .. _戒律的療癒力: {filename}talk/thanissaro/the-healing-power-of-the-precepts%zh-hant.rst

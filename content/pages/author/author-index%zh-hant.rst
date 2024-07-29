@@ -47,8 +47,7 @@
 .. _佛法的兩面性: {filename}bhikkhu-bodhi/two-faces-of-the-dhamma%zh-hant.rst
 .. _佛陀與他的啓示——在聯合國首次衛塞節慶祝典禮上的發言: {filename}bhikkhu-bodhi/the-buddha-and-his-message%zh-hant.rst
 .. _親近智者: {filename}bhikkhu-bodhi/association-with-the-wise%zh-hant.rst
-.. _滋養根柢: http://www.theravadacn.org/Author/BodhiRoots2.htm
-.. TODO: replace 滋養根柢 link
+.. _滋養根柢: {filename}bhikkhu-bodhi/nourishing-the-roots%zh-hant.rst
 .. _受戒: http://www.theravadacn.org/Author/BodhiTakingPrecepts2.htm
 .. TODO: replace 受戒 link
 .. _福德與靈性成長: http://www.theravadacn.org/Author/BodhiMerit2.htm
