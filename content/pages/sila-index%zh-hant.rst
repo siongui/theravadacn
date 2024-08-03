@@ -74,8 +74,7 @@
 .. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
 .. TODO: replace 布薩根本經 link
 .. _滋養根柢: {filename}author/bhikkhu-bodhi/nourishing-the-roots%zh-hant.rst
-.. _受戒: http://www.theravadacn.org/Author/BodhiTakingPrecepts2.htm
-.. TODO: replace 受戒 link
+.. _受戒: {filename}author/bhikkhu-bodhi/taking-the-precepts%zh-hant.rst
 .. _戒律的療癒力: {filename}talk/thanissaro/the-healing-power-of-the-precepts%zh-hant.rst
 .. _成就戒德(來自《修心之技能》): {filename}talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst
 
