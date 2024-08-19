@@ -50,8 +50,7 @@
 .. _滋養根柢: {filename}bhikkhu-bodhi/nourishing-the-roots%zh-hant.rst
 .. _受戒: {filename}bhikkhu-bodhi/taking-the-precepts%zh-hant.rst
 .. _福德與靈性成長: {filename}bhikkhu-bodhi/merit-and-spiritual-growth%zh-hant.rst
-.. _諸行無常: http://www.theravadacn.org/Author/BodhiAnicca2.htm
-.. TODO: replace 諸行無常 link
+.. _諸行無常: {filename}bhikkhu-bodhi/anicca-vata-sankhara%zh-hant.rst
 .. _寬容與多元: http://www.theravadacn.org/Author/BodhiTolerance2.htm
 .. TODO: replace 寬容與多元 link
 
