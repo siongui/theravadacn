@@ -60,8 +60,7 @@
 - `巴利經典中的佈施`_
 - `巴利經典中的瞻病送終`_
 
-.. _巴利經典中的佈施: http://www.theravadacn.org/Author/LilyDana2.htm
-.. TODO: replace 巴利經典中的佈施 link
+.. _巴利經典中的佈施: {filename}lily-de-silva/giving-in-the-pali-canon%zh-hant.rst
 .. _巴利經典中的瞻病送終: http://www.theravadacn.org/Author/LilySick2.htm
 .. TODO: replace 巴利經典中的瞻病送終 link
 
