@@ -47,8 +47,7 @@
 - `臨終說法一則 <{filename}talk/ajaan-lee/the-last-sermon%zh-hant.rst>`_ ... 阿姜李-達摩達羅講述
 - `《箭喻經》節譯`_ ... 增支部36.6
 
-.. _巴利經典中的瞻病送終: http://www.theravadacn.org/Author/LilySick2.htm
-.. TODO: replace 巴利經典中的瞻病送終 link
+.. _巴利經典中的瞻病送終: {filename}/pages/author/lily-de-silva/Ministering-to-the-Sick-and-the-Terminally-Ill%zh-hant.rst
 .. _《箭喻經》節譯: #sallatha
 
 ----

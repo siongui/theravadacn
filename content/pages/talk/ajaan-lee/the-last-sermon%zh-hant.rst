@@ -122,11 +122,10 @@
 
 | 相關連接:
 | 坦尼沙羅尊者: `慈悲的教育 <http://www.theravadacn.org/Author/ThanissaroCompassion.htm>`_
-| 莉莉-德西爾瓦: `巴利經典中的瞻病送終 <http://www.theravadacn.org/Author/LilySick.htm>`_
+| 莉莉-德西爾瓦: `巴利經典中的瞻病送終 <{filename}/pages/author/lily-de-silva/Ministering-to-the-Sick-and-the-Terminally-Ill%zh-hant.rst>`_
 | `面對病痛與死亡文選 <http://www.dhammatalks.org/Dhamma/GilanaIndex2.htm>`_
 
 .. TODO: replace 慈悲的教育 link
-.. TODO: replace 巴利經典中的瞻病送終 link
 .. TODO: broken link: 面對病痛與死亡文選
 
 https://www.accesstoinsight.org/lib/thai/lee/handbook.html
