@@ -179,6 +179,5 @@
 ----
 
 相關連接:
-`向智尊者論四梵住 <http://www.theravadacn.org/Sutta/passages.htm#nyanaponika>`_
+`向智尊者論四梵住 <{filename}/pages/author/nyanaponika/the-four-sublime-states%zh-hant.rst>`_
 
-.. TODO: replace 向智尊者論四梵住 link

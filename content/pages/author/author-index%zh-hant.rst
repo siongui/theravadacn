@@ -73,8 +73,7 @@
 
 - `向智尊者論四梵住(節譯)`_
 
-.. _向智尊者論四梵住(節譯): http://www.theravadacn.org/Author/NyanaponikaSublime2.htm
-.. TODO: replace 向智尊者論四梵住(節譯) link
+.. _向智尊者論四梵住(節譯): {filename}nyanaponika/the-four-sublime-states%zh-hant.rst
 
 ----
 
