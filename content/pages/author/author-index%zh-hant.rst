@@ -87,8 +87,7 @@
 
 - `發自內心的佈施`_
 
-.. _發自內心的佈施: http://www.theravadacn.org/Author/WalsheDana2.htm
-.. TODO: replace 發自內心的佈施 link
+.. _發自內心的佈施: {filename}walshe/giving-from-the-heart%zh-hant.rst
 
 .. container:: notification
 
