@@ -48,5 +48,4 @@
 
 .. _歸依三寶(專題經文選): http://www.theravadacn.org/Refuge/tisarana2.htm
 .. TODO: replace 歸依三寶(專題經文選) link
-.. _歸依佛陀: http://www.theravadacn.org/Author/BodhiRefugeBuddha2.htm
-.. TODO: replace 歸依佛陀 link
+.. _歸依佛陀: {filename}/pages/author/bhikkhu-bodhi/refuge-in-the-buddha%zh-hant.rst
