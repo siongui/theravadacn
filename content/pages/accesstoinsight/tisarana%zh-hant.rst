@@ -44,5 +44,44 @@
 
 **至高歸依**
 
+.. container:: ml-3 mb-2
+
+   | 人們畏懼危險，
+   | 四處尋求歸依:
+   | 　　去山嶽、森林、
+   | 　　去庭園、樹木、神龕。
+   | 那不是平安的歸依，
+   | 不是至上的歸依。
+   | 一切\ `苦與憂`_\ ，
+   | 　　以此歸依
+   | 　　不得\ `解脫`_\ 。
+   |
+   | 而歸依\ `佛`_\ 、\ `法`_\ 、\ `僧`_\ 者，
+   | 以正明辨得見四聖諦——
+   | 　　苦、
+   | 　　苦因、
+   | 　　苦的超越、
+   | 　　與趨向滅苦的八聖道。
+   | 那才是安全的歸依、
+   | 　　那才是至高的歸依。
+   | 一切苦與憂，
+   | 　　以此歸依
+   | 　　得解脫。
+
+.. container:: has-text-right
+
+   ——Dhp188-192(法句經)
+
+.. _苦與憂: http://theravadacn.com/Refuge/dukkha2.htm
+.. TODO: replace 苦與憂 link
+.. _解脫: http://www.theravadacn.org/Refuge/nibbana2.htm
+.. TODO: replace 解脫 link
+.. _佛: {filename}/pages/buddha-life-sketch%zh-hant.rst
+.. _法: {filename}/pages/dhamma-gradual%zh-hant.rst
+.. _僧: {filename}/pages/sangha%zh-hant.rst
+
+----
+
+(未完待續)
 
 .. _Access to Insight: https://www.accesstoinsight.org/
