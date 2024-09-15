@@ -46,6 +46,5 @@
 - 何謂三寶? ... 阿姜李-達摩達羅 撰
 - 三歸依 ... 菩提尊者撰
 
-.. _歸依三寶(專題經文選): http://www.theravadacn.org/Refuge/tisarana2.htm
-.. TODO: replace 歸依三寶(專題經文選) link
+.. _歸依三寶(專題經文選): {filename}/pages/accesstoinsight/tisarana%zh-hant.rst
 .. _歸依佛陀: {filename}/pages/author/bhikkhu-bodhi/refuge-in-the-buddha%zh-hant.rst
