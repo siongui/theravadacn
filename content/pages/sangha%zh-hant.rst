@@ -71,6 +71,8 @@
 
 ----
 
+.. _pairs:
+
 四雙聖弟子
 
 .. container:: notification
@@ -91,6 +93,8 @@
 .. TODO: replace 淨居天 link
 
 ----
+
+.. _kinds:
 
 八輩聖弟子
 
