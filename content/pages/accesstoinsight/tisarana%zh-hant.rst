@@ -99,6 +99,97 @@
 
 ----
 
-(未完待續)
+**歸依巴利誦文**
+
+(以下句子通常在受\ `五戒`_\ 之前持誦)
+
+.. container:: ml-3 mb-2
+
+   | Buddham saranam gacchami
+   | 我歸依佛
+   | Dhammam saranam gacchami
+   | 我歸依法
+   | Sangham saranam gacchami
+   | 我歸依僧
+   |
+   | Dutiyampi Buddham saranam gacchami
+   | 第二次，我歸依佛
+   | Dutiyampi Dhammam saranam gacchami
+   | 第二次，我歸依法
+   | Dutiyampi Sangham saranam gacchami
+   | 第二次，我歸依僧
+   |
+   | Tatiyampi Buddham saranam gacchami
+   | 第三次，我歸依佛
+   | Tatiyampi Dhammam saranam gacchami
+   | 第三次，我歸依法
+   | Tatiyampi Sangham saranam gacchami
+   | 第三次，我歸依僧
+
+.. container:: has-text-right
+
+   ——Khp.1(小部)
+
+.. _五戒: http://www.theravadacn.org/Refuge/Sila_panca2.htm
+.. TODO: replace 五戒 link
+
+----
+
+**福德果報**
+
+“有此情形，一位聖者的弟子前去歸依佛。這是第一次福德果報: 是善巧、喜樂的滋養、如天界、得快樂、導向天界、導向愉快、喜悅、適意、福利、與幸福的果報。
+
+“再者，這位聖者的弟子前去歸依法。這是第二次福德果報......
+
+“再者，這位聖者的弟子前去歸依僧。這是第三次福德果報......”
+
+.. container:: has-text-right
+
+   ——AN8.39(增支部)
+
+----
+
+**解脫痛苦的歸依**
+
+.. container:: ml-3 mb-2
+
+   | 如果你懼怕痛、
+   | 　　如果你厭惡痛，
+   | 去歸依佛，
+   | 　　歸依法，
+   | 　　　　歸依僧。
+   | 受持戒律:;
+   | 　　那將會引導你;
+   | 　　走向解脫。
+
+.. container:: has-text-right
+
+   ——Thig12(長老尼偈)
+
+----
+
+**一位家主的宣告**
+
+世尊這般說完之後，年輕的家主屍迦羅越說了以下的話:
+
+“勝哉，世尊，勝哉! 世尊正好比將顛倒之物置正、把隱秘之事揭開、爲迷途者指路、在黑夜裡舉燈、使有目者見形，世尊更是藉多方推理，闡明了法。
+
+“我歸依世尊、歸依法、歸依僧。願世尊記得我這個從今天起一生歸依於他的居家弟子。”
+
+.. container:: has-text-right
+
+   ——DN31(長部)
+
+----
+
+相關連接:
+
+| 　　 `五戒 <http://www.theravadacn.org/Refuge/sila2.htm>`__
+| 　　 `阿姜李歸依儀式(來自《修心之技能》) <{filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst#uposatha>`_
+| 　　 `坦尼沙羅尊者: 歸依 <{filename}/pages/talk/thanissaro/going-for-refuge%zh-hant.rst>`_
+
+.. TODO: replace 五戒 link
+
+https://www.accesstoinsight.org/ptf/tisarana.html
 
 .. _Access to Insight: https://www.accesstoinsight.org/
