@@ -50,9 +50,7 @@
 - `佈施與募款有什麽關係`_ ... 約翰-布列特 撰
 
 .. _佈施導言: #introduction
-.. TODO: replace 佈施導言 link
-.. _佈施(專題經文選編，來自《佛法入門》): http://www.theravadacn.org/Refuge/dana_caga2.htm
-.. TODO: replace 佈施(專題經文選編，來自《佛法入門》) link
+.. _佈施(專題經文選編，來自《佛法入門》): {filename}/pages/accesstoinsight/dana-caga%zh-hant.rst
 .. _佈施(專題經文選譯，來自《福德》): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm
 .. TODO: replace 佈施(專題經文選譯，來自《福德》) link
 .. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm

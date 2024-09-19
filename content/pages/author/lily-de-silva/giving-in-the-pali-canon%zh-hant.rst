@@ -153,13 +153,10 @@
 ----
 
 相關連接:
-`布施 <http://www.theravadacn.org/Refuge/Dana_caga.htm>`_
-
-.. TODO: replace 布施 link
+`布施 <{filename}/pages/accesstoinsight/dana-caga%zh-hant.rst>`_
 
 https://www.accesstoinsight.org/lib/authors/various/wheel367.html#pali
 
 .. _佛教出版社: https://www.bps.lk/
 
-.. _分步說法: http://www.theravadacn.org/Refuge/dana_caga2.htm
-.. TODO: replace 分步說法 link
+.. _分步說法: {filename}/pages/accesstoinsight/dana-caga%zh-hant.rst

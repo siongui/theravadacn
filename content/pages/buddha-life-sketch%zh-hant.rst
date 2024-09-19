@@ -742,8 +742,7 @@
 
 『何爲\ `佈施`_\ 的寶藏? 有此情形，一位聖者的弟子，覺知已洗清了慳吝之染，居於家中、慷慨、廣施、樂於寬宏大度、有求必應、樂於供養缽食。此謂佈施的寶藏。』
 
-.. _佈施: http://theravadacn.com/Refuge/dana_caga2.htm
-.. TODO: replace 佈施 link
+.. _佈施: {filename}/pages/accesstoinsight/dana-caga%zh-hant.rst
 
 .. container:: has-text-right
 
