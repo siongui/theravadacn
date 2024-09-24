@@ -493,8 +493,7 @@ Nirvana是徹底自由。Bodhi是趣向它和發現它的體驗。兩者區別�
 
 若想更多了解無量慈心的修法，可在“通往內覺”網站中檢索“Metta” :small:`[慈心]` 及 `名為“Merit”的經文選讀`_ 。
 
-.. _名為“Merit”的經文選讀: http://www.theravadacn.org/Sutta/StudyGuidePunna.htm
-.. TODO: replace 名為“Merit”的經文選讀 link
+.. _名為“Merit”的經文選讀: {filename}/pages/sutta/merit-a-study-guide%zh-hant.rst
 
 ----
 

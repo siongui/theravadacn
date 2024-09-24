@@ -97,8 +97,7 @@
 
 .. _短段落選譯: http://www.theravadacn.org/Sutta/passages2.htm
 .. TODO: replace 短段落選譯 link
-.. _福德: http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm
-.. TODO: replace 福德 link
+.. _福德: {filename}/pages/sutta/merit-a-study-guide%zh-hant.rst
 
 ----
 
