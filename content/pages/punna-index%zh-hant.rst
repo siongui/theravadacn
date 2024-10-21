@@ -53,8 +53,7 @@
 
 .. _何謂福德: #whatis
 .. _福德——巴利經文選讀: {filename}/pages/sutta/merit-a-study-guide%zh-hant.rst
-.. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm
-.. TODO: replace 福德——增支部經文選讀 link
+.. _福德——增支部經文選讀: {filename}/pages/sutta/nyanaponika-merit%zh-hant.rst
 .. _福德與靈性成長: {filename}author/bhikkhu-bodhi/merit-and-spiritual-growth%zh-hant.rst
 .. _福德的精髓: #essence
 .. _何處找福德: #lookfor

@@ -52,8 +52,7 @@
 .. _佈施導言: #introduction
 .. _佈施(專題經文選編，來自《佛法入門》): {filename}/pages/accesstoinsight/dana-caga%zh-hant.rst
 .. _佈施(專題經文選譯，來自《福德》): {filename}/pages/sutta/merit-a-study-guide%zh-hant.rst
-.. _福德——增支部經文選讀: http://www.theravadacn.org/Sutta/NyanaponikaMerit2.htm
-.. TODO: replace 福德——增支部經文選讀 link
+.. _福德——增支部經文選讀: {filename}/pages/sutta/nyanaponika-merit%zh-hant.rst
 .. _佈施先行: {filename}talk/thanissaro/generosity-first%zh-hant.rst
 .. _巴利經典中的佈施: {filename}/pages/author/lily-de-silva/giving-in-the-pali-canon%zh-hant.rst
 .. _發自內心的佈施: {filename}/pages/author/walshe/giving-from-the-heart%zh-hant.rst
