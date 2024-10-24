@@ -56,8 +56,7 @@
 .. _佈施先行: {filename}talk/thanissaro/generosity-first%zh-hant.rst
 .. _巴利經典中的佈施: {filename}/pages/author/lily-de-silva/giving-in-the-pali-canon%zh-hant.rst
 .. _發自內心的佈施: {filename}/pages/author/walshe/giving-from-the-heart%zh-hant.rst
-.. _佈施與募款有什麽關係: http://www.theravadacn.org/Beginner/dana2.htm
-.. TODO: replace 佈施與募款有什麽關係 link
+.. _佈施與募款有什麽關係: {filename}accesstoinsight/dana-and-fundraising%zh-hant.rst
 
 ----
 

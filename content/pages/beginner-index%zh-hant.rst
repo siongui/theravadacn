@@ -36,8 +36,7 @@
 .. TODO: replace 怎樣給孩子講解佛法？ link
 .. _佛教徒是素食者嗎?: http://www.theravadacn.org/Beginner/veggi2.htm
 .. TODO: replace 佛教徒是素食者嗎? link
-.. _佈施與籌款有什麽關係?: http://www.theravadacn.org/Beginner/dana2.htm
-.. TODO: replace 佈施與籌款有什麽關係? link
+.. _佈施與籌款有什麽關係?: {filename}accesstoinsight/dana-and-fundraising%zh-hant.rst
 .. _販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性?: http://www.theravadacn.org/Beginner/Selling2.htm
 .. TODO: replace 販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性? link
 
