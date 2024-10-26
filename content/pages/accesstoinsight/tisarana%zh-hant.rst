@@ -130,8 +130,7 @@
 
    ——Khp.1(小部)
 
-.. _五戒: http://www.theravadacn.org/Refuge/Sila_panca2.htm
-.. TODO: replace 五戒 link
+.. _五戒: {filename}sila-panca%zh-hant.rst
 
 ----
 

@@ -53,8 +53,7 @@
 - `成就戒德(來自《修心之技能》)`_ ... 阿姜李-達摩達羅 撰
 
 .. _作思經: #cetana
-.. _五戒: http://www.theravadacn.org/Refuge/Sila_panca2.htm
-.. TODO: replace 五戒 link
+.. _五戒: {filename}accesstoinsight/sila-panca%zh-hant.rst
 .. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
 .. TODO: replace 八戒 link
 .. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm

@@ -66,8 +66,7 @@ http://www.accesstoinsight.org/bfaq.html#dana
 
 .. _Access to Insight: https://www.accesstoinsight.org/
 .. _佈施: {filename}dana-caga%zh-hant.rst
-.. _五戒: http://www.theravadacn.org/Refuge/Sila_panca2.htm
-.. TODO: replace 五戒 link
+.. _五戒: {filename}sila-panca%zh-hant.rst
 .. _業力: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 業力 link
 .. _免費贈送佛書有什麽大不了的重要性: http://www.theravadacn.org/Beginner/Selling2.htm
