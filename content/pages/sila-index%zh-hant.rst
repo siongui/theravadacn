@@ -54,8 +54,7 @@
 
 .. _作思經: #cetana
 .. _五戒: {filename}accesstoinsight/sila-panca%zh-hant.rst
-.. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
-.. TODO: replace 八戒 link
+.. _八戒: {filename}accesstoinsight/sila-attha%zh-hant.rst
 .. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
 .. TODO: replace 十戒 link
 .. _戒德(專題經文選編，來自《佛法入門》): http://www.theravadacn.org/Refuge/sila2.htm

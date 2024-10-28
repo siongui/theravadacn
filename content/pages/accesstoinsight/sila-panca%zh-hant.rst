@@ -102,7 +102,7 @@ https://www.accesstoinsight.org/ptf/dhamma/sila/pancasila.html
 
 .. _Access to Insight: https://www.accesstoinsight.org/
 .. _歸依佛、法、僧的段落: {filename}tisarana%zh-hant.rst
-.. _八戒: http://www.theravadacn.org/Refuge/Sila_attha2.htm
+.. _八戒: {filename}sila-attha%zh-hant.rst
 .. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
 .. _戒德: http://www.theravadacn.org/Refuge/sila2.htm
 .. _歸依三寶: {filename}tisarana%zh-hant.rst
