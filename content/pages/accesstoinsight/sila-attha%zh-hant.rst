@@ -41,6 +41,49 @@
 
           中譯版權所有 © 2005 良稹，http://www.theravadacn.org ，流通條件如上。轉載時請包括本站連接，並登載本版權聲明。
 
+
+這些戒律由居家者在密集禪修期與\ `布薩日`_\ 時遵守。八戒建立在\ `五戒`_\ 基礎之上，把第三戒延至一切性事，另增特別有助於禪修的三條戒律。
+
+.. _布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
+.. TODO: replace 布薩日 link
+
+**八戒**
+
+1. Panatipata veramani sikkhapadam samadiyami
+
+   我接受訓誡，離破壞生命。
+
+2. Adinnadana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離不予而取。
+
+3. Abrahmacariya veramani sikkhapadam samadiyami
+
+   我接受訓誡，離性事。
+
+4. Musavada veramani sikkhapadam samadiyami
+
+   我接受訓誡，離\ `不正言語`_\ 。
+
+5. Suramerayamajja pamadatthana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離導致失慎的醉性飲料與藥品。
+
+6. Vikalabhojana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離非時食(不在禁食期間進食,過午不食)。
+
+7. Nacca-gita-vadita-visukkadassana mala-gandha-vilepana-dharana-mandana-vibhusanathana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離歌舞、音樂、演藝、花環、香水與美容品。
+
+8. Uccasayana-mahasayana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離高床與奢侈睡具。
+
+.. _不正言語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm#incorrectspeech
+.. TODO: replace 不正言語 link
+
 ----
 
 相關連接:
