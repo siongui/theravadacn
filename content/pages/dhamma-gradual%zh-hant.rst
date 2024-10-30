@@ -142,8 +142,7 @@
 
 .. _五戒: {filename}accesstoinsight/sila-panca%zh-hant.rst
 .. _八戒: {filename}accesstoinsight/sila-attha%zh-hant.rst
-.. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
-.. TODO: replace 十戒 link
+.. _十戒: {filename}accesstoinsight/sila-dasa%zh-hant.rst
 .. _持守布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
 .. TODO: replace 持守布薩日 link
 .. _三十一个生存域: http://www.theravadacn.org/Refuge/31Planes2.htm

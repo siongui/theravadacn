@@ -97,7 +97,7 @@
 https://www.accesstoinsight.org/ptf/dhamma/sila/atthasila.html
 
 .. _Access to Insight: https://www.accesstoinsight.org/
-.. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
+.. _十戒: {filename}sila-dasa%zh-hant.rst
 .. _五戒: {filename}sila-panca%zh-hant.rst
 .. _戒德: http://www.theravadacn.org/Refuge/sila2.htm
 .. _阿姜李 布薩歸依求戒儀式(來自《修心之技能》): {filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst#uposatha

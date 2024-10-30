@@ -103,7 +103,7 @@ https://www.accesstoinsight.org/ptf/dhamma/sila/pancasila.html
 .. _Access to Insight: https://www.accesstoinsight.org/
 .. _歸依佛、法、僧的段落: {filename}tisarana%zh-hant.rst
 .. _八戒: {filename}sila-attha%zh-hant.rst
-.. _十戒: http://www.theravadacn.org/Refuge/Sila_dasa2.htm
+.. _十戒: {filename}sila-dasa%zh-hant.rst
 .. _戒德: http://www.theravadacn.org/Refuge/sila2.htm
 .. _歸依三寶: {filename}tisarana%zh-hant.rst
 .. _阿姜李 成就戒德《修心之技能》: {filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst
