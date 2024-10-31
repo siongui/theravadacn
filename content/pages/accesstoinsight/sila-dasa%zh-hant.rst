@@ -46,7 +46,50 @@
 
 受具足戒的僧侶(比丘)遵守《比丘波羅提木叉經》中的227條戒; 受具足戒的僧尼(比丘尼)遵守《比丘尼波羅提木叉經》中的311條戒。
 
-(未完待續)
+**十戒**
+
+1. Panatipata veramani sikkhapadam samadiyami
+
+   我接受訓誡，離破壞生命。
+
+2. Adinnadana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離不予而取。
+
+3. Abrahmacariya veramani sikkhapadam samadiyami
+
+   我接受訓誡，離性事。
+
+4. Musavada veramani sikkhapadam samadiyami
+
+   我接受訓誡，離\ `不正言語`_\ 。
+
+5. Suramerayamajja pamadatthana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離導致失慎的醉性飲料與藥品。
+
+6. Vikalabhojana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離非時食\ :small:`[不在禁食期間進食,過午不食]`\ 。
+
+7. Nacca-gita-vadita-visuka-dassana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離歌舞、音樂、演藝。
+
+8. Mala-gandha-vilepana-dharana-mandana-vibhusanatthana veramani sikkhapadam samadiyami
+
+   我接受训诫，離花環、香水與美容品。
+
+9. Uccasayana-mahasayana veramani sikkhapadam samadiyami
+
+   我接受訓誡，離高床與奢侈睡具。
+
+10. Jatarupa-rajata-patiggahana veramani sikkhapadam samadiyami
+
+    我接受訓誡，離金銀\ :small:`[不接受錢幣]`\ 。
+
+.. _不正言語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm#incorrectspeech
+.. TODO: replace 不正言語 link
 
 ----
 
