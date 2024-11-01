@@ -754,8 +754,7 @@
 
 『何爲\ `戒德`_\ 的寶藏? 有此情形，一位聖者的弟子，戒殺生、戒偷盜、戒不當性事、戒謊言、戒趨向失慎的醉品。比丘們，此謂戒德的的寶藏。』
 
-.. _戒德: http://theravadacn.com/Refuge/sila2.htm
-.. TODO: replace 戒德 link
+.. _戒德: {filename}accesstoinsight/sila%zh-hant.rst
 
 .. container:: has-text-right
 

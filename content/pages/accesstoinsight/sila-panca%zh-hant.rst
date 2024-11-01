@@ -104,7 +104,7 @@ https://www.accesstoinsight.org/ptf/dhamma/sila/pancasila.html
 .. _歸依佛、法、僧的段落: {filename}tisarana%zh-hant.rst
 .. _八戒: {filename}sila-attha%zh-hant.rst
 .. _十戒: {filename}sila-dasa%zh-hant.rst
-.. _戒德: http://www.theravadacn.org/Refuge/sila2.htm
+.. _戒德: {filename}sila%zh-hant.rst
 .. _歸依三寶: {filename}tisarana%zh-hant.rst
 .. _阿姜李 成就戒德《修心之技能》: {filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst
 .. _菩提尊者\: 受戒: {filename}/pages/author/bhikkhu-bodhi/taking-the-precepts%zh-hant.rst

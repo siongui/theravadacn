@@ -56,8 +56,7 @@
 .. _五戒: {filename}accesstoinsight/sila-panca%zh-hant.rst
 .. _八戒: {filename}accesstoinsight/sila-attha%zh-hant.rst
 .. _十戒: {filename}accesstoinsight/sila-dasa%zh-hant.rst
-.. _戒德(專題經文選編，來自《佛法入門》): http://www.theravadacn.org/Refuge/sila2.htm
-.. TODO: replace 戒德(專題經文選編，來自《佛法入門》) link
+.. _戒德(專題經文選編，來自《佛法入門》): {filename}accesstoinsight/sila%zh-hant.rst
 .. _持戒(專題經文選譯，來自《福德》): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm#sila
 .. TODO: replace 持戒(專題經文選譯，來自《福德》) link
 .. _布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm

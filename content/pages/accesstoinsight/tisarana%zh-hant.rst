@@ -183,11 +183,9 @@
 
 相關連接:
 
-| 　　 `五戒 <http://www.theravadacn.org/Refuge/sila2.htm>`__
+| 　　 `五戒 <{filename}sila%zh-hant.rst>`__
 | 　　 `阿姜李歸依儀式(來自《修心之技能》) <{filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst#uposatha>`_
 | 　　 `坦尼沙羅尊者: 歸依 <{filename}/pages/talk/thanissaro/going-for-refuge%zh-hant.rst>`_
-
-.. TODO: replace 五戒 link
 
 https://www.accesstoinsight.org/ptf/tisarana.html
 
