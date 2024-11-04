@@ -44,8 +44,7 @@
 
 這些戒律由居家者在密集禪修期與\ `布薩日`_\ 時遵守。八戒建立在\ `五戒`_\ 基礎之上，把第三戒延至一切性事，另增特別有助於禪修的三條戒律。
 
-.. _布薩日: http://www.theravadacn.org/Refuge/uposatha2.htm
-.. TODO: replace 布薩日 link
+.. _布薩日: {filename}uposatha-observance-days%zh-hant.rst
 
 **八戒**
 
