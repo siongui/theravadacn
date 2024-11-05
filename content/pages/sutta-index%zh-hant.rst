@@ -61,8 +61,7 @@
 .. _轉法輪經: {filename}sutta/dhammacakkappavattana%zh-hant.rst
 .. _非我相經: http://www.theravadacn.org/Sutta/Anatta_lakkhana2.htm
 .. TODO: replace 非我相經 link
-.. _火燃經: http://www.theravadacn.org/Sutta/Adittapariyaya2.htm
-.. TODO: replace 火燃經 link
+.. _火燃經: {filename}sutta/adittapariyaya%zh-hant.rst
 .. _阿難經(教誡婆耆沙): http://www.theravadacn.org/Sutta/Ananda%28to%20Vangisa%292.htm
 .. TODO: replace 阿難經(教誡婆耆沙) link
 .. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
