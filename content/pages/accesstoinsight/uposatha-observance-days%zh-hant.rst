@@ -58,16 +58,37 @@
 
 通常又稱“僧伽日”，這一日紀念 1250 位阿羅漢自發在佛陀面前的集會。其中一千名在場的比丘是過去在諦聽佛陀宣講《\ `火燃經`_\ 》後覺悟的，其他 250 位比丘爲長老目犍連尊者與舍利弗尊者的弟子。面對這個吉祥的團體，佛陀宣講了法義總綱《\ `教誡波羅提木叉偈`_\ 》，之後遣派他們外出宣講佛法。[相關閱讀:《\ `阿姜李: 給每個人的法`_\ 》]
 
+
 ◇ **衛塞節** Visakha Puja (Vesak) (通常於五月)
 
-有時又稱“佛日”(Buddha Day)，這一日紀念佛陀生平中在這個滿月日裡發生的三個關鍵事件: 他的出生、覺醒與最後的解脫(parinibbana，般涅槃)。[推薦阿姜李的開示:《\ `衛塞禮佛日`_\ 》]
+有時又稱“佛日”(Buddha Day)，這一日紀念佛陀生平中在這個滿月日裡發生的三個關鍵事件: 他的出生、覺醒與最後的解脫\ :small:`(parinibbana，般涅槃)`\ 。[推薦阿姜李的開示:《\ `衛塞禮佛日`_\ 》]
+
 
 ◇ **阿薩拉日** Asalha Puja (通常於七月)
 
-.. 有時又稱“法日”(Dhamma Day)，這一日紀念佛陀的第一次宣講，當時是爲曾一起在森林中修持多年的五位比丘講述的。聽了這篇開示之後，其中一位比丘(喬陳如尊者)第一次瞥見了涅槃，於是誕生了聖僧伽。每年的雨季安居(vassa)從第二日開始。
+有時又稱“法日”(Dhamma Day)，這一日紀念佛陀的\ `初次說法`_\ ，當時是爲曾一起在森林中修持多年的五位比丘講述的。聽了這篇開示之後，其中一位比丘(喬陳如尊者)第一次瞥見了涅槃，於是誕生了\ `聖僧伽`_\ 。每年的雨季安居(vassa)從第二日開始。
 
 
-(未完待續)
+◇ **結居日** Pavarana Day (通常於十月, 又稱自恣、僧寶節、佛陀歡喜節)
+
+這一日標誌著雨安居的結束。下個月舉行迦提那節(kathina)，那時居家人集體向僧伽贈送僧布與其它用品。
+
+
+◇ **安那般那日** Anapanasati Day (通常於十一月)
+
+有一次雨安居結束時，佛陀對於比丘們的進步極其滿意，鼓勵他們把密集禪修再延長一個月。在第四個安居月結束的滿月日，他傳授了出入息念(安那般那念)，內容記載於中部118《出入息念經》中。
+
+----
+
+相關連接:
+
+| 　　《\ `教誡毗沙卡布薩經`_\ 》
+| 　　《\ `釋迦經`_\ 》
+| 　　《\ `布薩根本經`_\ 》
+| 　　\ `阿姜李 布薩歸依求戒儀式(來自《修心之技能》)`_
+|
+
+https://www.accesstoinsight.org/ptf/dhamma/sila/uposatha.html
 
 .. _Access to Insight: https://www.accesstoinsight.org/
 .. _八戒: {filename}sila-attha%zh-hant.rst
@@ -76,3 +97,12 @@
 .. TODO: replace 教誡波羅提木叉偈 link
 .. _阿姜李\: 給每個人的法: {filename}/pages/talk/ajaan-lee/dhamma-for-everyone%zh-hant.rst
 .. _衛塞禮佛日: {filename}/pages/talk/ajaan-lee/visakha-puja%zh-hant.rst
+.. _初次說法: {filename}/pages/sutta/dhammacakkappavattana%zh-hant.rst
+.. _聖僧伽: {filename}/pages/sangha%zh-hant.rst
+.. _教誡毗沙卡布薩經: http://www.theravadacn.org/Sutta/passages2.htm#uposatha
+.. TODO: replace 教誡毗沙卡布薩經 link
+.. _釋迦經: http://www.theravadacn.org/Sutta/Sakka2.htm
+.. TODO: replace 釋迦經 link
+.. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
+.. TODO: replace 布薩根本經 link
+.. _阿姜李 布薩歸依求戒儀式(來自《修心之技能》): {filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst#uposatha
