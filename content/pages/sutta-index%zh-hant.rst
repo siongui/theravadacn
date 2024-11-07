@@ -94,8 +94,7 @@
    | 棄絕五蓋
    | 初果
 
-.. _短段落選譯: http://www.theravadacn.org/Sutta/passages2.htm
-.. TODO: replace 短段落選譯 link
+.. _短段落選譯: {filename}sutta/passage-selected-translation%zh-hant.rst
 .. _福德: {filename}/pages/sutta/merit-a-study-guide%zh-hant.rst
 
 ----
