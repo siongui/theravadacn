@@ -906,6 +906,8 @@
 佛陀教導布薩八戒
 ++++++++++++++++
 
+.. _uposatha:
+
 《教誡毗沙卡布薩經》
 
 .. container:: notification
@@ -992,6 +994,7 @@
 
       ——AN8.43(增支部，康提帕羅比丘英譯，主要參考坦尼沙羅尊者英譯 AN3.70)(相關經文請看\ `持戒 <{filename}/pages/sila-index%zh-hant.rst>`_)
 
+.. _vasettha:
 
 《教誡婆西塔布薩經》(選譯)
 

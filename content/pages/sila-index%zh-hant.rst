@@ -59,10 +59,8 @@
 .. _戒德(專題經文選編，來自《佛法入門》): {filename}accesstoinsight/sila%zh-hant.rst
 .. _持戒(專題經文選譯，來自《福德》): {filename}sutta/merit-a-study-guide%zh-hant.rst#sila
 .. _布薩日: {filename}accesstoinsight/uposatha-observance-days%zh-hant.rst
-.. _教誡毗沙卡布薩經: http://www.theravadacn.org/Sutta/passages2.htm#uposatha
-.. TODO: replace 教誡毗沙卡布薩經 link
-.. _教誡婆西塔布薩經: http://www.theravadacn.org/Sutta/passages2.htm#vasettha
-.. TODO: replace 教誡婆西塔布薩經 link
+.. _教誡毗沙卡布薩經: {filename}sutta/passage-selected-translation%zh-hant.rst#uposatha
+.. _教誡婆西塔布薩經: {filename}sutta/passage-selected-translation%zh-hant.rst#vasettha
 .. _釋迦經: http://www.theravadacn.org/Sutta/Sakka2.htm
 .. TODO: replace 釋迦經 link
 .. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
