@@ -61,8 +61,7 @@
 .. _布薩日: {filename}accesstoinsight/uposatha-observance-days%zh-hant.rst
 .. _教誡毗沙卡布薩經: {filename}sutta/passage-selected-translation%zh-hant.rst#uposatha
 .. _教誡婆西塔布薩經: {filename}sutta/passage-selected-translation%zh-hant.rst#vasettha
-.. _釋迦經: http://www.theravadacn.org/Sutta/Sakka2.htm
-.. TODO: replace 釋迦經 link
+.. _釋迦經: {filename}/pages/sutta/sakka%zh-hant.rst
 .. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
 .. TODO: replace 布薩根本經 link
 .. _滋養根柢: {filename}author/bhikkhu-bodhi/nourishing-the-roots%zh-hant.rst

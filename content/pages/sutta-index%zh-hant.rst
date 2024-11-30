@@ -80,8 +80,7 @@
 .. TODO: replace 卡拉瑪經 link
 .. _麻瘋病者: http://www.theravadacn.org/Sutta/Kutthi2.htm
 .. TODO: replace 麻瘋病者 link
-.. _釋迦經: http://www.theravadacn.org/Sutta/Sakka2.htm
-.. TODO: replace 釋迦經 link
+.. _釋迦經: {filename}/pages/sutta/sakka%zh-hant.rst
 
 ----
 
