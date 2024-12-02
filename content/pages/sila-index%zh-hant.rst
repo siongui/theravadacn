@@ -62,8 +62,7 @@
 .. _教誡毗沙卡布薩經: {filename}sutta/passage-selected-translation%zh-hant.rst#uposatha
 .. _教誡婆西塔布薩經: {filename}sutta/passage-selected-translation%zh-hant.rst#vasettha
 .. _釋迦經: {filename}/pages/sutta/sakka%zh-hant.rst
-.. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
-.. TODO: replace 布薩根本經 link
+.. _布薩根本經: {filename}/pages/sutta/muuluposatha%zh-hant.rst
 .. _滋養根柢: {filename}author/bhikkhu-bodhi/nourishing-the-roots%zh-hant.rst
 .. _受戒: {filename}author/bhikkhu-bodhi/taking-the-precepts%zh-hant.rst
 .. _戒律的療癒力: {filename}talk/thanissaro/the-healing-power-of-the-precepts%zh-hant.rst

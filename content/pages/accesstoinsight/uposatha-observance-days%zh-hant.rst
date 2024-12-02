@@ -101,6 +101,5 @@ https://www.accesstoinsight.org/ptf/dhamma/sila/uposatha.html
 .. _聖僧伽: {filename}/pages/sangha%zh-hant.rst
 .. _教誡毗沙卡布薩經: {filename}/pages/sutta/passage-selected-translation%zh-hant.rst#uposatha
 .. _釋迦經: {filename}/pages/sutta/sakka%zh-hant.rst
-.. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
-.. TODO: replace 布薩根本經 link
+.. _布薩根本經: {filename}/pages/sutta/muuluposatha%zh-hant.rst
 .. _阿姜李 布薩歸依求戒儀式(來自《修心之技能》): {filename}/pages/talk/ajaan-lee/the-craft-of-the-heart%zh-hant.rst#uposatha

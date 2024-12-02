@@ -64,8 +64,7 @@
 .. _火燃經: {filename}sutta/adittapariyaya%zh-hant.rst
 .. _阿難經(教誡婆耆沙): http://www.theravadacn.org/Sutta/Ananda%28to%20Vangisa%292.htm
 .. TODO: replace 阿難經(教誡婆耆沙) link
-.. _布薩根本經: http://www.theravadacn.org/Sutta/Muluposatha2.htm
-.. TODO: replace 布薩根本經 link
+.. _布薩根本經: {filename}/pages/sutta/muuluposatha%zh-hant.rst
 .. _慈經: http://www.theravadacn.org/Sutta/Karaniya_Metta2.htm
 .. TODO: replace 慈經 link
 .. _大吉祥經: http://www.theravadacn.org/Sutta/Maha_Mangala2.htm
