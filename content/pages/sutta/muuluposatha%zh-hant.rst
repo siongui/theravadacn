@@ -157,8 +157,84 @@
 
      - “人間五十年，是四大王天天神的一晝夜。如此三十晝夜爲一月。如此十二月爲一年。如此五百天年，爲四大王天天神的壽命。某位男子或女子修持布薩八戒，身壞命終時，就有可能投生於四大王天的天神之中。毗沙卡，有指於此，我才說:‘人間的王位，較之天界的喜樂，實在微不足道。'
 
+   * - "A human century is equal to one day & night among the Devas of the Thirty-Three. Thirty such days & nights make a month... One thousand such heavenly years constitute the life-span among the Devas of the Thirty-three. Now, it is possible that a certain man or woman — from having observed this Uposatha endowed with eight factors — on the break-up of the body, after death, might be reborn among the Devas of the Thirty-three. It was in reference to this that it was said, 'Kingship over human beings is a meager thing when compared with heavenly bliss.'
 
-(未完待續)
+     - “人間一百年，是三十三天天神的一晝夜。如此三十晝夜爲一月。如此十二月爲一年。如此一千天年，爲三十三天天神的壽命。某位男子或女子修持布薩八戒，身壞命終時，就有可能投生於三十三天的天神之中。毗沙卡，有指於此，我才說:‘人間的王位，較之天界的喜樂，實在微不足道。'
+
+   * - "Two human centuries are equal to one day & night among the Yama Devas... Two thousand such heavenly years constitute the life-span among the Yama Devas...
+     - “人間兩百年，是夜摩天天神的一晝夜……如此兩千天年，爲夜摩天天神的壽命……
+
+   * - "Four human centuries are equal to one day & night among the Contented Devas... Four thousand such heavenly years constitute the life-span among the Contented Devas...
+     - “人間四百年，是兜率天天神的一晝夜……如此四千天年，爲兜率天天神的壽命……
+
+   * - "Eight human centuries is equal to one day & night among the devas who delight in creation... Eight thousand such heavenly years constitute the life-span among the devas who delight in creation...
+     - “人間八百年，是化樂天天神的一晝夜……如此八千天年，爲化樂天天神的壽命……
+
+   * - "Sixteen human centuries are equal to one day & night among the devas who have power over the creations of others. Thirty such days & nights make a month. Twelve such months make a year. Sixteen thousand such heavenly years constitute the life-span among the devas who have power over the creations of others. Now, it is possible that a certain man or woman — from having observed this Uposatha endowed with eight factors — on the break-up of the body, after death, might be reborn among the devas who have power over the creations of others. It was in reference to this that it was said, 'Kingship over human beings is a meager thing when compared with heavenly bliss.'"
+
+     - “人間一千六百年，是他化自在天天神的一晝夜。如此三十晝夜爲一月。如此十二月爲一年。如此一萬六千天年，爲他化自在天天神的壽命。某位男子或女子修持布薩八戒，身壞命終時，就有可能投生於他化自在天的天神之中。毗沙卡，有指於此，我才說:‘人間的王位，較之天界的喜樂，實在微不足道。'”
+
+   * - | One should not kill a being
+       | 	or take what is not given;
+       | should not tell a lie
+       | 	or be a drinker of strong drink;
+       | should abstain from uncelibacy, the sexual act;
+       | should not eat at night, the wrong time of day;
+       | should not wear a garland or use a scent;
+       | should sleep on a pallet, a mat spread on the ground —
+       | for this eight-factored Uposatha
+       | has been proclaimed by the Awakened One
+       | to lead to the end
+       | 	of suffering & stress.
+
+     - | 人應當不殺生;
+       | 不取未予之物;
+       | 不說謊;
+       | 不飲酒，
+       | 不作性事淫行;
+       | 不非時而食;
+       | 不戴花環、不飾芳香;
+       | 以草席地鋪爲床:
+       | ——因爲這是佛陀教導的布薩八戒，
+       | 它趨向憂苦的止息。
+
+   * - | The moon & sun, both fair to see,
+       | shedding radiance wherever they go,
+       | & scattering darkness as they move through space,
+       | brighten the sky, illumining the quarters.
+       | Within their range is found wealth:
+       | 	pearl, crystal, beryl,
+       | 	lucky-gem, platinum, nugget-gold,
+       | 	& the refined gold called 'Hataka.'
+       | 		Yet they —
+       | 	like the light of all stars
+       | 	when compared with the moon —
+       | aren't worth one sixteenth
+       | of the eight-factored Uposatha.
+
+     - | 美麗的日月
+       | 所行之處，驅散黑暗，
+       | 閃耀天空、照亮四方。
+       | 此間的寶藏:
+       | 珍珠、鑽石、綠玉、
+       | 金塊、鉑金、與名爲荷踏卡的細金，
+       | 它們與布薩八戒相比，
+       | 好似衆星之光與月光相比，
+       | 不足其十六分之一。
+
+   * - | So whoever — man or woman —
+       | is endowed with the virtues
+       | of the eight-factored Uposatha,
+       | having done meritorious deeds,
+       | productive of bliss,
+       | 	beyond reproach, goes
+       | 	to the heavenly state.
+
+     - | 因此，凡持布薩八戒，有此戒德的男女，
+       | 以修持的福德，
+       | 與喜樂的果報，
+       | 無可責咎，升入天界。
+
 
 中譯注:
 
