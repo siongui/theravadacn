@@ -59,11 +59,9 @@
    | 《\ `釋迦經`_\》(關於布薩)
 
 .. _轉法輪經: {filename}sutta/dhammacakkappavattana%zh-hant.rst
-.. _非我相經: http://www.theravadacn.org/Sutta/Anatta_lakkhana2.htm
-.. TODO: replace 非我相經 link
+.. _非我相經: {filename}sutta/anatta-lakkhana%zh-hant.rst
 .. _火燃經: {filename}sutta/adittapariyaya%zh-hant.rst
-.. _阿難經(教誡婆耆沙): http://www.theravadacn.org/Sutta/Ananda%28to%20Vangisa%292.htm
-.. TODO: replace 阿難經(教誡婆耆沙) link
+.. _阿難經(教誡婆耆沙): {filename}sutta/ananda-to-vangisa%zh-hant.rst
 .. _布薩根本經: {filename}/pages/sutta/muuluposatha%zh-hant.rst
 .. _慈經: http://www.theravadacn.org/Sutta/Karaniya_Metta2.htm
 .. TODO: replace 慈經 link
