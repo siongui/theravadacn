@@ -64,8 +64,7 @@
 .. _阿難經(教誡婆耆沙): {filename}sutta/ananda-to-vangisa%zh-hant.rst
 .. _布薩根本經: {filename}sutta/muuluposatha%zh-hant.rst
 .. _慈經: {filename}sutta/karaniya-metta%zh-hant.rst
-.. _大吉祥經: http://www.theravadacn.org/Sutta/Maha_Mangala2.htm
-.. TODO: replace 大吉祥經 link
+.. _大吉祥經: {filename}sutta/maha-mangala%zh-hant.rst
 .. _釘銷經: http://www.theravadacn.org/Sutta/Ani2.htm
 .. TODO: replace 釘銷經 link
 .. _教誡波羅提木叉偈: http://www.theravadacn.org/Sutta/Ovaada2.htm

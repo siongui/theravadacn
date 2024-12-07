@@ -81,5 +81,4 @@
 https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_26.html
 
 .. _佛教出版社: https://www.bps.lk/
-.. _大吉祥經: http://www.theravadacn.org/Sutta/Maha_Mangala.htm
-.. TODO: replace 大吉祥經 link
+.. _大吉祥經: {filename}/pages/sutta/maha-mangala%zh-hant.rst
