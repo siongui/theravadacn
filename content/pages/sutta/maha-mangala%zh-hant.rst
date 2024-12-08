@@ -54,4 +54,126 @@
 
      - 如是我聞，一時薄伽梵住舍衛城祇樹給孤獨精舍。有一天神，於深夜時分，身放強光、遍照祇樹，走近薄伽梵。走近跟前，向薄伽梵頂禮後，立於一邊。立於一邊後，她向薄伽梵口說一偈:
 
-(未完待續)
+   * - | Many devas and humans beings
+       | give thought to protection,
+       | desiring well-being.
+       | Tell, then, the highest protection.
+
+     - | 諸天與世人，
+       | 想望吉祥、
+       | 希求安寧，
+       | 以此，請宣說至高的吉祥。
+
+   * - | *The Buddha:*
+       | Not consorting with fools,
+       | consorting with the wise,
+       | paying homage to those worthy of homage:
+       |         This is the highest protection.
+
+     - | *佛陀:*
+       | 遠離愚人、
+       | 親近智者、
+       | 禮敬值得禮敬者:
+       |         這是至高的吉祥。
+
+   * - | Living in a civilized land,
+       | having made merit in the past,
+       | directing oneself rightly:
+       |         This is the highest protection.
+
+     - | 依往昔所修福德、
+       | 生活於文明國土\ [1]_\ 、
+       | 志向端正:
+       |         這是至高的吉祥。
+
+   * - | Broad knowledge, skill,
+       | well-mastered discipline,
+       | well-spoken words:
+       |         This is the highest protection.
+
+     - | 博學、廣能、
+       | 精通律儀、
+       | 言語善宜:
+       |         這是至高的吉祥。
+
+   * - | Support for one's parents,
+       | assistance to one's wife and children,
+       | consistency in one's work:
+       |         This is the highest protection.
+
+     - | 奉養父母、
+       | 照顧妻兒、
+       | 行事周全:
+       |         這是至高的吉祥。
+
+   * - | Giving, living in rectitude,
+       | assistance to one's relatives,
+       | deeds that are blameless:
+       |         This is the highest protection.
+
+     - | 佈施、正命、
+       | 濟助親友、
+       | 行事無咎:
+       |         這是至高的吉祥。
+
+   * - | Avoiding, abstaining from evil;
+       | refraining from intoxicants,
+       | being heedful of the qualities of the mind:
+       |         This is the highest protection.
+
+     - | 戒諸惡行、
+       | 避諸醉品、
+       | 心智警醒:
+       |         這是至高的吉祥。
+
+   * - | Respect, humility,
+       | contentment, gratitude,
+       | hearing the Dhamma on timely occasions:
+       |         This is the highest protection.
+
+     - | 恭敬、謙卑、
+       | 知足、感恩、
+       | 適時聞法:
+       |         這是至高的吉祥。
+
+   * - | Patience, compliance,
+       | seeing contemplatives,
+       | discussing the Dhamma on timely occasions:
+       |         This is the highest protection.
+
+     - | 忍耐、受教、
+       | 親見沙門、
+       | 適時論法:
+       |         這是至高的吉祥。
+
+   * - | Austerity, celibacy,
+       | seeing the Noble Truths,
+       | realizing Unbinding:
+       |         This is the highest protection.
+
+     - | 儉樸、獨身、
+       | 親見聖諦、
+       | 實證涅槃:
+       |         這是至高的吉祥。
+
+   * - | A mind that, when touched
+       | by the ways of the world,
+       | is unshaken, sorrowless, dustless, at rest:
+       |         This is the highest protection.
+
+     - | 心觸世法、
+       | 不動、不哀、
+       | 無染、安住:
+       |         這是至高的吉祥。
+
+   * - | Everywhere undefeated
+       | when acting in this way,
+       | people go everywhere in well-being:
+       |         This is their highest protection.
+
+     - | 如此行持，
+       | 無往不勝、
+       | 隨處安寧:
+       |         這是至高的吉祥。
+
+.. [1] 文明國土: 據英譯者,指承認修練心智之重要性的地方.
