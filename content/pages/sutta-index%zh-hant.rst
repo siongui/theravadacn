@@ -65,8 +65,7 @@
 .. _布薩根本經: {filename}sutta/muuluposatha%zh-hant.rst
 .. _慈經: {filename}sutta/karaniya-metta%zh-hant.rst
 .. _大吉祥經: {filename}sutta/maha-mangala%zh-hant.rst
-.. _釘銷經: http://www.theravadacn.org/Sutta/Ani2.htm
-.. TODO: replace 釘銷經 link
+.. _釘銷經: {filename}sutta/aani%zh-hant.rst
 .. _教誡波羅提木叉偈: http://www.theravadacn.org/Sutta/Ovaada2.htm
 .. TODO: replace 教誡波羅提木叉偈 link
 .. _芒果石教誡羅睺羅經: http://www.theravadacn.org/Sutta/Ambalatthikarahulovada2.htm
