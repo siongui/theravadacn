@@ -93,8 +93,7 @@ https://www.accesstoinsight.org/ptf/dhamma/sila/uposatha.html
 .. _Access to Insight: https://www.accesstoinsight.org/
 .. _八戒: {filename}sila-attha%zh-hant.rst
 .. _火燃經: {filename}/pages/sutta/adittapariyaya%zh-hant.rst
-.. _教誡波羅提木叉偈: http://www.theravadacn.org/Sutta/Ovaada2.htm
-.. TODO: replace 教誡波羅提木叉偈 link
+.. _教誡波羅提木叉偈: {filename}/pages/sutta/ovaada%zh-hant.rst
 .. _阿姜李\: 給每個人的法: {filename}/pages/talk/ajaan-lee/dhamma-for-everyone%zh-hant.rst
 .. _衛塞禮佛日: {filename}/pages/talk/ajaan-lee/visakha-puja%zh-hant.rst
 .. _初次說法: {filename}/pages/sutta/dhammacakkappavattana%zh-hant.rst
