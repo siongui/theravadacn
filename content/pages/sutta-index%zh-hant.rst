@@ -67,8 +67,7 @@
 .. _大吉祥經: {filename}sutta/maha-mangala%zh-hant.rst
 .. _釘銷經: {filename}sutta/aani%zh-hant.rst
 .. _教誡波羅提木叉偈: {filename}sutta/ovaada%zh-hant.rst
-.. _芒果石教誡羅睺羅經: http://www.theravadacn.org/Sutta/Ambalatthikarahulovada2.htm
-.. TODO: replace 芒果石教誡羅睺羅經 link
+.. _芒果石教誡羅睺羅經: {filename}sutta/ambalatthika-rahulovada%zh-hant.rst
 .. _卡拉瑪經: http://www.theravadacn.org/Sutta/Kalama2.htm
 .. TODO: replace 卡拉瑪經 link
 .. _麻瘋病者: http://www.theravadacn.org/Sutta/Kutthi2.htm

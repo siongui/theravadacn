@@ -877,8 +877,7 @@
 
 相關連接: 《\ `芒果石教誡羅睺羅經`_\ 》 全文
 
-.. _芒果石教誡羅睺羅經: http://www.theravadacn.org/Sutta/Ambalatthikarahulovada2.htm
-.. TODO: replace 芒果石教誡羅睺羅經 link
+.. _芒果石教誡羅睺羅經: {filename}/pages/sutta/ambalatthika-rahulovada%zh-hant.rst
 
 ----
 
