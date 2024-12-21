@@ -70,6 +70,62 @@
 
        “一個故意說謊而無愧意的人，其沙門\ [2]_\ 心性，便是那麼少。”
 
+   * - Having tossed away the little bit of remaining water, the Blessed One said to Ven. Rahula, "Rahula, do you see how this little bit of remaining water is tossed away?"
+
+       "Yes, sir."
+
+       "Whatever there is of a contemplative in anyone who feels no shame at telling a deliberate lie is tossed away just like that.
+
+     - 薄伽梵將殘水倒去，之後對羅睺羅尊者說:“羅睺羅，你看見這丁點殘水怎樣給倒去麼?”
+
+       “是，世尊。”
+
+       “一個故意說謊而無愧意的人，其沙門心性，便是那樣給倒去了。
+
+   * - Having turned the water dipper upside down, the Blessed One said to Ven. Rahula, "Rahula, do you see how this water dipper is turned upside down?"
+
+       "Yes, sir."
+
+       "Whatever there is of a contemplative in anyone who feels no shame at telling a deliberate lie is turned upside down just like that."
+
+     - 薄伽梵將水勺翻轉倒置，之後對羅睺羅尊者說:“羅睺羅，你看見這水勺怎樣翻轉倒置麼?”
+
+       “是，世尊。”
+
+       “一個故意說謊而無愧意的人，其沙門心性，便是那樣翻轉倒置了。”
+
+   * - Having turned the water dipper right-side up, the Blessed One said to Ven. Rahula, "Rahula, do you see how empty and hollow this water dipper is?"
+
+       "Yes, sir."
+
+       "Whatever there is of a contemplative in anyone who feels no shame at telling a deliberate lie is empty and hollow just like that.
+
+     - 薄伽梵將水勺置正，之後對羅睺羅尊者說:“羅睺羅，你看見這水勺內怎樣空無、空洞麼?”
+
+       “是，世尊。”
+
+       “一個故意說謊而無愧意的人，其沙門心性，便是那樣空無、空洞。”
+
+   * - "Rahula, it's like a royal elephant: immense, pedigreed, accustomed to battles, its tusks like chariot poles. Having gone into battle, it uses its forefeet and hind feet, its forequarters and hindquarters, its head and ears and tusks and tail, but will simply hold back its trunk. The elephant trainer notices that and thinks, 'This royal elephant has not given up its life to the king.' But when the royal elephant... having gone into battle, uses its forefeet and hind feet, its forequarters and hindquarters, its head and ears and tusks and tail and his trunk, the trainer notices that and thinks, 'This royal elephant has given up its life to the king. There is nothing it will not do.'
+
+       "The same holds true with anyone who feels no shame in telling a deliberate lie: There is no evil, I tell you, he will not do. Thus, Rahula, you should train yourself, 'I will not tell a deliberate lie even in jest.'
+
+     - “羅睺羅，譬如有一頭御象: 巨大、良種、善戰、牙如戰車之柱。作戰時，它動用前足、後足、象頭、象耳、象牙、象尾，只護著象鼻。馴象士注意到了，心想:‘這頭御象尚不能爲王捨命。’但是，當這頭御象......作戰時，它動用前足、後足、象頭、象耳、象牙、象尾、與象鼻，馴象士注意到了，心想:‘這頭御象已爲王捨命。沒有什麼它不會做。’
+
+       “同樣，凡是故意說謊而無愧意的人，我告訴你，沒有什麼他不會做。因此羅睺羅，你應當訓練自己:‘我決不故意說謊，哪怕於戲笑之中。’
+
+   * - "What do you think, Rahula: What is a mirror for?"
+
+       "For reflection, sir."
+
+       "In the same way, Rahula, bodily acts, verbal acts, and mental acts are to be done with repeated reflection.
+
+     - “你覺得如何，羅睺羅，鏡子有何用途?”
+
+       “世尊，用於觀照。”
+
+       “同樣地，羅睺羅，對於身業、語業、意業也應當反覆觀照。
+
 (未完待續)
 
 .. [1] 羅睺羅: 佛陀之子，根據論藏，這段爲他作的開示發生於他七歲那年。
