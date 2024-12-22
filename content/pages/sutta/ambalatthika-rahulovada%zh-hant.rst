@@ -126,7 +126,60 @@
 
        “同樣地，羅睺羅，對於身業、語業、意業也應當反覆觀照。
 
-(未完待續)
+   * - "Whenever you want to perform a bodily act, you should reflect on it: 'This bodily act I want to perform — would it lead to self-affliction, to the affliction of others, or to both? Is it an unskillful bodily act, with painful consequences, painful results?' If, on reflection, you know that it would lead to self-affliction, to the affliction of others, or to both; it would be an unskillful bodily act with painful consequences, painful results, then any bodily act of that sort is absolutely unfit for you to do. But if on reflection you know that it would not cause affliction... it would be a skillful bodily action with happy consequences, happy results, then any bodily act of that sort is fit for you to do.
+
+       "While you are performing a bodily act, you should reflect on it: 'This bodily act I am doing — is it leading to self-affliction, to the affliction of others, or to both? Is it an unskillful bodily act, with painful consequences, painful results?' If, on reflection, you know that it is leading to self-affliction, to affliction of others, or both... you should give it up. But if on reflection you know that it is not... you may continue with it.
+
+       "Having performed a bodily act, you should reflect on it... If, on reflection, you know that it led to self-affliction, to the affliction of others, or to both; it was an unskillful bodily act with painful consequences, painful results, then you should confess it, reveal it, lay it open to the Teacher or to a knowledgeable companion in the holy life. Having confessed it... you should exercise restraint in the future. But if on reflection you know that it did not lead to affliction... it was a skillful bodily action with happy consequences, happy results, then you should stay mentally refreshed and joyful, training day and night in skillful mental qualities.
+
+     - “每當你想作某個身業時，應當觀照它:‘我想作的這個身業——它會導致害己、害人、或兩害麼? 它會是一種不善巧的身業，有苦果、苦報麼?’ 如果觀照之後你了解了，它會導致害己、害人、或兩害; 它會是一種不善巧的身業，有苦果、苦報，那麼那樣的身業你絕對不適合做。但是，如果觀照之後你了解了，它不會導致……它會是一種善巧的身業，有樂果、樂報，那麼任何那樣的身業，你適合作。
+
+       “你正在作某個身業時，應當觀照它:‘我正在做的這個身業——是在導致害己、害人、或兩害麼? 它是一種不善巧的身業，有苦果、苦報麼?’ 如果觀照之後你了解了，它在導致害己、害人、或兩害……你應當放棄。但是如果觀照之後你了解了，它不會……你可以繼續。
+
+       “你在作了某個身業之後，應當觀照它……如果觀照之後你了解了，它導致了害己、害人、或兩害; 它是一種不善巧的身業，有苦果、苦報，那麼你應當對尊師或者一位多聞的修行同伴懺悔、披露、公開。懺悔後，你應當在未來約束自己。但是如果觀照之後你了解了，它不曾導致害己、害人、或兩傷……它是一種善巧的身業，有樂果、樂報，那麼你應當安住於清新與喜樂，日夜修習善巧的心理素質。
+
+   * - "Whenever you want to perform a verbal act, you should reflect on it: 'This verbal act I want to perform — would it lead to self-affliction, to the affliction of others, or to both? Is it an unskillful verbal act, with painful consequences, painful results?' If, on reflection, you know that it would lead to self-affliction, to the affliction of others, or to both; it would be an unskillful verbal act with painful consequences, painful results, then any verbal act of that sort is absolutely unfit for you to do. But if on reflection you know that it would not cause affliction... it would be a skillful verbal action with happy consequences, happy results, then any verbal act of that sort is fit for you to do.
+
+       "While you are performing a verbal act, you should reflect on it: 'This verbal act I am doing — is it leading to self-affliction, to the affliction of others, or to both? Is it an unskillful verbal act, with painful consequences, painful results?' If, on reflection, you know that it is leading to self-affliction, to the affliction of others, or to both... you should give it up. But if on reflection you know that it is not... you may continue with it.
+
+       "Having performed a verbal act, you should reflect on it... If, on reflection, you know that it led to self-affliction, to the affliction of others, or to both; it was an unskillful verbal act with painful consequences, painful results, then you should confess it, reveal it, lay it open to the Teacher or to a knowledgeable companion in the holy life. Having confessed it... you should exercise restraint in the future. But if on reflection you know that it did not lead to affliction... it was a skillful verbal action with happy consequences, happy results, then you should stay mentally refreshed and joyful, training day and night in skillful mental qualities.
+
+     - “每當你想作某個語業時，應當觀照它:‘我想作的這個語業——它會導致害己、害人、或兩害麼? 它是一種不善巧的語業，會有苦果、苦報麼?’ 如果觀照之後你了解了，它會導致害己、害人、或兩害; 它是一種不善巧的語業，會有苦果、苦報，那麼那樣的語業你絕對不適合做。但是，如果觀照之後你了解了，它不會導致……它是一種善巧的語業，會有樂果、樂報，那麼任何那樣的語業，你適合作。
+
+       “你正在作某個語業時，應當觀照它:‘我正在做的這個語業——是在導致害己、害人、或兩害麼? 它是一種不善巧的語業，有苦果、苦報麼?’ 如果觀照之後你了解了，它在導致傷害自己、傷害他人、或傷害雙方……你應當放棄。但是如果觀照之後你了解了，它不會……你可以繼續。
+
+       “你在作了某個語業之後，應當觀照它……如果觀照之後你了解了，它導致了害己、害人、或兩害; 它是一種不善巧的語業，有苦果、苦報，那麼你應當對尊師或者一位多聞的修行同伴懺悔、披露、公開。懺悔後，你應當在未來約束自己。但是如果觀照之後你了解了，它不曾導致害己、害人、或兩害……它是一種善巧的語業，有樂果、樂報，那麼你應當安住於清新與喜樂，日夜修習善巧的心理素質。
+
+   * - "Whenever you want to perform a mental act, you should reflect on it: 'This mental act I want to perform — would it lead to self-affliction, to the affliction of others, or to both? Is it an unskillful mental act, with painful consequences, painful results?' If, on reflection, you know that it would lead to self-affliction, to the affliction of others, or to both; it would be an unskillful mental act with painful consequences, painful results, then any mental act of that sort is absolutely unfit for you to do. But if on reflection you know that it would not cause affliction... it would be a skillful mental action with happy consequences, happy results, then any mental act of that sort is fit for you to do.
+
+       "While you are performing a mental act, you should reflect on it: 'This mental act I am doing — is it leading to self-affliction, to the affliction of others, or to both? Is it an unskillful mental act, with painful consequences, painful results?' If, on reflection, you know that it is leading to self-affliction, to the affliction of others, or to both... you should give it up. But if on reflection you know that it is not... you may continue with it.
+
+       "Having performed a mental act, you should reflect on it... If, on reflection, you know that it led to self-affliction, to the affliction of others, or to both; it was an unskillful mental act with painful consequences, painful results, then you should feel distressed, ashamed, and disgusted with it. Feeling distressed... you should exercise restraint in the future. But if on reflection you know that it did not lead to affliction... it was a skillful mental action with happy consequences, happy results, then you should stay mentally refreshed and joyful, training day and night in skillful mental qualities.
+
+     - “每當你想作某個意業時，應當觀照它:‘我想作的這個意業——它會導致害己、害人、或兩害麼? 它會是一種不善巧的意業，有苦果、苦報麼?’ 如果觀照之後你了解了，它會導致傷害己、害人、或兩害; 它會是一種不善巧的意業，有苦果、苦報，那麼那樣的意業你絕對不適合做。但是，如果觀照之後你了解了，它不會導致傷害……它會是一種善巧的意業，有樂果、樂報，那麼任何那樣的意業，你適合作。
+
+       “你正在作某個意業時，應當觀照它:‘我正在做的這個意業——是在導致害己、害人、或兩害麼? 它是一種不善巧的意業，有苦果、苦報麼?’ 如果觀照之後你了解了，它在導致害己、害人、或兩害……你應當放棄。但是如果觀照之後你了解了，它不會……你可以繼續。
+
+       “你在作了某個意業之後，應當觀照它……如果觀照之後你了解了，它導致了害己、害人、或兩害; 它是一種不善巧的意業，有苦果、苦報，那麼你應當對此有憂惱、可恥、厭棄感。有了憂惱、可恥、厭棄感之後，你應當在未來約束自己。但是如果觀照之後你了解了，它不曾導致害己、害人、或兩害……它是一種善巧的意業，有樂果、樂報，那麼你應當安住於清新與喜樂，日夜修習善巧的心理素質。
+
+   * - "Rahula, all those priests and contemplatives in the course of the past who purified their bodily acts, verbal acts, and mental acts, did it through repeated reflection on their bodily acts, verbal acts, and mental acts in just this way.
+
+       "All those priests and contemplatives in the course of the future who will purify their bodily acts, verbal acts, and mental acts, will do it through repeated reflection on their bodily acts, verbal acts, and mental acts in just this way.
+
+       "All those priests and contemplatives at present who purify their bodily acts, verbal acts, and mental acts, do it through repeated reflection on their bodily acts, verbal acts, and mental acts in just this way.
+
+       "Therefore, Rahula, you should train yourself: 'I will purify my bodily acts through repeated reflection. I will purify my verbal acts through repeated reflection. I will purify my mental acts through repeated reflection.' That is how you should train yourself."
+
+     - “羅睺羅，過去所有淨化了自己的身業、語業、意業的僧侶行者，他們所做的，正是這般反覆地觀照自己的身業、語業、意業。
+
+       “未來所有將淨化自己的身業、語業、意業的僧侶行者，他們要做的，正是這般反覆地觀照自己的身業、語業、意業。
+
+       “當前所有在淨化自己的身業、語業、意業的僧侶行者，他們在做的，正是這般反覆地觀照自己的身業、語業、意業。
+
+       “因此，羅睺羅，你應當訓練自己:‘我要藉反覆觀照淨化自己的身業。我要藉反覆觀照淨化自己的語業。我要藉反覆觀照淨化自己的意業。’你應當如此訓練自己。”
+
+   * - That is what the Blessed One said. Gratified, Ven. Rahula delighted in the Blessed One's words.
+     - 那就是薄伽梵所說。羅睺羅尊者對薄伽梵之言隨喜、心悅。
 
 .. [1] 羅睺羅: 佛陀之子，根據論藏，這段爲他作的開示發生於他七歲那年。
 .. [2] samañña，沙門，修行者，修道者。
