@@ -68,8 +68,7 @@
 .. _釘銷經: {filename}sutta/aani%zh-hant.rst
 .. _教誡波羅提木叉偈: {filename}sutta/ovaada%zh-hant.rst
 .. _芒果石教誡羅睺羅經: {filename}sutta/ambalatthika-rahulovada%zh-hant.rst
-.. _卡拉瑪經: http://www.theravadacn.org/Sutta/Kalama2.htm
-.. TODO: replace 卡拉瑪經 link
+.. _卡拉瑪經: {filename}sutta/kaalaama%zh-hant.rst
 .. _麻瘋病者: http://www.theravadacn.org/Sutta/Kutthi2.htm
 .. TODO: replace 麻瘋病者 link
 .. _釋迦經: {filename}/pages/sutta/sakka%zh-hant.rst

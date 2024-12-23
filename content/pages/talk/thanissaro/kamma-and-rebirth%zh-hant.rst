@@ -81,8 +81,7 @@
 .. _他在覺醒的過程中得知: http://www.theravadacn.org/Buddha.htm#3knowledge
 .. TODO: replace 他在覺醒的過程中得知 link
 
-.. _他也說: http://www.theravadacn.org/Sutta/Kalama.htm
-.. TODO: replace 他也說 link
+.. _他也說: {filename}/pages/sutta/kaalaama%zh-hant.rst
 
 因此，當你對佛陀在這些主題上的教導有疑思時，要記得，我們大家都按照假設行動。問題是，對我們很多人來說，那些假設沒有被清晰地表達出來，或者照之行動的假設已被表達，但對其種種後果我們還沒有弄懂釐清。這就意味著，當我們遇見一個表達完整清晰的假設時，也許反而感到怪異。我們必須回顧自身：對業、對生命、對福樂、對因果關係在生命中的作用，我們自己的假設是什麼？接著再問，有哪些假設，當我們照之行動，當我們使自己的行為與那個信仰一貫一致時，真正引生了最大程度的福樂？
 
