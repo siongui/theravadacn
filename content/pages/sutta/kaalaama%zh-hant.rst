@@ -118,6 +118,94 @@
 
        “正是，世尊。”
 
+   * - "So what do you think, Kalamas: Are these qualities skillful or unskillful?"
+
+       "Unskillful, lord."
+
+       "Blameworthy or blameless?"
+
+       "Blameworthy, lord."
+
+       "Criticized by the wise or praised by the wise?"
+
+       "Criticized by the wise, lord."
+
+       "When adopted & carried out, do they lead to harm & to suffering, or not?"
+
+       "When adopted & carried out, they lead to harm & to suffering. That is how it appears to us."
+
+     - “那麼，卡拉瑪人：這些素質是善巧還是缺乏善巧？”
+
+       “世尊，它們缺乏善巧”
+
+       “是該受責備，還是無可責備？”
+
+       “世尊，它們該受責備。”
+
+       “是受智者批評還是讚揚？”
+
+       “世尊，它們受智者的批評。”
+
+       “採納施行起來，是否趨向傷害與苦痛？”
+
+       “世尊，它們採納施行起來，趨向傷害與苦痛。”
+
+   * - "So, as I said, Kalamas: 'Don't go by reports, by legends, by traditions, by scripture, by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought, "This contemplative is our teacher." When you know for yourselves that, "These qualities are unskillful; these qualities are blameworthy; these qualities are criticized by the wise; these qualities, when adopted & carried out, lead to harm & to suffering" -- then you should abandon them.' Thus was it said. And in reference to this was it said.
+
+     - “因此，卡拉瑪人，我說過，‘不要只聽從報道，傳聞、傳統、經典、猜測、推論、類比、同感、可能性、或者“這位行者是我們的老師”的想法。當你親自了解了，“這些素質是缺乏技巧的；這些素質是該受責備的；這些素質受智者的批評；這些素質採納施行起來，趨向傷害與苦痛”——那時你應當棄絕它們。’是這樣說的. 是指這方面而說。’
+
+   * - "Now, Kalamas, don't go by reports, by legends, by traditions, by scripture, by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought, 'This contemplative is our teacher.' When you know for yourselves that, 'These qualities are skillful; these qualities are blameless; these qualities are praised by the wise; these qualities, when adopted & carried out, lead to welfare & to happiness' -- then you should enter & remain in them.
+
+     - “再者，卡拉瑪人，不要只聽從報道、傳聞、傳統、經典、猜測、推論、類比、同感、可能性、或者‘這位行者是我們的老師’的想法。當你親自了解了，‘這些素質是善巧的；這些素質是無可責備的；這些素質受智者的讚揚；這些素質採納奉行起來，趨向安寧與幸福’——那時你應當進入、安住其中。
+
+   * - "What do you think, Kalamas? When lack of greed arises in a person, does it arise for welfare or for harm?"
+
+       "For welfare, lord."
+
+       "And this ungreedy person, not overcome by greed, his mind not possessed by greed, doesn't kill living beings, take what is not given, go after another person's wife, tell lies, or induce others to do likewise, all of which is for long-term welfare & happiness."
+
+       "Yes, lord."
+
+     - “卡拉瑪人，你們認爲如何，當一個人升起離貪之意時，是有益還是有害？”
+
+       “世尊，是有益。”
+
+       “這個離貪之人，不爲貪意左右，他的心不受貪意控制: 他戒殺生、不予而取、追逐他人之妻、說謊並誘使他人效仿，這一切皆有長遠的安寧與幸福。”
+
+       “正是，世尊。”
+
+   * - "What do you think, Kalamas? When lack of aversion arises in a person, does it arise for welfare or for harm?"
+
+       "For welfare, lord."
+
+       "And this unaversive person, not overcome by aversion, his mind not possessed by aversion, doesn't kill living beings, take what is not given, go after another person's wife, tell lies, or induce others to do likewise, all of which is for long-term welfare & happiness."
+
+       "Yes, lord."
+
+     - “卡拉瑪人，你們認爲如何，當一個人升起離瞋之意時，是有益還是有害？”
+
+       “世尊，是有益。”
+
+       “這個離瞋之人，不爲瞋意左右，他的心不受瞋意控制: 他戒殺生、不予而取、追逐他人之妻、說謊並誘使他人效仿，這一切皆有長遠的安寧與幸福。”
+
+       “正是，世尊。”
+
+   * - "What do you think, Kalamas? When lack of delusion arises in a person, does it arise for welfare or for harm?"
+
+       "For welfare, lord."
+
+       "And this undeluded person, not overcome by delusion, his mind not possessed by delusion, doesn't kill living beings, take what is not given, go after another person's wife, tell lies, or induce others to do likewise, all of which is for long-term welfare & happiness."
+
+       "Yes, lord."
+
+     - “卡拉瑪人，你們認爲如何，當一個人升起離癡之意時，是有益還是有害？”
+
+       “世尊，是有益。”
+
+       “這個離癡之人，不爲癡意左右，他的心不受癡意控制: 他戒殺生、不予而取、追逐他人之妻、說謊並誘使他人效仿，這一切皆有長遠的安寧與幸福。”
+
+       “正是，世尊。”
+
 (未完待續)
 
 尊者與學者談人們對卡拉瑪經的誤解
