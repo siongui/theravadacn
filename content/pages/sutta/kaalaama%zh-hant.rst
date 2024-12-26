@@ -206,7 +206,110 @@
 
        “正是，世尊。”
 
-(未完待續)
+   * - "So what do you think, Kalamas: Are these qualities skillful or unskillful?"
+
+       "Skillful, lord."
+
+       "Blameworthy or blameless?"
+
+       "Blameless, lord."
+
+       "Criticized by the wise or praised by the wise?"
+
+       "Praised by the wise, lord."
+
+       "When adopted & carried out, do they lead to welfare & to happiness, or not?"
+
+       "When adopted & carried out, they lead to welfare & to happiness. That is how it appears to us."
+
+     - “那麼，卡拉瑪人：這些素質是善巧還是缺乏善巧？”
+
+       “世尊，它們是善巧的。”
+
+       “是該受責備，還是無可責備？”
+
+       “世尊，它們無可責備。”
+
+       “是受智者批評還是讚揚？”
+
+       “世尊，它們受智者讚揚。”
+
+       “採納施行起來，是否趨向安寧與幸福？”
+
+       “世尊，它們採納施行起來，趨向安寧與幸福。”
+
+   * - "So, as I said, Kalamas: 'Don't go by reports, by legends, by traditions, by scripture, by logical conjecture, by inference, by analogies, by agreement through pondering views, by probability, or by the thought, "This contemplative is our teacher." When you know for yourselves that, "These qualities are skillful; these qualities are blameless; these qualities are praised by the wise; these qualities, when adopted & carried out, lead to welfare & to happiness" -- then you should enter & remain in them.' Thus was it said. And in reference to this was it said.
+
+     - “因此，卡拉瑪人，我說過，‘不要只聽從報道，傳聞、傳統、經典、猜測、推論、類比、同感、可能性、或者“這位行者是我們的老師”的想法。當你親自了解了，“這些素質是善巧的；這些素質是無可責備的；這些素質受智者的讚揚；這些素質採納奉行起來，趨向安寧與幸福”——那時你應當進入、安住其中。' 是這樣說的，是指這方面而說。
+
+   * - "Now, Kalamas, one who is a disciple of the noble ones -- thus devoid of greed, devoid of ill will, undeluded, alert, & resolute -- keeps pervading the first direction [the east] -- as well as the second direction, the third, & the fourth -- with an awareness imbued with good will. Thus he keeps pervading above, below, & all around, everywhere & in every respect the all-encompassing cosmos with an awareness imbued with good will: abundant, expansive, immeasurable, free from hostility, free from ill will.
+
+       "He keeps pervading the first direction -- as well as the second direction, the third, & the fourth -- with an awareness imbued with compassion. Thus he keeps pervading above, below, & all around, everywhere & in every respect the all-encompassing cosmos with an awareness imbued with compassion: abundant, expansive, immeasurable, free from hostility, free from ill will.
+
+       "He keeps pervading the first direction -- as well as the second direction, the third, & the fourth -- with an awareness imbued with appreciation. Thus he keeps pervading above, below, & all around, everywhere & in every respect the all-encompassing cosmos with an awareness imbued with appreciation: abundant, expansive, immeasurable, free from hostility, free from ill will.
+
+       "He keeps pervading the first direction -- as well as the second direction, the third, & the fourth -- with an awareness imbued with equanimity. Thus he keeps pervading above, below, & all around, everywhere & in every respect the all-encompassing cosmos with an awareness imbued with equanimity: abundant, expansive, immeasurable, free from hostility, free from ill will.
+
+     - “卡拉瑪人，一位聖者的弟子——如此離貪、離瞋、離癡、警覺、堅定——以滿懷善意(慈)的覺知，連續朝第一個方向[東方]、又朝第二、第三、第四個方向傳送。如此，他以滿懷善意的覺知，連續朝上、朝下、周遭，朝包容萬物的宇宙各處、各方傳送: 充沛、寬廣、無量、無敵意、無惡意。
+
+       “他以滿懷同情(悲)的覺知，連續朝第一個方向、又朝第二、第三、第四個方向傳送。如此，他以滿懷同情的覺知，連續朝上、朝下、周遭，朝包容萬物的宇宙各處、各方傳送: 充沛、寬廣、無量、無敵意、無惡意。
+
+       “他以滿懷隨喜(喜)的覺知，連續朝第一個方向、又朝第二、第三、第四個方向傳送。如此，他以滿懷隨喜的覺知，連續朝上、朝下、周遭，朝包容萬物的宇宙各處、各方傳送: 充沛、寬廣、無量、無敵意、無惡意。
+
+       “他以滿懷平等(捨)的覺知，連續朝第一個方向、又朝第二、第三、第四個方向傳送。如此，他以滿懷平等的覺知，連續朝上、朝下、周遭，朝包容萬物的宇宙各處、各方傳送: 豐富、寬廣、無量、無敵意、無惡意。
+
+   * - "Now, Kalamas, one who is a disciple of the noble ones -- his mind thus free from hostility, free from ill will, undefiled, & pure -- acquires four assurances in the here-&-now:
+
+       "'If there is a world after death, if there is the fruit of actions rightly & wrongly done, then this is the basis by which, with the break-up of the body, after death, I will reappear in a good destination, the heavenly world.' This is the first assurance he acquires.
+
+       "'But if there is no world after death, if there is no fruit of actions rightly & wrongly done, then here in the present life I look after myself with ease -- free from hostility, free from ill will, free from trouble.' This is the second assurance he acquires.
+
+       "'If evil is done through acting, still I have willed no evil for anyone. Having done no evil action, from where will suffering touch me?' This is the third assurance he acquires.
+
+       "'But if no evil is done through acting, then I can assume myself pure in both respects.' This is the fourth assurance he acquires.
+
+       "One who is a disciple of the noble ones -- his mind thus free from hostility, free from ill will, undefiled, & pure -- acquires these four assurances in the here-&-now."
+
+     - “卡拉瑪人，一位聖者的弟子——如此心無敵意、心無惡意、清淨無染——即時即地便得四個保障。
+
+       “‘如果死後另有世界，如果善行惡行有果報，以此爲據，死後隨色身分解，我將重生善處、天界。' 這是他所得的第一個保障。
+
+       “‘但是，如果死後非另有世界，如果善行惡行無果報，那麼此生此地，我遠離敵意、遠離惡意、遠離困頓，自在地照顧自己。' 這是他所得的第二個保障。
+
+       “‘如果行爲造作惡業，我卻不曾對任何人起過惡意。既不造惡業，苦又從何觸及我?'這是他所得的第三個保障。
+
+       “‘但是，如果行爲不造惡業，那麼我可以認爲自己在這兩方面是清淨的。'這是他所得的第四個保障。
+
+       “一位聖者的弟子——如此心無敵意、心無惡意、清淨無染——即時即地便得這四個保障。”
+
+   * - "So it is, Blessed One. So it is, O One Well-gone. One who is a disciple of the noble ones -- his mind thus free from hostility, free from ill will, undefiled, & pure -- acquires four assurances in the here-&-now:
+
+       "'If there is a world after death, if there is the fruit of actions rightly & wrongly done, then this is the basis by which, with the break-up of the body, after death, I will reappear in a good destination, the heavenly world.' This is the first assurance he acquires.
+
+       "'But if there is no world after death, if there is no fruit of actions rightly & wrongly done, then here in the present life I look after myself with ease -- free from hostility, free from ill will, free from trouble.' This is the second assurance he acquires.
+
+       "'If evil is done through acting, still I have willed no evil for anyone. Having done no evil action, from where will suffering touch me?' This is the third assurance he acquires.
+
+       "'But if no evil is done through acting, then I can assume myself pure in both ways.' This is the fourth assurance he acquires.
+
+       "One who is a disciple of the noble ones -- his mind thus free from hostility, free from ill will, undefiled, & pure -- acquires these four assurances in the here-&-now.
+
+     - “是這樣，世尊。是這樣啊，善逝者。一位聖者的弟子——如此心無敵意、心無惡意、清淨無染——即時即地便得四個保障。
+
+       “‘如果死後另有世界，如果善行惡行有果報，以此爲據，死後隨色身分解，我會重生善處、天界。' 這是他所獲的第一個保障。
+
+       “‘但是，如果死後非另有世界，如果善行惡行無果報，那麼此生此地，我遠離敵意、遠離惡意、遠離困頓，自在地照顧自己。' 這是他所得的第二個保障。
+
+       “‘如果行爲造作惡業，我卻不曾對任何人起過惡意。既不造惡業，苦又從何觸及我?'這是他所得的第三個保障。
+
+       “‘但是，如果行爲不造惡業，那麼我可以認爲自己在這兩方面是清淨的。'這是他所得的第四個保障。
+
+       “一位聖者的弟子——如此心無敵意、心無惡意、清淨無染——即時即地便得這四個保障。”
+
+   * - "Magnificent, lord! Magnificent! Just as if he were to place upright what was overturned, to reveal what was hidden, to show the way to one who was lost, or to carry a lamp into the dark so that those with eyes could see forms, in the same way has the Blessed One -- through many lines of reasoning -- made the Dhamma clear. We go to the Blessed One for refuge, to the Dhamma, and to the Sangha of monks. May the Blessed One remember us as lay followers who have gone to him for refuge, from this day forward, for life."
+
+     - “勝哉！世尊，勝哉！世尊正好比將顛倒之物置正、把隱秘之事揭開、爲迷途者指路、在黑夜裡舉燈、使有目者見形，同樣地，世尊藉多方推理，闡明了法。我們歸依世尊、歸依法、歸依僧。願世尊記得我們這些從今天起一生歸依於他的居家弟子們。”
+
 
 尊者與學者談人們對卡拉瑪經的誤解
 ++++++++++++++++++++++++++++++++
