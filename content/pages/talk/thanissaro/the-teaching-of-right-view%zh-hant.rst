@@ -107,8 +107,7 @@
 
 `次第說法步驟的經文`_ 把這一步簡單描述為:“諸佛特有的教導: 苦、苦因、苦的止息與止息道”，也就是四聖諦。不過，四聖諦只是經文中教導的相互關聯的三種出世正見之一。它們是: (1)此/彼依緣性[*idappaccayata*]; (2)緣起法則[*paticca samuppada*]; (3)四聖諦[*ariya sacca*]。為了得見佛陀有關業力本質之教導的全貌，我們應當三者都看。
 
-.. _次第說法步驟的經文: http://www.theravadacn.org/Sutta/Kutthi.htm
-.. TODO: replace 次第說法步驟的經文 link
+.. _次第說法步驟的經文: {filename}/pages/sutta/kutthi%zh-hant.rst
 
 此/彼依緣性
 +++++++++++

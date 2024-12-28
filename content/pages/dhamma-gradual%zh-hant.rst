@@ -83,8 +83,7 @@
 .. TODO: replace 出離 link
 .. _苦、苦因、苦的止息、與苦的止息之道: http://theravadacn.com/Refuge/cattari%20ariya%20saccani2.htm
 .. TODO: replace 苦、苦因、苦的止息、與苦的止息之道 link
-.. _麻瘋病者: http://theravadacn.com/Sutta/Kutthi2.htm
-.. TODO: replace 麻瘋病者 link
+.. _麻瘋病者: {filename}sutta/kutthi%zh-hant.rst
 
 行者在這“次第訓練”的每一階段，會發現因果法則——即作爲\ `正見`_\ 構造基石的\ `業的原理`_\ ——有一個重要的新維度。因此,這是用來綜觀佛陀教說的一個極其有益的組織構架。
 
