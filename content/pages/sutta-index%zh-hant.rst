@@ -91,5 +91,4 @@
 相關連接:
 `尊者談讀經`_
 
-.. _尊者談讀經: http://theravadacn.com/Sutta/MonksOnSutta.htm
-.. TODO: replace 尊者談讀經 link
+.. _尊者談讀經: {filename}sutta/monks-on-sutta%zh-hant.rst
