@@ -24,8 +24,7 @@
 - `佈施與籌款有什麽關係?`_
 - `販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性?`_
 
-.. _佛教是宗教還是哲學?: http://www.theravadacn.org/Beginner/Religion2.htm
-.. TODO: replace 佛教是宗教還是哲學? link
+.. _佛教是宗教還是哲學?: {filename}beginner/religion-or-philosophy%zh-hant.rst
 .. _毗婆奢那與上座部佛教相等同嗎?: http://www.theravadacn.org/Beginner/Vipassana2.htm
 .. TODO: replace 毗婆奢那與上座部佛教相等同嗎? link
 .. _如果沒有我......: http://www.theravadacn.org/Beginner/WhyNoSelf2.htm
