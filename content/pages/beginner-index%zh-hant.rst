@@ -25,8 +25,7 @@
 - `販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性?`_
 
 .. _佛教是宗教還是哲學?: {filename}beginner/religion-or-philosophy%zh-hant.rst
-.. _毗婆奢那與上座部佛教相等同嗎?: http://www.theravadacn.org/Beginner/Vipassana2.htm
-.. TODO: replace 毗婆奢那與上座部佛教相等同嗎? link
+.. _毗婆奢那與上座部佛教相等同嗎?: {filename}beginner/is-vipassana-the-same-as-theravada%zh-hant.rst
 .. _如果沒有我......: http://www.theravadacn.org/Beginner/WhyNoSelf2.htm
 .. TODO: replace 如果沒有我 link
 .. _關於獨覺佛、阿羅漢、佛、未來佛: http://www.theravadacn.org/Beginner/PrivateBuddha2.htm
