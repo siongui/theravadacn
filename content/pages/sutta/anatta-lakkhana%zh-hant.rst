@@ -164,6 +164,4 @@
 
 | 相關連接:
 | `坦尼沙羅尊者: 無我，還是非我? <{filename}/pages/talk/thanissaro/no-self-or-not-self%zh-hant.rst>`_
-| `佛陀對有我無我之問的應對 <http://www.theravadacn.org/Sutta/passages2.htm#self>`_
-
-.. TODO: replace 佛陀對有我無我之問的應對 link
+| `佛陀對有我無我之問的應對 <{filename}/pages/sutta/passage-selected-translation%zh-hant.rst#self>`_

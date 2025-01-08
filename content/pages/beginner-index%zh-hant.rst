@@ -26,8 +26,7 @@
 
 .. _佛教是宗教還是哲學?: {filename}beginner/religion-or-philosophy%zh-hant.rst
 .. _毗婆奢那與上座部佛教相等同嗎?: {filename}beginner/is-vipassana-the-same-as-theravada%zh-hant.rst
-.. _如果沒有我......: http://www.theravadacn.org/Beginner/WhyNoSelf2.htm
-.. TODO: replace 如果沒有我 link
+.. _如果沒有我......: {filename}beginner/if-there-is-no-self%zh-hant.rst
 .. _關於獨覺佛、阿羅漢、佛、未來佛: http://www.theravadacn.org/Beginner/PrivateBuddha2.htm
 .. TODO: replace 關於獨覺佛、阿羅漢、佛、未來佛 link
 .. _怎樣給孩子講解佛法？: http://www.theravadacn.org/Beginner/TeachChildren2.htm
