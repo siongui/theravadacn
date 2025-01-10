@@ -28,8 +28,7 @@
 .. _毗婆奢那與上座部佛教相等同嗎?: {filename}beginner/is-vipassana-the-same-as-theravada%zh-hant.rst
 .. _如果沒有我......: {filename}beginner/if-there-is-no-self%zh-hant.rst
 .. _關於獨覺佛、阿羅漢、佛、未來佛: {filename}beginner/pacceka-buddha%zh-hant.rst
-.. _怎樣給孩子講解佛法？: http://www.theravadacn.org/Beginner/TeachChildren2.htm
-.. TODO: replace 怎樣給孩子講解佛法？ link
+.. _怎樣給孩子講解佛法？: {filename}beginner/how-should-i-teach-buddhism-to-my-children%zh-hant.rst
 .. _佛教徒是素食者嗎?: http://www.theravadacn.org/Beginner/veggi2.htm
 .. TODO: replace 佛教徒是素食者嗎? link
 .. _佈施與籌款有什麽關係?: {filename}accesstoinsight/dana-and-fundraising%zh-hant.rst
