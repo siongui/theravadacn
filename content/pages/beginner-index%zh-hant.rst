@@ -31,8 +31,7 @@
 .. _怎樣給孩子講解佛法？: {filename}beginner/how-should-i-teach-buddhism-to-my-children%zh-hant.rst
 .. _佛教徒是素食者嗎?: {filename}beginner/are-buddhists-vegetarian%zh-hant.rst
 .. _佈施與籌款有什麽關係?: {filename}accesstoinsight/dana-and-fundraising%zh-hant.rst
-.. _販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性?: http://www.theravadacn.org/Beginner/Selling2.htm
-.. TODO: replace 販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性? link
+.. _販賣佛法書籍有錯嗎? 免費贈送佛書有什麽大不了的重要性?: {filename}beginner/selling-dhamma-book%zh-hant.rst
 
 
 **坦尼沙羅尊者答佛教雜誌讀者問:** [`全部38問`_]
