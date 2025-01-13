@@ -255,8 +255,7 @@
    ——MN36(中部)
 
 
-.. _解脫: http://theravadacn.com/Refuge/nibbana2.htm
-.. TODO: replace 解脫 link
+.. _解脫: {filename}accesstoinsight/sacca-nibbana%zh-hant.rst
 
 
 他在森林裡修極端苦行
@@ -786,8 +785,7 @@
 
 .. _過患: http://theravadacn.com/Refuge/adinava2.htm
 .. TODO: replace 過患 link
-.. _涅槃: http://theravadacn.com/Refuge/nibbana2.htm
-.. TODO: replace 涅槃 link
+.. _涅槃: {filename}accesstoinsight/sacca-nibbana%zh-hant.rst
 
 .. container:: has-text-right
 

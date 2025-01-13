@@ -66,8 +66,7 @@
 
 這套漸次培育的概念滲透於佛陀的教導之中。以種種形式出現在無數部經文之中的“次第演教”法(*anupubbi-katha*, :small:`演教初階`),總是循照同樣的軌跡: 引導新學者從初級原理出發,推向漸次高深的教導,直到四聖諦的圓滿實現與\ `涅槃`_\ 的圓滿成就。
 
-.. _涅槃: http://www.theravadacn.org/Refuge/nibbana2.htm
-.. TODO: replace 涅槃 link
+.. _涅槃: {filename}accesstoinsight/sacca-nibbana%zh-hant.rst
 
 .. container:: notification
 

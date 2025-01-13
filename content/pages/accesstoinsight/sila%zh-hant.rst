@@ -144,8 +144,7 @@
 
       ——AN XI 12(增支部)
 
-.. _目標感: http://www.theravadacn.org/Refuge/nibbana2.htm
-.. TODO: replace 目標感 link
+.. _目標感: {filename}sacca-nibbana%zh-hant.rst
 
 
 **持戒——並支持他人的戒行**

@@ -74,8 +74,7 @@
 
 .. _苦與憂: http://theravadacn.com/Refuge/dukkha2.htm
 .. TODO: replace 苦與憂 link
-.. _解脫: http://www.theravadacn.org/Refuge/nibbana2.htm
-.. TODO: replace 解脫 link
+.. _解脫: {filename}sacca-nibbana%zh-hant.rst
 .. _佛: {filename}/pages/buddha-life-sketch%zh-hant.rst
 .. _法: {filename}/pages/dhamma-gradual%zh-hant.rst
 .. _僧: {filename}/pages/sangha%zh-hant.rst
