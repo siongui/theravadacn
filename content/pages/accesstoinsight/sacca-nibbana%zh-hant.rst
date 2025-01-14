@@ -43,6 +43,70 @@
 
 涅槃之意爲佛陀一切教導所指的最終目標、即超世而不可形容的自由。
 
+以它\ *是*\ 什麼定義......
+
+.. container:: notification
+
+   “此爲寧靜，此爲極致——一切造作的消解、一切有取的放棄、\ `渴求`_\ 的終結; 無欲; 止息; 涅槃。”
+
+   .. container:: has-text-right
+
+      ——ANIII32(增支部)
+
+.. _渴求: http://www.theravadacn.org/Refuge/tanha.htm
+.. TODO: replace 渴求 link
+
+.. container:: notification
+
+   | 無火可比貪欲。
+   | 無失可比瞋恨。
+   | 無痛可比五蘊。
+   | 無樂可比涅槃。
+   |
+   | 饑饉爲百病之首。
+   | 諸行爲衆苦之首。
+   | 如實見此真諦者，
+   | 解脫爲自在之首。
+   |
+   | 無病爲福佑之首。
+   | 知足爲財富之首。
+   | 信任爲族親之首。
+   | 解脫爲自在之首。
+
+   .. container:: has-text-right
+
+      ——Dhp 202-205(法句經)
+
+.. container:: notification
+
+   | 開悟者，
+   | 　　常住於\ `禪那`_\ ，
+   | 　　持恒、精進:
+   | 得以親證涅槃——
+   | 　　無上安寧的解脫。
+
+   .. container:: has-text-right
+
+      ——Dhp 23(法句經)
+
+.. _禪那: http://www.theravadacn.org/Refuge/jhana2.htm
+.. TODO: replace 禪那 link
+
+----
+
+以它\ *不是*\ 什麼定義......
+
+.. container:: notification
+
+   “有那麼一個維度，其中既無地、亦無水、無火、無風; 既無空無邊處、亦無識無邊處、無無所有處、無非想非非想處; 既無此世、也無來世、無日、無月。我說有，有不來、不去、不住; 不生、不滅; 無立足點、無基地、無維持\ :small:`[指心智客體]`\ 。這，正是\ `苦`_\ 的終結。”
+
+   .. container:: has-text-right
+
+      ——Ud VIII.1(自說經)
+
+.. _苦: http://www.theravadacn.org/Refuge/dukkha2.htm
+.. TODO: replace 苦 link
+
 (未完待續)
 
 .. _Access to Insight: https://www.accesstoinsight.org/
