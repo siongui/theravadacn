@@ -614,8 +614,7 @@
 
 .. _苦聖諦: http://theravadacn.com/Refuge/Sacca1_dukkha2.htm
 .. TODO: replace 苦聖諦 link
-.. _苦集[苦因]聖諦: http://theravadacn.com/Refuge/Sacca2_dukkha%20samudaya2.htm
-.. TODO: replace 苦集[苦因]聖諦 link
+.. _苦集[苦因]聖諦: {filename}accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
 .. _苦的止息聖諦: http://theravadacn.com/Refuge/Sacca3_dukkha%20nirodho2.htm
 .. TODO: replace 苦的止息聖諦 link
 .. _苦的止息之道聖諦: http://theravadacn.com/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
@@ -811,15 +810,6 @@
 『比丘們，是因爲未曾證悟、未曾洞見四聖諦，我與你們，才經歷著、進行著這個漫長的生死輪迴。哪四諦? 是\ `苦聖諦`_\ 、\ `苦集[苦因]聖諦`_\ 、\ `苦的止息聖諦`_\ 、\ `苦的止息之道聖諦`_\ 。但是比丘們，如今這些聖諦已經證悟、徹悟，對存在的渴求斬斷了、重新緣起之因摧毀了、不再有新的緣起。』
 
 :small:`(中譯注:巴利文 dukkha 一般譯爲苦，不過苦從粗相到精細，有不同層次，只能例舉，難以定義。有一定禪定基礎者所見之苦、其精進於止息之苦，未習禪定者是難見難解的。)`
-
-.. _苦聖諦: http://theravadacn.com/Refuge/Sacca1_dukkha2.htm
-.. TODO: replace 苦聖諦 link
-.. _苦集[苦因]聖諦: http://theravadacn.com/Refuge/Sacca2_dukkha%20samudaya2.htm
-.. TODO: replace 苦集[苦因]聖諦 link
-.. _苦的止息聖諦: http://theravadacn.com/Refuge/Sacca3_dukkha%20nirodho2.htm
-.. TODO: replace 苦的止息聖諦 link
-.. _苦的止息之道聖諦: http://theravadacn.com/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 苦的止息之道聖諦 link
 
 .. container:: has-text-right
 

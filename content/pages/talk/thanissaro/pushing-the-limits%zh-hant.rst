@@ -122,8 +122,8 @@
 
 .. _四聖諦: {filename}/pages/sutta/dhammacakkappavattana%zh-hant.rst#4nt
 .. _第一聖諦: http://www.theravadacn.org/Refuge/Sacca1_dukkha.htm
-.. _第二聖諦: http://www.theravadacn.org/Refuge/Sacca2_dukkha%20samudaya.htm
+.. _第二聖諦: {filename}/pages/accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
 .. _第三聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho.htm
 .. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada.htm
 
-.. TODO: replace 第一聖諦 第二聖諦 第三聖諦 第四聖諦 link
+.. TODO: replace 第一聖諦 第三聖諦 第四聖諦 link
