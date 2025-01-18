@@ -56,6 +56,60 @@
 
 渴求必然導致更多的苦
 
-(未完待續)
+.. container:: notification
+
+   | 如果這黏著、粗俗的渴求，
+   | 　　把你壓倒在世，
+   | 你的憂愁會如
+   | 　　雨後野草般瘋長。
+   |
+   | 如果在世間，
+   | 　　你壓倒這黏著、粗俗的渴求，
+   | 難逃的憂愁會如
+   | 　　蓮上水珠般滾離。
+
+   .. container:: has-text-right
+
+      ——Dhp 335-336(法句經)
+
+.. container:: notification
+
+   | 如果樹根
+   | 　　完好、強壯
+   | 樹幹砍倒
+   | 　　仍會重長。
+   |
+   | 同樣，潛伏的渴求
+   | 　　不被根除，
+   | 這個苦
+   | 　　會一次次重生。
+
+   .. container:: has-text-right
+
+      ——Dhp338(法句經)
+
+放下渴求，開啓覺醒的可能性
+
+.. container:: notification
+
+   “比丘們，任何渴求形色的欲望與貪愛，是一種心的雜染。任何渴求聲音……渴求氣息……渴求味感……渴求觸覺……渴求觀念的欲望與貪愛，是一種心的雜染。對於這六根，棄絕了覺知的雜染時，心則趨向出離。長養了出離的心，易受教，可以親證值得證悟的素質。”
+
+   .. container:: has-text-right
+
+      ——SNXXVII.9(相應部)
+
+----
+
+| 相關連接:
+| `第三聖諦`_
+| `第四聖諦`_
+| `第一聖諦`_
+
+.. _第三聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
+.. TODO: replace 第三聖諦 link
+.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 第四聖諦 link
+.. _第一聖諦: http://www.theravadacn.org/Refuge/Sacca1_dukkha2.htm
+.. TODO: replace 第一聖諦 link
 
 .. _Access to Insight: https://www.accesstoinsight.org/
