@@ -143,8 +143,7 @@
 .. _持守布薩日: {filename}accesstoinsight/uposatha-observance-days%zh-hant.rst
 .. _三十一个生存域: http://www.theravadacn.org/Refuge/31Planes2.htm
 .. TODO: replace 三十一个生存域 link
-.. _苦聖諦: http://www.theravadacn.org/Refuge/Sacca1_dukkha2.htm
-.. TODO: replace 苦聖諦 link
+.. _苦聖諦: {filename}accesstoinsight/first-sacca-dukkha%zh-hant.rst
 .. _苦: http://theravadacn.com/Refuge/dukkha2.htm
 .. TODO: replace 苦 link
 .. _輪迴: http://www.theravadacn.org/Refuge/samsara2.htm

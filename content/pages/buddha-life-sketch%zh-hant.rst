@@ -612,8 +612,7 @@
 
 『比丘們，此爲\ `苦的止息之道聖諦`_\ ：正是此八聖道——正見、正志、正語、正業、正命、正精進、正念、正定。
 
-.. _苦聖諦: http://theravadacn.com/Refuge/Sacca1_dukkha2.htm
-.. TODO: replace 苦聖諦 link
+.. _苦聖諦: {filename}accesstoinsight/first-sacca-dukkha%zh-hant.rst
 .. _苦集[苦因]聖諦: {filename}accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
 .. _苦的止息聖諦: http://theravadacn.com/Refuge/Sacca3_dukkha%20nirodho2.htm
 .. TODO: replace 苦的止息聖諦 link
