@@ -137,9 +137,70 @@
 
       ————SNLV114(相應部)
 
-(未完待續)
 
-.. TODO: replace (未完待續) link
+*Dukkha* 如熾火
+
+.. container:: notification
+
+   “這一切在燃燒。哪一切在燃燒? 眼在燃燒。形色在燃燒。眼識在燃燒。眼觸在燃燒。凡是依賴於眼觸而昇起的——樂、痛、不樂不痛——也在燃燒。以什麽燃燒? 以欲望之火、怒意之火、與癡迷之火在燃燒。我告訴你們，以生、老、死，以憂、哀、痛、悲、慘，在燃燒。
+
+   “耳在燃燒。聲音在燃燒……
+
+   “鼻在燃燒。氣息在燃燒……
+
+   “舌在燃燒。味覺在燃燒……
+
+   “身在燃燒。觸覺在燃燒……
+
+   “心在燃燒。觀念在燃燒。意識在燃燒。意觸在燃燒。凡是依賴於意識接觸而昇起的——樂、痛、不樂不痛的經歷——也在燃燒。以什麽燃燒? 以欲望之火、怒意之火、與癡迷之火在燃燒。我告訴你們，以生、老、死，以憂、哀、痛、悲、慘在燃燒。”
+
+   .. container:: has-text-right
+
+      ——SN XXXV.28(相應部)
+
+
+應了解 *Dukkha*
+
+.. container:: notification
+
+   “‘應了解 *dukkha* 。應了解 *dukkha* 轉起運作之因。應了解 *dukkha* 的多樣。應了解 *dukkha* 之果。應了解 *dukkha* 的止息。應了解 *dukkha* 的止息之路。’ 是這麽說的。是指哪方面而說?"
+
+   “生爲 *dukkha* 、老爲 *dukkha* 、死爲 *dukkha* ，憂、哀、痛、悲、慘爲 *dukkha* ；與不愛者相處爲 *dukkha* 、與愛者離別爲 *dukkha* 、所求不得爲 *dukkha* ：簡言之，五種執取之蘊爲 *dukkha* 。
+
+   “何爲 *dukkha* 轉起運作之因? `渴求`_\ 爲 *dukkha* 轉起運作之因。
+
+   “何爲 *dukkha* 的多樣? 有大、有小的 *dukkha* ，有消退快、消退慢的 *dukkha* 。這就是 *dukkha* 的多樣。
+
+   “何爲 *dukkha* 之果? 有這些情形，一個人被痛苦壓倒，他內心疲憊、悲傷、痛悼、哀歎、捶胸、昏亂起來。或者，一個人被痛苦壓倒，他內心疲憊、便外出尋索，‘有誰知道終止這苦痛的一兩個辦法?’ 比丘們，我告訴你們， *dukkha* 或者導致昏亂、或者導致尋索。這就是 *dukkha* 之果。
+
+   “何爲 *dukkha* 的止息? 從\ `渴求`_\ 的止息，就導致了 *dukkha* 的止息;而正是這\ `八聖道`_\ ——\ `正見`_\ 、\ `正志`_\ 、\ `正語`_\ 、\ `正業`_\ 、\ `正命`_\ 、\ `正精進`_\ 、\ `正念`_\ 、\ `正定`_\ ——是導致 *dukkha* 的止息的修持之路。
+
+   “當一位聖者的弟子辨知， *dukkha* 是這般、 *dukkha* 轉起運作之因是這般、 *dukkha* 的多樣是這般、 *dukkha* 之果是這般、 *dukkha* 的止息是這般、 *dukkha* 的止息之道是這般，那麽他即知，這個洞察(真相)的梵行，爲 *dukkha* 的止息。”
+
+   .. container:: has-text-right
+
+      ——AN VI63(增支部)
+
+.. _渴求: http://www.theravadacn.org/Refuge/tanha.htm
+.. TODO: replace 渴求 link
+.. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada.htm
+.. TODO: replace 八聖道 link
+.. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm
+.. TODO: replace 正見 link
+.. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo.htm
+.. TODO: replace 正志 link
+.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca.htm
+.. TODO: replace 正語 link
+.. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto.htm
+.. TODO: replace 正業 link
+.. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo.htm
+.. TODO: replace 正命 link
+.. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo.htm
+.. TODO: replace 正精進 link
+.. _正念: http://www.theravadacn.org/Refuge/samma%20sati.htm
+.. TODO: replace 正念 link
+.. _正定: http://www.theravadacn.org/Refuge/samma%20samadhi.htm
+.. TODO: replace 正定 link
 
 ----
 
