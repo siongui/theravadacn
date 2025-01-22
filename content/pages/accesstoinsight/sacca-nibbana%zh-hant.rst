@@ -104,8 +104,7 @@
 
       ——Ud VIII.1(自說經)
 
-.. _苦: http://www.theravadacn.org/Refuge/dukkha2.htm
-.. TODO: replace 苦 link
+.. _苦: {filename}dukkha%zh-hant.rst
 
 .. container:: notification
 

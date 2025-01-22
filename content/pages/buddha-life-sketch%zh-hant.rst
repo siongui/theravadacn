@@ -820,8 +820,7 @@
 
 『有那麽一個維度，其中既無地、亦無水、無火、無風; 既無空無邊處、亦無識無邊處、無無所有處、無非想非非想處; 既無此世、也無來世、無日、無月。我說有，有不來、不去、不住; 不生、不滅; 無立足點、無基地、無維持\ :small:`[指心智客體]`\ 。這，正是苦的終結。』
 
-.. _苦: http://theravadacn.com/Refuge/dukkha2.htm
-.. TODO: replace 苦 link
+.. _苦: {filename}accesstoinsight/dukkha%zh-hant.rst
 
 .. container:: has-text-right
 

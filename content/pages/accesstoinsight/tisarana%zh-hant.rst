@@ -72,8 +72,7 @@
 
    ——Dhp188-192(法句經)
 
-.. _苦與憂: http://theravadacn.com/Refuge/dukkha2.htm
-.. TODO: replace 苦與憂 link
+.. _苦與憂: {filename}dukkha%zh-hant.rst
 .. _解脫: {filename}sacca-nibbana%zh-hant.rst
 .. _佛: {filename}/pages/buddha-life-sketch%zh-hant.rst
 .. _法: {filename}/pages/dhamma-gradual%zh-hant.rst
