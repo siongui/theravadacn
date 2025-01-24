@@ -89,8 +89,7 @@
 
       ——Dhp 23(法句經)
 
-.. _禪那: http://www.theravadacn.org/Refuge/jhana2.htm
-.. TODO: replace 禪那 link
+.. _禪那: {filename}jhana%zh-hant.rst
 
 ----
 

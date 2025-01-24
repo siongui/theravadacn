@@ -66,8 +66,7 @@
 
    ——AN V258-259 (增支部)
 
-.. _禪那: http://www.theravadacn.org/Refuge/jhana2.htm
-.. TODO: replace 禪那 link
+.. _禪那: {filename}jhana%zh-hant.rst
 
 ----
 

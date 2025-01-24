@@ -201,8 +201,7 @@
 .. TODO: replace 正命 link
 .. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo2.htm
 .. TODO: replace 正精進 link
-.. _禪那: http://www.theravadacn.org/Refuge/jhana2.htm
-.. TODO: replace 禪那 link
+.. _禪那: {filename}accesstoinsight/jhana%zh-hant.rst
 
 .. [1] “覺醒是頓悟還是漸悟?” 多少世紀以來無數學子投入了時間精力爭執這個問題。此處的段落及巴利經典中的其它段落相當清楚地表明了佛陀自己對該問題的觀點: 心逐漸地發展成熟，完成覺醒的頓然一躍。
 

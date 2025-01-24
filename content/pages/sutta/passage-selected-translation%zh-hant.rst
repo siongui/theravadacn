@@ -1296,8 +1296,7 @@
 
 相關連接: `四禪那`_
 
-.. _四禪那: http://www.theravadacn.org/Refuge/jhana2.htm
-.. TODO: replace 四禪那 link
+.. _四禪那: {filename}/pages/accesstoinsight/jhana%zh-hant.rst
 
 .. container:: notification
 
