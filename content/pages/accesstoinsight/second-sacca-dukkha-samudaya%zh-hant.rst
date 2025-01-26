@@ -51,8 +51,7 @@
 
       ——SNLVI11(相應部)
 
-.. _渴求: http://www.theravadacn.org/Refuge/tanha2.htm
-.. TODO: replace 渴求 link
+.. _渴求: {filename}tanha%zh-hant.rst
 
 渴求必然導致更多的苦
 

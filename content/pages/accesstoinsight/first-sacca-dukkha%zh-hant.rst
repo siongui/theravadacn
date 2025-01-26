@@ -181,8 +181,7 @@
 
       ——AN VI63(增支部)
 
-.. _渴求: http://www.theravadacn.org/Refuge/tanha.htm
-.. TODO: replace 渴求 link
+.. _渴求: {filename}tanha%zh-hant.rst
 .. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada.htm
 .. TODO: replace 八聖道 link
 .. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm

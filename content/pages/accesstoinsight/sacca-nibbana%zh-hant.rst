@@ -53,8 +53,7 @@
 
       ——ANIII32(增支部)
 
-.. _渴求: http://www.theravadacn.org/Refuge/tanha.htm
-.. TODO: replace 渴求 link
+.. _渴求: {filename}tanha%zh-hant.rst
 
 .. container:: notification
 

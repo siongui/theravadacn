@@ -329,8 +329,7 @@
 | 　　莉莉-德西爾瓦: `巴利經典中的佈施 <{filename}/pages/author/lily-de-silva/giving-in-the-pali-canon%zh-hant.rst>`_
 |
 
-.. _渴求: http://www.theravadacn.org/Refuge/tanha2.htm
-.. TODO: replace 渴求 link
+.. _渴求: {filename}tanha%zh-hant.rst
 
 https://www.accesstoinsight.org/ptf/dhamma/dana/
 

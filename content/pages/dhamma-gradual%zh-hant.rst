@@ -148,8 +148,7 @@
 .. _輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
 .. TODO: replace 輪迴 link
 .. _苦集[苦因]聖諦: {filename}accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
-.. _渴求: http://www.theravadacn.org/Refuge/tanha2.htm
-.. TODO: replace 渴求 link
+.. _渴求: {filename}accesstoinsight/tanha%zh-hant.rst
 .. _無明: http://www.theravadacn.org/Refuge/avijja2.htm
 .. TODO: replace 無明 link
 .. _苦的止息聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
