@@ -90,6 +90,61 @@
 .. _流轉輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
 .. TODO: replace 流轉輪迴 link
 
+.. container:: notification
+
+   | 受渴求之枷鎖之縛，
+   | 心深陷於有與非有。
+   | 受魔羅的枷鎖之縛——
+   | 　　人們　　不得脫離枷鎖，
+   | 　　衆生　　\ `繼續流轉`_\ 、生死。
+   |
+   | 而已棄渴求著，
+   | 不再渴求有與非有，
+   | 達到漏的終結，
+   | 　　即使在世
+   | 　　卻已\ `超世`_\ 。
+
+   .. container:: has-text-right
+
+      ——Iti58(如是語)
+
+.. _繼續流轉: http://www.theravadacn.org/Refuge/samsara2.htm
+.. TODO: replace 繼續流轉 link
+.. _超世: {filename}sacca-nibbana%zh-hant.rst
+
+
+渴求是苦因
+
+.. container:: notification
+
+   “何爲\ `苦`_\ 升起運作之因? 渴求爲苦升起運作之因。”
+
+   .. container:: has-text-right
+
+      ——ANVI 63(增支部)
+
+.. _苦: {filename}dukkha%zh-hant.rst
+
+
+斬斷渴求之根
+
+.. container:: notification
+
+   | 如果樹根
+   | 　　未毀、強壯，
+   | 砍倒之樹
+   | 　　仍將重長。
+   |
+   | 同樣，潛伏的渴求
+   | 　　不被根除，
+   | 此苦也將
+   | 　　一次次重來。
+
+   .. container:: has-text-right
+
+      ——Dhp335-336(法句經)
+
+
 (未完待續)
 
 .. _Access to Insight: https://www.accesstoinsight.org/
