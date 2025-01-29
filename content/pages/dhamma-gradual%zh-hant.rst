@@ -145,8 +145,7 @@
 .. TODO: replace 三十一个生存域 link
 .. _苦聖諦: {filename}accesstoinsight/first-sacca-dukkha%zh-hant.rst
 .. _苦: {filename}accesstoinsight/dukkha%zh-hant.rst
-.. _輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
-.. TODO: replace 輪迴 link
+.. _輪迴: {filename}accesstoinsight/samsara%zh-hant.rst
 .. _苦集[苦因]聖諦: {filename}accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
 .. _渴求: {filename}accesstoinsight/tanha%zh-hant.rst
 .. _無明: http://www.theravadacn.org/Refuge/avijja2.htm

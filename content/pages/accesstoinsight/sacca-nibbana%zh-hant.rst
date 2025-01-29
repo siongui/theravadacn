@@ -215,8 +215,7 @@
 
       ——Dhp126(法句經)
 
-.. _輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
-.. TODO: replace 輪迴 link
+.. _輪迴: {filename}samsara%zh-hant.rst
 
 ----
 

@@ -87,8 +87,7 @@
 
       ——Iti15(如是語)
 
-.. _流轉輪迴: http://www.theravadacn.org/Refuge/samsara2.htm
-.. TODO: replace 流轉輪迴 link
+.. _流轉輪迴: {filename}samsara%zh-hant.rst
 
 .. container:: notification
 
@@ -108,8 +107,7 @@
 
       ——Iti58(如是語)
 
-.. _繼續流轉: http://www.theravadacn.org/Refuge/samsara2.htm
-.. TODO: replace 繼續流轉 link
+.. _繼續流轉: {filename}samsara%zh-hant.rst
 .. _超世: {filename}sacca-nibbana%zh-hant.rst
 
 
@@ -158,8 +156,7 @@
 
       ——Dhp 342(法句經)
 
-.. _一圈又一圈: http://www.theravadacn.org/Refuge/samsara2.htm
-.. TODO: replace 一圈又一圈 link
+.. _一圈又一圈: {filename}samsara%zh-hant.rst
 
 .. container:: notification
 
