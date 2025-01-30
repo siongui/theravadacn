@@ -63,6 +63,66 @@
 .. TODO: replace 無明 link
 .. _渴求: {filename}tanha%zh-hant.rst
 
-(未完待續)
+
+這寶貴的人生
+
+.. container:: notification
+
+   “比丘們，假定大地完全爲水覆蓋，有人把一副單套牛軛投入水中。東風把它往西推，西風把它往東推。北風把它往南推，南風把它往北推。再假定有一只盲眼海龜，每隔一百年浮出水面一次。那麼，你們覺得如何，那隻盲眼海龜，每隔一百年浮出水面一次，會把頭頸穿入那副單套牛軛麼? ”
+
+   “世尊，那隻盲眼海龜，每隔一百年浮出水面一次，把頭頸穿入單套牛軛，純粹是巧合。”
+
+   “生爲人身也同樣純粹是巧合。如來、尊貴的正自覺者升起於世，也同樣純粹是巧合。如來宣說的法與律示現於世，也同樣純粹是巧合。如今人身已得。如來、尊貴的正自覺者已升起於世。如來宣說的法與律已示現於世。
+
+   “因此，你們的責任是思索:‘\ `這是苦`_\ 。\ `這是苦集[苦因]`_\ 。\ `這是苦的止息`_\ 。\ `這是苦的止息之道`_\ 。’ ”
+
+   .. container:: has-text-right
+
+      ——SNLVI148(相應部)
+
+.. _這是苦: {filename}first-sacca-dukkha%zh-hant.rst
+.. _這是苦集[苦因]: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
+.. _這是苦的止息: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
+.. TODO: replace 這是苦的止息 link
+.. _這是苦的止息之道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 這是苦的止息之道 link
+
+
+我們爲什麼流轉於輪迴?
+
+.. container:: notification
+
+   “因爲不了解、不領悟四件事，你與我，我們流轉輪迴，已歷經如此漫長的歲月。哪四件?
+
+   “因爲不了解、不領悟尊貴的戒德，你與我，我們流轉輪迴，已歷經如此漫長的歲月。
+
+   “因爲不了解、不領悟尊貴的定力，你與我，我們流轉輪迴，已歷經如此漫長的歲月。
+
+   “因爲不了解、不領悟尊貴的明辨，你與我，我們流轉輪迴，已歷經如此漫長的歲月。
+
+   “因爲不了解、不領悟尊貴的解脫，你與我，我們流轉輪迴，已歷經如此漫長的歲月。
+
+   “然而，了解、徹悟了尊貴的戒德、了解、徹悟了尊貴的定力......尊貴的明辨......尊貴的解脫，那麼，對緣起\ :small:`[有生]`\ 的\ `渴求`_\ 便摧毀了、緣起\ :small:`[即渴求與執取]`\ 的牽引便終結了、如今不再有緣起。”
+
+   .. container:: has-text-right
+
+      ——ANIV.1(增支部)
+
+----
+
+| 相關連接:
+| 　　\ `天界`_
+| 　　\ `業`_
+| 　　\ `第四聖諦`_
+| 　　\ `三十一個生存界`_
+
+.. _天界: http://www.theravadacn.org/Refuge/sagga2.htm
+.. TODO: replace 天界 link
+.. _業: http://www.theravadacn.org/Refuge/kamma2.htm
+.. TODO: replace 業 link
+.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 第四聖諦 link
+.. _三十一個生存界: http://www.theravadacn.org/Refuge/31Planes2.htm
+.. TODO: replace 三十一個生存界 link
 
 .. _Access to Insight: https://www.accesstoinsight.org/
