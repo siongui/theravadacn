@@ -62,8 +62,7 @@
 
       ——MN105(中部)
 
-.. _無明: http://www.theravadacn.org/Refuge/avijja2.htm
-.. TODO: replace 無明 link
+.. _無明: {filename}avijja%zh-hant.rst
 
 
 六類渴求

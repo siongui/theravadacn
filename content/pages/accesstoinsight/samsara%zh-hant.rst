@@ -59,8 +59,7 @@
 
 .. _流轉輪迴: http://theravadacn.com/Refuge/31Planes2.htm
 .. TODO: replace 流轉輪迴 link
-.. _無明: http://www.theravadacn.org/Refuge/avijja.htm
-.. TODO: replace 無明 link
+.. _無明: {filename}avijja%zh-hant.rst
 .. _渴求: {filename}tanha%zh-hant.rst
 
 
