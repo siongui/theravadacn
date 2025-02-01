@@ -63,8 +63,38 @@
 .. TODO: replace 苦的止息之道 link
 .. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
 .. TODO: replace 八聖道 link
-.. _渴求: {filename}tanha%zh-hant.rst
 
-(未完待續)
+
+因爲無明是苦的根源……
+
+.. container:: notification
+
+   “以無明爲前提，升起造作\ :small:`[行]`\ 。以造作爲前提，升起意識。以意識爲前提，升起名色。以名色爲前提，升起六種感知媒體\ :small:`[六處]`\ 。以六種感知媒體爲前提，升起接觸。以接觸爲前提，升起感受。以感受爲前提，升起\ `渴求`_\ 。以渴求爲前提，升起執取/維持。以執取/維持爲前提，升起緣起。以緣起爲前提，升起生。以生爲前提，接下來老、死、憂、哀、痛、悲、慘．便都升起運作。偌大一堆\ `緊張、苦痛`_\ 便是這般起源。”
+
+.. _渴求: {filename}tanha%zh-hant.rst
+.. _緊張、苦痛: {filename}dukkha%zh-hant.rst
+
+
+當它止息時，苦也必然止息
+
+.. container:: notification
+
+   “接下來，便從該無明不留餘跡的退隱、止息，導致了造作的止息。從造作的止息，導致了意識的止息。從意識的止息，導致了名色的止息。從名色的止息，導致了六種感知媒體的止息。從六種感知媒體的止息，導致了接觸的止息。從接觸的止息，導致了感受的止息。從感受的止息，導致了\ `渴求`_\ 的止息。從渴求的止息，導致了執取/維持的止息。從執取/維持的止息，導致了生的止息。從生的止息，導致了老、死、憂、哀、痛、悲、慘的全部止息。偌大一堆\ `緊張、苦痛便是這般止息`_\ 。”
+
+   .. container:: has-text-right
+
+      ——SN XII (相應部)
+
+.. _緊張、苦痛便是這般止息: {filename}sacca-nibbana%zh-hant.rst
+
+----
+
+| 相關連接:
+| 　　\ `第四聖諦`_
+| 　　\ `第二聖諦`_
+
+.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
+.. TODO: replace 第四聖諦 link
+.. _第二聖諦: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/
