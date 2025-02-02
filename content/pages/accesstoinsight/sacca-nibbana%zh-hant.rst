@@ -224,8 +224,7 @@
 | 　　\ `輪迴`_
 | 　　\ `三十一個生存界`_
 
-.. _第三聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
-.. TODO: replace 第三聖諦 link
+.. _第三聖諦: {filename}third-sacca-dukkha-cessation%zh-hant.rst
 .. _三十一個生存界: http://www.theravadacn.org/Refuge/31Planes2.htm
 .. TODO: replace 三十一個生存界 link
 

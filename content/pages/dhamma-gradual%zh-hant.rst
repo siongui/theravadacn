@@ -149,8 +149,7 @@
 .. _苦集[苦因]聖諦: {filename}accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
 .. _渴求: {filename}accesstoinsight/tanha%zh-hant.rst
 .. _無明: {filename}accesstoinsight/avijja%zh-hant.rst
-.. _苦的止息聖諦: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
-.. TODO: replace 苦的止息聖諦 link
+.. _苦的止息聖諦: {filename}accesstoinsight/third-sacca-dukkha-cessation%zh-hant.rst
 .. _苦的止息之道聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
 .. TODO: replace 苦的止息之道聖諦 link
 .. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm

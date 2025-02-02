@@ -113,8 +113,7 @@
 
       ——SN XXII86 (相應部)
 
-.. _止息: http://theravadacn.com/Refuge/Sacca3_dukkha%20nirodho2.htm
-.. TODO: replace 止息 link
+.. _止息: {filename}third-sacca-dukkha-cessation%zh-hant.rst
 
 
 三類 *dukkha*

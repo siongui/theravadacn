@@ -81,8 +81,7 @@
 
 .. _這是苦: {filename}first-sacca-dukkha%zh-hant.rst
 .. _這是苦集[苦因]: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
-.. _這是苦的止息: http://www.theravadacn.org/Refuge/Sacca3_dukkha%20nirodho2.htm
-.. TODO: replace 這是苦的止息 link
+.. _這是苦的止息: {filename}third-sacca-dukkha-cessation%zh-hant.rst
 .. _這是苦的止息之道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
 .. TODO: replace 這是苦的止息之道 link
 
