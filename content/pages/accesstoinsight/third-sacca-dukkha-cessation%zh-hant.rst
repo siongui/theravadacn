@@ -53,6 +53,36 @@
 
 .. _渴求: {filename}tanha%zh-hant.rst
 
+
+無欲至上
+
+.. container:: notification
+
+   “在任何造作與非造作的素質之中，無欲的素質——制服沈醉、消滅渴望、拔除執著、斬斷\ `輪迴`_\ 、摧毀\ `渴求`_\ 、無欲、止息、實現\ `解脫`_\ ——至上。對無欲素質有信心者，是對至上素質有信心; 對至上素質有信心者，會得至上果報。”
+
+   .. container:: has-text-right
+
+      ——Iti 90(如是語)
+
+.. _輪迴: {filename}samsara%zh-hant.rst
+.. _解脫: {filename}sacca-nibbana%zh-hant.rst
+
+
+寂止: 終點的標誌
+
+.. container:: notification
+
+   “這是寧靜、這是極致——一切造作的寂止、一切攫取的捨棄、\ `渴求`_\ 的終結; 無欲; 止息; `涅槃`_\ 。”
+
+   .. container:: has-text-right
+
+      ——MN64(中部)
+
+.. _涅槃: {filename}sacca-nibbana%zh-hant.rst
+
+
+揭示苦因
+
 (未完待續)
 
 .. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
