@@ -58,10 +58,8 @@
 .. _苦: {filename}first-sacca-dukkha%zh-hant.rst
 .. _苦因: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
 .. _苦的止息: {filename}third-sacca-dukkha-cessation%zh-hant.rst
-.. _苦的止息之道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 苦的止息之道 link
-.. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 八聖道 link
+.. _苦的止息之道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
+.. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 
 
 因爲無明是苦的根源……
@@ -92,8 +90,7 @@
 | 　　\ `第四聖諦`_
 | 　　\ `第二聖諦`_
 
-.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 第四聖諦 link
+.. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _第二聖諦: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

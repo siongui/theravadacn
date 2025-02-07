@@ -105,8 +105,7 @@
 | `第一聖諦`_
 
 .. _第三聖諦: {filename}third-sacca-dukkha-cessation%zh-hant.rst
-.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 第四聖諦 link
+.. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _第一聖諦: {filename}first-sacca-dukkha%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

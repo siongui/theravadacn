@@ -182,8 +182,7 @@
       ——AN VI63(增支部)
 
 .. _渴求: {filename}tanha%zh-hant.rst
-.. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada.htm
-.. TODO: replace 八聖道 link
+.. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm
 .. TODO: replace 正見 link
 .. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo.htm
@@ -210,7 +209,6 @@
 
 .. _第二聖諦: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
 .. _第三聖諦: {filename}third-sacca-dukkha-cessation%zh-hant.rst
-.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 第四聖諦 link
+.. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

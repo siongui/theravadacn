@@ -176,8 +176,7 @@
 https://www.accesstoinsight.org/ptf/dhamma/sila/index.html
 
 .. _Access to Insight: https://www.accesstoinsight.org/
-.. _八聖道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 八聖道 link
+.. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
 .. TODO: replace 正語 link
 .. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto2.htm

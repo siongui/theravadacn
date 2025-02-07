@@ -124,6 +124,4 @@
 .. _第一聖諦: {filename}/pages/accesstoinsight/first-sacca-dukkha%zh-hant.rst
 .. _第二聖諦: {filename}/pages/accesstoinsight/second-sacca-dukkha-samudaya%zh-hant.rst
 .. _第三聖諦: {filename}/pages/accesstoinsight/third-sacca-dukkha-cessation%zh-hant.rst
-.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada.htm
-
-.. TODO: replace 第四聖諦 link
+.. _第四聖諦: {filename}/pages/accesstoinsight/fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst

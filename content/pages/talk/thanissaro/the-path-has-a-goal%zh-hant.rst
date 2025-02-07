@@ -73,8 +73,7 @@
 
 佛陀後來有一次把自己 `比作一位穿行於密林，找到一條古道的人`_ 。這條道已經被亂草覆蓋，不過他沿道而行，發現它引向一座昔日繁華的古都。樓宇略頹，猶尚可居。仍不失為一座輝煌的都邑。於是他走出森林，告諸國王: 命手下掃清道路，它將把你帶往這座美妙、輝煌的都邑。
 
-.. _比作一位穿行於密林，找到一條古道的人: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada.htm
-.. TODO: replace 比作一位穿行於密林，找到一條古道的人 link
+.. _比作一位穿行於密林，找到一條古道的人: {filename}/pages/accesstoinsight/fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 
 因此，遍布於佛陀言教的一個比喻是，如果你沿著這條道行走，將會到達某個極其殊勝的境地: 遠離老、病、死; 全然無為的安樂。
 

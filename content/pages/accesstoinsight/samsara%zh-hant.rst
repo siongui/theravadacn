@@ -82,8 +82,7 @@
 .. _這是苦: {filename}first-sacca-dukkha%zh-hant.rst
 .. _這是苦集[苦因]: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
 .. _這是苦的止息: {filename}third-sacca-dukkha-cessation%zh-hant.rst
-.. _這是苦的止息之道: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 這是苦的止息之道 link
+.. _這是苦的止息之道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 
 
 我們爲什麼流轉於輪迴?
@@ -118,8 +117,7 @@
 .. TODO: replace 天界 link
 .. _業: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 業 link
-.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 第四聖諦 link
+.. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _三十一個生存界: http://www.theravadacn.org/Refuge/31Planes2.htm
 .. TODO: replace 三十一個生存界 link
 

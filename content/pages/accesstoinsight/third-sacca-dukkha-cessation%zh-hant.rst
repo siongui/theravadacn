@@ -199,8 +199,7 @@
 
 .. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
 .. TODO: replace 四聖諦 link
-.. _第四聖諦: http://www.theravadacn.org/Refuge/Sacca4_dukkha%20nirodha%20gamini%20patipada2.htm
-.. TODO: replace 第四聖諦 link
+.. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _第二聖諦: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/
