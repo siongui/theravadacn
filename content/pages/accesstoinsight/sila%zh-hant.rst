@@ -83,8 +83,7 @@
 
       ——AN X 1(增支部)
 
-.. _入定: http://www.theravadacn.org/Refuge/samma%20samadhi2.htm
-.. TODO: replace 入定 link
+.. _入定: {filename}samma-samadhi%zh-hant.rst
 
 
 **五件無咎之禮**

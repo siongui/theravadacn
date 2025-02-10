@@ -100,8 +100,7 @@
 
 .. _正念: http://theravadacn.com/Refuge/samma%20sati2.htm
 .. TODO: replace 正念 link
-.. _正定: http://theravadacn.com/Refuge/samma%20samadhi2.htm
-.. TODO: replace 正定 link
+.. _正定: {filename}accesstoinsight/samma-samadhi%zh-hant.rst
 
 以下對佛陀的六步次第修練作較爲詳細的解說:
 

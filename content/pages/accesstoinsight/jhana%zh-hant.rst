@@ -43,8 +43,7 @@
 
 禪那爲一種深度靜止與專注的禪定狀態，在其間，心智完全沈浸、吸攝於所選的專注目標。它是培養\ `正定`_\ 的基礎。
 
-.. _正定: http://www.theravadacn.org/Refuge/samma%20samadhi.htm
-.. TODO: replace 正定 link
+.. _正定: {filename}samma-samadhi%zh-hant.rst
 
 定義(包括比喻)
 

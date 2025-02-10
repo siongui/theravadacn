@@ -139,8 +139,7 @@
 
       ——SNXII23(相應部)
 
-.. _定力: http://www.theravadacn.org/Refuge/samma%20samadhi.htm
-.. TODO: replace 定力 link
+.. _定力: {filename}samma-samadhi%zh-hant.rst
 .. _無明: {filename}avijja%zh-hant.rst
 
 

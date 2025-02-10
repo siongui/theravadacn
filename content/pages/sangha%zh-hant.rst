@@ -175,8 +175,7 @@
 
 .. _目標感: {filename}accesstoinsight/sacca-nibbana%zh-hant.rst
 .. _法: {filename}dhamma-gradual%zh-hant.rst
-.. _入定: http://www.theravadacn.org/Refuge/samma%20samadhi2.htm
-.. TODO: replace 入定 link
+.. _入定: {filename}accesstoinsight/samma-samadhi%zh-hant.rst
 
 .. container:: notification
 
