@@ -173,7 +173,11 @@
        4. `正業`_ [*samma-kammanto*]
        5. `正命`_ [*sammma-ajivo*]
 
-   * - **奢摩他** :small:`[定]`
+   * - .. raw:: html
+
+          <span id="samadhiA"></span>
+
+       **奢摩他** :small:`[定]`
      - 6. `正精進`_ [*samma-vayamo*]
        7. `正念`_ [*samma-sati*]
        8. `正定`_ [*samma-samadhi*]

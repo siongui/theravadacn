@@ -41,6 +41,11 @@
           中譯版權所有 © 2005-7 良稹，http://www.theravadacn.org ，流通條件如上。轉載時請包括本站連接，並登載本版權聲明。
 
 
+正定爲\ `八聖道`_\ 的 最後一個道支，屬聖道的\ `定力分部`_\ 。
+
+.. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
+.. _定力分部: {filename}/pages/dhamma-gradual%zh-hant.rst#samadhiA
+
 (未完待續)
 
 .. _渴求: {filename}tanha%zh-hant.rst
