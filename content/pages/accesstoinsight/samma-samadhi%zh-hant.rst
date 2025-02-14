@@ -46,6 +46,35 @@
 .. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _定力分部: {filename}/pages/dhamma-gradual%zh-hant.rst#samadhiA
 
+
+定義
+
+.. container:: notification
+
+   “何爲正定? 有此情形，一位比丘 —— 遠離感官之欲、遠離不善巧心態 —— 進入、安住於\ `第一禪那`_\ : 由遠離而生起喜與樂、伴隨著尋想與評量。隨著尋想與評估的平息，他進入、安住於\ `第二禪那`_ ; 由沈靜而生起喜與樂，隨著尋想與評量的消退、知覺匯合起來 —— 有了內在確定。隨著喜的消退，他保持著寧靜、有念、警覺，身體敏感於樂。他進入、安住於\ `第三禪那`_\ ，對此聖者們宣告:‘寧靜、有念，他有了愉快的居處。’ 隨著樂與苦的放棄 —— 如先前喜與悲的消退一般 —— 他進入、安住於\ `第四禪那`_\ : 寧靜與念住達到純淨，既無樂、又無痛。此謂正定。”
+
+   .. container:: has-text-right
+
+      —— SN XLV8 (相應部)
+
+.. _第一禪那: {filename}jhana%zh-hant.rst#jhana1
+.. _第二禪那: {filename}jhana%zh-hant.rst#jhana2
+.. _第三禪那: {filename}jhana%zh-hant.rst#jhana3
+.. _第四禪那: {filename}jhana%zh-hant.rst#jhana4
+
+
+淨化依賴於定力
+
+.. container:: notification
+
+   “我告訴你們，\ `心漏的終結`_\ 依賴於第一禪那 ...... 第二 ...... 第三 ...... 第四禪那 ...... 無限空間維度 ...... 無限意識維度 ...... 無所有維度。我告訴你們，心漏的終結依賴於非想非非想維度。”
+
+   .. container:: has-text-right
+
+      ——AN IX36 (增支部)
+
+.. _心漏的終結: {filename}sacca-nibbana%zh-hant.rst
+
 (未完待續)
 
 .. _渴求: {filename}tanha%zh-hant.rst
