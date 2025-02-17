@@ -97,14 +97,61 @@
       ——AN IV.41(增支部)
 
 
-(未完待續)
+聖正定
 
-.. _渴求: {filename}tanha%zh-hant.rst
-.. _輪迴: {filename}samsara%zh-hant.rst
-.. _解脫: {filename}sacca-nibbana%zh-hant.rst
-.. _涅槃: {filename}sacca-nibbana%zh-hant.rst
-.. _無明: {filename}avijja%zh-hant.rst
-.. _偌大一堆緊張、苦痛: {filename}dukkha%zh-hant.rst
+.. container:: notification
+
+   “那麼，比丘們，何爲有支持與資助的聖正定? 任何專注的心，具備了這七個因素 —— `正見`_\ 、\ `正志`_\ 、\ `正語`_\ 、\ `正業`_\ 、\ `正命`_\ 、\ `正精進`_\ 、與\ `正念`_\ ——就稱爲有支持與資助的聖正定。”
+
+   .. container:: has-text-right
+
+      ——MN117 (中部)
+
+.. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm
+.. TODO: replace 正見 link
+.. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo.htm
+.. TODO: replace 正志 link
+.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca.htm
+.. TODO: replace 正語 link
+.. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto.htm
+.. TODO: replace 正業 link
+.. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo.htm
+.. TODO: replace 正命 link
+.. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo.htm
+.. TODO: replace 正精進 link
+.. _正念: http://www.theravadacn.org/Refuge/samma%20sati.htm
+.. TODO: replace 正念 link
+.. _正定: {filename}samma-samadhi%zh-hant.rst
+
+
+你在等什麼?
+
+.. container:: notification
+
+   | 起來! 坐起來!
+   | 你何需睡眠?
+   | 患病的人，爲\ `渴求之箭`_\ 刺穿的人，受壓迫的人，
+   | 有何安眠?
+   |
+   | 起來! 坐起來!
+   | 爲了達到\ `寧靜`_\ 而堅定修行。
+   | 不要讓死神——看見你的疏忽——
+   | 欺騙你，把你置於掌下。
+
+   .. container:: has-text-right
+
+      ——Sn II.10(經集)
+
+.. _渴求之箭: {filename}tanha%zh-hant.rst
+.. _寧靜: {filename}sacca-nibbana%zh-hant.rst
+
+.. container:: notification
+
+   “那裡有樹樁; 那裡有空靜之處。比丘們，去修\ `禪那`_\ 。不要失去警覺。不要以後有悔。這就是我們對你們的告誡。”
+
+   .. container:: has-text-right
+
+      ——SNXXXV.145 (相應部)
 
 ----
 
@@ -116,10 +163,6 @@
 | 　　\ `第四聖諦`_
 
 .. _禪那: {filename}jhana%zh-hant.rst
-.. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo2.htm
-.. TODO: replace 正精進 link
-.. _正念: http://theravadacn.com/Refuge/samma%20sati2.htm
-.. TODO: replace 正念 link
 .. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
 .. TODO: replace 四聖諦 link
 .. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
