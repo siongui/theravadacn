@@ -98,8 +98,7 @@
 
 不少西方人是在密集禪修班裡初次接觸佛陀教導的，這樣的禪修班通常一開始便傳授\ `正念`_\ 與\ `正定`_\ 的培養技能。值得注意的是，這些素質固然重要，佛陀把它們置於次第修練的後期步驟。其中之意是很清楚的：爲了從禪定中獲得最大善益，爲了使覺醒所必須的一切素質皆盡成熟，基本功不能忽視。這個過程無捷徑可走。
 
-.. _正念: http://theravadacn.com/Refuge/samma%20sati2.htm
-.. TODO: replace 正念 link
+.. _正念: {filename}accesstoinsight/samma-sati%zh-hant.rst
 .. _正定: {filename}accesstoinsight/samma-samadhi%zh-hant.rst
 
 以下對佛陀的六步次第修練作較爲詳細的解說:

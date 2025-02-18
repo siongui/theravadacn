@@ -596,8 +596,7 @@
 .. TODO: replace 正命 link
 .. _正精進: http://theravadacn.com/Refuge/samma%20vayamo2.htm
 .. TODO: replace 正精進 link
-.. _正念: http://theravadacn.com/Refuge/samma%20sati2.htm
-.. TODO: replace 正念 link
+.. _正念: {filename}accesstoinsight/samma-sati%zh-hant.rst
 .. _正定: {filename}accesstoinsight/samma-samadhi%zh-hant.rst
 
 **[四聖諦]**
