@@ -60,6 +60,63 @@
       ——DN22(長部)
 
 
+棄絕聖道上的不正素質
+
+.. container:: notification
+
+   “一個人念住於棄絕妄見、進入、保持\ `正見`_: 這是他的正念……
+
+   “一個人念住於棄絕妄志、進入、保持\ `正志`_: 這是他的正念……
+
+   “一個人念住於棄絕妄言、進入、保持\ `正語`_: 這是他的正念……
+
+   “一個人念住於棄絕妄業、進入、保持\ `正業`_: 這是他的正念……
+
+   “一個人念住於棄絕妄命、進入、保持\ `正命`_: 這是他的正念…… ”
+
+   .. container:: has-text-right
+
+      ——MN117(中部)
+
+.. _正見: http://theravadacn.com/Refuge/samma%20ditthi2.htm
+.. TODO: replace 正見 link
+.. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo2.htm
+.. TODO: replace 正志 link
+.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
+.. TODO: replace 正語 link
+.. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto2.htm
+.. TODO: replace 正業 link
+.. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo2.htm
+.. TODO: replace 正命 link
+
+
+如頭頂一碗熱油
+
+.. container:: notification
+
+   “比丘們，假定有一大群人蜂湧而來，說:‘第一美女!第一美女!’ 再假定那位美女歌舞技藝超群，於是更大一群人蜂湧而來，說:‘第一美女在唱歌! 第一美女在跳舞!’接著來了一個好生、怕死，好樂、惡痛之人。人們對他說:‘你這人，看這裡，你必須頭頂這滿碗熱油，從那大群人與美女之間穿過。你身後有人舉劍跟著，哪怕潑出一滴油，他會當即砍去你的頭。’比丘們，你們覺得如何，那人可會不顧那碗油，讓自己受外界干擾?”
+
+   “世尊，他不會。”
+
+   “我給你們這個比喻，是爲了表達一個意思。意思是這樣: 那滿碗油，代表浸滿全身的念住。你們應當這樣訓練自己:‘我們要培養浸滿全身的念住。我們要發展它、讓它駕馭(色身)、將它作爲基礎，給它一個基地、令它穩定、令它鞏固、善加修習。’ 你們應當這樣訓練自己。”
+
+   .. container:: has-text-right
+
+      ——SN XLVII20(相應部)
+
+
+死隨念
+
+.. container:: notification
+
+   “念住死亡，在培養、深修之後，有大果報、大福德。它投入不死、以\ `不死`_\ 爲終極目標。因此你們應當培養死隨念。”
+
+   .. container:: has-text-right
+
+      ——ANVI19 (增支部)
+
+.. _不死: {filename}sacca-nibbana%zh-hant.rst
+
 (未完待續)
 
 ----
