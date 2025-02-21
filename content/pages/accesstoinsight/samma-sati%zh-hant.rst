@@ -149,8 +149,7 @@
 | 　　\ `第四聖諦`_
 | 　　\ `坦尼沙羅尊者: 定義念住`_
 
-.. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo2.htm
-.. TODO: replace 正精進 link
+.. _正精進: {filename}samma-vayamo%zh-hant.rst
 .. _正定: {filename}samma-samadhi%zh-hant.rst
 .. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
 .. TODO: replace 四聖諦 link

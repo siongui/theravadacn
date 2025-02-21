@@ -140,8 +140,7 @@
 .. TODO: replace 正業 link
 .. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo.htm
 .. TODO: replace 正命 link
-.. _正精進: http://www.theravadacn.org/Refuge/samma%20vayamo.htm
-.. TODO: replace 正精進 link
+.. _正精進: {filename}samma-vayamo%zh-hant.rst
 .. _正念: {filename}samma-sati%zh-hant.rst
 .. _正定: {filename}samma-samadhi%zh-hant.rst
 
