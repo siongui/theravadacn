@@ -105,8 +105,7 @@
 .. TODO: replace 正語 link
 .. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto2.htm
 .. TODO: replace 正業 link
-.. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo2.htm
-.. TODO: replace 正命 link
+.. _正命: {filename}samma-ajivo%zh-hant.rst
 
 
 譬如爲樂器調音

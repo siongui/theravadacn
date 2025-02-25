@@ -167,7 +167,11 @@
 
        2. `正志`_ [*samma-sankappo*]
 
-   * - `戒德`_ :small:`[戒]`
+   * - .. raw:: html
+
+          <span id="silaA"></span>
+
+       `戒德`_ :small:`[戒]`
      - 3. `正語`_ [*samma-vaca*]
        4. `正業`_ [*samma-kammanto*]
        5. `正命`_ [*sammma-ajivo*]
@@ -193,8 +197,7 @@
 .. TODO: replace 正語 link
 .. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto2.htm
 .. TODO: replace 正業 link
-.. _正命: http://www.theravadacn.org/Refuge/samma%20ajivo2.htm
-.. TODO: replace 正命 link
+.. _正命: {filename}accesstoinsight/samma-ajivo%zh-hant.rst
 .. _正精進: {filename}accesstoinsight/samma-vayamo%zh-hant.rst
 .. _禪那: {filename}accesstoinsight/jhana%zh-hant.rst
 

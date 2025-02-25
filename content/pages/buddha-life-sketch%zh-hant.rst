@@ -592,8 +592,7 @@
 .. TODO: replace 正語 link
 .. _正業: http://theravadacn.com/Refuge/samma%20kammanto2.htm
 .. TODO: replace 正業 link
-.. _正命: http://theravadacn.com/Refuge/samma%20ajivo2.htm
-.. TODO: replace 正命 link
+.. _正命: {filename}accesstoinsight/samma-ajivo%zh-hant.rst
 .. _正精進: {filename}accesstoinsight/samma-vayamo%zh-hant.rst
 .. _正念: {filename}accesstoinsight/samma-sati%zh-hant.rst
 .. _正定: {filename}accesstoinsight/samma-samadhi%zh-hant.rst
