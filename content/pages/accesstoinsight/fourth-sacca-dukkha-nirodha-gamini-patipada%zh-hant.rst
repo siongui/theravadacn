@@ -57,8 +57,7 @@
 .. TODO: replace 正志 link
 .. _正語: http://www.theravadacn.org/Refuge/samma%20vaca.htm
 .. TODO: replace 正語 link
-.. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto.htm
-.. TODO: replace 正業 link
+.. _正業: {filename}samma-kammanto%zh-hant.rst
 .. _正命: {filename}samma-ajivo%zh-hant.rst
 .. _正精進: {filename}samma-vayamo%zh-hant.rst
 .. _正念: {filename}samma-sati%zh-hant.rst

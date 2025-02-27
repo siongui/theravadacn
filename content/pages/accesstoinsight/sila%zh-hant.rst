@@ -178,6 +178,5 @@ https://www.accesstoinsight.org/ptf/dhamma/sila/index.html
 .. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
 .. TODO: replace 正語 link
-.. _正業: http://www.theravadacn.org/Refuge/samma%20kammanto2.htm
-.. TODO: replace 正業 link
+.. _正業: {filename}samma-kammanto%zh-hant.rst
 .. _正命: {filename}samma-ajivo%zh-hant.rst
