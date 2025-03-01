@@ -193,8 +193,7 @@
 .. TODO: replace 可敬的友誼 link
 .. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo2.htm
 .. TODO: replace 正志 link
-.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
-.. TODO: replace 正語 link
+.. _正語: {filename}accesstoinsight/samma-vaca%zh-hant.rst
 .. _正業: {filename}accesstoinsight/samma-kammanto%zh-hant.rst
 .. _正命: {filename}accesstoinsight/samma-ajivo%zh-hant.rst
 .. _正精進: {filename}accesstoinsight/samma-vayamo%zh-hant.rst

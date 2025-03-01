@@ -119,8 +119,7 @@
 | 　　\ `第四聖諦`_
 
 .. _戒德: {filename}sila%zh-hant.rst
-.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
-.. TODO: replace 正語 link
+.. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正業: {filename}samma-kammanto%zh-hant.rst
 .. _五戒: {filename}sila-panca%zh-hant.rst
 .. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm

@@ -111,8 +111,7 @@
 .. _戒德: {filename}sila%zh-hant.rst
 .. _業: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 業 link
-.. _正語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm
-.. TODO: replace 正語 link
+.. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正命: {filename}samma-ajivo%zh-hant.rst
 .. _五戒: {filename}sila-panca%zh-hant.rst
 .. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm

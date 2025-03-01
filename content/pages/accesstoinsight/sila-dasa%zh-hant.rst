@@ -88,8 +88,7 @@
 
     我接受訓誡，離金銀\ :small:`[不接受錢幣]`\ 。
 
-.. _不正言語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm#incorrectspeech
-.. TODO: replace 不正言語 link
+.. _不正言語: {filename}samma-vaca%zh-hant.rst#incorrectspeech
 
 ----
 

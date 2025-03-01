@@ -80,8 +80,7 @@
 
    我接受訓誡，離高床與奢侈睡具。
 
-.. _不正言語: http://www.theravadacn.org/Refuge/samma%20vaca2.htm#incorrectspeech
-.. TODO: replace 不正言語 link
+.. _不正言語: {filename}samma-vaca%zh-hant.rst#incorrectspeech
 
 ----
 
