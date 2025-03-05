@@ -159,7 +159,11 @@
    * - 分部
      - 聖道八道支
 
-   * - **明辨** :small:`[慧]`
+   * - .. raw:: html
+
+          <span id="pannaA"></span>
+
+       **明辨** :small:`[慧]`
      - 1. `正見`_ [*samma-dithhi*]
 
           - `業`_ [*kamma*]
@@ -191,8 +195,7 @@
 .. TODO: replace 業 link
 .. _可敬的友誼: http://www.theravadacn.org/Refuge/kalyanamittata2.htm
 .. TODO: replace 可敬的友誼 link
-.. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo2.htm
-.. TODO: replace 正志 link
+.. _正志: {filename}accesstoinsight/samma-sankappo%zh-hant.rst
 .. _正語: {filename}accesstoinsight/samma-vaca%zh-hant.rst
 .. _正業: {filename}accesstoinsight/samma-kammanto%zh-hant.rst
 .. _正命: {filename}accesstoinsight/samma-ajivo%zh-hant.rst

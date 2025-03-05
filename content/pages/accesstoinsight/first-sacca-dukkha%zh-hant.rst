@@ -185,8 +185,7 @@
 .. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm
 .. TODO: replace 正見 link
-.. _正志: http://www.theravadacn.org/Refuge/samma%20sankappo.htm
-.. TODO: replace 正志 link
+.. _正志: {filename}samma-sankappo%zh-hant.rst
 .. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正業: {filename}samma-kammanto%zh-hant.rst
 .. _正命: {filename}samma-ajivo%zh-hant.rst
