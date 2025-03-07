@@ -584,8 +584,7 @@
 『比丘們，如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃者——是什麽？正是此\ `八聖道`_\ ：\ `正見`_\ 、\ `正志`_\ 、\ `正語`_\ 、\ `正業`_\ 、\ `正命`_\ 、\ `正精進`_\ 、\ `正念`_\ 、\ `正定`_\ 。比丘們，此爲如來實現的中道——引生見、引生知，趨向寧靜、直覺智、自覺醒、涅槃。
 
 .. _八聖道: {filename}accesstoinsight/fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
-.. _正見: http://theravadacn.com/Refuge/samma%20ditthi2.htm
-.. TODO: replace 正見 link
+.. _正見: {filename}accesstoinsight/samma-ditthi%zh-hant.rst
 .. _正志: {filename}accesstoinsight/samma-sankappo%zh-hant.rst
 .. _正語: {filename}accesstoinsight/samma-vaca%zh-hant.rst
 .. _正業: {filename}accesstoinsight/samma-kammanto%zh-hant.rst

@@ -68,8 +68,7 @@
 
       ——AN X176(增支部)
 
-.. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm
-.. TODO: replace 正見 link
+.. _正見: {filename}samma-ditthi%zh-hant.rst
 .. _佈施: {filename}dana-caga%zh-hant.rst
 .. _善行惡行有果有報: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 善行惡行有果有報 link

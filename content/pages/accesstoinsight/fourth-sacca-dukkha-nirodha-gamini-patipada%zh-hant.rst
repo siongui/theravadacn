@@ -51,8 +51,7 @@
 
       ——SN LVI.11(相應部)
 
-.. _正見: http://www.theravadacn.org/Refuge/samma%20ditthi.htm
-.. TODO: replace 正見 link
+.. _正見: {filename}samma-ditthi%zh-hant.rst
 .. _正志: {filename}samma-sankappo%zh-hant.rst
 .. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正業: {filename}samma-kammanto%zh-hant.rst

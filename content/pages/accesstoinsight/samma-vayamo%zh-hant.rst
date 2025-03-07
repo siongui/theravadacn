@@ -97,8 +97,7 @@
 
       ——MN117(中部)
 
-.. _正見: http://theravadacn.com/Refuge/samma%20ditthi2.htm
-.. TODO: replace 正見 link
+.. _正見: {filename}samma-ditthi%zh-hant.rst
 .. _正志: {filename}samma-sankappo%zh-hant.rst
 .. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正業: {filename}samma-kammanto%zh-hant.rst

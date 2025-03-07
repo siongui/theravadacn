@@ -86,8 +86,7 @@
 
 行者在這“次第訓練”的每一階段，會發現因果法則——即作爲\ `正見`_\ 構造基石的\ `業的原理`_\ ——有一個重要的新維度。因此,這是用來綜觀佛陀教說的一個極其有益的組織構架。
 
-.. _正見: http://theravadacn.com/Refuge/samma%20ditthi2.htm
-.. TODO: replace 正見 link
+.. _正見: {filename}accesstoinsight/samma-ditthi%zh-hant.rst
 .. _業的原理: http://theravadacn.com/Refuge/kamma2.htm
 .. TODO: replace 業的原理 link
 
