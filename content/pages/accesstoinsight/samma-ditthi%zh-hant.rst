@@ -47,6 +47,53 @@
 .. _明辨[慧]分部: {filename}/pages/dhamma-gradual%zh-hant.rst#pannaA
 
 
+定義
+
+.. container:: notification
+
+   “何爲正見? 即\ `苦之智`_\ 、\ `苦集[苦因]之智`_\ 、\ `苦的止息之智`_\ 、\ `苦的止息道之智`_\ : 此謂正見。”
+
+   .. container:: has-text-right
+
+      ——DN22(長部)
+
+.. _苦之智: {filename}first-sacca-dukkha%zh-hant.rst
+.. _苦集[苦因]之智: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
+.. _苦的止息之智: {filename}third-sacca-dukkha-cessation%zh-hant.rst
+.. _苦的止息道之智: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
+
+
+與聖道其它道支的關係
+
+.. container:: notification
+
+   “正見何以先行? 他明辨妄見爲妄見，正見爲正見。此即他的正見。那麼，何爲妄見? ‘無\ `佈施`_\ 、無供養、無奉獻。\ `善業惡業`_\ 無果無報。無此世來世、無父母、無自行輪迴的衆生; 無僧侶行者，藉正行、正修，自知、親證之後，宣說此世來世。’此爲妄見......
+
+   “他努力棄絕妄見、進入正見: 這是他的\ `正精進`_\ 。他念住於棄絕妄見、進入、安住於正見: 這是他的\ `正念`_\ 。因此，這三道支——正見、\ `正精進`_\ 、\ `正念`_\ ——圍繞正見而行。”
+
+   .. container:: has-text-right
+
+      ——MN117(中部)
+
+.. _佈施: {filename}dana-caga%zh-hant.rst
+.. _善業惡業: http://www.theravadacn.org/Refuge/kamma2.htm
+.. TODO: replace 善業惡業 link
+.. _正精進: {filename}samma-vayamo%zh-hant.rst
+.. _正念: {filename}samma-sati%zh-hant.rst
+
+
+妄見的果報……
+
+.. container:: notification
+
+   “持妄見者，生妄志。妄志者，生妄語。妄語者，生妄業。妄業者，生妄命。妄命者，妄精進。妄精進者，生妄念。妄念者，生妄定。妄定者，生妄知。妄知者，妄得解脫。
+
+   “這便是妄見何以引生失敗、無成。”
+
+   .. container:: has-text-right
+
+      ——AN X 103(增支部)
+
 (未完待續)
 
 ----
