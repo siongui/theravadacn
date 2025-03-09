@@ -78,8 +78,6 @@
 .. _佈施: {filename}dana-caga%zh-hant.rst
 .. _善業惡業: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 善業惡業 link
-.. _正精進: {filename}samma-vayamo%zh-hant.rst
-.. _正念: {filename}samma-sati%zh-hant.rst
 
 
 妄見的果報……
@@ -93,6 +91,27 @@
    .. container:: has-text-right
 
       ——AN X 103(增支部)
+
+
+……正見的果報
+
+.. container:: notification
+
+   “當一個人有正見、\ `正志`_\ 、\ `正語`_\ 、\ `正業`_\ 、\ `正命`_\ 、\ `正精進`_\ 、\ `正念`_\ 、\ `正定`_\ 、正知、正解脫時，他隨那個見，凡所行身業……凡所行語業……凡所行意業，凡有動機、凡有決心、凡有造作，皆趨向愉悅、喜樂、適意、福利、幸福。爲什麼? 因爲那個見是吉祥的。”
+
+   “正如一粒甘蔗籽、稻種、葡萄籽種於濕土，凡從水土吸取的一切養分，皆增長其甜味、美味、純味。爲什麼? 因爲那粒種子是吉祥的。同樣地，當一個人有了正志、正語、正業、正命、正精進、正念、正定、正知識、正解脫，他隨那個見，凡所行身業……凡所行語業……凡所行意業，凡有動機、凡有決心、凡有造作，皆趨向愉悅、喜樂、適意、福利、幸福。爲什麼? 因爲那個見是吉祥的。”
+
+   .. container:: has-text-right
+
+      ——AN X 104(增支部)
+
+.. _正志: {filename}samma-sankappo%zh-hant.rst
+.. _正語: {filename}samma-vaca%zh-hant.rst
+.. _正業: {filename}samma-kammanto%zh-hant.rst
+.. _正命: {filename}samma-ajivo%zh-hant.rst
+.. _正精進: {filename}samma-vayamo%zh-hant.rst
+.. _正念: {filename}samma-sati%zh-hant.rst
+.. _正定: {filename}samma-samadhi%zh-hant.rst
 
 (未完待續)
 
