@@ -161,8 +161,7 @@
 
       ——ANIII 65(增支部)
 
-.. _智者: http://www.theravadacn.org/Refuge/kalyanamittata2.htm
-.. TODO: replace 智者 link
+.. _智者: {filename}kalyanamittata%zh-hant.rst
 
 ----
 

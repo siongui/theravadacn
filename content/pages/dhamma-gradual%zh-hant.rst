@@ -192,8 +192,7 @@
 
 .. _業: http://www.theravadacn.org/Refuge/kamma2.htm
 .. TODO: replace 業 link
-.. _可敬的友誼: http://www.theravadacn.org/Refuge/kalyanamittata2.htm
-.. TODO: replace 可敬的友誼 link
+.. _可敬的友誼: {filename}accesstoinsight/kalyanamittata%zh-hant.rst
 .. _正志: {filename}accesstoinsight/samma-sankappo%zh-hant.rst
 .. _正語: {filename}accesstoinsight/samma-vaca%zh-hant.rst
 .. _正業: {filename}accesstoinsight/samma-kammanto%zh-hant.rst
