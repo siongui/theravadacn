@@ -56,6 +56,42 @@
 .. TODO: replace 善業惡業 link
 .. _佈施: {filename}dana-caga%zh-hant.rst
 
+
+培養善巧素質之因
+
+.. container:: notification
+
+   “有關外在因素，對一位正在訓練中、尚未證得\ `心的目標`_\ 、繼續追求解脫束縛這個殊勝安甯的比丘，我未見任何其它一因素，作用之大，如善知識。一位比丘與善知識親近，得以棄絕不善巧素質、培養善巧素質。”
+
+   .. container:: has-text-right
+
+      ——Iti 17 (如是語)
+
+.. _心的目標: {filename}sacca-nibbana%zh-hant.rst
+
+
+仔細選擇同伴
+
+.. container:: notification
+
+   “此爲耗盡財富的四種方式: 墮落於性事、墮落於飲酒、墮落於賭博、與惡人作朋友、夥伴、同伴。正如一座有四個入口、四個出口的大儲水池，有人關閉入口、打開出口、又無天降陣雨，池水只會耗盡，不會上升。同樣，此爲耗盡財富的四種方式: 墮落於性事、墮落於飲酒、墮落於賭博、與惡人作朋友、夥伴、同伴。”
+
+   .. container:: has-text-right
+
+      ——AN VIII54(增支部)
+
+
+覺醒的先決資糧
+
+.. container:: notification
+
+   “其他教派的遊方者若問你:‘朋友，何爲菩提道品\ :small:`[覺醒之翼,三十七菩提分]`\ 的資糧?’ 你應答:‘有此情形，一位比丘有善知識作朋友、夥伴與同志: 這便是培養菩提道品的首要資糧。’”
+
+   .. container:: has-text-right
+
+      ——AN XI.1(增支部)
+
+
 .. _正志: {filename}samma-sankappo%zh-hant.rst
 .. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正業: {filename}samma-kammanto%zh-hant.rst
