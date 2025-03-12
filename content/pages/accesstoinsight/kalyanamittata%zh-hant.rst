@@ -92,6 +92,24 @@
       ——AN XI.1(增支部)
 
 
+聖道修行的全部
+
+.. container:: notification
+
+   阿難尊者坐在一旁時，對世尊說，“世尊，有可敬的友誼、可敬的同伴、可敬的同道，這是聖道修行的一半。”
+
+   “不要那麼說，阿難，不要那麼說。實際上，有可敬的友誼、可敬的同伴、可敬的同道，這是聖道修行的全部。當一位比丘有可敬的人們作朋友、同伴、同志時，他有指望發展與修習\ `八聖道`_\ 。
+
+   “那麼，當一位比丘有可敬的人們作朋友、同伴、同志時，他如何發展與修習八聖道？有此情形，一位比丘藉隱居、藉無欲、藉止息、達到捨棄、培養了\ `正見`_\ 。他依靠隱居、依靠無欲、依靠止息、達到出離、培養了\ `正志`_\ ……\ `正語`_\ ……\ `正業`_\ ……\ `正命`_\ ……\ `正精進`_\ ……\ `正念`_\ ……\ `正定`_\ 。一位比丘有可敬的人們作朋友、同伴、同志，便是這樣發展與修習八聖道。”
+
+   “以這般推理，人們可以了解，有可敬的友誼、可敬的同伴、可敬的同道，如何是修行生活的全部。人們是依靠我，把我當成可敬的朋友，本來走向重生、才從重生中解脫，本來走向衰老、才從衰老中解脫，本來走向死亡、才從從死亡中解脫，本來走向憂、哀、痛、悲、慘，才從憂、哀、痛、悲、慘中\ `解脫`_\ 。以這般推理，人們可以了解，有可敬的友誼、可敬的同伴、可敬的同道，是梵行生活的全部。”
+
+   .. container:: has-text-right
+
+      ——SN XLV 2 (相應部)
+
+.. _八聖道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
+.. _正見: {filename}samma-ditthi%zh-hant.rst
 .. _正志: {filename}samma-sankappo%zh-hant.rst
 .. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正業: {filename}samma-kammanto%zh-hant.rst
@@ -99,9 +117,28 @@
 .. _正精進: {filename}samma-vayamo%zh-hant.rst
 .. _正念: {filename}samma-sati%zh-hant.rst
 .. _正定: {filename}samma-samadhi%zh-hant.rst
-.. _苦: {filename}first-sacca-dukkha%zh-hant.rst
-.. _苦因[集]: {filename}second-sacca-dukkha-samudaya%zh-hant.rst
-.. _苦的止息: {filename}third-sacca-dukkha-cessation%zh-hant.rst
-.. _苦的止息之道: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
+.. _解脫: {filename}sacca-nibbana%zh-hant.rst
+
+
+善知識的益處
+
+.. container:: notification
+
+   “彌吉耶，當一位比丘與可敬的人們作朋友、同伴、同事時，他有指望有戒德，循照波羅提木叉經\ :small:`[戒律]`\ 約束自己、行爲與活動上盡善持守，受戒後視細小過失爲危險，訓練自己。
+
+   “當一位比丘與可敬的人們作朋友、夥伴、同事時，他有指望在聽講時，易得、易悟、無礙; 在談話時，講真正清醒、有利於擴展覺知之事，即談論謙卑、滿足、退隱、無糾纏、勤奮、戒德、定力、明辨、解脫、解脫的知與見。
+
+   “當一位比丘與可敬的人們作朋友、夥伴、同事時，他有指望勤奮精進、棄絕不善巧心理素質、培養善巧心理素質。他穩步、踏實地努力，培養善巧心態時不逃避責任。
+
+   “當一位比丘與可敬的人們作朋友、夥伴、同事時，他有指望作明辨、有明辨生滅的能力——尊貴、透徹、趨向苦的\ `正確止息`_\ 。”
+
+   .. container:: has-text-right
+
+      ——Ud IV.1 (自說經)
+
+.. _正確止息: {filename}sacca-nibbana%zh-hant.rst
+
+
+(未完待續)
 
 .. _Access to Insight: https://www.accesstoinsight.org/
