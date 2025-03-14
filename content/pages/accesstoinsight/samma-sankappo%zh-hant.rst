@@ -70,8 +70,7 @@
 
 .. _正見: {filename}samma-ditthi%zh-hant.rst
 .. _佈施: {filename}dana-caga%zh-hant.rst
-.. _善行惡行有果有報: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 善行惡行有果有報 link
+.. _善行惡行有果有報: {filename}kamma%zh-hant.rst
 
 
 與聖道其它道支的關係

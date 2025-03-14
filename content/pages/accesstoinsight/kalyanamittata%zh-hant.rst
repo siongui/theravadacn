@@ -52,8 +52,7 @@
       ——AN VIII 54 (增支部)
 
 .. _戒德: {filename}sila%zh-hant.rst
-.. _業: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 善業惡業 link
+.. _業: {filename}kamma%zh-hant.rst
 .. _佈施: {filename}dana-caga%zh-hant.rst
 
 

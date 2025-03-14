@@ -76,8 +76,7 @@
       ——MN117(中部)
 
 .. _佈施: {filename}dana-caga%zh-hant.rst
-.. _善業惡業: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 善業惡業 link
+.. _善業惡業: {filename}kamma%zh-hant.rst
 
 
 妄見的果報……

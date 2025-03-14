@@ -115,8 +115,7 @@
 
 .. _天界: http://www.theravadacn.org/Refuge/sagga2.htm
 .. TODO: replace 天界 link
-.. _業: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 業 link
+.. _業: {filename}kamma%zh-hant.rst
 .. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _三十一個生存界: http://www.theravadacn.org/Refuge/31Planes2.htm
 .. TODO: replace 三十一個生存界 link

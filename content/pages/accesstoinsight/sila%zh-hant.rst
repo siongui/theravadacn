@@ -128,8 +128,7 @@
 
       ——AN VIII54(增支部)
 
-.. _業力: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 業力 link
+.. _業力: {filename}kamma%zh-hant.rst
 .. _佈施: {filename}dana-caga%zh-hant.rst
 
 

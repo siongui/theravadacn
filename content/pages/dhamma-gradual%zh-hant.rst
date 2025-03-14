@@ -87,8 +87,7 @@
 行者在這“次第訓練”的每一階段，會發現因果法則——即作爲\ `正見`_\ 構造基石的\ `業的原理`_\ ——有一個重要的新維度。因此,這是用來綜觀佛陀教說的一個極其有益的組織構架。
 
 .. _正見: {filename}accesstoinsight/samma-ditthi%zh-hant.rst
-.. _業的原理: http://theravadacn.com/Refuge/kamma2.htm
-.. TODO: replace 業的原理 link
+.. _業的原理: {filename}accesstoinsight/kamma%zh-hant.rst
 
 該訓練過程起始於\ `佈施`_\ 的修持，如此有助於尚未覺悟的行者啟動一個削弱其執取——對諸種見、感官之欲、非善巧的思維與行爲模式等的執取——的習慣性傾向的漫長過程。接下來是\ `戒德`_\ 的修持，即基本層次的感官約束，有助於行者培養起健康可靠的自我感。由此自尊層次昇起的心平靜，爲修道的一切未來進展鋪設了基礎。行者這時理解了，某些種類的喜樂較之任何感官滿足提供的更爲深刻、可靠；由佈施與戒德引生的喜樂甚至還能在真實或象徵意義上，導致重生\ `天界`_\ 。不過行者最後開始認識到，即使這類喜樂也有其內在\ `過患`_\ ：重生善趣固然好，它所帶來的喜樂卻並非真實長久，因爲它所依賴的條件\ :small:`[依緣]`\ 是他／她最終不能控制的。當行者理解了，真正的喜樂永遠不能在物質與感官世界裡找到時，這就標誌著修練的一個關鍵轉折點。趨向一種非緣起之樂的唯一可行之道，在於\ `出離`_\ ，藉著放棄熟悉、低等的喜樂形式，代之以某種遠爲有益、遠爲尊貴的喜樂，藉此脫離感官域界。最後，行者成熟起來，可以接受\ `四聖諦`_\ 了，該教導闡明的是成就終極喜樂即\ `涅槃`_\ 所必要的修心過程。
 
@@ -190,8 +189,7 @@
 
           - `禪那`_ [jhana]
 
-.. _業: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 業 link
+.. _業: {filename}accesstoinsight/kamma%zh-hant.rst
 .. _可敬的友誼: {filename}accesstoinsight/kalyanamittata%zh-hant.rst
 .. _正志: {filename}accesstoinsight/samma-sankappo%zh-hant.rst
 .. _正語: {filename}accesstoinsight/samma-vaca%zh-hant.rst

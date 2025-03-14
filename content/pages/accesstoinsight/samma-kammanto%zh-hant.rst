@@ -108,8 +108,7 @@
 | 　　\ `第四聖諦`_
 
 .. _戒德: {filename}sila%zh-hant.rst
-.. _業: http://www.theravadacn.org/Refuge/kamma2.htm
-.. TODO: replace 業 link
+.. _業: {filename}kamma%zh-hant.rst
 .. _正語: {filename}samma-vaca%zh-hant.rst
 .. _正命: {filename}samma-ajivo%zh-hant.rst
 .. _五戒: {filename}sila-panca%zh-hant.rst
