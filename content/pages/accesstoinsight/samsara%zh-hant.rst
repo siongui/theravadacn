@@ -57,8 +57,7 @@
 
       ——SNXV.3(相應部)
 
-.. _流轉輪迴: http://theravadacn.com/Refuge/31Planes2.htm
-.. TODO: replace 流轉輪迴 link
+.. _流轉輪迴: {filename}thirty-one-plane%zh-hant.rst
 .. _無明: {filename}avijja%zh-hant.rst
 .. _渴求: {filename}tanha%zh-hant.rst
 
@@ -117,7 +116,6 @@
 .. TODO: replace 天界 link
 .. _業: {filename}kamma%zh-hant.rst
 .. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
-.. _三十一個生存界: http://www.theravadacn.org/Refuge/31Planes2.htm
-.. TODO: replace 三十一個生存界 link
+.. _三十一個生存界: {filename}thirty-one-plane%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

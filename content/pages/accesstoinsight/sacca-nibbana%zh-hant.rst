@@ -225,7 +225,6 @@
 | 　　\ `三十一個生存界`_
 
 .. _第三聖諦: {filename}third-sacca-dukkha-cessation%zh-hant.rst
-.. _三十一個生存界: http://www.theravadacn.org/Refuge/31Planes2.htm
-.. TODO: replace 三十一個生存界 link
+.. _三十一個生存界: {filename}thirty-one-plane%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

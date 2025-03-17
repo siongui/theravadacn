@@ -51,8 +51,7 @@
 
 據說，下一位佛陀名爲\ **彌勒佛**\ (*Maitreya*)，是一位目前居於\ `兜率天`_\ 的\ **菩薩**\ :small:`(譯者注:菩薩在上座部佛教中是一位佛陀在尚未最終證悟之前的稱呼)`\。傳說在遙遠的未來，當前佛陀的教導早已被遺忘之後，他會重生爲人、重新發現四聖諦、再一次教導八聖道。盡管他在一些北傳佛教傳統中具有重要地位，一些信徒們向他祈求良好的重生與救贖，他在上座部佛教傳統中作用不大。他在整個三藏中只提到過一次，在長部26《轉法輪獅子吼經》裡:
 
-.. _兜率天: http://theravadacn.com/Refuge/31Planes.htm
-.. TODO: replace 兜率天 link
+.. _兜率天: {filename}/pages/accesstoinsight/thirty-one-plane%zh-hant.rst
 
 .. container:: notification
 

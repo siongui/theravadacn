@@ -87,5 +87,4 @@ https://www.accesstoinsight.org/lib/authors/bodhi/bps-essay_24.html
 .. _佛教出版社: https://www.bps.lk/
 
 .. _存在於佛陀般涅槃之夜的指稱: {filename}/pages/buddha-life-sketch%zh-hant.rst#arahat
-.. _天界與梵天界: http://www.theravadacn.org/Refuge/31Planes2.htm
-.. TODO: replace 天界與梵天界 link
+.. _天界與梵天界: {filename}/pages/accesstoinsight/thirty-one-plane%zh-hant.rst

@@ -137,8 +137,7 @@
 .. _八戒: {filename}accesstoinsight/sila-attha%zh-hant.rst
 .. _十戒: {filename}accesstoinsight/sila-dasa%zh-hant.rst
 .. _持守布薩日: {filename}accesstoinsight/uposatha-observance-days%zh-hant.rst
-.. _三十一个生存域: http://www.theravadacn.org/Refuge/31Planes2.htm
-.. TODO: replace 三十一个生存域 link
+.. _三十一个生存域: {filename}accesstoinsight/thirty-one-plane%zh-hant.rst
 .. _苦聖諦: {filename}accesstoinsight/first-sacca-dukkha%zh-hant.rst
 .. _苦: {filename}accesstoinsight/dukkha%zh-hant.rst
 .. _輪迴: {filename}accesstoinsight/samsara%zh-hant.rst
