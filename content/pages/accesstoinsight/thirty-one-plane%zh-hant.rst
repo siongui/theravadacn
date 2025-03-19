@@ -134,6 +134,208 @@
 
 **II. 色界 (rupa-loka)**
 
+.. raw:: html
+
+  <table cellspacing="2" cellpadding="1" border="1" dir="ltr">
+  <tbody><tr>
+    <th align="left" dir="ltr" width="50%">
+    <p align="center" dir="ltr">
+    <font face="SimHei">域處</font></p></th>
+    <th dir="ltr" width="30%">
+    <p dir="ltr">
+    <font face="SimHei">評論</font></p></th>
+    <th width="20%" dir="ltr">
+    <p dir="ltr">
+    <font face="SimHei">重生此域之業因</font></p></th>
+  </tr>
+
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">
+    (<a id="plane27" name="plane27">27</a>)<font face="SimHei">色究竟天</font>Peerless devas
+    <i>(akanittha deva)</i></p></td>
+    <td align="left" rowspan="5" dir="ltr" width="30%">
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
+    這五個淨居天只能由不還者與阿羅漢達到。在別處修成不還者的生靈在此重生，在此證得阿羅漢。<br>
+    <br>
+    此處居者之一爲梵天沙巷婆提<font size="2">[娑婆世界主梵天]</font>，是他請求佛陀傳法於世。(SN VI.1).</p></td>
+    <td align="left" rowspan="7" dir="ltr" width="20%">
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
+
+`第四禪那 <{filename}jhana%zh-hant.rst#jhana4>`_
+
+See, for example, AN 4.123.
+
+.. raw:: html
+
+  </tr>
+
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">
+    (<a id="plane26" name="plane26">26</a>)<font face="SimHei">善見天</font>Clear-sighted devas
+    <i>(sudassi deva)</i></p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane25" name="plane25">25</a>)<font face="SimHei">善現天</font>Beautiful devas
+    <i>(sudassa deva)</i></p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane24" name="plane24">24</a>)<font face="SimHei">無熱天</font>Untroubled devas
+    <i>(atappa deva)</i></p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane23" name="plane23">23</a>)<font face="SimHei">無煩天</font>Devas not Falling Away
+    <i>(aviha deva)</i></p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane22" name="plane22">22</a>)<font face="SimHei">無想有情天</font>Unconscious beings
+    <i>(asaññasatta)</i></p></td>
+    <td align="left" dir="ltr" width="30%">
+    <p align="left" dir="ltr">
+    僅有色身，卻無心智。</p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane21" name="plane21">21</a>)<font face="SimHei">廣果天</font>Very Fruitful devas
+    <i>(vehapphala deva)</i></p></td>
+    <td align="left" rowspan="7" dir="ltr" width="30%">
+    <p dir="ltr">
+
+此域諸天享受著程度不一的\ `禪那`_\ 之喜。
+
+.. _禪那: {filename}jhana%zh-hant.rst
+
+.. raw:: html
+
+  </p></td>
+  </tr>
+
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane20" name="plane20">20</a>)<font face="SimHei">遍淨天</font>Devas of Refulgent Glory
+    <i>(subhakinna deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+
+`第三禪那 <{filename}jhana%zh-hant.rst#jhana3>`_\(最高程度)
+
+.. raw:: html
+
+  </p></td>
+  </tr>
+
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane19" name="plane19">19</a>)<font face="SimHei">無量淨天</font>Devas of Unbounded Glory
+    <i>(appamanasubha deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+    第三禪那(中等程度)</p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane18" name="plane18">18</a>)<font face="SimHei">少淨天</font>Devas of Limited Glory
+    <i>(parittasubha deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+    第三禪那(低等程度)</p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane17" name="plane17">17</a>)<font face="SimHei">光音天</font> Devas of Streaming Radiance
+    <i>(abhassara deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+
+`第二禪那 <{filename}jhana%zh-hant.rst#jhana2>`_\(最高程度)
+
+See, for example, AN 4.123.
+
+.. raw:: html
+
+  </p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane16" name="plane16">16</a>)<font face="SimHei">無量光天</font>Devas of Unbounded Radiance
+    <i>(appamanabha deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+    第二禪那(中等程度)</p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane15" name="plane15">15</a>)<font face="SimHei">少光天</font> Devas of Limited Radiance
+    <i>(parittabha deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+    第二禪那(低等程度) </p></td>
+  </tr>
+
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">
+    (<a id="plane14" name="plane14">14</a>)<font face="SimHei">大梵天</font> Great Brahmas
+    <i>(Maha brahma)</i></p></td>
+    <td align="left" dir="ltr" width="30%">
+    <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
+
+此域最著名的居者中有一位\ `大梵天`_\ ，這位天神幻想自己是宇宙間無所不見、無所不能者(DN 11)。
+
+.. _大梵天: http://www.theravadacn.org/Refuge/sagga.htm#GreatBrahma
+.. TODO: replace 大梵天 link
+
+.. raw:: html
+
+  </p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+
+`第一禪那 <{filename}jhana%zh-hant.rst#jhana1>`_\(最高程度)
+
+.. raw:: html
+
+  </p></td>
+  </tr>
+
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane13" name="plane13">13</a>)<font face="SimHei">梵輔天</font>Ministers of Brahma
+    <i>(brahma-purohita deva)</i></p></td>
+    <td align="left" rowspan="2" dir="ltr" width="30%">
+    <p>
+
+此域諸天享受著程度不一的\ `禪那`_\ 之喜。
+
+.. raw:: html
+
+  </p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+    第一禪那(中等程度)</p></td>
+  </tr>
+  <tr>
+    <td align="left" dir="ltr" width="50%">
+    <p dir="ltr">(<a id="plane12" name="plane12">12</a>)<font face="SimHei">梵衆天</font>Retinue of Brahma
+    <i>(brahma-parisajja deva)</i></p></td>
+    <td align="left" dir="ltr" width="20%">
+    <p dir="ltr">
+    第一禪那(低等程度)<br>See, for example, AN 4.123.</p></td>
+  </tr>
+  </tbody></table>
+
+----
+
+.. _kama:
+
+**III. 欲界 (kama-loka)**
+
+
 
 (未完待續)
 
