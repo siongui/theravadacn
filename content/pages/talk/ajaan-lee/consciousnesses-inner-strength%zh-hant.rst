@@ -180,6 +180,4 @@
 ----
 
 | 相關連接:
-| `《非我相經》 <http://www.theravadacn.org/Sutta/Anatta_lakkhana.htm>`_
-
-.. TODO: replace 《非我相經》 link
+| `《非我相經》 <{filename}/pages/sutta/anatta-lakkhana%zh-hant.rst>`_

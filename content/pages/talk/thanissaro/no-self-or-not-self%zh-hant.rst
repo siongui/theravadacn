@@ -98,10 +98,6 @@
 | `佛陀對有我無我之問的應對`_
 | https://www.accesstoinsight.org/lib/authors/thanissaro/notself2.html
 
-.. _非我相經: http://www.theravadacn.org/Sutta/Anatta_lakkhana.htm
-.. _佛陀對有我無我之問的應對: http://www.theravadacn.org/Sutta/passages.htm#self
-.. _只有一處: http://www.theravadacn.org/Sutta/passages.htm#self
-
-.. TODO: replace 《非我相經》 link
-.. TODO: replace 佛陀對有我無我之問的應對 link
-.. TODO: replace 只有一處 link
+.. _非我相經: {filename}/pages/sutta/anatta-lakkhana%zh-hant.rst
+.. _佛陀對有我無我之問的應對: {filename}/pages/sutta/passage-selected-translation%zh-hant.rst#self
+.. _只有一處: {filename}/pages/sutta/passage-selected-translation%zh-hant.rst#self

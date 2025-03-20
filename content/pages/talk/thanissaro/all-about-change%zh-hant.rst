@@ -120,8 +120,5 @@
 坦尼沙羅尊者《 `三辨識`_ 》
 《 `非我相經`_ 》
 
-.. _三辨識: http://www.theravadacn.org/Author/ThanissaroThreePerceptions.htm
-.. _非我相經: http://www.theravadacn.org/Sutta/Anatta_lakkhana.htm
-
-.. TODO: replace 《三辨識》 link
-.. TODO: replace 《非我相經》 link
+.. _三辨識: {filename}three-perceptions%zh-hant.rst
+.. _非我相經: {filename}/pages/sutta/anatta-lakkhana%zh-hant.rst
