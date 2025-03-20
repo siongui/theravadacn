@@ -92,10 +92,8 @@
 ----
 
 | 相關連接:
-| `四梵住經文 <http://www.theravadacn.org/Sutta/passages.htm#brahma%20vihara>`_
+| `四梵住經文 <{filename}/pages/sutta/passage-selected-translation%zh-hant.rst#brahma-vihara>`_
 | `坦尼沙羅尊者: 四梵住 <{filename}/pages/talk/thanissaro/the-sublime-attitudes%zh-hant.rst>`_
-
-.. TODO: replace 四梵住經文 link
 
 https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel006.html#intro
 
