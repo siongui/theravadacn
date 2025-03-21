@@ -132,8 +132,7 @@
 
 當你想擺脫某個不善巧或不健康的陋習時，不能只看它的過患。還必須觀察，直到你看清楚: 自己從中得到的即刻便利是什麼。假若你看不見那個便利，你不會領悟。如果不領悟，你不能超越它。
 
-.. _正如佛陀所說: http://www.theravadacn.org/Sutta/passages.htm#panna
-.. TODO: replace 正如佛陀所說 link
+.. _正如佛陀所說: {filename}/pages/sutta/passage-selected-translation%zh-hant.rst#panna
 
 ----
 
@@ -265,8 +264,7 @@
 
 還有，對那些在你還未充分了解他們之前堅持要你作出終身承諾的導師，要謹慎。 (相關連接: `經文選讀——如何判斷導師`_)
 
-.. _經文選讀——如何判斷導師: http://www.theravadacn.org/Sutta/passages.htm#teacher
-.. TODO: replace 經文選讀——如何判斷導師 link
+.. _經文選讀——如何判斷導師: {filename}/pages/sutta/passage-selected-translation%zh-hant.rst#teacher
 
 ----
 
