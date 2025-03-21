@@ -378,7 +378,10 @@ See, for example, AN 4.123.
 
 - `十善業 <{filename}/pages/sutta/passage-selected-translation%zh-hant.rst#ten>`_
 - `布施 <{filename}dana-caga%zh-hant.rst>`_
-- 培養\ `戒德 <{filename}sila%zh-hant.rst>`_\ 與\ `智慧 <{filename}samma-ditthi%zh-hant.rst>`_\ (AN X.177)
+- 培養\ `戒德`_\ 與\ `智慧`_\ (AN X.177)
+
+.. _戒德: {filename}sila%zh-hant.rst
+.. _智慧: {filename}samma-ditthi%zh-hant.rst
 
 .. raw:: html
 
@@ -400,7 +403,11 @@ See, for example, AN 4.123.
     <i>(tusita deva)</i></p></td>
     <td align="left" width="30%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    純粹的喜悅與歡快之地。菩薩們在最後一次投生人界前即住於此。據說這裡住著未來佛——<a href="../Beginner/PrivateBuddha2.htm">彌勒菩薩</a>。<br>
+
+純粹的喜悅與歡快之地。菩薩們在最後一次投生人界前即住於此。據說這裡住著未來佛——\ `彌勒菩薩 <{filename}/pages/beginner/pacceka-buddha%zh-hant.rst>`_\ 。
+
+.. raw:: html
+
    </p></td>
   </tr>
 
@@ -445,14 +452,19 @@ See, for example, AN 4.123.
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
     <font face="SimHei">你目前在此地</font>
     。重生爲人極其難得
-    (SN LVI.48)，也極其寶貴，因爲此界裡喜與苦的獨特平衡有助於培養從整個輪回中解脫的戒德與智慧(SN XXXV.135)。
+    (SN LVI.48)，也極其寶貴，因爲此界裡喜與苦的獨特平衡有助於培養從整個輪迴中解脫的戒德與智慧(SN XXXV.135)。
     </p></td>
 
 
     <td align="left" width="20%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    ° 培養<a href="Sila2.htm">戒德與</a><a href="samma%20ditthi2.htm">智慧</a>。(ANX.177) <br>
-    °得入流果會保證所有未來重生至少爲人或者更高。</p></td>
+
+- 培養\ `戒德`_\ 與\ `智慧`_\ (AN X.177)
+- 得入流果會保證所有未來重生至少爲人或者更高。
+
+.. raw:: html
+
+  </p></td>
   </tr>
 
   <tr>
@@ -473,7 +485,7 @@ See, for example, AN 4.123.
     </p></td>
     <td align="left" width="20%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    °十不善業 (MN10)</p></td>
+    °十不善業 (MN 10)</p></td>
   </tr>
   <tr>
     <td align="left" width="40%" dir="ltr">
@@ -482,13 +494,19 @@ See, for example, AN 4.123.
     <i>(peta loka)</i></p></td>
     <td align="left" width="30%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    鬼與不樂精靈們，毫無希望地在此域遊蕩，尋找不可得的感官滿足。<br>
-    <a href="http://accesstoinsight.org/lib/thai/lee/knowledge.html#shades">Read Ajaan Lee's colorful description of this realm</a>.</p></td>
+
+鬼與不樂精靈們，毫無希望地在此域遊蕩，尋找不可得的感官滿足。
+
+`Read Ajaan Lee's colorful description of this realm <https://accesstoinsight.org/lib/thai/lee/knowledge.html#shades>`_.
+
+.. raw:: html
+
+    </p></td>
 
     <td align="left" width="20%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    °十不善業(MN10) <br>
-    °缺少戒德、執取妄見(ANX.177)</p></td>
+    °十不善業(MN 10) <br><br>
+    °缺少戒德、執取妄見(AN X.177)</p></td>
   </tr>
 
 
@@ -506,9 +524,9 @@ See, for example, AN 4.123.
 
     <td align="left" width="20%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    °十不善業(MN10) <br>
-    °缺少戒德、執取妄見。不過，如果此人對比丘與比丘尼作過佈施，也許重生爲“裝飾性動物” (例如，羽毛美麗的鳥、紋理可觀的馬。AN X.177).<br>
-    °“行為如動物”(MN57)</p></td>
+    °十不善業(MN 10) <br><br>
+    °缺少戒德、執取妄見。不過，如果此人對比丘與比丘尼作過佈施，也許重生爲“裝飾性動物” (例如，羽毛美麗的鳥、紋理可觀的馬。AN X.177).<br><br>
+    °“行為如動物”(MN 57)</p></td>
   </tr>
 
   <tr>
@@ -523,10 +541,10 @@ See, for example, AN 4.123.
 
     <td align="left" width="20%" dir="ltr">
     <p style="line-height: 150%; margin-top: 0; margin-bottom: 0" dir="ltr">
-    °十不善業(MN10) <br>
-    °缺少戒德、執取妄見。(ANX.177)<br>
-    °殺父母、殺阿羅漢、傷害佛陀、制造僧伽分裂。(ANV.129)<nt>
-    °好爭執、惹人厭。(SnpII.6)</nt></p></td>
+    °十不善業(MN 10) <br><br>
+    °缺少戒德、執取妄見。(AN X.177)<br><br>
+    °殺父母、殺阿羅漢、傷害佛陀、製造僧伽分裂。(AN V.129)<br><br>
+    °好爭執、惹人厭。(Snp II.6)</p></td>
   </tr>
   </tbody></table>
 
