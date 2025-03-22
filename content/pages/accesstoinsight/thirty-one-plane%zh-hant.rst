@@ -548,7 +548,17 @@ See, for example, AN 4.123.
   </tr>
   </tbody></table>
 
-(未完待續)
+
+|
+| 來源:
+| ►《佛教辭典》，編者三界智長老(Kandy: Buddhist Publication Society,1980)
+| ►《佛教史導論》(第四版)，作者 R.H.羅賓遜; W.L.約翰遜(Belmont, California: Wadsworth, 1997)
+| ►《長部》(引言)，譯者莫里斯-沃石(Boston: Wisdom Publications, 1987)
+| ►《阿毗達摩手冊》，編者那爛陀長老(Kuala Lumpur: Buddhist Missionary Society, 1979)
+| ►《中部》(引言)，譯者年那摩利比丘、菩提比丘(Boston: Wisdom Publications, 1995)
+| ►《天人之師》，作者蘇珊-E-朱勒(Kandy: Buddhist Publication Society, 1997)
+| ►《三界》(掛圖)，編者阿嘉羅-蘇瓦諾尊者
+|
 
 
 .. [1] 中譯注: 此處arupa和下文的rupa,英文原文分別是immaterial和fine material,直譯分別是: 非物質界和精致的物質界.坦尼沙羅尊者譯作:formless和form: 無體形和有體形(form即shape,視覺可見的外形或輪廓).
