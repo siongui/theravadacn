@@ -300,8 +300,7 @@ http://www.bswa.org/modules/icontent/index.php?page=67
 
    ——《答佛教雜志讀者問》
 
-.. _該教導來自一部經(增支部10\:177): http://www.theravadacn.org/Sutta/StudyGuidePunna2.htm#offer
-.. TODO: replace 該教導來自一部經(增支部10:177) link
+.. _該教導來自一部經(增支部10\:177): {filename}sutta/merit-a-study-guide%zh-hant.rst#offer
 
 ----
 
