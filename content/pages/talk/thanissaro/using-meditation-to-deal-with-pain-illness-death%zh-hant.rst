@@ -144,8 +144,6 @@
 ----
 
 相關連接:
-`面臨病痛與死亡文選 <http://www.theravadacn.org/GilanaIndex.htm>`_
-
-.. TODO: replace 面臨病痛與死亡文選 link
+`面臨病痛與死亡文選 <{filename}/pages/gilana-index%zh-hant.rst>`_
 
 https://www.accesstoinsight.org/lib/authors/thanissaro/painhelp.html

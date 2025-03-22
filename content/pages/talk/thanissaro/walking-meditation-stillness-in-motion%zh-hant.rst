@@ -98,8 +98,7 @@
 
 記得那部有關\ `禮敬定[奢摩他]的偈誦`_\ 。它不僅適用於坐禪的定，也適用於作為定學基本技能的行禪。正如佛陀所說，對這些修練培育禮敬感，會把你置於涅槃的面前。
 
-.. _禮敬定[奢摩他]的偈誦: http://www.theravadacn.org/Chanting/Verses.htm#respect
-.. TODO: replace 禮敬定[奢摩他]的偈誦 link
+.. _禮敬定[奢摩他]的偈誦: {filename}/pages/chanting/pali-chanting-verse%zh-hant.rst#respect
 
 中譯註:
 
