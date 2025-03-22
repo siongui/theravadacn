@@ -146,8 +146,7 @@
 
       ——MN118(中部)
 
-.. _贈一件小禮: http://www.theravadacn.org/Refuge/Dana_caga2.htm
-.. TODO: replace 贈一件小禮 link
+.. _贈一件小禮: {filename}accesstoinsight/dana-caga%zh-hant.rst
 
 ----
 

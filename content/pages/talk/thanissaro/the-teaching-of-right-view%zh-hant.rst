@@ -159,6 +159,6 @@
 ----
 
 相關連接:
-次第說法: `正見 <http://www.theravadacn.org/Refuge/samma%20ditthi.htm>`_
+次第說法: `正見 <{filename}/pages/accesstoinsight/samma-ditthi%zh-hant.rst>`_
 
 https://www.accesstoinsight.org/lib/authors/thanissaro/refuge.html
