@@ -130,6 +130,5 @@
 
 | 相關連接:
 | `菩提比丘在聯合國首次衛塞節典禮上的發言 <{filename}/pages/author/bhikkhu-bodhi/the-buddha-and-his-message%zh-hant.rst>`_
-| `布薩日 <http://www.theravadacn.org/Refuge/Uposatha.htm>`_
+| `布薩日 <{filename}/pages/accesstoinsight/uposatha-observance-days%zh-hant.rst>`_
 
-.. TODO: replace 布薩日 link
