@@ -64,11 +64,9 @@
      - 對那些為了尋求智力或情感的滿足而接近佛法的人，它不可避免地以雙重面貌存在，其中之一必然始終是個難題。但如果我們做好準備，以佛法本身指定的態度，把它作為滅苦之道，則絲毫不存在雙面形式。相反，我們看見的是法的單一面貌，它從起始便這般存在，如一切面貌，皆顯現互補的兩個側面。
 
 | 相關連接：
-| `坦尼沙羅尊者: 信仰與覺醒 <http://www.theravadacn.org/Author/ThanissaroFaith.htm>`_
+| `坦尼沙羅尊者: 信仰與覺醒 <{filename}/pages/talk/thanissaro/faith-in-awakening%zh-hant.rst>`_
 | `坦尼沙羅尊者: 開啟佛法之門 ——禮敬在佛教思維與修證中的作用 <{filename}/pages/talk/thanissaro/opening-the-door-to-the-dhamma%zh-hant.rst>`_
 
 https://accesstoinsight.org/lib/authors/bodhi/bps-essay_02.html
-
-.. TODO: replace 坦尼沙羅尊者: 信仰與覺醒 link
 
 .. _佛教出版社: https://www.bps.lk/
