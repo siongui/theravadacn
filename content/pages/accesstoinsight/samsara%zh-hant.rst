@@ -112,8 +112,7 @@
 | 　　\ `第四聖諦`_
 | 　　\ `三十一個生存界`_
 
-.. _天界: http://www.theravadacn.org/Refuge/sagga2.htm
-.. TODO: replace 天界 link
+.. _天界: {filename}sagga%zh-hant.rst
 .. _業: {filename}kamma%zh-hant.rst
 .. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 .. _三十一個生存界: {filename}thirty-one-plane%zh-hant.rst

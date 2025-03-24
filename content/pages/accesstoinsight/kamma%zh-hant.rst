@@ -146,8 +146,7 @@
 
       ——AN V43(增支部)
 
-.. _天界: http://www.theravadacn.org/Refuge/sagga2.htm
-.. TODO: replace 天界 link
+.. _天界: {filename}sagga%zh-hant.rst
 
 
 .. raw:: html

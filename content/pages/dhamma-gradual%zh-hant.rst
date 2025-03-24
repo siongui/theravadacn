@@ -74,8 +74,7 @@
 
 .. _佈施: {filename}/pages/accesstoinsight/dana-caga%zh-hant.rst
 .. _戒德: {filename}accesstoinsight/sila%zh-hant.rst
-.. _天界: http://theravadacn.com/Refuge/sagga2.htm
-.. TODO: replace 天界 link
+.. _天界: {filename}accesstoinsight/sagga%zh-hant.rst
 .. _過患: http://theravadacn.com/Refuge/adinava2.htm
 .. TODO: replace 過患 link
 .. _出離: http://theravadacn.com/Refuge/nekkhamma2.htm

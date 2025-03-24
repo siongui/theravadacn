@@ -765,8 +765,7 @@
 | 此生如此短暫，
 | 身壞命終時有明辨，往\ `天界`_\ 重生。
 
-.. _天界: http://theravadacn.com/Refuge/sagga2.htm
-.. TODO: replace 天界 link
+.. _天界: {filename}accesstoinsight/sagga%zh-hant.rst
 
 .. container:: has-text-right
 

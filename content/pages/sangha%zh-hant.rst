@@ -89,8 +89,7 @@
 
       ——MN118  (中部)
 
-.. _淨居天: http://www.theravadacn.org/Refuge/Sagga2.htm
-.. TODO: replace 淨居天 link
+.. _淨居天: {filename}accesstoinsight/sagga%zh-hant.rst
 
 ----
 

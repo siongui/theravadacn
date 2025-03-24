@@ -57,8 +57,7 @@
 .. _無色界: #arupa
 .. _色界: #rupa
 .. _禪那: {filename}jhana%zh-hant.rst
-.. _天界: http://www.theravadacn.org/Refuge/sagga2.htm
-.. TODO: replace 天界 link
+.. _天界: {filename}sagga%zh-hant.rst
 .. _欲界: #kama
 
 爭論這些域界是真實存在或僅是一些描述此生體驗的諸樣心態的奇特比喻，是無意義的。該宇宙觀的訊息在此: 除非採取步驟，突破業力的鐵爪，我們注定會毫無目標地從一個狀態遊蕩到另一個狀態，遠離真正的寧靜與滿足。佛陀的革命性發現，在於他找到了解脫之道: `八聖道`_\ ，以此爲工具，使我們永遠逃脫這種令人厭倦的遊蕩，獲得\ `真正不可動搖的自由`_\ 。
@@ -287,8 +286,7 @@ See, for example, AN 4.123.
 
 此域最著名的居者中有一位\ `大梵天`_\ ，這位天神幻想自己是宇宙間無所不見、無所不能者(DN 11)。
 
-.. _大梵天: http://www.theravadacn.org/Refuge/sagga.htm#GreatBrahma
-.. TODO: replace 大梵天 link
+.. _大梵天: {filename}sagga%zh-hant.rst#greatbrahma
 
 .. raw:: html
 
