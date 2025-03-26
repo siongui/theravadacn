@@ -150,8 +150,7 @@
 
 .. _正念: {filename}samma-sati%zh-hant.rst
 .. _正定: {filename}samma-samadhi%zh-hant.rst
-.. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
-.. TODO: replace 四聖諦 link
+.. _四聖諦: {filename}cattari-ariya-saccani%zh-hant.rst
 .. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

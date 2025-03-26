@@ -68,8 +68,7 @@
 
       ——AN V57(增支部)
 
-.. _聖道: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani.htm
-.. TODO: replace 聖道 link
+.. _聖道: {filename}cattari-ariya-saccani%zh-hant.rst
 
 
 應當了解、懂得業

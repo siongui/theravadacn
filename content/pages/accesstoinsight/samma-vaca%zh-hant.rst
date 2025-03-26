@@ -272,8 +272,7 @@
 .. _正業: {filename}samma-kammanto%zh-hant.rst
 .. _正命: {filename}samma-ajivo%zh-hant.rst
 .. _五戒: {filename}sila-panca%zh-hant.rst
-.. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
-.. TODO: replace 四聖諦 link
+.. _四聖諦: {filename}cattari-ariya-saccani%zh-hant.rst
 .. _第四聖諦: {filename}fourth-sacca-dukkha-nirodha-gamini-patipada%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/

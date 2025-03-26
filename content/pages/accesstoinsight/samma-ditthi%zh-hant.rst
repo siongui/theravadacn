@@ -168,8 +168,7 @@
 | 　　\ `四聖諦`_
 | 　　\ `坦尼沙羅尊者: 正見`_
 
-.. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
-.. TODO: replace 四聖諦 link
+.. _四聖諦: {filename}cattari-ariya-saccani%zh-hant.rst
 .. _坦尼沙羅尊者\: 正見: http://theravadacn.com/Author/ThanissaroRightView2.htm
 .. TODO: replace 坦尼沙羅尊者: 正見 link
 

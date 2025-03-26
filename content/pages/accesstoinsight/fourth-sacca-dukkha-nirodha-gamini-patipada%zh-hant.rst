@@ -130,8 +130,7 @@
 | 　　\ `四聖諦`_
 | 　　\ `第三聖諦`_
 
-.. _四聖諦: http://www.theravadacn.org/Refuge/cattari%20ariya%20saccani2.htm
-.. TODO: replace 四聖諦 link
+.. _四聖諦: {filename}cattari-ariya-saccani%zh-hant.rst
 .. _第三聖諦: {filename}third-sacca-dukkha-cessation%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/
