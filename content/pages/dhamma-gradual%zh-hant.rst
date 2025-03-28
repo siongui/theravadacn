@@ -75,8 +75,7 @@
 .. _佈施: {filename}/pages/accesstoinsight/dana-caga%zh-hant.rst
 .. _戒德: {filename}accesstoinsight/sila%zh-hant.rst
 .. _天界: {filename}accesstoinsight/sagga%zh-hant.rst
-.. _過患: http://theravadacn.com/Refuge/adinava2.htm
-.. TODO: replace 過患 link
+.. _過患: {filename}accesstoinsight/adinava%zh-hant.rst
 .. _出離: http://theravadacn.com/Refuge/nekkhamma2.htm
 .. TODO: replace 出離 link
 .. _苦、苦因、苦的止息、與苦的止息之道: {filename}accesstoinsight/cattari-ariya-saccani%zh-hant.rst

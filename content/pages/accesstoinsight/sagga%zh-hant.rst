@@ -47,8 +47,7 @@
 .. _佛教宇宙觀: {filename}thirty-one-plane%zh-hant.rst
 .. _業: {filename}kamma%zh-hant.rst
 .. _輪迴: {filename}samsara%zh-hant.rst
-.. _終極過患: http://theravadacn.com/Refuge/adinava2.htm
-.. TODO: replace 終極過患 link
+.. _終極過患: {filename}adinava%zh-hant.rst
 
 
 稀有的重生

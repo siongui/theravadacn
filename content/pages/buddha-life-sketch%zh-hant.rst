@@ -777,8 +777,7 @@
 
 『有此情形，某人自己不離衰老，意識到不離衰老的\ `過患`_\ ，去尋求那遠離軛制、不老、無上的安穩——\ `涅槃`_\ :small:`(解脫)`\ 。他自己不離疾病，意識到不離疾病的過患，去尋求那遠離軛制、無病的無上安穩——涅槃。他自己不離死亡，意識到不離死亡的過患，去尋求那遠離軛制、不死、無上的安穩——涅槃。他自己不離雜染，意識到不離雜染的過患，去尋求那遠離轭制、無染、無上的安穩——涅槃。』
 
-.. _過患: http://theravadacn.com/Refuge/adinava2.htm
-.. TODO: replace 過患 link
+.. _過患: {filename}accesstoinsight/adinava%zh-hant.rst
 .. _涅槃: {filename}accesstoinsight/sacca-nibbana%zh-hant.rst
 
 .. container:: has-text-right
