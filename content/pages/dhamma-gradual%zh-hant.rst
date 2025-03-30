@@ -76,8 +76,7 @@
 .. _戒德: {filename}accesstoinsight/sila%zh-hant.rst
 .. _天界: {filename}accesstoinsight/sagga%zh-hant.rst
 .. _過患: {filename}accesstoinsight/adinava%zh-hant.rst
-.. _出離: http://theravadacn.com/Refuge/nekkhamma2.htm
-.. TODO: replace 出離 link
+.. _出離: {filename}accesstoinsight/nekkhamma%zh-hant.rst
 .. _苦、苦因、苦的止息、與苦的止息之道: {filename}accesstoinsight/cattari-ariya-saccani%zh-hant.rst
 .. _麻瘋病者: {filename}sutta/kutthi%zh-hant.rst
 

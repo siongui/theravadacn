@@ -790,8 +790,7 @@
 
 『看見了感官之樂的過患後，我探索該主題; 在理解了\ `出離`_\ 的果報後，我使自己熟悉它。我的心急於出離，視出離爲寧靜，趨向自信、穩步、堅定。接下來，遠離感官之欲、遠離不善巧的心態，我進入、安住於第一禪那: 從遠離中升起了喜與樂，伴隨著尋想與評量。』
 
-.. _出離: http://theravadacn.com/Refuge/nekkhamma2.htm
-.. TODO: replace 出離 link
+.. _出離: {filename}accesstoinsight/nekkhamma%zh-hant.rst
 
 .. container:: has-text-right
 
