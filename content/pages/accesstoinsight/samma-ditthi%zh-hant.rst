@@ -169,7 +169,6 @@
 | 　　\ `坦尼沙羅尊者: 正見`_
 
 .. _四聖諦: {filename}cattari-ariya-saccani%zh-hant.rst
-.. _坦尼沙羅尊者\: 正見: http://theravadacn.com/Author/ThanissaroRightView2.htm
-.. TODO: replace 坦尼沙羅尊者: 正見 link
+.. _坦尼沙羅尊者\: 正見: {filename}/pages/talk/thanissaro/the-teaching-of-right-view%zh-hant.rst
 
 .. _Access to Insight: https://www.accesstoinsight.org/
