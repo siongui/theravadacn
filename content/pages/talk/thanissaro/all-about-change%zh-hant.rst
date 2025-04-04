@@ -117,8 +117,8 @@
 
 相關連接:
 
-坦尼沙羅尊者《 `三辨識`_ 》
+坦尼沙羅尊者《 `三認知`_ 》
 《 `非我相經`_ 》
 
-.. _三辨識: {filename}three-perceptions%zh-hant.rst
+.. _三認知: {filename}three-perceptions%zh-hant.rst
 .. _非我相經: {filename}/pages/sutta/anatta-lakkhana%zh-hant.rst
