@@ -448,6 +448,7 @@
 - `靜音並非必要: 禪那中的官感認知 <{filename}thanissaro/silence-is-not-mandatory%zh-hant.rst>`_
 - `禪那與正定 <{filename}thanissaro/jhaana-and-right-concentration%zh-hant.rst>`_
 - `趣味遊戲 <{filename}thanissaro/fun-and-games%zh-hant.rst>`_
+- `慈心的算法 <{filename}thanissaro/metta-math%zh-hant.rst>`_
 
 .. raw:: html
 
