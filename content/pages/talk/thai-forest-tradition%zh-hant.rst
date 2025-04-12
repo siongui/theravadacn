@@ -144,7 +144,9 @@
    <div class="columns">
      <div class="column is-narrow">
 
-缺
+
+.. image:: {static}/extra/talk/AjaanKhamdee-sm.jpeg
+   :alt: 阿姜康地
 
 ..
    .. image:: http://www.dhammadelaforet.org/sommaire/khamdee/img.png
